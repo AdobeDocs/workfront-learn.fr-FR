@@ -1,0 +1,32 @@
+---
+title: Présentation de l’administration
+description: Découvrez comment basculer entre différentes organisations ou équipes et ajouter des utilisateurs au système dans [!DNL Adobe Workfront Fusion].
+activity: use
+doc-type: feature video
+team: Technical Marketing
+kt: Jira ticket
+exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
+source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 1%
+
+---
+
+# Présentation de l’administration
+
+## Vue d&#39;ensemble
+
+Découvrez comment basculer entre différentes organisations ou équipes et ajouter des utilisateurs au système.
+
+![Une image d’un scénario avec gestion des erreurs](assets/workfront-fusion-administration-1.png)
+
+## Présentation de l’administration
+
+Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
+
+>[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12)
+
+## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+
+[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
