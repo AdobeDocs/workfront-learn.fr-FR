@@ -2,7 +2,7 @@
 title: Tutorials Workfront
 description: Une bibliothèque de vidéos et d’articles de formation conçus pour vous aider à mieux comprendre les fonctionnalités et paramètres de Workfront.  Il comprend un ensemble de bonnes pratiques, d’exercices organisés et d’autres ressources qui vous aideront, ainsi que votre organisation, à réussir avec Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: e2fc2111ddb8ec5d92e643bf1ead87a669b571b4
+source-git-commit: e7d493b3686007feba1b3f6714e02f285807267e
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,8 @@ See other user landing pages to get ideas.
 
 -->
 
+<div id="whats-new-section">
+
 ## Quelles sont les nouveautés ?
 
 Découvrez les dernières mises à jour apportées aux tutoriels pour chaque version de produit Workfront. Voici ce qui a été mis à jour avec la dernière version :
@@ -30,6 +32,16 @@ Découvrez les dernières mises à jour apportées aux tutoriels pour chaque ver
 
 * Configurez un formulaire personnalisé pour qu’il fonctionne avec plusieurs types d’objets. Découvrez comment dans la section <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">création et partage d’un formulaire personnalisé</a> tutoriel .
 
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Sélections du personnel
 
@@ -76,3 +88,5 @@ Découvrez les dernières mises à jour apportées aux tutoriels pour chaque ver
     </td>
   </tr>
 </table>
+
+</div>
