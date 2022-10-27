@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 2%
       + [Envoyer [!UICONTROL Centre d’annonces] messages](administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
    + Création et gestion des utilisateurs {#create-and-manage-users}
       + [Ajout d’utilisateurs en bloc](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
-      + [Ajout d’utilisateurs](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
+      + [Ajouter des utilisateurs](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [Création d’un utilisateur individuel](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
       + [Modification des informations sur l’utilisateur](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Quand et comment désactiver ou supprimer des utilisateurs](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [Partie 1 des rapports avancés](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Partie 2 des rapports avancés](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Rapport avancé - partie 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + Analytics amélioré {#enhanced-analytics}
+   + Analytique améliorée {#enhanced-analytics}
       + [Prise en main d’ [!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Ajouter [!UICONTROL analytics] pour les modèles de mise en page](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Présentation de la navigation de base](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [Ajout et gestion des membres de l’équipe pour un panorama](boards/add-and-manage-team-members-for-a-board.md)
       + [Ajout de cartes à un panorama](boards/add-cards-to-a-board.md)
       + [Recherche et création d’un panorama de base](boards/find-and-create-a-basic-board.md)
+      + [Recherche et recherche dans un panorama](boards/find-and-search-in-a-board.md)
       + [Gestion des colonnes de panorama](boards/manage-board-columns.md)
       + [Gestion des cartes sur un panorama](boards/manage-cards-on-a-board.md)
 
