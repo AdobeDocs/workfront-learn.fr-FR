@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 4f5ef62945a0e28b80bbb9855b67817e2297a712
+source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,12 @@ Son objectif est de vous donner plus d’informations et de mieux gérer les cha
 ![option de menu principal de ressource](assets/Find_01.png)
 
 * Cliquez sur [!UICONTROL Ressource] dans le [!UICONTROL Menu Principal].
-* Accédez au [!UICONTROL Équilibreur de charge de travail] dans la zone Resource Management.
+* Accédez au [!UICONTROL Planification] dans la zone Resource Management.
+* Cliquez sur le bouton [!UICONTROL &quot;Basculer vers l’équilibreur de charge de travail&quot;] lien.
 
-![section répartition de charge de travail](assets/Find_02.png)
+![passer à l’équilibreur de charge](assets/Find_02.png)
+
+Le [!DNL Workload Balancer] est l’option par défaut lors de l’accès à la zone Gestion des ressources de l’outil Workfront.
 
 ## Zones de l’équilibreur de charge de travail
 
@@ -38,10 +41,10 @@ Deux sections s’affichent dans la section [!DNL Workload Balancer]: Travail at
 
 La zone Travail attribué affiche la liste des utilisateurs et du travail auxquels ils ont déjà été affectés dans Workfront. Par défaut, cette zone est filtrée pour les utilisateurs qui font partie des équipes Workfront auxquelles vous appartenez. Vous pouvez ainsi voir sur quels membres de l’équipe ont été affectés.
 
-![utilisateurs de zone affectés](assets/Find_04.png)
+![utilisateurs de zone affectés](assets/Find_03b.png)
 
 La zone de travail Non attribué affiche le travail qui doit encore être attribué, que ce soit à une personne, à un rôle professionnel ou à une équipe. Toutefois, au début, cette zone n’affichera rien.
 
-![zone de travail non attribuée](assets/Find_05.png)
+![zone de travail non attribuée](assets/Find_03c.png)
 
 En commençant par la zone de travail non assignée vide, vous avez la possibilité de vous concentrer d’abord sur les charges de travail actuelles de vos utilisateurs, dans la zone de travail affectée, avant d’effectuer des affectations.

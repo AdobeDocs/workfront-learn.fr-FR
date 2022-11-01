@@ -10,14 +10,23 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 7a4649644a99eafd521895133a321f8ea0ff6041
+source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
 # Présentation du mode de texte de base pour les filtres
+
+>[!IMPORTANT]
+>
+>Conditions préalables :
+>
+>* Présentation des éléments de reporting
+>* Présentation des composants de création de rapports
+>* Création d’un filtre de base
+
 
 Dans cette vidéo, vous apprendrez :
 
@@ -37,12 +46,53 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
+## Filtres de mode texte de lecture et de module externe supplémentaires
+
+### Tâche : affichez-moi toutes les tâches en attente de mon approbation
+
+```
+approvalProcessID_Mod=notblank
+currentUserApproversMM:ID=$$USER.ID
+currentUserApproversMM:ID_Mod=in
+currentUserApproversMM_Join=allowingnull
+```
+
+### Tâche - Afficher toutes les tâches que j’ai approuvées
+
+Créez un rapport de tâche avec les filtres de votre choix, puis accédez à l’onglet Filtre et cliquez sur Passer en mode Texte. Ajoutez ce code à ce qui existe déjà :
+
+```
+approvalProcessID_Mod=notblank
+approverStatuses:approvedByID=$$USER.ID
+approverStatuses:approvedByID_Mod=in
+```
+
+### Tâche : affichez-moi toutes les tâches ayant au moins un prédécesseur de projet croisé.
+
+```
+predecessorsMM:ID_Mod=notblank
+predecessorsMM:projectID=FIELD:projectID
+predecessorsMM:projectID_Mod=ne
+```
+
+### Tâche - Afficher toutes les tâches que j’ai assignées aux autres
+
+Créez un rapport de tâche avec les filtres de votre choix, puis accédez à l’onglet Filtre et cliquez sur Passer en mode Texte. Ajoutez ce code à ce qui existe déjà :
+
+```
+EXISTS:1:$$OBJCODE=ASSGN
+EXISTS:1:taskID=FIELD:ID
+EXISTS:1:assignedByID=$$USER.ID
+```
+
+Vous verrez alors toutes les tâches pour lesquelles l’utilisateur connecté a attribué au moins l’un des personnes actuellement désignées. Si des personnes désignées ont été affectées par plusieurs personnes, seul le nom de la première personne qui a affecté une personne apparaît comme &quot;Demandé par&quot; sur la page d’entrée de la tâche.
+
 ## Activité : Questions relatives au mode texte
 
 1. Comment écririez-vous la casse chameau pour le champ intitulé &quot;Entré par identifiant&quot; ?
 1. Dans un rapport Problème , créez un filtre pour afficher les problèmes qui ont été marqués comme fermés mais qui sont en attente d’approbation.
 
-## Réponses
+### Réponses
 
 1. La casse du chameau pour le champ &quot;Entré par l’ID&quot; doit être écrite comme suit : entryByID
 1. Le mode texte doit ressembler à celui-ci dans le filtre de rapport de problèmes :

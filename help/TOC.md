@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
+source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
 workflow-type: tm+mt
-source-wordcount: '2212'
+source-wordcount: '2218'
 ht-degree: 2%
 
 ---
@@ -92,39 +92,39 @@ ht-degree: 2%
 
 + Gérer le travail {#manage-work}
    + Projets {#projects}
-      + [Présentation de la création de projet de base](manage-work/projects/understand-basic-project-creation.md)
-      + [Comprendre d’autres façons de créer des projets](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Recherche de projets](manage-work/projects/find-projects.md)
-      + [Partage d’un projet](manage-work/projects/share-a-project.md)
-      + [Parcourir la page du projet](manage-work/projects/navigate-the-project-page.md)
-      + [Prise en main de la planification d’un projet](manage-work/projects/getting-started-plan-a-project.md)
+      + [Modification de l’état du projet](manage-work/projects/change-the-project-status.md)
       + [Renseignement des détails du projet](manage-work/projects/fill-in-the-project-details.md)
-      + [Activation d’un projet](manage-work/projects/take-a-project-live.md)
+      + [Recherche de projets](manage-work/projects/find-projects.md)
       + [Prise en main de la gestion d’un projet](manage-work/projects/getting-started-manage-a-project.md)
+      + [Prise en main de la planification d’un projet](manage-work/projects/getting-started-plan-a-project.md)
+      + [Parcourir la page du projet](manage-work/projects/navigate-the-project-page.md)
+      + [Partage d’un projet](manage-work/projects/share-a-project.md)
+      + [Activation d’un projet](manage-work/projects/take-a-project-live.md)
       + [Suivi de la progression globale du projet](manage-work/projects/track-overall-project-progress.md)
       + [Suivi de la progression du travail avec les mesures de projet](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [Présentation de la création de projet de base](manage-work/projects/understand-basic-project-creation.md)
+      + [Comprendre d’autres façons de créer des projets](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Présentation de la communication du projet](manage-work/projects/understand-project-communication.md)
       + [Comprendre le [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
       + [Affichage des informations sur le projet](manage-work/projects/view-project-information.md)
-      + [Modification de l’état du projet](manage-work/projects/change-the-project-status.md)
    + Tâches {#tasks}
+      + [Affecter des tâches à partir du plan de projet](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Comment créer des tâches](manage-work/tasks/how-to-create-tasks.md)
       + [Découvrez comment séquencer des tâches](manage-work/tasks/learn-to-sequence-tasks.md)
       + [Comprendre [!UICONTROL Effort de travail]](manage-work/tasks/understand-work-effort.md)
       + [Présentation des tâches parent-enfant](manage-work/tasks/understand-parent-child-tasks.md)
       + [Présentation des heures planifiées](manage-work/tasks/understand-planned-hours.md)
       + [Présentation des durées de tâche](manage-work/tasks/understand-task-durations.md)
-      + [Affecter des tâches à partir du plan de projet](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Utilisation des tâches](manage-work/tasks/work-with-tasks.md)
    + Problèmes/requêtes {#issues-requests}
+      + [Convertir des problèmes en d’autres éléments de travail](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Création d’un projet à partir d’une requête](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Recherche de requêtes](manage-work/issues-requests/find-requests.md)
       + [Gérer le travail non planifié](manage-work/issues-requests/handle-unplanned-work.md)
       + [Effectuer une requête](manage-work/issues-requests/make-a-request.md)
-      + [Recherche de requêtes](manage-work/issues-requests/find-requests.md)
       + [Gestion des requêtes](manage-work/issues-requests/manage-incoming-requests.md)
-      + [Mettre à jour une requête](manage-work/issues-requests/update-a-request.md)
-      + [Création d’un projet à partir d’une requête](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Convertir des problèmes en d’autres éléments de travail](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Vérifier les travaux numériques](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [Mettre à jour une requête](manage-work/issues-requests/update-a-request.md)
       + [Gestion des affectations de problèmes](manage-work/issues-requests/manage-issue-assignments.md)
       + [Rapport sur les problèmes](manage-work/issues-requests/report-on-issues.md)
    + Portefeuilles {#portfolios}
@@ -153,22 +153,22 @@ ht-degree: 2%
       + [Présentation des types de date et de l’état d’avancement](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Présentation des calendriers du projet](manage-work/project-timelines/understand-project-timelines.md)
    + Fermeture d’un projet {#close-a-project}
+      + [Fermeture d’un projet](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Fermeture des tâches et problèmes](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Approbation complète](manage-work/close-a-project/complete-approvals.md)
       + [Enregistrer les leçons apprises](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Journalisation et heures de révision](manage-work/close-a-project/log-and-review-hours.md)
       + [Chargement de ressources](manage-work/close-a-project/upload-assets.md)
-      + [Fermeture d’un projet](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Fermeture d’une activité de projet](manage-work/close-a-project/close-a-project-activity.md)
    + Finances du projet {#project-finances}
-      + [Présentation des mesures de performances](manage-work/project-finances/understand-performance-metrics.md)
-      + [Configuration des valeurs par défaut des recettes et des coûts de la tâche](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Rechercher des informations financières](manage-work/project-finances/find-financial-information.md)
       + [Configurer les taux de change](manage-work/project-finances/set-up-exchange-rates.md)
       + [Configuration des types de dépenses](manage-work/project-finances/set-up-expense-types.md)
+      + [Configuration des valeurs par défaut des recettes et des coûts de la tâche](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Présentation de l’accès financier](manage-work/project-finances/understand-financial-access.md)
-      + [Mettre à jour et revoir les finances](manage-work/project-finances/update-and-review-finances.md)
-      + [Rechercher des informations financières](manage-work/project-finances/find-financial-information.md)
       + [Comprendre plusieurs taux de facturation](manage-work/project-finances/multiple-billing-rates.md)
+      + [Présentation des mesures de performances](manage-work/project-finances/understand-performance-metrics.md)
+      + [Mettre à jour et revoir les finances](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -210,6 +210,8 @@ ht-degree: 2%
       + [Présentation des filtres de tâche intégrés](reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [Présentation des filtres de problèmes intégrés](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [Présentation du mode de texte de base pour les filtres](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Présentation du mode Texte de base pour les vues](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Comprendre le mode de texte de base pour les regroupements](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Création d’invites personnalisées](reporting/intermediate-reporting/custom-prompts.md)
    + Rapports avancés {#advanced-reporting}
       + [Bienvenue dans les rapports avancés](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -573,7 +575,6 @@ ht-degree: 2%
       + [Ajout et gestion des membres de l’équipe pour un panorama](boards/add-and-manage-team-members-for-a-board.md)
       + [Ajout de cartes à un panorama](boards/add-cards-to-a-board.md)
       + [Recherche et création d’un panorama de base](boards/find-and-create-a-basic-board.md)
-      + [Recherche et recherche dans un panorama](boards/find-and-search-in-a-board.md)
       + [Gestion des colonnes de panorama](boards/manage-board-columns.md)
       + [Gestion des cartes sur un panorama](boards/manage-cards-on-a-board.md)
 
@@ -584,7 +585,7 @@ ht-degree: 2%
    + [Explorateur d’API](best-practices/api-explorer-bp.md)
    + [Analyse de cas et optimisation de portefeuille](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Communication](best-practices/communication-bp.md)
-   + [Formulaires personnalisés dans mon groupe](best-practices/custom-forms-bp.md)
+   + [Formulaires personnalisés](best-practices/custom-forms-bp.md)
    + [Rapports personnalisés](best-practices/custom-reports-bp.md)
    + [Tableaux de bord](best-practices/dashboards-bp.md)
    + [Documents](best-practices/documents-bp.md)
@@ -600,7 +601,7 @@ ht-degree: 2%
    + [Modèles de projet](best-practices/project-templates-bp.md)
    + [Épreuve Workfront](best-practices/proofing-bp.md)
    + [File d’attente des demandes](best-practices/request-queues-bp.md)
-   + [Planification des ressources](best-practices/resource-planner-bp.md)
+   + [Planificateur de ressources](best-practices/resource-planner-bp.md)
    + [Pools de ressources](best-practices/resource-pools-bp.md)
    + [Planificateur de scénarios](best-practices/scenario-planner-bp.md)
    + [Planifications](best-practices/schedules-bp.md)
