@@ -1,14 +1,14 @@
 ---
 title: Agrégation avancée
-description: Découvrez comment utiliser les regroupements lors de l’agrégation. (Doit comporter entre 60 et 160 caractères, mais 49 caractères)
+description: Appelez un service web pour renvoyer des détails sur plusieurs pays et identifier la population, regroupée par sous-région.
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Appelez un service Web pour renvoyer des informations sur plusieurs pays et iden
 
 1. Créez un scénario et nommez-le &quot;agrégation avancée&quot;.
 1. Définissez le module de déclenchement sur HTTP - Effectuer un module de requête.
-1. Utilisez cette URL, https://restcountries.eu/rest/v2/ lang/es, qui vous donne la liste de tous les pays où l&#39;espagnol est parlé.
+1. Utilisez cette URL, https://restcountries.com/v2/lang/es, qui donne la liste de tous les pays où l&#39;espagnol est parlé.
 1. Laissez la méthode définie sur Get.
 1. Cochez la case Analyse de la réponse .
 1. Renommez ce module &quot;Get Countries&quot;.
@@ -44,12 +44,12 @@ Appelez un service Web pour renvoyer des informations sur plusieurs pays et iden
 
    **Vous devez collecter des informations sur chaque sous-région pour chacun des pays. Vous devrez donc effectuer une requête HTTP supplémentaire.**
 
-1. Ajoutez une autre requête pour obtenir des informations sur la sous-région. Il ne reviendra que le premier pays, mais c&#39;est normal pour l&#39;instant. Ajoutez un autre module HTTP Make a request et utilisez l’URL https://restcountries.eu/rest/v2/name/.
+1. Ajoutez une autre requête pour obtenir des informations sur la sous-région. Il ne reviendra que le premier pays, mais c&#39;est normal pour l&#39;instant. Ajoutez un autre module HTTP Make a request et utilisez l’URL https://restcountries.com/v2/name/.
 1. Pour obtenir le nom du premier pays, accédez au panneau Mappage et cliquez sur Données, puis sur Nom dans le tableau. Le [1] dans le champ de données signifie qu’il renverra le premier élément du tableau .
 
    + Cliquez sur le nombre et modifiez l’index si nécessaire, mais dans ce cas, vous souhaitez uniquement le premier élément.
 
-   ![Image d’agrégation avancée 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![Image d’agrégation avancée 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Cochez Parse response dans le panneau de mappage, puis cliquez sur OK.
 1. Renommez cette option &quot;Obtenir des détails sur les pays&quot;.
