@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335177.png
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 527af78f92f2b85a30de69f31fce7b4b06491bdd
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ La plupart du temps, l’expression de données ROUND est utilisée conjointemen
 
 Créons un champ calculé afin de déterminer la différence entre le nombre d’heures prévu et réellement connecté à une tâche, qui nécessitera l’expression SOUS-B et ressemblera à ceci :
 
-**SOB(Heures planifiées, Heures réelles)**
+**SUB({workRequired},{realWorkRequired})**
 
 Et puisque le temps est suivi en minutes et que le format préféré est d&#39;afficher l&#39;information en heures, l&#39;expression doit également être divisée par 60 et se présenter comme suit :
 
-**DIV(SOUS(Heures planifiées, Heures réelles),60)**
+**DIV(SUB({workRequired},{realWorkRequired}),60)**
 
 Si le format est remplacé par Nombre lors de la création du champ calculé dans le formulaire personnalisé, vous pouvez modifier le format du nombre lors de l’ajout du champ dans une vue.
 
@@ -50,12 +50,14 @@ Cependant, si le format du champ lors de la création d’un champ personnalisé
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/round02.png)
 
-Utiliser l’expression de données ROUND dans un champ calculé L’expression ROUND inclut le nom de l’expression (ROUND) et, généralement, deux points de données. Ces points de données peuvent être une expression ou un champ dans [!DNL Workfront], suivi d’un nombre pour indiquer le nombre de décimales que vous souhaitez ajouter.
+<b>Utiliser l’expression de données ROUND dans un champ calculé</b>
+
+L’expression ROUND comprend le nom de l’expression (ROUND) et, généralement, deux points de données. Ces points de données peuvent être une expression ou un champ dans Workfront, suivis d’un nombre pour indiquer le nombre de décimales que vous souhaitez ajouter.
 
 Une expression serait structurée comme suit : ROUND(point de données, #)
 
-Dans l’expression calculant la différence entre les heures prévues et les heures réelles, utilisez cette expression —DIV(SUB(Supervision des heures, Réalisation des heures),60)—comme premier point de données. Assurez-vous ensuite que le nombre provenant de cette expression ne dépasse pas 2 chiffres à droite de la décimale.
+Dans l’expression calculant la différence entre les heures prévues et les heures réelles, utilisez cette expression —DIV(SUB({workRequired},{realWorkRequired}),60)—comme premier point de données. Assurez-vous ensuite que le nombre provenant de cette expression ne dépasse pas 2 chiffres à droite de la décimale.
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/round03.png)
 
-L’expression peut être écrite comme suit : ROUND(DIV(SOUS(Heures planifiées, Heures réelles),60),2).
+L’expression peut être écrite comme suit : ROUND(DIV(SUB({workRequired},{realWorkRequired}),60),2).
