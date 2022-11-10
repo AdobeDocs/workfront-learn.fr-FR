@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # Agrégation avancée
 
@@ -32,7 +32,7 @@ Appelez un service Web pour renvoyer des informations sur plusieurs pays et iden
 
 1. Créez un scénario et nommez-le &quot;agrégation avancée&quot;.
 1. Définissez le module de déclenchement sur HTTP - Effectuer un module de requête.
-1. Utilisez cette URL, https://restcountries.com/v2/lang/es, qui donne la liste de tous les pays où l&#39;espagnol est parlé.
+1. Utiliser cette URL, `https://restcountries.com/v2/lang/es`, qui donne la liste de tous les pays où l&#39;espagnol est parlé.
 1. Laissez la méthode définie sur Get.
 1. Cochez la case Analyse de la réponse .
 1. Renommez ce module &quot;Get Countries&quot;.
@@ -44,7 +44,7 @@ Appelez un service Web pour renvoyer des informations sur plusieurs pays et iden
 
    **Vous devez collecter des informations sur chaque sous-région pour chacun des pays. Vous devrez donc effectuer une requête HTTP supplémentaire.**
 
-1. Ajoutez une autre requête pour obtenir des informations sur la sous-région. Il ne reviendra que le premier pays, mais c&#39;est normal pour l&#39;instant. Ajoutez un autre module HTTP Make a request et utilisez l’URL https://restcountries.com/v2/name/.
+1. Ajoutez une autre requête pour obtenir des informations sur la sous-région. Il ne reviendra que le premier pays, mais c&#39;est normal pour l&#39;instant. Ajoutez un autre module HTTP Make a request et utilisez l’URL `https://restcountries.com/v2/name/{country name}`.
 1. Pour obtenir le nom du premier pays, accédez au panneau Mappage et cliquez sur Données, puis sur Nom dans le tableau. Le [1] dans le champ de données signifie qu’il renverra le premier élément du tableau .
 
    + Cliquez sur le nombre et modifiez l’index si nécessaire, mais dans ce cas, vous souhaitez uniquement le premier élément.
