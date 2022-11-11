@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Vous verrez alors toutes les tâches pour lesquelles l’utilisateur connecté a attribué au moins l’un des personnes actuellement désignées. Si des personnes désignées ont été affectées par plusieurs personnes, seul le nom de la première personne qui a affecté une personne apparaît comme &quot;Demandé par&quot; sur la page d’entrée de la tâche.
 
-## Activité : Questions relatives au mode texte
+### Tâche : affichez-moi toutes les tâches terminées - Autorisation en attente
 
-1. Comment écririez-vous la casse chameau pour le champ intitulé &quot;Entré par identifiant&quot; ?
-1. Dans un rapport Problème , créez un filtre pour afficher les problèmes qui ont été marqués comme fermés mais qui sont en attente d’approbation.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Réponses
 
-1. La casse du chameau pour le champ &quot;Entré par l’ID&quot; doit être écrite comme suit : entryByID
-1. Le mode texte doit ressembler à celui-ci dans le filtre de rapport de problèmes :
+### Problème : affichez-moi tous les problèmes terminés - Autorisation en attente
 
-   ![Image de l’écran pour créer un nouveau filtre en mode texte](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Projet : affichez-moi tous les projets terminés - En attente d’approbation
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Remarque : affichez-moi tous les commentaires sur lesquels je suis balisé.
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Rapport de champs personnalisés/de paramètres : affichez-moi les champs personnalisés qui ne sont pas associés à un formulaire personnalisé (très utile dans les efforts de nettoyage).
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```

@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
-
 
 # Comprendre le mode de texte de base pour les regroupements
 
@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 regroupement de parents
+## Tâche - Groupement 4 parents
 
 Le mode de texte suivant regroupe les tâches en fonction de quatre niveaux de parents au maximum et laisse les parents qui n’existent pas vides.
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![Image d’écran montrant les tâches du projet regroupées par 4 parents](assets/4-parents-grouping.png)
 
 
-## Regroupement en pourcentage terminé
+## Tâche - Regroupement en pourcentage terminé
 
 Le mode de texte suivant regroupe les tâches en fonction de leur pourcentage d’achèvement. Les tâches sont regroupées dans l’une des catégories suivantes :
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![Image d’écran montrant les tâches du projet regroupées par pourcentage de réalisation](assets/percent-complete-grouping.png)
 
-## statusEquatesWith, puis status
+## Task - statusEquatesWith, puis status
 
 Le mode de texte suivant regroupe les tâches par statusEquatesWith, puis par status.
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![Image d’écran montrant les tâches de projet regroupées par statusEquatesWith](assets/status-equates-with.png)
 
+
+## Approbation de BAT - Groupe par nom de projet
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![Image d&#39;écran montrant les validations du BAT regroupées par nom de projet](assets/proof-approvals-grouped-by-project-name.png)
 
