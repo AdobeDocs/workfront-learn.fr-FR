@@ -1,6 +1,8 @@
 ---
-title: Comprendre les capacités de l’équipe
-description: Le graphique Capacité de l’équipe indique quand une équipe d’accueil a été suraffectée ou sous-affectée.
+title: Comprendre la capacité de l’équipe dans [!UICONTROL Analytics amélioré]
+description: Découvrez comment le graphique de capacité de l’équipe indique quand une équipe d’accueil a été suraffectée ou sous-affectée.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Comprendre les capacités de l’équipe
+# Comprendre la capacité de l’équipe dans [!UICONTROL Analytics amélioré]
 
 Le graphique Capacité de l’équipe indique quand une équipe d’accueil a été suraffectée ou sous-affectée. Le graphique affiche le volume de travail assigné à l’équipe d’accueil un jour donné et attribue une couleur bleue plus foncée lorsqu’elles approchent d’un épuisement ou qu’elles ne sont pas contestées. Une couleur plus claire et plus transparente indique que la charge de travail est plus équilibrée.
 

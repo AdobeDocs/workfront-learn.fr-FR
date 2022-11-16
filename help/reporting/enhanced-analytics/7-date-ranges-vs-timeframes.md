@@ -1,6 +1,8 @@
 ---
 title: Comprendre les périodes et les délais
-description: Les plages de dates sont spécifiées à l’aide du widget Calendrier. Les horodatages sont créés dans un graphique.
+description: Dans [!UICONTROL Analytics amélioré], les plages de dates sont spécifiées à l’aide du widget Calendrier. Les horodatages sont créés dans un graphique.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# Comprendre les périodes et les délais
+# Comprendre les périodes et les périodes dans [!UICONTROL Analytics amélioré]
 
 Lors de l’affichage de la variable [!DNL Enhanced analytics] les graphiques, les plages de dates sont spécifiées à l’aide du widget Calendrier. Les horodatages sont créés dans un graphique lorsque vous cliquez et faites glisser pour définir une région spécifique. Vous pouvez ainsi effectuer un zoom avant et obtenir un aperçu plus détaillé des informations pendant cette période.
 

@@ -1,6 +1,8 @@
 ---
 title: Création d’un calendrier personnalisé
-description: Découvrez comment créer votre propre calendrier personnalisé
+description: Découvrez comment créer votre propre calendrier personnalisé avec vos tâches et vos congés personnels.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: create-a-custom-calendar.png
 kt: 10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -48,7 +50,7 @@ Voici comment créer votre propre calendrier personnalisé.
 1. Si vous souhaitez afficher [!UICONTROL Dates réelles] lorsque ces informations sont disponibles, sélectionnez Oui dans le menu. Sélectionnez Non si vous souhaitez toujours sélectionner le type de date ([!UICONTROL Prévu], [!UICONTROL Planifié]ou [!UICONTROL Personnalisé]) à afficher.
 1. Sélectionnez le type d’informations d’élément à afficher dans le calendrier.[!UICONTROL Tâches], [!UICONTROL Projets], [!UICONTROL Problèmes]ou [!UICONTROL Time Off].
 1. Configurez les filtres pour afficher les informations souhaitées.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ![Image de l’écran d’ajout d’éléments de travail à un groupe de calendrier](assets/calendar-2-2.png)
 
@@ -73,6 +75,6 @@ Pour créer un calendrier pour une personne spécifique :
 1. Ignorez le mode d’affichage des informations si les dates réelles ne sont pas disponibles. Cela ne s’applique pas.
 1. Sélectionner [!UICONTROL Time Off] pour le type d’informations que vous souhaitez afficher.
 1. Pour le filtre, définissez l’ID utilisateur sur le nom du membre de l’équipe.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ![Image de l’écran permettant d’ajouter des entrées de temps libre à un groupe de calendrier.](assets/calendar-2-3.png)

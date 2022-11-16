@@ -1,6 +1,6 @@
 ---
 title: Envoi et partage de rapports
-description: Dans cette vidéo, vous découvrirez comment envoyer des rapports aux utilisateurs, aux équipes ou à toute adresse électronique, et comment partager des rapports avec n’importe qui dans [!DNL  Workfront].
+description: Découvrez comment envoyer des rapports aux utilisateurs, aux équipes ou à toute adresse électronique, et comment partager des rapports avec n’importe qui dans Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Envoyez-vous un rapport chaque lundi à 5h00 sous forme de feuille de calcul Exc
 1. Définir **[!UICONTROL Répéter]** to [!UICONTROL Hebdomadaire].
 1. Définissez la variable [!UICONTROL Heure] à 5 heures du matin.
 1. Définir [!UICONTROL Répète activé] à lundi.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 >[!NOTE]
 >

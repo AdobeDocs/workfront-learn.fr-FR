@@ -1,6 +1,6 @@
 ---
-title: Exploration plus approfondie de la navigation
-description: Dans cette vidéo, vous découvrirez comment afficher rapidement le temps que les travailleurs consacrent à chaque projet dans [!DNL  Workfront].
+title: Explorez plus en détail la navigation dans [!UICONTROL Analytics amélioré]
+description: Découvrez comment déterminer rapidement le temps que les travailleurs consacrent à chaque projet dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# Exploration plus approfondie de la navigation
+# Explorez plus en détail la navigation dans [!UICONTROL Analytics amélioré]
 
 Dans cette vidéo, vous apprendrez :
 

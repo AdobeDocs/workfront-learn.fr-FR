@@ -1,6 +1,8 @@
 ---
-title: Comprendre le graphique de la capacité des ressources
-description: Le graphique Capacité des ressources indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
+title: Comprendre le graphique de la capacité des ressources dans [!UICONTROL Analytics amélioré]
+description: Découvrez comment le graphique Capacité des ressources indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# Comprendre le graphique de la capacité des ressources
+# Comprendre le graphique de la capacité des ressources dans [!UICONTROL Analytics amélioré]
 
 Le graphique Capacité des ressources indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
 

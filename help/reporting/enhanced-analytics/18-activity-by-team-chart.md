@@ -1,6 +1,8 @@
 ---
-title: Comprendre l’activité par graphique d’équipe
+title: Présentation de l’activité par graphique d’équipe dans [!UICONTROL Analytics amélioré]
 description: Le graphique Activité par équipe vous permet de comprendre comment les équipes d’accueil de votre entreprise passent leur temps dans Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# Comprendre l’activité par graphique d’équipe
+# Présentation de l’activité par graphique d’équipe dans [!UICONTROL Analytics amélioré]
 
 Le graphique Activité par équipe vous permet de comprendre comment les équipes d’accueil de votre entreprise passent leur temps dans Workfront. Les utilisateurs de Workfront peuvent appartenir à plusieurs équipes, mais ils ne peuvent appartenir qu’à une seule équipe d’accueil. Les équipes utilisées dans les graphiques des personnes sont composées uniquement des utilisateurs pour lesquels cette équipe est désignée comme équipe d’accueil.
 

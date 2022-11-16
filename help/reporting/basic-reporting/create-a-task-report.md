@@ -1,6 +1,6 @@
 ---
 title: Créer un rapport de tâche
-description: Dans cette vidéo, vous apprendrez à créer un rapport de tâche avec un filtre complexe et à trouver les rapports que vous créez dans [!DNL  Workfront].
+description: 'Découvrez comment créer un rapport de tâche avec un filtre complexe et trouver les rapports que vous créez dans Workfront. Activité : créez un rapport de note avec des invites.'
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335154.png
 kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '414'
 ht-degree: 5%
 
 ---

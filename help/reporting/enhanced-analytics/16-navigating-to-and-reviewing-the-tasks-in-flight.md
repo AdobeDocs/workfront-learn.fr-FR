@@ -1,6 +1,6 @@
 ---
-title: Vérification des tâches en cours
-description: Découvrez comment accéder aux Tâches dans le graphique en ligne et comment voir rapidement quelles tâches n’ont pas été terminées dans un projet, le tout dans [!DNL  Workfront].
+title: Vérification des tâches en cours dans [!UICONTROL Analytics amélioré]
+description: Découvrez comment accéder aux Tâches dans le graphique en ligne et comment voir rapidement quelles tâches n’ont pas été effectuées dans un projet, le tout dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# Vérification des tâches en cours
+# Vérification des tâches en cours dans [!UICONTROL Analytics amélioré]
 
 Dans cette vidéo, vous apprendrez :
 

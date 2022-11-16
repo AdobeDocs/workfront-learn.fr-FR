@@ -1,6 +1,6 @@
 ---
 title: Création d’une vue de base
-description: Dans cette vidéo, vous découvrirez ce qu’est une vue, comment créer une vue et comment partager une vue avec d’autres utilisateurs dans [!DNL  Workfront].
+description: Découvrez ce qu’est une vue, comment créer une vue et comment partager une vue avec d’autres utilisateurs dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,10 +10,10 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: '298'
+ht-degree: 4%
 
 ---
 
@@ -54,6 +54,6 @@ Créez une vue de tâche nommée &quot;Vue d’état de la tâche&quot; avec les
 1. Dans le [!UICONTROL Afficher dans cette colonne] , saisissez &quot;status&quot;, puis sélectionnez &quot;Etat d’avancement&quot; sous [!UICONTROL Tâche] source du champ.
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
 1. Dans le [!UICONTROL Afficher dans cette colonne] , saisissez &quot;status&quot;, puis sélectionnez &quot;Status Icons&quot; sous la source du champ Tâche .
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 Passez la souris sur chacune des icônes du [!UICONTROL Icônes d’état] pour voir ce qu’ils représentent. Si elles sont grisées, cela signifie que la tâche n&#39;a pas de notes, de documents, de processus de validation, etc. Si une icône s’affiche en couleur, au moins un de ces éléments est associé à la tâche. Vous pouvez cliquer sur les icônes de note ou de document pour accéder à cet élément.

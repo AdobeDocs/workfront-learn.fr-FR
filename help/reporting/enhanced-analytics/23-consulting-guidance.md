@@ -1,6 +1,6 @@
 ---
-title: Présentation des conseils
-description: Dans cette vidéo, vous apprendrez comment formuler des recommandations pour aider votre entreprise à fonctionner plus efficacement dans [!DNL  Workfront].
+title: Découvrez les conseils du service de conseil dans [!UICONTROL Analytics amélioré]
+description: Découvrez comment faire des recommandations pour aider votre entreprise à fonctionner plus efficacement dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Présentation des conseils
+# Découvrez les conseils du service de conseil dans [!UICONTROL Analytics amélioré]
 
 Dans cette vidéo, vous apprendrez :
 

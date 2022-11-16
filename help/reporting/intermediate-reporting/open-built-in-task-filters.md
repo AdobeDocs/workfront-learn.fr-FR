@@ -1,6 +1,6 @@
 ---
 title: Présentation des filtres de tâche intégrés
-description: Découvrez comment passer en revue les filtres de tâche intégrés pour voir comment ils sont créés et créer votre propre filtre de tâche dans [!DNL  Workfront].
+description: Découvrez comment passer en revue les filtres de tâche intégrés pour voir comment ils sont créés et créer votre propre filtre de tâche dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

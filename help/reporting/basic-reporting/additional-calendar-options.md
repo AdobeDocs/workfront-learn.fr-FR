@@ -1,14 +1,16 @@
 ---
 title: Présentation des options de calendrier supplémentaires
 description: Découvrez comment modifier et supprimer un regroupement de calendrier, et comment partager un calendrier.
+activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -42,7 +44,7 @@ En tant que chef de projet, vous pouvez créer un calendrier que vous souhaitez 
 1. Sélectionner **[!UICONTROL Partage]** de la **[!UICONTROL Actions du calendrier]** menu déroulant.
 1. Saisissez le ou les noms des utilisateurs, rôles, équipes, groupes ou sociétés avec lesquels vous souhaitez partager le calendrier.
 1. Sélectionnez si les utilisateurs obtiennent [!UICONTROL Affichage] ou [!UICONTROL Gérer] accès au rapport calendrier.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 Lorsque vous partagez des calendriers, voici quelques éléments à noter :
 

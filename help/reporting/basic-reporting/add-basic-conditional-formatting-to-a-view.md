@@ -1,6 +1,6 @@
 ---
 title: Ajouter une mise en forme conditionnelle de base
-description: Dans cette vidéo, vous découvrirez ce qu’est la mise en forme conditionnelle dans une vue et comment créer et modifier la mise en forme conditionnelle dans [!DNL  Workfront].
+description: Découvrez comment utiliser les règles de colonne pour modifier la couleur du texte, la mise en forme et les couleurs d’arrière-plan dans un rapport ou une vue, en fonction des critères que vous avez définis.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # Ajout d’une mise en forme conditionnelle de base à une vue
+
+La mise en forme conditionnelle s’effectue en créant des règles de colonne. Les règles de colonne vous permettent de mettre en forme une colonne d’une manière spécifique en fonction des critères que vous avez définis.
 
 Dans cette vidéo, vous apprendrez :
 
