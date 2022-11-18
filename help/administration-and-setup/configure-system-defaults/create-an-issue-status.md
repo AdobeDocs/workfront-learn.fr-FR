@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -25,11 +25,11 @@ ht-degree: 0%
 1. Sélectionner **[!UICONTROL Statuts]**.
 1. Sélectionnez la **[!UICONTROL Problèmes]** .
 1. Assurez-vous que le champ dans le coin supérieur droit est défini sur [!UICONTROL États du système]. Cela garantit que le nouvel état est disponible globalement dans vos [!DNL Workfront] instance.
-1. Sélectionner **[!UICONTROL Liste des Principal ]**pour afficher tous les statuts des problèmes. C’est là que vous créez ou modifiez un état.
+1. Sélectionner **[!UICONTROL Liste des Principal]** pour afficher tous les statuts des problèmes. C’est là que vous créez ou modifiez un état.
 1. Cliquez sur **[!UICONTROL Ajouter un nouvel état]**.
 1. Renseignez les champs selon les besoins de votre organisation : nom, description, couleur, correspond à, clé, etc.
 1. Cochez les cases correspondant au type de problème avec lequel cet état peut être utilisé.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ![Nouvelle fenêtre d’état sur [!UICONTROL Statuts] page](assets/admin-fund-create-issue-status.png)
 
