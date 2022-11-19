@@ -2,11 +2,14 @@
 title: Présentation de l’agrégation
 description: Découvrez comment agréger les heures planifiées sur chaque tâche opérationnelle d’un projet et vous envoyer un email contenant ces informations, le tout dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # Présentation de l’agrégation
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 À l’aide du scénario &quot;Introduction à l’itération&quot; que vous avez créé lors de la dernière présentation, agrégez les heures planifiées sur chaque tâche opérationnelle du projet et envoyez-vous un courrier électronique contenant ces informations.
 

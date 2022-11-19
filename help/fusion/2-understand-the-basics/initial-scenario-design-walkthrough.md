@@ -1,21 +1,24 @@
 ---
-title: Présentation de la conception du scénario initial
-description: Dans cette vidéo, vous apprendrez à créer des dossiers et de nouveaux scénarios, à utiliser le concepteur de scénarios et à créer un scénario de base dans [!DNL Adobe Workfront Fusion].
+title: Présentation de la conception initiale du scénario
+description: Découvrez comment créer des dossiers et de nouveaux scénarios, utiliser le concepteur de scénarios et créer un scénario de base dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Présentation de la conception initiale du scénario
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Créez un projet dans Workfront pour chaque ligne du fichier CSV Liste de projets .
 

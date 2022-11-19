@@ -2,11 +2,14 @@
 title: Présentation de l’outil de développement
 description: Découvrez comment installer et utiliser les différentes zones de la [!DNL Adobe Workfront Fusion Dev Tool] pour approfondir les astuces de conception de scénarios avancés.
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # Présentation de l’outil de développement
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Installez et utilisez les différentes zones de l’outil de développement Workfront pour examiner de plus près les requêtes/réponses effectuées et les astuces de conception de scénario avancées.
 

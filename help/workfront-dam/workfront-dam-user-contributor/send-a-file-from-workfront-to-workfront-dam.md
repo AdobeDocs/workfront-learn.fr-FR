@@ -1,16 +1,18 @@
 ---
 title: Envoi d’un fichier de Workfront vers [!UICONTROL Gestion des actifs numériques Workfront]
 description: Découvrez comment envoyer un fichier terminé dans [!DNL Workfront] to [!UICONTROL Gestion des actifs numériques Workfront].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +31,7 @@ Lorsque vous disposez d’un fichier complet dans [!DNL Workfront], vous pouvez 
 
    ![Image de la fenêtre montrant les dossiers auxquels vous êtes autorisé à accéder [!UICONTROL Gestion des actifs numériques Workfront]](assets/05-workfront-dam-folders.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 1. Le [!UICONTROL Documents] rechargements de page et désormais un [!UICONTROL Gestion des actifs numériques Workfront] s’affiche en regard du nom du fichier. Cela indique que le fichier a été envoyé à [!UICONTROL DAM].
 
    ![Une image de la fonction [!UICONTROL Gestion des actifs numériques Workfront] icône apparaissant en regard du nom de fichier](assets/06-dam-logo.png)

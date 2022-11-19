@@ -1,6 +1,8 @@
 ---
 title: Renseignement des détails du projet
 description: Découvrez les 12 champs de détails du projet [!DNL  Workfront] vous recommande de renseigner la variable lors de la création d’un projet.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1226'
 ht-degree: 1%

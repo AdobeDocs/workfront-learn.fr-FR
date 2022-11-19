@@ -1,5 +1,5 @@
 ---
-title: Où se trouve [!DNL Workfront Goals] s'adapte à mon cycle de vie professionnel ?
+title: Comprendre comment [!UICONTROL Objectifs de Workfront] s’adapte à votre cycle de travail ;
 description: Découvrez les 6 étapes d’un cycle de vie classique et les principaux éléments de base de la "phase de stratégie" du cycle de vie professionnel.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Où se trouve [!DNL Workfront Goals] s&#39;adapte à mon cycle de vie professionnel ?
+# Comprendre comment [!UICONTROL Objectifs de Workfront] s’adapte à votre cycle de travail ;
 
 Dans cette vidéo, vous découvrirez :
 

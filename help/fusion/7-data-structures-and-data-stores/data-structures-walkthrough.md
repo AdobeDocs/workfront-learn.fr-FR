@@ -2,11 +2,14 @@
 title: Présentation des structures de données
 description: Découvrez comment prendre du temps pour les informations du journal d’un fichier, les transformer et produire un nouveau fichier avec les données transformées dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # Présentation des structures de données
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Ouvrez un fichier CSV contenant une liste d’entrées d’heure. Ces entrées temporelles sont enregistrées pendant les minutes enregistrées pendant certains jours par plusieurs utilisateurs. L’objectif est de prendre ces informations et de produire un nouveau fichier CSV qui indique la durée totale, en heures, consignée par chaque utilisateur, chaque jour.
 

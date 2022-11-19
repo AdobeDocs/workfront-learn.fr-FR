@@ -1,14 +1,17 @@
 ---
-title: Exécutions, cycles et lots de l’équilibre
-description: Dans cette vidéo, vous découvrirez les exécutions d’équilibrage, les cycles et les lots de [!DNL Adobe Workfront Fusion].
+title: Équilibrage des exécutions, des cycles et des lots
+description: Découvrez les exécutions d’équilibrage, les cycles et les lots dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '35'
 ht-degree: 0%
 
 ---

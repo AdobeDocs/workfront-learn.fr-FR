@@ -1,13 +1,15 @@
 ---
 title: Utilisation d’une [!UICONTROL Analyse de cas] in [!DNL  Workfront]
 description: Découvrez comment utiliser une [!UICONTROL Analyse de cas] in [!DNL  Workfront] pour obtenir les informations dont vous avez besoin sur les projets afin de prendre des décisions éclairées.
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: introduction-to-the-business-case.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%

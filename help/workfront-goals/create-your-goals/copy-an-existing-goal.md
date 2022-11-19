@@ -1,13 +1,15 @@
 ---
 title: Copier un objectif existant
 description: Découvrez comment copier un objectif existant dans [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 0%
@@ -44,7 +46,7 @@ Voici quelques éléments à prendre en compte avant de copier des objectifs :
 
 1. Vérifiez les **[!UICONTROL Copie de résultats]** si des résultats ont été ajoutés à l’objectif d’origine et que vous souhaitez les copier dans le nouvel objectif. Les résultats de l’objectif copié ont les mêmes propriétaire, noms et valeurs mesurées que les résultats de l’objectif d’origine.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**. L’objectif copié est enregistré avec l’état Brouillon.
+1. Cliquer sur **[!UICONTROL Enregistrer]**. L’objectif copié est enregistré avec l’état Brouillon.
 
    ![Une image de la fonction [!UICONTROL Détails de l’objectif] dans [!DNL Workfront Goals] avec le [!UICONTROL Copier] option](assets/03-workfront-goals-copy-a-goal.png)
 

@@ -2,11 +2,14 @@
 title: Présentation des exécutions incomplètes
 description: Découvrez la valeur du stockage d’exécutions incomplètes, puis de la réexécution de lots après l’évaluation et la correction des erreurs dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -15,7 +18,7 @@ ht-degree: 1%
 
 # Présentation des exécutions incomplètes
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Découvrez l’habitude utile de stocker les exécutions incomplètes et de comprendre la valeur fournie lors de la réexécution des lots après l’évaluation et la correction des erreurs.
 

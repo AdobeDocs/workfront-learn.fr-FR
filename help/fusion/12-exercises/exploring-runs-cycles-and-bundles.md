@@ -1,18 +1,21 @@
 ---
 title: Exploration des exécutions, des cycles et des lots
 description: Comprendre le comportement des exécutions, des cycles et des lots à l’aide de l’historique d’exécution d’un scénario.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11050
 thumbnail: KT1101.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Exploration des exécutions, des cycles et des lots
 

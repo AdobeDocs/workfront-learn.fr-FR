@@ -2,20 +2,23 @@
 title: Présentation des routeurs
 description: Découvrez comment utiliser un routeur pour transmettre les lots Pokemon et superhéros vers le chemin correct dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
 
 # Présentation des routeurs
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Utilisez un routeur pour transmettre les lots Pokemon et superhéros vers le chemin approprié, puis créez une tâche pour chaque caractère.
 
@@ -29,9 +32,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 ## URL d’exercice
 
-* Site web de l’API Superhero : https://www.superheroapi.com/
-* Première URL pour l’exercice : https://www.superheroapi.com/api/{access-token}/{character-id}/apparence
-* Deuxième URL pour l’exercice : https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Site web de l’API Superhero : `https://www.superheroapi.com/`
+* Première URL pour l’exercice : `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Deuxième URL pour l’exercice : `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Si vous rencontrez des problèmes pour accéder à votre propre jeton superhero, vous pouvez utiliser ce jeton partagé : 10110256647253588. Veuillez tenir compte du nombre de fois que vous appelez à l’API superhero pour que ce jeton partagé continue à fonctionner pour tout le monde.
 
@@ -86,6 +89,10 @@ Découvrez les connecteurs universels de Workfront Fusion et comment les configu
 Vous pouvez consulter la liste complète de nos connecteurs d’applications préconfigurés dans Experience League. Si vous souhaitez proposer un nouveau connecteur d’application à l’équipe produit de Workfront Fusion, soumettez votre idée à Innovation Lab. Si vous ne l’avez pas encore fait, découvrez le laboratoire de l’innovation, ainsi que la manière dont vous pouvez voter pour les idées et participer à l’établissement des priorités par le Conseil de direction deux fois par an. Si vous avez déjà accès au laboratoire de l&#39;innovation, connectez-vous et soumettez vos idées.
 
 ## Votre tour
+
+>[!NOTE]
+>
+>Les exercices pratiques sont facultatifs et ne sont pas nécessaires pour terminer la formation sur la fusion.
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 

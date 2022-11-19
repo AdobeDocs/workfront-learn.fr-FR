@@ -1,5 +1,5 @@
 ---
-title: Comment configurer des utilisateurs pour la vérification
+title: Paramètres de vérification des utilisateurs
 description: Découvrez comment déterminer laquelle [!DNL  Workfront] les utilisateurs disposent d’une licence de vérification, puis ajustent les paramètres utilisateur dans les deux [!DNL Workfront] et les paramètres principaux.
 activity: use
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335126.png
 kt: 8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

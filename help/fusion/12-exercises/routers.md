@@ -1,18 +1,21 @@
 ---
 title: Routeurs
 description: Comprenez l’importance des routeurs et comment ils peuvent être utilisés pour traiter de manière conditionnelle différents modules.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # Routeurs
 
@@ -55,8 +58,8 @@ Utilisez un routeur pour transmettre les lots Pokemon et superhéros vers le che
    >
    >Si vous rencontrez des problèmes pour accéder à votre propre jeton superhero, vous pouvez utiliser ce jeton partagé : 10110256647253588. Veuillez tenir compte du nombre de fois que vous appelez à l’API superhero pour que ce jeton partagé continue à fonctionner pour tout le monde.
 
-1. Ouvrez les paramètres de l’apparence Get superhero et remplacez l’URL par https://www.superheroapi.com/api/[access-token]/332/apparence. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
-1. Ouvrez les paramètres des fonctionnalités Get superhero et remplacez l’URL par https://www.superheroapi.com/api/[access-token]/332/powerstats. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
+1. Ouvrez les paramètres de l’apparence Get superhero et modifiez l’URL en `https://www.superheroapi.com/api/[access- token]/332/appearance`. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
+1. Ouvrez les paramètres des fonctionnalités Get superhero et remplacez l’URL par `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
 1. Cliquez avec le bouton droit de la souris sur chaque module superhero et sélectionnez Exécuter ce module uniquement. Cela génère la structure de données que vous devez afficher pour le mappage.
 1. Après avoir exécuté les deux, remplacez le nombre &quot;332&quot; dans chaque champ d’URL par la colonne 4 mappée à partir du module Parse CSV.
 

@@ -1,6 +1,8 @@
 ---
 title: Configuration des valeurs par défaut des recettes et des coûts de la tâche
-description: Le type de chiffre d’affaires et le type de coût sont utilisés pour calculer les informations financières prévues et réelles pour une tâche.
+description: Découvrez comment le type de chiffre d’affaires et le type de coût sont utilisés pour calculer les informations financières prévues et réelles pour une tâche.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 9%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 

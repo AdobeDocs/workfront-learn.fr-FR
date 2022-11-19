@@ -1,12 +1,15 @@
 ---
-title: Utilisation de la présentation JSON
+title: Présentation de l’utilisation de JSON
 description: Découvrez comment créer et analyser JSON dans un scénario pour prendre en charge vos besoins en matière de conception dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # Présentation de l’utilisation de JSON
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Découvrez comment créer et analyser JSON dans un scénario pour prendre en charge vos besoins en matière de conception.
 

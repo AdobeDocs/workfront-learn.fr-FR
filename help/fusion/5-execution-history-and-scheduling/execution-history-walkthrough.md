@@ -2,20 +2,23 @@
 title: Présentation de l’historique d’exécution
 description: Découvrez comment passer en revue l’historique d’exécution d’un scénario pour comprendre ce qui s’est passé dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-# Présentation de l’historique d’exécution des révisions
+# Présentation de l’historique d’exécution
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Passez en revue l’historique d’exécution pour le scénario &quot;Utilisation du puissant filtre&quot; afin de comprendre ce qui s’est passé lors des exécutions et la manière dont elles ont été structurées lors de leur exécution.
 

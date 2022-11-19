@@ -1,5 +1,5 @@
 ---
-title: '''[!UICONTROL Gestion des actifs numériques Workfront] Explication des profils utilisateur et'
+title: Présentation des profils utilisateur et de la navigation dans [!UICONTROL Gestion des actifs numériques Workfront]
 description: Découvrez la différence entre les trois [!UICONTROL Gestion des actifs numériques Workfront] profils utilisateur et navigation [!UICONTROL Gestion des actifs numériques Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8992
 exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

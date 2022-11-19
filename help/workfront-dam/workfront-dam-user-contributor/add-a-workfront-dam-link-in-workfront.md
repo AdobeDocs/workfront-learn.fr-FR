@@ -1,13 +1,15 @@
 ---
 title: Ajouter un [!UICONTROL Gestion des actifs numériques Workfront] Lien dans Workfront
 description: Découvrez comment ajouter une [!UICONTROL Gestion des actifs numériques Workfront] lien dans Workfront afin que vous puissiez créer un lien [!UICONTROL DAM] à votre projet, à votre tâche ou à votre problème dans Workfront.
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%

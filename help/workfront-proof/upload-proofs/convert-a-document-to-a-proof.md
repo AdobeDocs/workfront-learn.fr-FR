@@ -1,5 +1,5 @@
 ---
-title: Comment convertir un document en bon à tirer
+title: Convertir un document en BAT
 description: Découvrez comment générer un bon à tirer d’un document qui existe déjà dans [!DNL  Workfront], ajoutez un workflow à un BAT, puis ajoutez ou modifiez un workflow après la création du BAT.
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335134.png
 kt: 8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---

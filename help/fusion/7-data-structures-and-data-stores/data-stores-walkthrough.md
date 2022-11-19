@@ -2,11 +2,14 @@
 title: Présentation des entrepôts de données
 description: Découvrez comment utiliser un entrepôt de données pour synchroniser les noms d’entreprise entre une liste d’entreprises et Workfront à l’aide de [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # Présentation des entrepôts de données
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Au cours de cet exercice, nous utilisons un entrepôt de données pour synchroniser les noms d’entreprise entre une liste d’entreprises et Workfront.
 

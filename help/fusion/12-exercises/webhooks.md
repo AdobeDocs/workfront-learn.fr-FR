@@ -1,18 +1,21 @@
 ---
 title: Webhooks
 description: Découvrez comment créer, déclencher et gérer des scénarios lancés par webhook.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11053
 thumbnail: KT11053.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
 
 ---
-
 
 # Webhooks
 
@@ -38,7 +41,7 @@ L’objectif de ce scénario est de créer une application à vendre aux épicer
 1. Cliquez sur Ajouter pour créer un nouvel webhook.
 1. Saisissez le nom du webhook &quot;Application pour la période de boisson&quot;.
 1. Laissez les restrictions d’IP vides, ce qui signifie que n’importe qui peut y envoyer des données.
-1. Cliquez sur Enregistrer.
+1. Cliquer sur Enregistrer.
 
 
    ![Webhooks Image 2](../12-exercises/assets/webhooks-walkthrough-2.png)

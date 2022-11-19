@@ -1,5 +1,5 @@
 ---
-title: Téléchargement à l’aide de processus automatisés
+title: Chargement d’un BAT avec un workflow automatisé
 description: Découvrez quand utiliser un workflow de BAT automatisé, comment appliquer un workflow à l’aide d’un modèle de BAT et comment configurer entièrement un workflow automatisé.
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335133.png
 kt: 8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---

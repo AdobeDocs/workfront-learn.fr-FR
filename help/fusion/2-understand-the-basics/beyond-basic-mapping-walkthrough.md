@@ -1,21 +1,24 @@
 ---
-title: Au-delà de la présentation du mappage de base
-description: Dans cette vidéo, vous allez modifier certains champs du projet dans le scénario que vous avez créé précédemment à l’aide des formules du panneau de mappage dans [!DNL Adobe Workfront Fusion].
+title: Au-delà de la présentation du mapping de base
+description: Modifiez certains champs de projet dans le scénario que vous avez créé précédemment à l’aide des formules du panneau de mappage dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Au-delà de la présentation du mapping de base
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Modifiez le nom du projet, la date de début planifiée et la priorité de la &quot;conception du scénario initial&quot; que vous avez créée lors de la première présentation à l’aide des formules du panneau de mappage.
 
@@ -32,6 +35,10 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 >Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Au-delà de la présentation du mapping de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) exercice.
 
 ## Votre tour
+
+>[!NOTE]
+>
+>Les exercices pratiques sont facultatifs et ne sont pas nécessaires pour terminer la formation sur la fusion.
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 

@@ -1,21 +1,24 @@
 ---
-title: Présentation de la définition/de l’obtention de variables
-description: Dans cette vidéo, vous apprendrez à rechercher des informations sur un projet dans Workfront et à envoyer un courrier électronique contenant des informations connexes dans [!DNL Adobe Workfront Fusion].
+title: Présentation détaillée de la définition/de l’obtention des variables
+description: Découvrez comment rechercher des informations sur un projet dans Workfront et envoyer un courrier électronique contenant des informations connexes dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
 # Présentation de la définition et de l’obtention de variables
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Recherchez des informations sur un projet dans Workfront et envoyez un courrier électronique contenant des informations connexes.
 
@@ -32,6 +35,10 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 >Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation détaillée de la définition/de l’obtention des variables](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) exercice.
 
 ## Votre tour
+
+>[!NOTE]
+>
+>Les exercices pratiques sont facultatifs et ne sont pas nécessaires pour terminer la formation sur la fusion.
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 

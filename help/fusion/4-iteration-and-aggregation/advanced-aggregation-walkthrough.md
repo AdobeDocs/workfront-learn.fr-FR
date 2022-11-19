@@ -2,13 +2,16 @@
 title: Présentation de l’agrégation avancée
 description: Découvrez comment appeler un service Web pour renvoyer des détails sur plusieurs pays et identifier la population, regroupée par sous-région, le tout dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Pour éviter cela, ajoutez un agrégateur après un module qui produit potentiel
 Vous verrez une ombre entourant un segment dans votre scénario à partir d’un **start-iterator** au **ending-aggator**. Cela permet de repérer facilement ces segments dans votre scénario Workfront Fusion.
 
 ## Votre tour
+
+>[!NOTE]
+>
+>Les exercices pratiques sont facultatifs et ne sont pas nécessaires pour terminer la formation sur la fusion.
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 

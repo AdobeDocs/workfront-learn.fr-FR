@@ -1,21 +1,24 @@
 ---
 title: Présentation des filtres
-description: Dans cette vidéo, vous apprendrez comment ajouter un filtre entre les deux modules dans les modules de [!DNL Adobe Workfront Fusion].
+description: Découvrez comment ajouter un filtre entre les deux modules dans les modules de [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
 # Présentation du filtre puissant
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 À l’aide de l’exercice de présentation &quot;Au-delà du mappage de base&quot; que vous avez créé précédemment, ajoutez un filtre entre les deux modules dans les modules afin de créer uniquement les projets dont la couleur de projet &quot;Rouge&quot; figure dans la liste des projets.
 
@@ -36,6 +39,10 @@ Dans cette vidéo, vous apprendrez à :
 >Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation des filtres](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) exercice.
 
 ## Votre tour
+
+>[!NOTE]
+>
+>Les exercices pratiques sont facultatifs et ne sont pas nécessaires pour terminer la formation sur la fusion.
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 

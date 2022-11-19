@@ -2,11 +2,14 @@
 title: Présentation des modèles de routage
 description: Découvrez comment utiliser le module Définir la variable pour envoyer un nombre à travers plusieurs chemins afin de voir comment les filtres et les secours se comportent dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # Présentation des modèles de routage et des abandons
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Utilisez le module Set Variable (Définir la variable) pour envoyer un nombre à travers plusieurs chemins afin de visualiser le comportement des filtres et des secours lors du routage.
 

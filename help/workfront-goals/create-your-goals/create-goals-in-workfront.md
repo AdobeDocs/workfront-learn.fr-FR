@@ -1,5 +1,5 @@
 ---
-title: Création d’objectifs dans Workfront
+title: Création d’objectifs dans [!DNL Workfront Goals]
 description: Découvrez comment créer des objectifs dans [!DNL Workfront Goals] en utilisant trois options différentes.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
 
-# Création d’objectifs dans Workfront
+# Création d’objectifs dans [!DNL Workfront Goals]
 
 Dans [!DNL Workfront Goals], les cadres et les équipes de direction d’entreprise peuvent voir les progrès de l’ensemble de l’organisation à chaque niveau, jusqu’à l’individu. [!DNL Workfront Goals] offre la visibilité nécessaire pour obtenir des informations exploitables clés afin de faire avancer les priorités les plus élevées, d’identifier les objectifs à risque, de diagnostiquer les problèmes en temps réel et de corriger de manière proactive les cours.
 
@@ -65,7 +65,7 @@ Voici quelques éléments à prendre en compte avant de copier des objectifs :
 
 1. Vérifiez les **[!UICONTROL Copie de résultats]** si des résultats ont été ajoutés à l’objectif d’origine et que vous souhaitez les copier dans le nouvel objectif. Les résultats de l’objectif copié ont les mêmes propriétaire, noms et valeurs mesurées que les résultats de l’objectif d’origine.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**. L’objectif copié est enregistré avec l’état Brouillon.
+1. Cliquer sur **[!UICONTROL Enregistrer]**. L’objectif copié est enregistré avec l’état Brouillon.
 
    ![Une image de la fonction [!UICONTROL Détails de l’objectif] dans [!DNL Workfront Goals] avec le [!UICONTROL Copier] option](assets/03-workfront-goals-copy-a-goal.png)
 

@@ -1,6 +1,8 @@
 ---
-title: Qu’est-ce qu’une version d’un bon à tirer ?
+title: Qu’est-ce qu’une version de BAT ?
 description: Découvrez comment les versions peuvent vous aider à gérer le processus de révision et d’approbation sur plusieurs itérations d’un fichier à l’aide des fonctionnalités de vérification [!DNL].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: what-is-a-proof-version.png
 kt: 10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Qu&#39;est-ce qu&#39;une version d&#39;un BAT ?
+# Qu’est-ce qu’une version de BAT ?
 
 [!DNL Workfront’s] les fonctions de vérification permettent à votre entreprise de gérer le processus de révision et d’approbation sur plusieurs itérations d’un fichier à l’aide de versions.
 

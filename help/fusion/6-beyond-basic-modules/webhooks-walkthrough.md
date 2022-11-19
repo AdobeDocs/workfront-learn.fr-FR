@@ -1,21 +1,24 @@
 ---
-title: Présentation des webhooks
+title: Présentation détaillée de Webhooks
 description: Découvrez comment utiliser un webhook pour créer une application afin de déterminer si un client est assez âgé pour acheter de l’alcool, le tout dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
 
 # Présentation détaillée de Webhooks
 
-## Vue d&#39;ensemble
+## Vue d’ensemble
 
 Ce scénario crée une application de commerce de proximité qui leur permet de déterminer facilement si un client est assez âgé pour acheter de l’alcool. La caisse doit simplement publier le nom et la date de naissance du client ET un jeton client vérifié sur une URL fournie. Une fois saisie, notre scénario est déclenché pour calculer la réponse appropriée et la renvoyer au demandeur.
 
@@ -46,6 +49,10 @@ Pour suivre l’exercice pas à pas, vous devez télécharger l’application Po
 ![Une image à l’aide du module switch](assets/beyond-basic-modules-6.png)
 
 ## Votre tour
+
+>[!NOTE]
+>
+>Les exercices pratiques sont facultatifs et ne sont pas nécessaires pour terminer la formation sur la fusion.
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 

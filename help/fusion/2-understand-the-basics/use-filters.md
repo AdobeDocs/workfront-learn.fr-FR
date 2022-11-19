@@ -1,19 +1,22 @@
 ---
-title: Utiliser des filtres
-description: Dans cette vidéo, vous apprendrez à utiliser des filtres entre les modules et au sein d’un module, ainsi qu’à consulter l’historique d’exécution, le tout dans [!DNL Adobe Workfront Fusion].
+title: Utilisation des filtres
+description: Découvrez comment utiliser des filtres entre les modules et dans un module, et consulter l’historique d’exécution, le tout dans [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9005
 exl-id: 1e47a475-0d20-4516-b6ef-86166263d3b5
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Utiliser des filtres
+# Utilisation des filtres
 
 Dans cette vidéo, vous apprendrez à :
 

@@ -1,5 +1,5 @@
 ---
-title: Alertes par e-mail et notifications de BAT expliquées
+title: Présentation des alertes par email et des notifications de BAT
 description: Comprendre la différence entre les alertes par email et les notifications de BAT dans [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Alerte email et notification BAT
+# Présentation des alertes par email et des notifications de BAT
 
 Les alertes par email diffèrent des emails de notification de BAT. Vous recevrez un e-mail de notification de BAT lorsque vous aurez reçu un nouveau BAT à vérifier, lorsqu’un BAT est en retard ou lorsqu’une nouvelle version du BAT vous sera affectée.
 

@@ -1,5 +1,5 @@
 ---
-title: Vérification et approbation d’un bon à tirer
+title: Vérifier et approuver un BAT
 description: Découvrez comment accéder à un BAT et y ajouter des commentaires, utiliser des balises pour indiquer les modifications nécessaires, répondre aux commentaires du BAT et prendre une décision sur un BAT dans [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# Vérifier et approuver un BAT numérique
+# Vérifier et approuver un BAT
 
 Avant de commencer à vérifier un bon à tirer, assurez-vous de savoir ce que vous attendez de vous. Quel est votre rôle dans le workflow de vérification ? Examinez le BAT, approuvez-le, ou les deux ?
 

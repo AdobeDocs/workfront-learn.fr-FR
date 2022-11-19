@@ -1,5 +1,5 @@
 ---
-title: Accès à votre liste de tâches via Slack
+title: Accédez à votre liste de tâches via [!DNL Slack]
 description: Découvrez comment accéder à votre liste de tâches dans [!DNL Workfront]
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8818
 exl-id: ef55731b-3da3-4c9a-a93a-5dc1ced7f53d
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
-# Accès à votre liste de tâches via Slack
+# Accédez à votre liste de tâches via [!DNL Slack]
 
 Dans cette vidéo, vous apprendrez à :
 

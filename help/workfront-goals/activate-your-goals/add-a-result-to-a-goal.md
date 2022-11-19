@@ -1,6 +1,6 @@
 ---
-title: Comment ajouter un résultat à un objectif
-description: Découvrez comment activer un objectif en ajoutant un résultat dans les [!DNL Goals].
+title: Ajouter un résultat à un objectif
+description: Découvrez comment activer un objectif en ajoutant un résultat dans [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8922
 exl-id: e54aa547-97d1-4603-bb63-503e605be408
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---

@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
+source-wordcount: '2219'
 ht-degree: 2%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 2%
       + [Création de l’état des problèmes à l’échelle du système](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
       + [Personnalisation des types de problèmes et de la terminologie](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Présentation des types de problèmes par défaut](administration-and-setup/configure-system-defaults/default-issue-types.md)
-   + Modèles de mise en page {#layout-templates}
+   + Modèles de disposition {#layout-templates}
       + [Attribuer et gérer l’accès aux modèles de mise en page](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Personnalisation des zones d’objet avec un modèle de mise en page](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [Personnalisation des détails d’un projet à l’aide de modèles de mise en page](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
@@ -251,7 +251,7 @@ ht-degree: 2%
       + [Paramètres de gestion des ressources pour les projets](manage-resources/resource-management/settings-for-projects.md)
       + [Paramètres de gestion des ressources pour les utilisateurs](manage-resources/resource-management/settings-for-users.md)
       + [Configuration de la gestion des ressources, équilibreur de charge de travail et rapport d’utilisation](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
-   + Équilbreur de charge de travail {#workload-balancer}
+   + Équilibreur de charge de travail {#workload-balancer}
       + [Ajuster les allocations quotidiennes dans l’équilibreur de charge de travail](manage-resources/workload-balancer/adjust-daily-allocations.md)
       + [Affecter un travail dans l’équilibreur de charge](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
       + [Filtrage de l’équilibreur de charge de travail](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
@@ -342,7 +342,7 @@ ht-degree: 2%
       + [Effectuez les approbations via [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Recherche dans Workfront via [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Présentation de Workfront pour [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Afficher le travail récent [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [Afficher les travaux récents [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -460,7 +460,7 @@ ht-degree: 2%
    + Administration et configuration {#administration-and-setup-for-proof}
       + [Personnalisation des actions de commentaire de BAT](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Personnalisation des options de décision du BAT](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [Alerte email et notification BAT](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [Présentation des alertes par email et des notifications de BAT](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [Rôles de BAT et alertes par email](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Rapport sur les bons à tirer](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Définir les paramètres par défaut des BAT](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
@@ -591,7 +591,7 @@ ht-degree: 2%
    + [Documents](best-practices/documents-bp.md)
    + [Filtres, vues et regroupements](best-practices/filters-views-groupings-bp.md)
    + [Fonctions](best-practices/job-roles-bp.md)
-   + [Modèles de mise en page](best-practices/layout-templates-bp.md)
+   + [Modèles de disposition](best-practices/layout-templates-bp.md)
    + [Licences et niveaux d’accès](best-practices/licenses-access-levels-bp.md)
    + [Intégration et adoption](best-practices/onboarding-adoption-bp.md)
    + [Entités organisationnelles](best-practices/organizational-units-bp.md)
@@ -612,7 +612,7 @@ ht-degree: 2%
    + [Fiches horaires et heure de connexion](best-practices/timesheets-logging-time-bp.md)
    + [Utilisation](best-practices/utilization-bp.md)
    + [Objectifs Workfront](best-practices/workfront-goals-bp.md)
-   + [Équilbreur de charge de travail](best-practices/workload-balancer-bp.md)
+   + [Équilibreur de charge de travail](best-practices/workload-balancer-bp.md)
 
 
 

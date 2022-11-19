@@ -1,5 +1,5 @@
 ---
-title: Définition et express de l’objectif ou de l’objectif final
+title: Définition et expression de l’objectif ou de l’objectif final
 description: Apprenez à créer une déclaration d'objectif claire ou l'intention du commandant et à définir des objectifs solides pour l'entreprise ou l'organisation.
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%

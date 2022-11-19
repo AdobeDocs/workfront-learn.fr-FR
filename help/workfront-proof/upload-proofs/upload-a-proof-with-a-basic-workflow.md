@@ -1,5 +1,5 @@
 ---
-title: Comment télécharger un bon à tirer avec un workflow de base
+title: Chargement d’un BAT avec un workflow de base
 description: Découvrez comment charger des fichiers en tant que BAT, ajouter un workflow de vérification de base pour la révision et l’approbation des parties prenantes et définir des échéances pour la révision de la vérification de la vérification dans [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
