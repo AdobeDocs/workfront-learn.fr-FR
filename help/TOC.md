@@ -3,7 +3,7 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
 workflow-type: tm+mt
 source-wordcount: '2219'
 ht-degree: 2%
@@ -428,7 +428,7 @@ ht-degree: 2%
       + [Routeurs](fusion/12-exercises/routers.md)
       + [Modèles de routage](fusion/12-exercises/routing-patterns.md)
       + [Définir/Obtenir des variables](fusion/12-exercises/set-get-variables.md)
-      + [Présentation des itérateurs](fusion/12-exercises/introduction-to-iterators.md)
+      + [Présentation des itérateurs](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Agrégation](fusion/12-exercises/aggregation.md)
       + [Agrégation avancée](fusion/12-exercises/advanced-aggregation.md)
       + [Historique d&#39;exécution](fusion/12-exercises/execution-history.md)
