@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez :
 
 De nombreux utilisateurs de Workfront Fusion atteignent un point où ils réfléchissent à tous les systèmes qu&#39;ils utilisent et finalement se demandent : &quot;Workfront Fusion a-t-il des connecteurs pour ____ logiciel ?&quot; (Renseignez le champ vide pour les systèmes que vous utilisez.)
 
-La méthode la plus simple pour déterminer si Workfront Fusion dispose d’un connecteur prédéfini consiste à utiliser la fonction Ajouter une application et à rechercher une application par nom. Vous pouvez également vérifier les **Applications et leurs modules** article sur Experience League pour une liste d’applications avec lesquelles Workfront Fusion peut se connecter.
+La méthode la plus simple pour déterminer si Workfront Fusion dispose d’un connecteur prédéfini consiste à utiliser la fonction Ajouter une application et à rechercher une application par nom. Vous pouvez également vérifier les [Applications et leurs modules](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) article sur Experience League pour une liste d’applications avec lesquelles Workfront Fusion peut se connecter.
 
 Les connecteurs ne sont pas limités uniquement aux applications de cet article. Si l’application avec laquelle vous souhaitez travailler ne dispose pas d’un connecteur prédéfini, vous pouvez utiliser ces modules pour vous connecter directement au service web :
 

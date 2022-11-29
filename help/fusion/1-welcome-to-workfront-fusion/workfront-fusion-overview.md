@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Chaque section de Workfront Fusion contient plusieurs tutoriels, chaque tutoriel présentant des concepts que vous devrez comprendre avant de passer au tutoriel suivant. Un exercice de présentation vous permet de maîtriser la plupart des concepts.
 
-Les vidéos vous montrent, étape par étape, comment terminer chaque exercice, ce qui entraîne la création d’un scénario de fusion Workfront. Vous pouvez ensuite terminer l’exercice dans votre propre environnement Workfront Fusion, en ajoutant à votre propre collection de scénarios. Le **Manuel d’activité d’Adobe Workfront Fusion** contient des instructions étape par étape pour effectuer les étapes pas à pas.
+Les vidéos vous montrent comment terminer chaque exercice pas à pas, ce qui entraîne généralement la création d’un scénario de fusion Workfront. Vous pouvez ensuite terminer l’exercice dans votre propre environnement Workfront Fusion, en ajoutant à votre propre collection de scénarios.
 
-Dans certains tutoriels, vous allez créer un nouveau scénario à partir de zéro. Dans d’autres sections, vous allez commencer par copier un scénario que vous avez créé précédemment.
+Dans certains tutoriels, vous allez créer un nouveau scénario à partir de zéro. Dans d’autres tutoriels, vous allez commencer par copier un scénario que vous avez créé précédemment.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Demandez un environnement d’entraînement en remplissant [ce formulaire](https
 
 ### Accès à Workfront Fusion pour la pratique
 
-Workfront ne propose pas de lecteurs de test Workfront Fusion. Pour vous entraîner à la fin des parcours d’apprentissage, demandez l’accès à Workfront Fusion à l’administrateur Workfront Fusion de votre entreprise.
+Workfront ne propose pas de lecteurs de test Workfront Fusion. Pour vous entraîner à la fin des tutoriels, demandez l’accès à Workfront Fusion à l’administrateur Workfront Fusion de votre entreprise.
 
 ### Instructions étape par étape pour terminer les exercices de présentation
 
