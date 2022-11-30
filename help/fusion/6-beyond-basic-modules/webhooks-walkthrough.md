@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Pour suivre l’exercice pas à pas, vous devez télécharger l’application Po
 
 >[!NOTE]
 >
->Les exercices pratiques sont facultatifs et ne sont pas nécessaires pour terminer la formation sur la fusion.
+>Les exercices pratiques et les défis sont facultatifs et ne sont pas nécessaires pour terminer la formation Fusion.
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront ne propose pas de lecteurs de test Workfront Fusion. Pour vous entraî
 
 Il existe des instructions étape par étape pour terminer les exercices de présentation. Vous pouvez y accéder à partir de la barre de navigation de gauche sous Fusion > Exercices ou utiliser le lien fourni au bas d’un tutoriel pas à pas.
 
+### Exercices pratiques facultatifs
+
+Les exercices pratiques et les défis sont fournis à la suite de certains exercices de présentation.
+
+Il existe plusieurs façons de résoudre les exercices pratiques. L’objectif est de vous mettre au défi d’essayer d’atteindre un objectif de scénario sans avoir à suivre les étapes ou la &quot;bonne réponse&quot;, car c’est ce que vous devrez faire lors de la création d’un scénario dans votre entreprise.
+
+L’exercice d’entraînement est lié à l’activité de présentation.
+
+Les défis sont pour ceux qui veulent essayer quelque chose qui implique d&#39;autres concepts qu&#39;ils ont appris.
+
+### Comment obtenir de l’aide
+
+Les instructions étape par étape sont fournies pour vous aider à accomplir les exercices de présentation.
+
+Il y a également un [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) où vous pouvez poser des questions.
