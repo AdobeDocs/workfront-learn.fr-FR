@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ Pour rechercher une valeur spécifique dans la description, telle que &quot;év�
 
 L’expression de texte ISBLANK comprend le nom de l’expression et un point de données.
 
-**ISBLANK(point de données)**
+**ISBLANK({point de données})**
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/isblank03.png)
 
 Dans l’exemple ci-dessus, où vous souhaitez savoir si le projet comporte une description, l’expression serait :
 
-ISBLANK(Description)
+ISBLANK({description})
 
 ## CONTIENT
 
 L’expression de texte CONTAINS inclut le nom de l’expression, le mot ou l’expression que vous recherchez et le champ à rechercher.
 
-**CONTAINS(&quot;expression&quot;,champ)**
+**CONTAINS(&quot;expression&quot;,{fields})**
 
 Veillez à placer des guillemets autour du mot ou de l’expression que vous recherchez, sinon l’expression ne sera pas valide.
 
 Dans l’exemple ci-dessus (en recherchant &quot;événement caritatif&quot; dans la description du projet), l’expression serait :
 
-**CONTAINS(&quot;événement caritatif&quot;,Description)**
+**CONTAINS(&quot;événement caritatif&quot;,{description})**
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/isblank04.png)
 
 **Remarque**: L’expression CONTAINS est sensible à la casse. Par exemple, si &quot;Charity Event&quot; est mis en majuscules dans le champ de description, mettez cette expression en majuscules dans l’expression.
 
-**CONTAINS(&quot;Charity Event&quot;,Description)**
+**CONTAINS(&quot;Charity Event&quot;,{description})**
 
 Les expressions ISBLANK et CONTAINS sont très utiles si vous souhaitez voir si une valeur est présente. Cependant, il peut s’avérer plus utile de connaître la valeur, de la voir réellement ou d’avoir une sorte de descripteur pour fournir une meilleure information.
 
