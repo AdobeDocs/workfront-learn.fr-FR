@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Les expressions de date et d’heure vous permettent d’extraire des dates impo
 
 Lorsque vous examinez les expressions de date et d’heure disponibles, plusieurs options sont disponibles.
 
-![Configuration d’un téléavertisseur dans la gestion des ressources](assets/DTM01.png)
+![Exemples d’expressions de date et d’heure](assets/datetimeexpressions01.png)
 
 Il existe deux jeux d’expressions de date et d’heure utilisés le plus souvent par [!DNL Workfront] clients :
 
@@ -37,9 +37,11 @@ Expressions mathématiques autorisées [!DNL Workfront] pour effectuer automatiq
 
 Lorsque vous examinez les expressions de date et d’heure disponibles, vous constatez que plusieurs options sont disponibles.
 
-![Configuration d’un téléavertisseur dans la gestion des ressources](assets/math01.png)
+![Exemples d’expressions mathématiques](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] Les clients utilisent généralement ces deux ensembles d’expressions mathématiques :
+Les clients Workfront utilisent généralement ces deux ensembles d’expressions mathématiques :
 
 * SOB, SUM, DIV, PROD
 * ARRONDIR
+
+<b>REMARQUE</b>: Pour obtenir une liste complète des expressions et plus d’informations sur chacune d’elles, consultez la page de documentation &quot;Expressions de données calculées&quot;.

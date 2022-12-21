@@ -9,58 +9,69 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
 # Informations à connaître sur les expressions de champ calculées
 
-Voici une liste des concepts à connaître lorsque vous utilisez des champs calculés personnalisés dans [!DNL Workfront].
+Voici une liste des concepts à connaître lorsque vous utilisez des champs calculés personnalisés dans Workfront.
 
-## Le crénelage n’a pas d’importance dans les noms d’expression
+## Caching des questions dans les noms d’expression
 
-En ce qui concerne les noms d’expression, la casse n’a pas d’importance. Vous pouvez utiliser des majuscules, des minuscules ou un mélange des deux. Avec l&#39;expression ISBLANK(Description), &quot;ISBLANK&quot; peut être écrit comme :
+Quand il s&#39;agit des noms d&#39;expression, la casse est importante. Lors de la création initiale d’un nom d’expression, vous pouvez utiliser des majuscules, des minuscules ou un mélange des deux.
 
-* ISBLANK
-* Isblank
-* IsBlank
-* isBLANK
+![Message d’erreur sans majuscules dans le nom de l’expression](assets/ttk-casingmatters01.png)
 
-Tous travailleront.
+Cependant, l’expression doit être écrite en majuscules pour que le système reconnaisse l’expression et enregistre le champ.
+
+
 
 ## Les heures sont stockées en minutes
 
-Heures en [!DNL Workfront’s] sont stockées en minutes. Si vous référencez des champs tels que Heures planifiées ou Heures réelles, divisez par 60 pour afficher l’heure en heures et non en minutes.
+Les heures dans la base de données de Workfront sont stockées en minutes. Si vous référencez des champs tels que Heures planifiées ou Heures réelles, divisez par 60 pour afficher l’heure en heures et non en minutes.
 
 ## L’espacement n’affecte pas les expressions
 
 La méthode recommandée pour écrire des expressions consiste à espacer peu ou pas entre chaque expression.
 
-* IF(ISBLANK(Description), &quot;No Description&quot;, &quot;Has Description&quot;)
+* IF(ISBLANK({description}),&quot;No Description&quot;,&quot;Has Description&quot;)
+
+![Expressions sans espacement entre les champs](assets/spacing01.png)
 
 Cependant, si l’espacement vous permet de voir ce qui se passe, il est possible d’ajouter de l’espacement aux expressions. Les espaces supplémentaires ne doivent pas empêcher l’expression de collecter ou de calculer une valeur dans [!DNL Workfront].
 
-* IF (ISBLANK (Description),&quot;No Description&quot; ,&quot;Has Description&quot; )
+* IF (ISBLANK ({description}), &quot;No Description&quot; , &quot;Has Description&quot; )
+
+![Expressions avec espacement entre les champs](assets/spacing02.png)
+
+Les seuls éléments qui ne peuvent pas contenir d’espaces sont les champs et les accolades. Sinon, vous recevrez un message d’erreur et ne pourrez pas enregistrer le champ ou le formulaire personnalisé.
+
+![Erreur avec l’espacement entre le nom du champ et le crochet](assets/spacing03.png)
 
 ## Les guillemets doivent être droits
 
 Lors de l’utilisation de guillemets dans une expression, assurez-vous que les guillemets sont droits (&quot;). Si les guillemets sont incurvés (&quot;), la variable [!DNL Workfront] Le système continuera à afficher un message &quot;Expression personnalisée non valide&quot;.
 
+![Erreur avec des guillemets courbes](assets/curvedquotes01.png)
+
 ## Mise à jour des calculs lors de l’enregistrement d’un formulaire et de la modification d’un objet
 
 Il s’agit d’un aspect important des champs calculés à comprendre.
 
-Les informations affichées dans un champ calculé restent les mêmes et deviennent obsolètes, sauf si le formulaire personnalisé est recalculé. Vous pouvez actualiser les expressions à l’aide de l’option Recalculer les expressions du menu Plus d’un objet.
+Les informations affichées dans un champ calculé restent les mêmes et deviennent obsolètes, sauf si le formulaire personnalisé est recalculé.
+
+Vous pouvez actualiser les expressions à l’aide de l’option Recalculer les expressions du menu Plus d’un objet.
 
 Vous souhaitez voir le nombre de jours pendant lesquels un problème a été ouvert. Créez un champ calculé appelé &quot;Days Open&quot; avec l’expression DATEDIFF.
 
 * Nom du champ = Jours ouverts
-* Expression = DATEDIFF(Date d’entrée,$$TODAY)
+* Expression = DATEDIFF({entryDate},$$TODAY)
 
-Une fois enregistré, nombre de jours entre la première création du problème ou la saisie dans [!DNL Workfront]et la date d’aujourd’hui peut être affichée sur la page des détails d’un objet ou dans une vue de rapport.
+Une fois enregistré, le nombre de jours entre la première création du problème ou la saisie dans Workfront, et la date d’aujourd’hui peuvent être affichés sur la page de détails d’un objet ou dans une vue de rapport.
 
 Lorsque vous affichez la même page de détails ou la même vue de rapport le jour suivant, vous prévoyez que ce nombre augmente d’une unité. Si le numéro est 5 aujourd&#39;hui, il devrait être 6 demain. Le jour suivant doit être 7, puis 8, etc.
 
@@ -72,6 +83,8 @@ Pour mettre à jour un champ à l’aide de l’option Recalculer les expression
 * Cliquez sur le menu Plus .
 * Sélectionnez Recalculer les expressions dans la liste.
 
+![Option Recalculer l’expression dans l’objet](assets/recalculate01.png)
+
 Vous pouvez également recalculer plusieurs expressions en même temps à l’aide de la fonction &quot;modification en masse&quot; d’une liste ou d’un rapport. Supposons que vous ayez créé un rapport affichant une liste de problèmes avec le calcul Days Open apparaissant dans une colonne. Si vous souhaitez recalculer tous les problèmes à la fois :
 
 * Sélectionnez tous les problèmes du rapport.
@@ -79,6 +92,8 @@ Vous pouvez également recalculer plusieurs expressions en même temps à l’ai
 * Cliquez sur le libellé Forms personnalisé à gauche pour accéder à la section Formulaires personnalisés.
 * Cochez la case Recalculer les expressions personnalisées au bas de la section Forms personnalisé .
 * Cliquez sur Enregistrer les modifications.
+
+![Option Recalculer l’expression pour plusieurs objets](assets/recalculate02.png)
 
 L’écran s’actualise pour afficher les informations mises à jour dans le champ calculé.
 
@@ -94,7 +109,7 @@ Lorsqu’un champ personnalisé calculé est sélectionné dans la bibliothèque
 
 Par exemple, vous avez créé un champ calculé &quot;Jours à terminer&quot; pour déterminer le temps nécessaire pour terminer une tâche dans un projet.
 
-* WEEKDAYDIFF(Date de début réelle, Date de fin réelle)
+* WEEKDAYDIFF({realStartDate},{realCompletionDate})
 
 Vous voulez faire la même chose pour une itération. Vous pouvez utiliser la même expression ; cependant, les champs disponibles pour un objet de tâche ne sont pas toujours disponibles pour un objet d’itération. Donc [!DNL Workfront] vous donne la possibilité de créer le calcul avec les champs d’objet appropriés.
 
