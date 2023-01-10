@@ -1,6 +1,6 @@
 ---
 title: Créer un rapport de tâche
-description: 'Découvrez comment créer un rapport de tâche avec un filtre complexe et trouver les rapports que vous créez dans Workfront. Activité : créez un rapport de note avec des invites.'
+description: 'Apprenez à créer un rapport de tâches avec un filtre complexe et à trouver les rapports que vous créez dans Workfront. Activité : créer un rapport de notes avec des invites.'
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
