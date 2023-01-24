@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
+source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
 workflow-type: tm+mt
-source-wordcount: '2379'
+source-wordcount: '2385'
 ht-degree: 2%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 2%
       + [Attribuer et gérer l’accès aux modèles de mise en page](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Personnalisation des zones d’objet avec un modèle de mise en page](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [Personnalisation des détails d’un projet à l’aide de modèles de mise en page](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [Personnalisation des en-têtes de projet avec des modèles de mise en page](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [Personnalisation des listes de rapports avec des modèles de mise en page](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
    + Notifications par e-mail et in-app {#email-and-in-app-notifications}
       + [Gestion des notifications in-app et par e-mail](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
