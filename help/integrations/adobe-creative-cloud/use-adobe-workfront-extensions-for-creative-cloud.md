@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Utilisation des extensions Adobe Workfront pour Creative Cloud
 
-Recherchez et mettez à jour le travail qui vous est assigné dans Adobe Workfront sans quitter les applications Adobe Creative Cloud suivantes : Photoshop, XD, InDesign, Illustrator, Premiere Pro et After Effects.
+Recherchez et mettez à jour le travail qui vous est assigné dans Adobe Workfront sans quitter les applications Adobe Creative Cloud suivantes :
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 Vous devez installer le module externe approprié pour l’application Adobe Creative Cloud que vous utilisez :
 
@@ -27,7 +34,7 @@ Vous devez installer le module externe approprié pour l’application Adobe Cre
 
 >[!NOTE]
 >
->Veuillez noter que pour **Premiere Pro** et **After Effects** Le chargement, la révision et l’approbation de vidéos dans Workfront ne sont pas disponibles actuellement via le module externe .
+>**Premiere Pro** et **After Effects** Le chargement de vidéos, ainsi que la révision et l’approbation dans Workfront, ne sont pas disponibles actuellement via le module externe .
 
 
 Dans cette vidéo, vous apprendrez à effectuer les opérations suivantes dans votre application de Creative Cloud :
