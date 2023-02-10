@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
+source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2378'
 ht-degree: 2%
 
 ---
@@ -330,8 +330,7 @@ ht-degree: 2%
 
 + Intégrations {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Utilisation de Workfront pour Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
-      + [Téléchargement de BAT avec Workfront pour Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+      + [Utilisation des extensions Adobe Workfront pour Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Mappage des métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
@@ -588,7 +587,7 @@ ht-degree: 2%
    + Kanban {#kanban}
       + [Créer une équipe Kanban](agile/create-a-kanban-team.md)
       + [Gérer le travail en tant qu&#39;équipe Kanban](agile/manage-work-kanban-team.md)
-   + Panoramas  {#boards}
+   + Tableaux  {#boards}
       + [Recherche et création d’un panorama de base](boards/find-and-create-a-basic-board.md)
       + [Gestion des colonnes de panorama](boards/manage-board-columns.md)
       + [Ajout de cartes à un panorama](boards/add-cards-to-a-board.md)
