@@ -587,7 +587,7 @@ ht-degree: 2%
    + Kanban {#kanban}
       + [Créer une équipe Kanban](agile/create-a-kanban-team.md)
       + [Gérer le travail en tant qu&#39;équipe Kanban](agile/manage-work-kanban-team.md)
-   + Tableaux  {#boards}
+   + Panoramas  {#boards}
       + [Recherche et création d’un panorama de base](boards/find-and-create-a-basic-board.md)
       + [Gestion des colonnes de panorama](boards/manage-board-columns.md)
       + [Ajout de cartes à un panorama](boards/add-cards-to-a-board.md)
