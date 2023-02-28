@@ -3,7 +3,7 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
 source-wordcount: '2378'
 ht-degree: 2%
@@ -330,7 +330,7 @@ ht-degree: 2%
 
 + Intégrations {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Utilisation des extensions Adobe Workfront pour Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [Utilisation des modules externes Adobe Workfront pour Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Mappage des métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
