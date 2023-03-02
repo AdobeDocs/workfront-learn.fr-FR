@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -46,7 +47,7 @@ Vous avez un peu de temps supplémentaire cette semaine, donc vous voulez voir s
 
 Vous êtes génial pour aider vos coéquipiers ! Avec le filtre configuré comme l’image ci-dessous, vous trouverez les tâches suivantes :
 
-* Cela n’a pas été effectué (ce qui signifie qu’il n’y a pas de [!UICONTROL Terminer] statut ou état qui correspond à [!UICONTROL Terminer]);
+* Cela n’a pas été terminé (ce qui signifie qu’il n’y a pas de [!UICONTROL Terminer] statut ou état qui correspond à [!UICONTROL Terminer]);
 * qui se trouvent dans des projets avec une [!UICONTROL Actuel] statut (après tout, vous ne souhaitez pas trouver de tâches pour les projets qui n’ont pas encore été lancés) ;
 * qui sont affectés à une personne de votre équipe d’accueil, conformément aux paramètres définis par l’équipe Workfront ;
 * Et dont la date d’achèvement est fixée à un certain temps cette semaine (cette règle a utilisé le filtre de date prédéfini pour définir &quot;cette semaine&quot;).
