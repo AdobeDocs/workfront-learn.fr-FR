@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,13 @@ Savoir quelles ressources sont disponibles et comment les distribuer peut être 
 
 Son objectif est de vous donner plus d’informations et de mieux gérer les charges de travail quotidiennes et hebdomadaires des personnes que vous gérez. Vous pouvez ainsi effectuer de meilleures affectations, en fonction du rôle et de la disponibilité, sur plusieurs projets.
 
-![option de menu principal de ressource](assets/Find_01.png)
+![ressources dans le menu principal](assets/Find_01.png)
 
 * Cliquez sur [!UICONTROL Ressource] dans le [!UICONTROL Menu Principal].
 * Accédez au [!UICONTROL Planification] dans la zone Resource Management.
-* Cliquez sur le bouton [!UICONTROL &quot;Basculer vers l’équilibreur de charge de travail&quot;] lien.
+* Cliquez sur le bouton [!UICONTROL &quot;équilibreur de charge de travail&quot;] qui s’affiche.
 
-![passer à l’équilibreur de charge](assets/Find_02.png)
-
-Le [!DNL Workload Balancer] est l’option par défaut lors de l’accès à la zone Gestion des ressources de l’outil Workfront.
+![section répartition de charge de travail](assets/Find_02.png)
 
 ## Zones de l’équilibreur de charge de travail
 
