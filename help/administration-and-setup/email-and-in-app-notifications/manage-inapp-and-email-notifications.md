@@ -1,6 +1,7 @@
 ---
 title: Gestion des notifications d’événement In-App et Email
-description: Découvrez comment les utilisateurs peuvent contrôler les notifications In-App et par e-mail qui leur sont envoyées, de façon à ne recevoir que des e-mails utiles et pertinent pour leur travail.
+description: Découvrez comment les utilisateurs peuvent contrôler quelles notifications in-app et par e-mail ils reçoivent afin d’obtenir des emails pertinents et utiles concernant leur travail.
+short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 thumbnail: 10095.jpeg
 kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 9%
+source-wordcount: '616'
+ht-degree: 8%
 
 ---
 
@@ -73,7 +74,7 @@ Si vous décidez de le faire, sachez que même si vous ne recevez pas d’e-mail
 
 Il existe quelques cas où [!DNL Workfront] a vu des utilisateurs désactiver les notifications par e-mail. Par exemple, si vous effectuez la majeure partie de votre travail au moyen de la variable [!DNL Workfront] pour les applications mobiles, vous pouvez désactiver vos notifications par e-mail et recevoir des notifications uniquement via l’application.
 
-Quelle que soit la variable [!UICONTROL Notifications d’événement] Si vous décidez de recevoir des notifications, celles-ci sont importantes pour le succès du travail effectué pour atteindre les objectifs de votre organisation.
+Quelle que soit la variable [!UICONTROL Notifications d’événement] lorsque vous décidez de recevoir des notifications, celles-ci sont importantes pour le succès du travail effectué pour atteindre les objectifs de votre organisation.
 
 
 ## Recommendations
@@ -85,12 +86,12 @@ Pour la plupart des utilisateurs :
 * [!UICONTROL Lorsqu&#39;une tâche est terminée, envoyer un e-mail aux cessionnaires principaux de toute les tâches dépendantes]
 * [!UICONTROL Quelqu&#39;un m&#39;a inclus dans une mise à jour dirigée.]
 * [!UICONTROL Quelqu’un commente ma tâche]
-* [!UICONTROL La date d’échéance change pour une tâche à laquelle je suis affecté.]
+* [!UICONTROL Lorsque la date de fin prévue d&#39;une tâche est modifiée, envoyer un e-mail à l&#39;utilisateur affecté]
 
 
 Spécifiquement pour les chefs de projet :
 
-* [!UICONTROL Un projet sur lequel je travaille devient principal]
+* [!UICONTROL Lorsque le statut d&#39;un projet passe du statut idée/approuvé/rejeté/demandé/planifié à courant, envoyez un e-mail à l&#39;équipe]
 * [!UICONTROL Quand un projet passe d&#39;un statut de progression positive (Dans les délais) à un statut de progression négative (En retard), envoyer un e-mail au propriétaire du projet]
 * [!UICONTROL Envoyer un e-mail au propriétaire du projet lorsqu&#39;un événement est ajouté.]
 * [!UICONTROL La tâche Milestone s’achève sur un projet dont je suis propriétaire]
