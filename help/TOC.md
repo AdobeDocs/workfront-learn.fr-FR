@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2380'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 2%
       + [Création de groupes et de sous-groupes](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Comprendre la nécessité d’une administration des groupes](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [Créer des entreprises](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Configuration des utilisateurs avec des licences, des niveaux d’accès et des rôles de tâche](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Configuration des utilisateurs avec des licences et des niveaux d’accès](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Création et gestion des rôles de tâche](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Connexion en tant qu’autre utilisateur](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Gestion des éléments supprimés {#manage-deleted-items}
       + [Restaurer des objets à partir de la corbeille](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
@@ -467,7 +468,7 @@ ht-degree: 2%
 
 
 
-+ Épreuve Workfront {#workfront-proof}
++ Workfront Proof {#workfront-proof}
    + [Découvrez les avantages de la vérification](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Comprendre la différence entre un document et un BAT](workfront-proof/document-vs-proof.md)
    + [Explication des visionneuses de test](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -617,7 +618,7 @@ ht-degree: 2%
    + [Aperçu de l’environnement de test](best-practices/preview-sandbox-bp.md)
    + [Préférences pour les projets, tâches et problèmes](best-practices/project-task-issue-preferences-bp.md)
    + [Modèles de projet](best-practices/project-templates-bp.md)
-   + [Épreuve Workfront](best-practices/proofing-bp.md)
+   + [Workfront Proof](best-practices/proofing-bp.md)
    + [File d’attente des demandes](best-practices/request-queues-bp.md)
    + [Planificateur de ressources](best-practices/resource-planner-bp.md)
    + [Pools de ressources](best-practices/resource-pools-bp.md)
