@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
+source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
 workflow-type: tm+mt
-source-wordcount: '2380'
+source-wordcount: '2345'
 ht-degree: 2%
 
 ---
@@ -297,7 +297,7 @@ ht-degree: 2%
       + [Collaboration autour des objectifs de l’entreprise et de l’entreprise](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [Aligner les groupes et les équipes sur votre stratégie](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + Créer vos objectifs {#create-goals}
-      + [Comprendre comment utiliser [!UICONTROL Objectifs de Workfront]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+      + [[!UICONTROL Objectifs de Workfront] Présentation](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Configuration [!UICONTROL Objectifs de Workfront] pour votre organisation](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Accorder l’accès aux objectifs aux utilisateurs sélectionnés](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Créer un modèle de mise en page pour [!UICONTROL Objectifs de Workfront] utilisateurs](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -311,18 +311,12 @@ ht-degree: 2%
    + Gérer vos objectifs {#manage-goals}
       + [Aligner vos objectifs](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Supprimer l’alignement d’objectif](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [Convertir une activité en objectif aligné](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
-      + [Effectuer une mise à jour qualitative](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [Effectuer une mise à jour quantitative](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
-      + [Connexion manuelle d’objectifs les uns aux autres](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [Suivi et mise à jour des objectifs à l’aide de [!UICONTROL Archivages]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
       + [Fermer un objectif une fois terminé](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Surveiller vos objectifs {#monitor-goals}
       + [Présentation de la section des graphiques](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [Affichage des mises à jour individuelles de l’objectif](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [Calculer la progression de l’objectif](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Communication de l’état de l’objectif](workfront-goals/monitor-your-goals/communicate-goal-status.md)
-      + [Accédez au [!UICONTROL Pulse] flux de mise à jour](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
 
 
 
