@@ -9,25 +9,26 @@ role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
 # Activation des objectifs dans [!DNL Workfront]
 
-Maintenant que vous avez créé des objectifs, activons-les ! Lorsque vous créez un objectif, il est enregistré dans [!UICONTROL Version préliminaire] statut. [!UICONTROL Version préliminaire] les objectifs ne font pas partie de la gestion des objectifs tant que vous ne les avez pas activés. Une fois activés, ils passent à une [!UICONTROL Principal] et afficher la progression dans le tableau de bord et la manière dont ils s’alignent sur la stratégie globale. Objectifs dans [!UICONTROL Principal] sont associés à un indicateur de progression, généralement une activité ou un résultat, ou si l’objectif est aligné sur un autre objectif principal (relation d’objectif enfant-parent).
+Maintenant que vous avez créé des objectifs, activons-les ! Lorsque vous créez un objectif, il est enregistré dans [!UICONTROL Version préliminaire] statut. [!UICONTROL Version préliminaire] les objectifs ne font pas partie de la gestion des objectifs tant que vous ne les avez pas activés. Une fois activés, ils passent à une [!UICONTROL Principal] et afficher la progression dans le tableau de bord et la manière dont ils s’alignent sur la stratégie globale. Objectifs dans [!UICONTROL Principal] Les statuts sont associés à un indicateur de progression (généralement une activité, un résultat, un projet ou un objectif aligné (relation d’objectif enfant-parent).
 
 ![Capture d’écran d’un objectif dans l’état Brouillon des objectifs de Workfront](assets/04-workfront-goals-activate-goals.png)
 
 ## Les indicateurs de progression activent les objectifs
 
-Avant de poursuivre, il est important de comprendre les indicateurs de progression utilisés dans [!DNL Workfront Goals]. Les indicateurs de progression sont les objets de la variable [!DNL Goals] utilisé pour calculer la progression d’un objectif. Les indicateurs de progression sont les objectifs, les résultats, les activités et les projets harmonisés. Vous en apprendrez plus en détail ultérieurement. Pour l’instant, il est important de comprendre que des objectifs, des résultats, des activités et des projets alignés doivent être ajoutés à un objectif afin de l’activer.
+Avant de poursuivre, il est important de comprendre les indicateurs de progression utilisés dans [!DNL Workfront Goals]. Les indicateurs de progression sont les objets de la variable [!DNL Goals] utilisé pour calculer la progression d’un objectif. Les indicateurs de progression sont les objectifs, les résultats, les activités et les projets harmonisés. Vous en apprendrez plus en détail plus tard. Pour l’instant, il est important de comprendre que des objectifs, des résultats, des activités et des projets alignés doivent être ajoutés à un objectif afin de l’activer.
+
+Pour ajouter un indicateur de progression, ouvrez l&#39;objectif et sélectionnez l&#39;onglet Indicateurs de progression à gauche, puis le menu déroulant Nouvel indicateur de progression situé à côté.
+
+![Capture d’écran montrant les résultats, les activités et les projets, ainsi que les indicateurs de progression des objectifs.](assets/05-workfront-goals-progress-indicators.png)
 
 Par rapport à d’autres indicateurs de progression, les projets sont un peu uniques, car ils sont considérés comme un type d’activité. Les activités peuvent être différenciées en deux types : la barre de progression manuelle et les projets. Par conséquent, les projets stimulent également la progression. Bien que tous les types d’indicateurs de progression puissent être liés à un objectif parent, il est important de garder à l’esprit qu’il existe des différences dans la manière dont vous les gérez.
 
-Le tableau suivant affiche les similitudes et les différences entre les résultats, les activités et les projets, comme indicateurs d’objectif :
-
-![Tableau des similitudes et différences entre les résultats, les activités et les projets, en tant qu’indicateurs d’objectif.](assets/05-workfront-goals-progress-indicators.png)
