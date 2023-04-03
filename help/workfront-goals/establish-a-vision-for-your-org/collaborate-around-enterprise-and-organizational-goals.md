@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez à :
 * Définissez ce que vous et votre équipe devez faire pour atteindre l’objectif de niveau supérieur.
 * Affinez votre hiérarchie d’objectifs à partir de la section 2 : Définition d’une vision et d’une stratégie
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on)
 
 <!--
 Pro-tips graphic

@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Fermez un objectif pour indiquer quand l’objectif est atteint ou quand vous n’y travaillez plus et n’envisagez plus de le faire dans un avenir immédiat.
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)

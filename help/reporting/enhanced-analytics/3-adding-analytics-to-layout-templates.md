@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -25,6 +25,6 @@ Dans cette vidéo, vous apprendrez :
 * Comment les administrateurs système et groupe accordent l’accès à [!UICONTROL Analytics] dans le [!UICONTROL Nouvelle expérience Workfront]
 * Comment les administrateurs système et groupe accordent l’accès à [!UICONTROL Analytics] in [!UICONTROL Workfront Classic]
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
 Toute personne disposant d’une licence Workfront ([!UICONTROL Travail], [!UICONTROL Plan]ou [!UICONTROL Collaborateur] in [!UICONTROL Workfront Business] plans ou version ultérieure) peut accéder à [!UICONTROL Analytics] une fois ajouté au modèle de mise en page, il leur est attribué. Cependant, vous ne verrez que les projets et les informations sur les utilisateurs si votre niveau d’accès Workfront vous le permet et les autorisations de partage sur des projets et des utilisateurs spécifiques.

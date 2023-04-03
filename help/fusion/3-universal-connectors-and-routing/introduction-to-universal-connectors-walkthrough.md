@@ -10,7 +10,7 @@ level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on)
 
 ### URL d’exercice
 

@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Modifier les niveaux d’accès en fonction du type de licence
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
 Les administrateurs système peuvent suivre le nombre de [!DNL Workfront Goals] Les licences ont été utilisées par le biais de la **[!UICONTROL Configuration]** de Workfront.
 

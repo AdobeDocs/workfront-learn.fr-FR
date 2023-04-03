@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 kt: 8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment envoyer une requête par le biais d’une [!DNL  Workfront] file d’attente de requête
 * Structuration des files d’attente de requête
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Demander l’enregistrement automatique des brouillons
 

@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8716,8717,8718,8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -45,24 +45,24 @@ Vous pouvez rapidement trouver un projet récent (ainsi que d’autres objets) e
 
 Lorsque vous travaillez sur un projet, simplifiez-le en l’épinglant dans la barre de menus pour l’ouvrir en un seul clic.
 
->[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## Favori d’un projet
 
 Si vous gérez plusieurs projets, vous pouvez les rendre &quot;favoris&quot; en cliquant sur l’icône en forme d’étoile. Vous trouverez ensuite votre liste sous le [!UICONTROL Favoris] dans la barre de menus principale.
 
->[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
 ## Ouverture d’un projet à partir d’un tableau de bord
 
 Beaucoup [!DNL Workfront] les clients utilisent des rapports compilés sur un tableau de bord pour retrouver leurs travaux en cours.
 
->[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
 ## Ouvrez un projet à partir de la page Projets .
 
 Et, bien sûr, vos projets sont toujours disponibles dans la [!UICONTROL Projets] zone. Cliquez simplement sur le nom du projet pour l’ouvrir.
 
->[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)

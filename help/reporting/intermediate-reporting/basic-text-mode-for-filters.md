@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Dans cette vidéo, vous apprendrez :
 * Quelle casse de chameau ?
 * Un mode de texte de &quot;plug and play&quot; de base que vous pouvez utiliser dans les filtres de rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 
 ## Tâche - Filtrez les tâches où j’ai marqué &quot;Terminé avec ma part&quot;

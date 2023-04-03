@@ -10,7 +10,7 @@ level: Beginner
 kt: 9061
 exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 * Installation et utilisation de l’outil de développement de fusion Workfront
 * Comment passer en revue les différents outils avancés de conception de scénario
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on)

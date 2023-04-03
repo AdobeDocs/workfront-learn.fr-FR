@@ -11,7 +11,7 @@ thumbnail: 336096.png
 kt: 8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez à :
 * Télécharger une nouvelle version d’un BAT
 * Application d’un workflow de vérification à la version
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on)
 
 ## Chargement d’une version à partir de la visionneuse de vérification
 

@@ -10,7 +10,7 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Ce scénario crée une application de commerce de proximité qui leur permet de 
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
 >[!TIP]
 >

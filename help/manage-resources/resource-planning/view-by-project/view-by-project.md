@@ -11,7 +11,7 @@ thumbnail: 335170.jpeg
 kt: 8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous allez :
 * Voir [!UICONTROL Afficher par projet ]view
 * Découvrez comment les informations sur les ressources s&#39;affichent dans cette vue
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on)
 
 Pour l’option Afficher par projet , la valeur par défaut est d’afficher la colonne Budget , qui extrait l’estimation du nombre de ressources nécessaires à un projet à partir d’un cas d’entreprise, si celui-ci a été complété. Cela signifie également que la colonne Réseau utilise par défaut les chiffres de la colonne Budget pour indiquer le nombre de ressources restantes.
 

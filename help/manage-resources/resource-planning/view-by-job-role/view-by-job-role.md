@@ -11,7 +11,7 @@ thumbnail: 335169.jpeg
 kt: 8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Dans cette vidéo, vous allez :
 * Découvrez comment les informations sur les ressources s&#39;affichent dans cette vue
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on)
 
 Pour l’option Afficher par rôle de tâche , la valeur par défaut est d’afficher la colonne Budget , qui extrait l’estimation du nombre de ressources nécessaires à un projet à partir d’une analyse de cas, si elle a été remplie. Cela signifie également que la colonne Réseau utilise par défaut les chiffres de la colonne Budget pour indiquer le nombre de ressources restantes.
 

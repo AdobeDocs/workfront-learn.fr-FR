@@ -10,7 +10,7 @@ level: Beginner
 kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Pour de simples modifications de données, utilisez la fonction Switch afin de t
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on)
 
 >[!TIP]
 >

@@ -10,7 +10,7 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '879'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Utilisez un routeur pour transmettre les lots Pokemon et superhéros vers le che
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on)
 
 ## URL d’exercice
 

@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 22%
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Définition d’un projet dans [!DNL Workfront]
 * Les trois méthodes les plus courantes de création d’un projet
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
 Obtenez votre [!DNL  Workfront] projets exécutés rapidement à l’aide d’un modèle de projet. Planifiez ensuite votre projet en vous concentrant d’abord sur ces cinq champs :
 

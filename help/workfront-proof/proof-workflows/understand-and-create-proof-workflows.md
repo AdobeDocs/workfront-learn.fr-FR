@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8824
 exl-id: 8e8871a8-866e-4c9a-9f30-578d3b5639c5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Informations à collecter pour créer un workflow de BAT
 * Différence entre les workflows de BAT de base et avancés
 
->[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
 
 
 

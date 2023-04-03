@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Effectuer une mise à jour quantitative ou une mise à jour des indicateurs de progression (c’est-à-dire les résultats, les activités, les objectifs alignés, etc.) pour faire progresser votre objectif
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)

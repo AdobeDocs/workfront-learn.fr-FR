@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment accéder au graphique de condensation
 * Comment comprendre la relation entre les heures restantes, la condition du projet et la vitesse sur un projet ?
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on)
 
 ## Suivi de la vitesse du projet
 

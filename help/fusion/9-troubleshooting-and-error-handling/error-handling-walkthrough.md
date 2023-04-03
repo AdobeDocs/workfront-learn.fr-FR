@@ -10,7 +10,7 @@ level: Beginner
 kt: 9065
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Découvrez comment la gestion des erreurs par défaut se produit et comment ajou
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on)
 
 ## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
 

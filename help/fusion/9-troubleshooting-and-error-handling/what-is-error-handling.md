@@ -10,7 +10,7 @@ level: Beginner
 kt: 9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 * Quels sont les types d’erreur courants et comment le système les gère par défaut ?
 * Comment appliquer une gestion personnalisée des erreurs à l’aide d’un module de gestion des erreurs
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)

@@ -10,7 +10,7 @@ level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Passez en revue l’historique d’exécution pour le scénario &quot;Utilisatio
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
 
 >[!TIP]
 >

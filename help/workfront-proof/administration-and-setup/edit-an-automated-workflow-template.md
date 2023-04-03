@@ -11,7 +11,7 @@ thumbnail: 335131.png
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Chaque étape d’un workflow automatisé comporte sa propre section, qui permet
 
 Cette vidéo présente brièvement quelques-uns des changements que vous pouvez effectuer dans le [!UICONTROL Workflow] zone. Reportez-vous à la liste à puces sous cette vidéo, qui examine ces paramètres. Il n&#39;y a pas d&#39;audio sur cette vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 Voici les modifications que vous pouvez apporter au modèle de BAT dans la section [!UICONTROL Workflow] section :
 

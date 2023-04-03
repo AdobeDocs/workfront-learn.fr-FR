@@ -10,7 +10,7 @@ level: Beginner
 kt: 9049
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Découvrez comment utiliser le module Switch lorsque vous devez effectuer des tr
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on)
 
 >[!TIP]
 >

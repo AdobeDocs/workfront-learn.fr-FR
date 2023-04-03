@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment ajouter un filtre en fonction de champs de projet communs
 * Comment ajouter un filtre à l’aide d’un formulaire personnalisé
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on)
 
 >[!NOTE]
 >

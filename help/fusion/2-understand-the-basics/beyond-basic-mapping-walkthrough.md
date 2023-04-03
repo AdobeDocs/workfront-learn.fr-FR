@@ -10,7 +10,7 @@ level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Modifiez le nom du projet, la date de début planifiée et la priorité de la &q
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
 >[!TIP]
 >

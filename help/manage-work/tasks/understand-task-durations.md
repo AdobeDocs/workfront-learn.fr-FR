@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8776
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Dans cette vidéo, vous apprendrez :
 * Mode de prise en compte des durées dans les chronologies du projet
 * Recommandations relatives aux bonnes pratiques relatives à l’utilisation des durées de tâche
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

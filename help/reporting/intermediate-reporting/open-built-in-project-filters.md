@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez à :
 * Examinez les filtres de projet intégrés pour voir comment ils sont créés.
 * Créez votre propre filtre de projet à l’aide de ce que vous avez appris.
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 
 ## Activité : Création d’un filtre de projet
