@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ Lorsque vous harmonisez deux objectifs, l’un devient l’objectif parent et l�
 1. Cliquez sur [!UICONTROL Enregistrer les modifications].
 
 L’alignement d’un objectif sur un autre objectif crée un objectif enfant. Considérez les objectifs enfants comme des objectifs individuels qui contribuent à la progression des objectifs parents de l’organisation ou de l’équipe. Les objectifs enfants peuvent activer et influencer la progression de l’objectif parent.
+
+## Activation de l’objectif parent
+
+Maintenant que vous avez créé un objectif enfant, il devient un indicateur de progression sur votre objectif parent. L’option Activer s’affiche lorsque vous cliquez sur le menu à trois points en regard du nom de l’objectif parent.
+
+![Capture d’écran montrant comment activer l’objectif parent.](assets/activate-the-parent-goal.png)
+

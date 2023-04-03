@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Maintenant que vous avez créé des objectifs, activons-les ! Lorsque vous crée
 
 ![Capture d’écran d’un objectif dans l’état Brouillon des objectifs de Workfront](assets/04-workfront-goals-activate-goals.png)
 
-## Les indicateurs de progression activent les objectifs
+## Des indicateurs de progression sont nécessaires pour activer les objectifs
 
 Avant de poursuivre, il est important de comprendre les indicateurs de progression utilisés dans [!DNL Workfront Goals]. Les indicateurs de progression sont les objets de la variable [!DNL Goals] utilisé pour calculer la progression d’un objectif. Les indicateurs de progression sont les objectifs, les résultats, les activités et les projets harmonisés. Vous en apprendrez plus en détail plus tard. Pour l’instant, il est important de comprendre que des objectifs, des résultats, des activités et des projets alignés doivent être ajoutés à un objectif afin de l’activer.
 
@@ -32,3 +32,8 @@ Pour ajouter un indicateur de progression, ouvrez l&#39;objectif et sélectionne
 
 Par rapport à d’autres indicateurs de progression, les projets sont un peu uniques, car ils sont considérés comme un type d’activité. Les activités peuvent être différenciées en deux types : la barre de progression manuelle et les projets. Par conséquent, les projets stimulent également la progression. Bien que tous les types d’indicateurs de progression puissent être liés à un objectif parent, il est important de garder à l’esprit qu’il existe des différences dans la manière dont vous les gérez.
 
+## Activez maintenant l’objectif.
+
+Lorsque votre objectif comporte au moins un indicateur de progression, l’option Activer s’affiche lorsque vous cliquez sur le menu à trois points en regard du nom de l’objectif.
+
+![Capture d’écran montrant comment activer un objectif.](assets/activate-a-goal-with-a-result.png)
