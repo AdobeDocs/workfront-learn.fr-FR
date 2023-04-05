@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2344'
 ht-degree: 2%
 
 ---
@@ -306,7 +306,7 @@ ht-degree: 2%
       + [Activation des objectifs](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [Activer en alignant un objectif sur un autre](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Ajouter un résultat à un objectif](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-      + [Ajout d’une activité à un objectif](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+      + [Ajout d’une activité et d’un projet à un objectif](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + Gérer vos objectifs {#manage-goals}
       + [Aligner vos objectifs](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Supprimer l’alignement d’objectif](workfront-goals/manage-your-goals/remove-goal-alignment.md)

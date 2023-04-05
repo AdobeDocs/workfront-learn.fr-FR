@@ -1,5 +1,5 @@
 ---
-title: Ajouter [!DNL Workfront Goals] vers un modèle de mise en page
+title: Créer un modèle de mise en page pour [!DNL Workfront Goals] utilisateurs
 description: Découvrez comment créer un modèle de mise en page avec [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminologie adaptée à votre entreprise.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Créer un modèle de mise en page avec [!DNL Workfront Goals]
+# Créer un modèle de mise en page pour [!DNL Workfront Goals] utilisateurs
 
 Dans le **[!UICONTROL Configuration]** , vous pouvez également créer et attribuer un modèle de mise en page qui comprend [!DNL Workfront Goals] afin que vous et vos utilisateurs puissiez y accéder plus facilement.
 
