@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Maintenant que vous avez créé et activé vos objectifs dans [!DNL Workfront Go
 
 <!--Insert link to LP 1, above -->
 
-Utilisez l’alignement de l’objectif pour :
+Utilisez la section Alignement de l’objectif pour :
 
 * Afficher les objectifs qui vous appartiennent ou qui appartiennent à votre organisation.
 * Afficher la hiérarchie des objectifs et afficher les objectifs enfants alignés.
-* Accédez au panneau Détails de l’objectif et mettez à jour l’objectif, ses résultats ou ses activités.
+* Ouvrez l’objectif pour afficher ses indicateurs de progression.
 
-S&#39;assurer que les objectifs sont harmonisés signifie que tout le monde, de haut en bas, s&#39;exécutera sur le travail qui oriente les mêmes initiatives vers l&#39;avant. La visualisation est un élément important de la façon dont chaque objectif principal de l’entreprise s’aligne directement sur les niveaux ministériel, individuel et d’équipe. Les silos sont réduits grâce à l&#39;alignement des équipes de manière interfonctionnelle. L’alignement crée de la clarté autour des objectifs de chacun et connecte l’organisation à ce qui importe vraiment.
+S&#39;assurer que les objectifs sont harmonisés signifie que tout le monde, de haut en bas, s&#39;exécutera sur le travail qui oriente les mêmes initiatives vers l&#39;avant. La visualisation est un élément important de la façon dont chaque objectif principal de l’entreprise s’aligne directement sur les niveaux ministériel, individuel et d’équipe. Les silos sont réduits grâce à l&#39;alignement des équipes de manière interfonctionnelle. L&#39;alignement crée de la clarté autour des objectifs de chacun et connecte l&#39;organisation à ce qui importe vraiment.
 
 Lorsque vous harmonisez les objectifs de votre entreprise, n’oubliez pas qu’ils sont censés créer de la clarté et de la concision grâce à la simplicité. Si vous avez du mal avec l&#39;alignement, c&#39;est probablement parce que vous essayez de forcer ensemble des objectifs qui sont par nature déconnectés. Lorsque vous vous sentez bloqué, il vous suffit de revoir les principaux objectifs de l’entreprise, puis les objectifs du groupe et de l’équipe, et de décider lesquels sont les plus importants à garder. Éliminez tout ce qui semble redondant ou qui ne correspond pas à la vision de votre organisation.
 
@@ -49,6 +49,7 @@ Voici quelques éléments à prendre en compte avant d’aligner les objectifs d
 
 Dans cette vidéo, vous apprendrez à :
 
-* Accédez au [!UICONTROL Alignement des objectifs] page
+* Alignement des objectifs à l’aide d’une approche ascendante et descendante
+* Accédez au [!UICONTROL Alignement des objectifs] section
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

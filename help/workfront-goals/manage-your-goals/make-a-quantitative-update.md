@@ -1,6 +1,6 @@
 ---
-title: Effectuez une mise à jour quantitative dans [!DNL Workfront Goals]
-description: Découvrez comment effectuer une mise à jour quantitative dans les [!DNL Goals].
+title: Mise à jour de la progression des résultats et des activités dans [!DNL Workfront Goals]
+description: Découvrez comment mettre à jour la progression des résultats et des activités dans [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Effectuer une mise à jour quantitative
+# Comment mettre à jour la progression des résultats et des activités
 
 Dans cette vidéo, vous apprendrez à :
 
-* Effectuer une mise à jour quantitative ou une mise à jour des indicateurs de progression (c’est-à-dire les résultats, les activités, les objectifs alignés, etc.) pour faire progresser votre objectif
+* Comment mettre à jour la progression des résultats et des activités
 
 >[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)
