@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '466'
 ht-degree: 1%
 
 ---
 
 # Communication de l’état de l’objectif
 
-Maintenant que vous avez mis à jour vos objectifs à l’aide de [!UICONTROL Archivages], prenez quelques instants pour prendre du recul et profitez d’une vue d’ensemble des objectifs sur lesquels vous travaillez et de leur relation avec les objectifs de l’équipe, du groupe et de la société. Communiquer avec d’autres personnes sur l’avancement et l’état de vos objectifs est un élément important pour rester aligné.
+Maintenant que vous avez mis à jour vos objectifs à l’aide de , prenez quelques instants pour prendre du recul et profitez d’une vue d’ensemble des objectifs sur lesquels vous travaillez et de la façon dont ils se rapportent aux objectifs de l’équipe, du groupe et de l’entreprise. Communiquer avec d’autres personnes sur l’avancement et l’état de vos objectifs est un élément important pour rester aligné.
 
 Il existe plusieurs façons de tenir les bonnes personnes au courant de vos objectifs. Vous pouvez commencer par :
 
 * Partage et reporting sur vos objectifs
-* Configuration de la vue de la variable [!UICONTROL Pulse] flux pour créer et afficher des mises à jour d’objectif individuelles
 * Utilisation des [!UICONTROL Graphiques] pour obtenir un aperçu complet de la progression de vos objectifs
 
 ## Partage d’un objectif
