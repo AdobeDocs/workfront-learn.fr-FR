@@ -10,16 +10,14 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # Présentation du filtre puissant
-
-## Vue d’ensemble
 
 À l’aide de l’exercice de présentation &quot;Au-delà du mappage de base&quot; que vous avez créé précédemment, ajoutez un filtre entre les deux modules dans les modules afin de créer uniquement les projets dont la couleur de projet &quot;Rouge&quot; figure dans la liste des projets.
 

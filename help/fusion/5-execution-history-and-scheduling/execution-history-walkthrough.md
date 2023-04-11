@@ -10,16 +10,14 @@ level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Présentation de l’historique d’exécution
-
-## Vue d’ensemble
 
 Passez en revue l’historique d’exécution pour le scénario &quot;Utilisation du puissant filtre&quot; afin de comprendre ce qui s’est passé lors des exécutions et la manière dont elles ont été structurées lors de leur exécution.
 

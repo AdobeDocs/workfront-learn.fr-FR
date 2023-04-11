@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # Présentation des routeurs
-
-## Vue d’ensemble
 
 Utilisez un routeur pour transmettre les lots Pokemon et superhéros vers le chemin approprié, puis créez une tâche pour chaque caractère.
 
@@ -60,7 +58,7 @@ Jusqu’à présent, vous avez travaillé avec une API très simple (interface d
 
 Workfront et de nombreux systèmes logiciels sont créés à l’aide d’une API REST (Really State Transfer), qui est aujourd’hui le type d’API le plus simple et le plus standard. Il existe toutefois d’autres exemples, tels que :
 
-* SOAP (Simple Object Access Protocol) (l’API BAT de Workfront est basée sur SOAP)
+* SOAP (Simple Object Access Protocol) (l’API BAT Workfront est basée sur SOAP)
 * FTP (protocole de transfert de fichiers)
 * SFTP (protocole de transfert de fichiers sécurisé)
 * Pour en savoir plus, effectuez une recherche web sur les types d’API et les mots-clés qui vous intéressent.
@@ -87,7 +85,7 @@ Découvrez les connecteurs universels de Workfront Fusion et comment les configu
 
 ## Note finale
 
-Vous pouvez consulter la liste complète de nos connecteurs d’applications préconfigurés dans Experience League. Si vous souhaitez proposer un nouveau connecteur d’application à l’équipe produit de Workfront Fusion, soumettez votre idée à Innovation Lab. Si vous ne l’avez pas encore fait, découvrez le laboratoire de l’innovation, ainsi que la manière dont vous pouvez voter pour les idées et participer à l’établissement des priorités par le Conseil de direction deux fois par an. Si vous avez déjà accès au laboratoire de l&#39;innovation, connectez-vous et soumettez vos idées.
+Vous pouvez consulter la liste complète de nos connecteurs d’applications préconfigurés dans Experience League. Si vous souhaitez proposer un nouveau connecteur d’application à l’équipe produit de Workfront Fusion, soumettez votre idée à Innovation Lab. Si vous ne l&#39;avez pas déjà fait, découvrez le laboratoire de l&#39;innovation, et comment voter pour des idées et participer à la priorisation du classement par deux ans. Si vous avez déjà accès au laboratoire de l&#39;innovation, connectez-vous et soumettez vos idées.
 
 ## Votre tour
 
@@ -103,7 +101,7 @@ Dans le module Définir plusieurs variables pour les caractères Pokemon, créez
 
 ![Une image des statistiques](assets/universal-connectors-and-routing-5.png)
 
-**Défi :** Voyez si vous pouvez utiliser les formules du tableau pour obtenir les Possibilités d’afficher la même manière que ci-dessus sous la forme de lignes différentes plutôt que sous la forme d’une chaîne de valeurs séparées par une virgule. Il y a un indice dans la capture d’écran ci-dessous.
+**Défi :** Voyez si vous pouvez utiliser les formules du tableau pour obtenir les Possibilités d’afficher la même manière que ci-dessus sous la forme de lignes différentes plutôt que sous la forme d’une chaîne de valeurs séparées par une virgule. Il y a un indice dans la capture d&#39;écran ci-dessous.
 
 ![Image d’un nom de tableau](assets/universal-connectors-and-routing-6.png)
 

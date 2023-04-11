@@ -10,16 +10,14 @@ level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Présentation de l’outil de développement
-
-## Vue d’ensemble
 
 Installez et utilisez les différentes zones de l’outil de développement Workfront pour examiner de plus près les requêtes/réponses effectuées et les astuces de conception de scénario avancées.
 

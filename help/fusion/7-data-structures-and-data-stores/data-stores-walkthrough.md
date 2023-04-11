@@ -10,18 +10,16 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
 # Présentation des entrepôts de données
 
-## Vue d’ensemble
-
-Au cours de cet exercice, nous utilisons un entrepôt de données pour synchroniser les noms d’entreprise entre une liste d’entreprises et Workfront.
+Dans cet exercice, nous utilisons un entrepôt de données pour synchroniser les noms d’entreprise entre une liste d’entreprises et Workfront.
 
 Il s’agit d’une partie d’une synchronisation unidirectionnelle entre les entreprises de Workfront et d’un autre système. Pour l’instant, il ne se synchronise qu’entre un fichier CSV et Workfront. Mais il conserve également un tableau dans un entrepôt de données qui suit le Workfront ID (WFID) et l’ID de société dans le fichier CSV (CID) pour chaque société. Cela nous permettra d&#39;en faire une synchronisation bidirectionnelle à un moment ou à un autre.
 
@@ -40,7 +38,7 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 ## Note finale
 
-Maintenant que vous avez terminé d’en savoir plus sur les structures de données et les entrepôts de données, vous vous demandez peut-être : &quot;Quand devriez-vous les utiliser ?&quot;
+Maintenant que vous avez terminé d’apprendre les structures de données et les entrepôts de données, vous vous demandez peut-être : &quot;Quand devriez-vous les utiliser ?&quot;
 
 Les structures de données sont généralement utilisées pour sérialiser ou analyser des formats de données tels que JSON, XML, CSV, etc. Les structures de données vous permettent de contrôler la structure de vos données et même de valider les données. La raison la plus courante pour laquelle vous utilisez une structure de données est de créer des données valides à envoyer à une API qui attend JSON ou XML. Dans ce cas, vous souhaiterez utiliser l’application JSON ou XML avec votre structure de données pour vous assurer que les données sont au bon format.
 

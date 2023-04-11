@@ -10,16 +10,14 @@ level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Au-delà de la présentation du mapping de base
-
-## Vue d’ensemble
 
 Modifiez le nom du projet, la date de début planifiée et la priorité de la &quot;conception du scénario initial&quot; que vous avez créée lors de la première présentation à l’aide des formules du panneau de mappage.
 
