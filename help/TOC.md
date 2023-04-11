@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2353'
+source-wordcount: '2360'
 ht-degree: 2%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 2%
       + [Présentation des paramètres d’une requête de flux](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Création d’une file d’attente de requêtes](manage-work/request-queues/create-a-request-queue.md)
       + [Création d’un flux de requêtes](manage-work/request-queues/create-a-request-flow.md)
+      + [Réponses aux questions courantes sur les files d’attente de requêtes](manage-work/request-queues/request-queue-faq.md)
    + Processus de validation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Créer un processus d’approbation à usage unique](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Joindre et modifier les processus de validation existants](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
