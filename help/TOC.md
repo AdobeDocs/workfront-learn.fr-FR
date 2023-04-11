@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2353'
 ht-degree: 2%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 2%
       + [Partie 2 des rapports avancés](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Rapport avancé - partie 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + Analytique améliorée {#enhanced-analytics}
+      + [Un moment avec Product [!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Prise en main d’ [!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Ajouter [!UICONTROL analytics] pour les modèles de mise en page](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Présentation de la navigation de base](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 2%
       + [Afficher le délai d’expiration lors de l’affectation de tâches](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Visibilité des outils de gestion des ressources](manage-resources/pto/visibility-in-resource-management-tools.md)
    + Planificateur de scénarios {#scenario-planner}
-      + [Un moment avec le produit à propos du planificateur de scénario](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [Moment avec le produit à propos du planificateur de scénario](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [Qu’est-ce que le planificateur de scénario ?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Accès à un plan dans le planificateur de scénarios](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [Création de plans dans le planificateur de scénarios](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)

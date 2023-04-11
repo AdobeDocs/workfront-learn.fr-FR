@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 1%
 
 ---
 
 # Communication de l’état de l’objectif
 
-Maintenant que vous avez mis à jour vos objectifs à l’aide de , prenez quelques instants pour prendre du recul et profitez d’une vue d’ensemble des objectifs sur lesquels vous travaillez et de la façon dont ils se rapportent aux objectifs de l’équipe, du groupe et de l’entreprise. Communiquer avec d’autres personnes sur l’avancement et l’état de vos objectifs est un élément important pour rester aligné.
+Maintenant que vous avez mis à jour vos objectifs, prenez quelques instants pour prendre du recul et profitez d’une vue d’ensemble des objectifs sur lesquels vous travaillez et de la façon dont ils se rapportent aux objectifs de l’équipe, du groupe et de l’entreprise. Communiquer avec d’autres personnes sur l’avancement et l’état de vos objectifs est un élément important pour rester aligné.
 
 Il existe plusieurs façons de tenir les bonnes personnes au courant de vos objectifs. Vous pouvez commencer par :
 
@@ -33,7 +33,7 @@ Vous pouvez partager un objectif que vous avez créé ou un objectif créé par 
 
 1. Cliquez sur l’icône à 3 points en regard du nom de l’objectif, puis cliquez sur [!UICONTROL **Partager**]. Le [!UICONTROL Accès aux objectifs] s’affiche.
 
-   ![Assises](assets/17-workfront-goals-share-a-goal.png)
+   ![Capture d&#39;écran de partage d&#39;un objectif](assets/17-workfront-goals-share-a-goal.png)
 
 1. Utilisez l’une des méthodes suivantes :
 
