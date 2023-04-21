@@ -11,16 +11,16 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Prise en main de la gestion d’un projet
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez :
 
 * Eléments à prendre en compte lors de la surveillance du travail d’un projet
 * Quel est votre rôle de chef de projet ?
@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 
 ## Gestion d’un projet - révision
 
-Avec chaque projet que vous gérez, vous vous habituerez à savoir quand passer en revue les projets et ce que vous souhaitez vérifier à chaque fois. Rester en tête de vos projets et les mener au succès, voilà ce qu&#39;est le fait d&#39;être chef de projet.
+Avec chaque projet que vous gérez, vous vous calculez dans une routine de vérification des projets et de ce que vous souhaitez vérifier à chaque fois. Rester en tête de vos projets et les mener au succès, voilà ce qu&#39;est le fait d&#39;être chef de projet.
 
 Chaque chef de projet gère ses projets un peu différemment. Et chaque équipe, département ou organisation peut avoir des exigences et des besoins de projet différents.
 

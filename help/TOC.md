@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '2368'
+source-wordcount: '2369'
 ht-degree: 2%
 
 ---
@@ -100,7 +100,7 @@ ht-degree: 2%
 + Gérer le travail {#manage-work}
    + Projets {#projects}
       + [Présentation de la création de projet de base](manage-work/projects/understand-basic-project-creation.md)
-      + [Comprendre d’autres façons de créer des projets](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [Découvrez quatre façons de créer un projet](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Renseignement des détails du projet](manage-work/projects/fill-in-the-project-details.md)
       + [Parcourir la page du projet](manage-work/projects/navigate-the-project-page.md)
       + [Prise en main de la planification d’un projet](manage-work/projects/getting-started-plan-a-project.md)
