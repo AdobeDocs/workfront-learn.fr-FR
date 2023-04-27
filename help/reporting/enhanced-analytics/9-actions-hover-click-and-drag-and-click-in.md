@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -37,3 +37,19 @@ Si vous cliquez sur certaines parties d’un graphique, d’autres graphiques ou
 * **Treemap du projet**: cliquez sur la zone d’un projet pour afficher la liste déroulante et les tâches dans les graphiques en vol.
 * **Activité par équipe**: cliquez sur le nom de l’équipe pour développer le graphique afin de visualiser l’activité par utilisateur.
 * **Capacité des ressources**: cliquez sur le nom de l’équipe pour afficher le graphique Capacité de l’équipe .
+
+## Qu’est-ce qu’une nuance plus sombre et plus claire signifie en ce qui concerne l’activité d’équipe ?
+
+**Utilisateurs connectés :** Les zones violettes indiquent que les membres de l’équipe d’accueil se sont connectés ce jour-là. Une ombre plus sombre indique un nombre plus élevé de personnes se connectant.
+
+![Image de zones ombrées violettes](assets/purple-shaded-boxes.png)
+
+**Modification de l’état de la tâche :** Les boîtes roses montrent que les membres de l&#39;équipe d&#39;accueil ont changé l&#39;état d&#39;une tâche ce jour-là. Une nuance plus foncée indique un nombre plus élevé de statuts de tâche changeant.
+
+![Une image de zones ombrées roses](assets/pink-shaded-boxes.png)
+
+**Tâches terminées :** Les cases bleues montrent que les membres de l&#39;équipe d&#39;accueil ont effectué une tâche ce jour-là. Une nuance plus foncée indique un nombre plus élevé de tâches en cours d’exécution.
+
+![Image de zones ombrées bleues](assets/blue-shaded-boxes.png)
+
+Pour plus d’informations, voir [Présentation de la visualisation de l’activité par équipe](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).
