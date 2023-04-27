@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1402821a23ed67d46179e419aff18f7befc66620
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 0%
 
 [!DNL Jira]  est un produit créé par [!DNL Atlassian] pour suivre les projets et les problèmes pour les équipes de développement et d’assistance technique. De nombreuses équipes utilisent [!DNL Jira]  pour effectuer le suivi de la progression au niveau des tâches, mais ils utilisent également [!DNL Workfront] pour gérer les projets. Cela signifie que les équipes doublent leurs efforts en créant des tâches à la fois dans [!DNL Workfront] et [!DNL Jira] . Pourtant, avec la [!DNL Jira]  intégration native, ce type d’informations peut automatiquement être transféré entre les deux applications.
 
+## Comment installer Adobe Workfront pour Jira ?
+
+Accédez à [Adobe Workfront pour Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) pour savoir comment installer et configurer Adobe Workfront pour Jira.
+
 ## Que peut faire une [!DNL Jira]  l&#39;intégration oui ?
 
 Ici nous avons un sprint dans [!DNL Workfront] intitulé &quot;[!DNL Workfront] Story Spring.&quot;
@@ -32,7 +36,7 @@ Ici nous avons un sprint dans [!DNL Workfront] intitulé &quot;[!DNL Workfront] 
 
 Joan Harris, chef de l’équipe Agile du conseil Dev-Jedi, utilise le tableau de défilement et le graphique de condensation comme un moyen de mesurer la progression du sprint global. Cela donne à l&#39;équipe une belle représentation visuelle de ce qui se passe. En outre, ces informations sont intégrées à un rapport destiné à l’exécutif qui est examiné tous les trimestres. Cependant, la plupart des membres de l’équipe effectuent leurs mises à jour dans [!DNL Jira] , not [!DNL Workfront].
 
-L’équipe de Jeanne a utilisé [!DNL Jira]  pendant plusieurs années et trouvez que c’est un bon moyen pour eux de suivre les tâches individuelles et/ou les bogues sur lesquels ils ont été affectés. Mais Joan a vraiment besoin de cette information pour se connecter à [!DNL Workfront] et, en fin de compte, alimenter ces rapports exécutifs.
+L&#39;équipe de Joan a utilisé [!DNL Jira]  pendant plusieurs années et trouver que c&#39;est un bon moyen pour eux de suivre les tâches individuelles et/ou les bogues sur lesquels ils ont été affectés. Mais Joan a vraiment besoin de cette information pour se connecter à [!DNL Workfront] et, en fin de compte, alimenter ces rapports exécutifs.
 
 ![Jira Storyboard](assets/Jira02.png)
 
