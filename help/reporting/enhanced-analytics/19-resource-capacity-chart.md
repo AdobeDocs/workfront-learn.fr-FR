@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Sur le graphique, vous pouvez voir les détails clés suivants :
 ## Accès au graphique
 
 1. Cliquez sur le bouton [!UICONTROL Personnes] dans le panneau de gauche.
-1. Utilisez la variable [!UICONTROL Filtrer] pour choisir une équipe Accueil à examiner.
+1. Utilisez la variable [!UICONTROL Filtrer] pour choisir une ou plusieurs équipes Accueil à examiner.
 1. Vous verrez le [!UICONTROL Capacité des ressources] apparaît sous le graphique d’activité de l’équipe.
 
 ## Utilisation du graphique
