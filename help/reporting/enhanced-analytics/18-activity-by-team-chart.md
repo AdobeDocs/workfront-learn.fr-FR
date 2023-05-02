@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ Sur le graphique, vous pouvez voir :
 1. Les zones violettes indiquent que les utilisateurs affectés au projet se sont connectés ce jour-là, avec une nuance plus sombre indiquant un nombre plus élevé d’utilisateurs se connectant.
 1. Les zones roses montrent que les utilisateurs ont modifié l’état d’une tâche pour le projet ce jour-là, avec une nuance plus foncée indiquant un nombre plus élevé de statuts de tâche changeant.
 1. Les zones bleues indiquent que les utilisateurs ont terminé une tâche pour le projet, avec une nuance plus foncée indiquant un nombre plus élevé de tâches en cours d’exécution.
+
+## Accès au graphique
+
+1. Cliquez sur le bouton [!UICONTROL Personnes] dans le panneau de gauche.
+1. Utilisez la variable [!UICONTROL Filtrer] pour choisir une équipe Accueil à examiner.
+1. L’activité par équipe s’affiche en haut des graphiques des personnes.

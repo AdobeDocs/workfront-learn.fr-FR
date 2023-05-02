@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ Sur le graphique, vous pouvez voir :
 1. Les dates dans la partie inférieure proviennent de la période sélectionnée.
 1. La couleur de remplissage bleue plus foncée indique que l’équipe d’accueil est en état de épuisement (4) ou n’est pas contestée.
 1. Un bleu plus clair ou plus transparent indique que la charge de travail de l’équipe d’accueil est équilibrée.
+
+## Accès au graphique
+
+1. Cliquez sur le bouton [!UICONTROL Personnes] dans le panneau de gauche.
+1. Utilisez la variable [!UICONTROL Filtrer] pour choisir une équipe Accueil à examiner.
+1. Le graphique de capacité de l’équipe s’affiche sous la [!UICONTROL Capacité des ressources] graphique.
 
 ## Utilisation du graphique
 
