@@ -10,16 +10,16 @@ role: User
 level: Intermediate
 kt: 10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d85820a7516bfde170ec1df8ce96b16dafab2cf1
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Affichage des informations sur le projet
 
-Si vous regardez la page principale [!UICONTROL Projets] ou dans un projet individuel, affinez votre liste pour afficher les informations dont vous avez besoin avec [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Groupements].
+Si vous regardez la principale [!UICONTROL Projets] ou dans un projet individuel, affinez votre liste pour afficher les informations dont vous avez besoin avec [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Groupements].
 
 Découvrez de manière approfondie l’avancement de tous vos projets sur la [!UICONTROL Projets] page.
 
@@ -27,8 +27,16 @@ Découvrez de manière approfondie l’avancement de tous vos projets sur la [!U
 
 Utilisez la variable [!UICONTROL Filtres] pour réduire la liste en fonction de certains critères. Sélectionnez ensuite un [!UICONTROL Affichage] pour afficher les colonnes d’informations pertinentes pour vos projets. Enfin, sélectionnez une [!UICONTROL Regroupement] pour organiser les projets de manière à vous donner un sens.
 
-Lorsque vous utilisez la variable [!UICONTROL Tâches] d’un projet, utilisez [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Groupements] encore une fois pour vous aider à surveiller le travail en cours. Parce que vous vous intéressez aux tâches plutôt qu’aux projets, vous avez tout un ensemble de choix différents.
+Lorsque vous êtes sur le [!UICONTROL Tâches] d’un projet, utilisez [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Groupements] encore une fois pour vous aider à surveiller le travail en cours. Parce que vous regardez les tâches plutôt que les projets, vous avez tout un ensemble de choix différents.
 
 ![Liste des tâches du projet avec des vues](assets/planner-fund-task-list-fvg.png)
 
 Beaucoup [!DNL Workfront] les clients créent des vues personnalisées qui exposent des informations de formulaire personnalisées et d’autres champs pertinents pour le travail en cours.
+
+## Découvrez comment créer des filtres, des vues et des regroupements personnalisés
+
+[Création d’un filtre de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+
+[Création d’une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+
+[Créer un groupement de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
