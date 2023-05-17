@@ -1,6 +1,6 @@
 ---
 title: Création et partage d’un formulaire personnalisé
-description: Découvrez comment créer un formulaire personnalisé, y ajouter des champs uniques, organiser ces champs à l’aide de sections et d’une logique et partager des formulaires avec les utilisateurs.
+description: Découvrez comment créer un formulaire personnalisé, y ajouter des champs uniques, organiser ces champs à l’aide de sections et d’une logique et partager des formulaires avec les utilisateurs et les utilisatrices.
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -13,8 +13,8 @@ exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '497'
+ht-degree: 5%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Comprendre les besoins des administrateurs de groupe
-description: Découvrez comment les administrateurs système peuvent utiliser les administrateurs de groupe pour faciliter la maintenance. [!DNL Workfront] tout en donnant aux groupes plus de contrôle sur leur travail.
+description: Découvrez comment les administrateurs et administratrices système peuvent utiliser les administrateurs et administratrices de groupe pour aider à gérer les paramètres  [!DNL Workfront]  tout en donnant aux groupes davantage de contrôle sur leur travail.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,8 +12,8 @@ kt: 10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 5%
 
 ---
 

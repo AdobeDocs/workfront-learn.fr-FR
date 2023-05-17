@@ -1,7 +1,7 @@
 ---
 title: Gestion des notifications d’événement In-App et Email
 description: Découvrez comment les utilisateurs et utilisatrices peuvent contrôler les notifications in-app et par e-mail qui leur sont envoyées, de façon à ne recevoir que des e-mails utiles et pertinents pour leur travail.
-short-description: Découvrez comment les utilisateurs peuvent contrôler quelles notifications in-app et par e-mail ils reçoivent.
+short-description: Découvrez comment les utilisateurs et utilisatrices peuvent contrôler les notifications in-app et par e-mail qu’ils ou elles reçoivent.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,8 +13,8 @@ kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 13%
 
 ---
 
