@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Workfront sait que certaines entreprises n’utilisent pas les heures planifiée
 
 Avec ces deux concepts à l’esprit, Workfront a créé la variable [!UICONTROL Effort de travail] .
 
-Au lieu de saisir des heures spécifiques pour chaque tâche du projet, vous pouvez utiliser la variable [!UICONTROL Effort de travail] pour indiquer si une tâche est un effort petit, moyen ou important. Workfront estime automatiquement les heures planifiées avec ces tâches en fonction des paramètres du projet.
+Au lieu de saisir des heures spécifiques pour chaque tâche du projet, vous pouvez utiliser [!UICONTROL Effort de travail] pour indiquer si une tâche est un effort petit, moyen ou important. Workfront estime automatiquement les heures planifiées avec ces tâches en fonction des paramètres du projet.
 
 Ainsi, si vous prévoyez d’utiliser n’importe quel outil de gestion des ressources Workfront, les estimations dont vous avez besoin sont déjà remplies et les utilisateurs ont une idée de la quantité de travail à accomplir.
 
