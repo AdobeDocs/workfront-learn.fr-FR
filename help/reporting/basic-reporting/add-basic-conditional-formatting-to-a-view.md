@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0ee80dceb8208bd0360fd8c9ab68fb8a73677a9d
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,19 @@ Dans cette vidéo, vous apprendrez :
 * Création et modification d’une mise en forme conditionnelle
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+
+## Résumé
+
+Pour créer une mise en forme conditionnelle :
+
+1. Sélectionnez la colonne dans laquelle vous souhaitez que le formatage s&#39;affiche.
+1. Déterminez les conditions que vous souhaitez modifier dans la mise en forme.
+1. Déterminer quel type de changement de formatage fonctionnera le mieux
+
+   * couleur d&#39;arrière-plan
+   * couleur du texte
+   * texte de remplacement
+   * afficher une icône ;
 
 ## Activité : Ajout d’une mise en forme conditionnelle à une vue
 
