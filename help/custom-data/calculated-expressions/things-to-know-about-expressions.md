@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
+source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Voici une liste des concepts à connaître lorsque vous utilisez des champs calc
 
 Quand il s&#39;agit des noms d&#39;expression, la casse est importante. Lors de la création initiale d’un nom d’expression, vous pouvez utiliser des majuscules, des minuscules ou un mélange des deux.
 
-![Message d’erreur sans majuscules dans le nom de l’expression](assets/ttk-casingmatters01.png)
+![Message d’erreur sans majuscules dans le nom de l’expression](assets/T2K01.png)
 
 Cependant, l’expression doit être écrite en majuscules pour que le système reconnaisse l’expression et enregistre le champ.
 
@@ -40,23 +40,23 @@ La méthode recommandée pour écrire des expressions consiste à espacer peu ou
 
 * IF(ISBLANK({description}),&quot;No Description&quot;,&quot;Has Description&quot;)
 
-![Expressions sans espacement entre les champs](assets/spacing01.png)
+![Expressions sans espacement entre les champs](assets/T2K02.png)
 
 Cependant, si l’espacement vous permet de voir ce qui se passe, il est possible d’ajouter de l’espacement aux expressions. Les espaces supplémentaires ne doivent pas empêcher l’expression de collecter ou de calculer une valeur dans [!DNL Workfront].
 
 * IF (ISBLANK ({description}), &quot;No Description&quot; , &quot;Has Description&quot; )
 
-![Expressions avec espacement entre les champs](assets/spacing02.png)
+![Expressions avec espacement entre les champs](assets/T2K03.png)
 
 Les seuls éléments qui ne peuvent pas contenir d’espaces sont les champs et les accolades. Sinon, vous recevrez un message d’erreur et ne pourrez pas enregistrer le champ ou le formulaire personnalisé.
 
-![Erreur avec l’espacement entre le nom du champ et le crochet](assets/spacing03.png)
+![Erreur avec l’espacement entre le nom du champ et le crochet](assets/T2K04.png)
 
 ## Les guillemets doivent être droits
 
 Lors de l’utilisation de guillemets dans une expression, assurez-vous que les guillemets sont droits (&quot;). Si les guillemets sont incurvés (&quot;), la variable [!DNL Workfront] Le système continuera à afficher un message &quot;Expression personnalisée non valide&quot;.
 
-![Erreur avec des guillemets courbes](assets/curvedquotes01.png)
+![Erreur avec des guillemets courbes](assets/T2K05.png)
 
 ## Mise à jour des calculs lors de l’enregistrement d’un formulaire et de la modification d’un objet
 
@@ -83,7 +83,7 @@ Pour mettre à jour un champ à l’aide de l’option Recalculer les expression
 * Cliquez sur le menu Plus .
 * Sélectionnez Recalculer les expressions dans la liste.
 
-![Option Recalculer l’expression dans l’objet](assets/recalculate01.png)
+![Option Recalculer l’expression dans l’objet](assets/T2K06.png)
 
 Vous pouvez également recalculer plusieurs expressions en même temps à l’aide de la fonction &quot;modification en masse&quot; d’une liste ou d’un rapport. Supposons que vous ayez créé un rapport affichant une liste de problèmes avec le calcul Days Open apparaissant dans une colonne. Si vous souhaitez recalculer tous les problèmes à la fois :
 
@@ -93,7 +93,7 @@ Vous pouvez également recalculer plusieurs expressions en même temps à l’ai
 * Cochez la case Recalculer les expressions personnalisées au bas de la section Forms personnalisé .
 * Cliquez sur Enregistrer les modifications.
 
-![Option Recalculer l’expression pour plusieurs objets](assets/recalculate02.png)
+![Option Recalculer l’expression pour plusieurs objets](assets/T2K07.png)
 
 L’écran s’actualise pour afficher les informations mises à jour dans le champ calculé.
 
