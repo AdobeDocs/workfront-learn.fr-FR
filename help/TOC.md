@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '2366'
+source-wordcount: '2367'
 ht-degree: 2%
 
 ---
@@ -478,10 +478,10 @@ ht-degree: 2%
       + [Rôles de BAT et alertes par email](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Rapport sur les bons à tirer](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Définir les paramètres par défaut des BAT](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [Configuration des paramètres globaux de BAT](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
       + [Définition des rôles de BAT par défaut](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [Configuration des paramètres par défaut du compte du BAT](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Paramètres pour les utilisateurs de BAT](workfront-proof/administration-and-setup/settings-for-proof-users.md)
-      + [Configuration des paramètres de BAT globaux](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
    + Téléchargement de BAT {#upload-proofs}
       + [Qu’est-ce qu’une version de BAT ?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [Qui charge les versions de BAT ?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)

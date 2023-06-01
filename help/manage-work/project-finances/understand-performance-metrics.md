@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Options pour le [!UICONTROL PIM] sont basés sur les heures et les coûts.
 * **Calcul au niveau du projet** — [!UICONTROL EAC] pour la tâche parent et le projet sont déterminés à l’aide des heures réelles/coûts de main-d’oeuvre réels dans [!UICONTROL EAC] formules. Le calcul inclut les heures/coûts réels et les dépenses ajoutées directement à la tâche ou au projet parent.
 * R **Cumuler à partir de tâches/sous-tâches** — [!UICONTROL EAC] pour la tâche parent et le projet sont déterminés en additionnant les éléments [!UICONTROL EAC] pour chaque tâche enfant. Ce calcul exclut les heures/coûts réels ajoutés directement à une tâche ou à un projet parent.
 
-Le [!UICONTROL EAC] les calculs sont répertoriés dans la section &quot;Calcul de l’estimation à l’achèvement (EAC)&quot;. <!-- link to article -->article sur [!UICONTROL [!DNL Workfront] One].
+Le [!UICONTROL EAC] les calculs sont répertoriés dans [Calculer l’estimation à la fin (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
 
 **Mesures de performances : Paramètres**
 

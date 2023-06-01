@@ -10,16 +10,16 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
 
 # Création d’instructions OU dans des filtres
 
-Lorsque vous créez un filtre avec plusieurs lignes de critères, place par défaut un ET entre chaque ligne. Cela signifie que chaque résultat dans la liste lorsque vous utilisez ce filtre répond à toutes les règles de filtrage.
+Lorsque vous créez un filtre avec plusieurs lignes de critères, Workfront place par défaut un ET entre chaque ligne. Cela signifie que chaque résultat dans la liste lorsque vous utilisez ce filtre répond à toutes les règles de filtrage.
 
 Dans cet exemple, nous avons trois critères, ou règles, pour un filtre de projet :
 
@@ -33,7 +33,7 @@ Les projets figurant dans la liste des résultats répondent à ces trois critè
 
 ![Image d’une liste filtrée dans [!DNL Workfront]](assets/or-statement-2.png)
 
-Cependant, il peut arriver que vous souhaitiez que les résultats du filtre répondent à différents critères, et c’est à ce moment-là que les instructions OU peuvent vous aider. Avec une instruction OR, vous indiquez au filtre que vous souhaitez voir cet OR.
+Cependant, il peut arriver que vous souhaitiez que les résultats du filtre répondent à différents critères, et c’est à ce moment-là que les instructions OU peuvent vous aider. Avec une instruction OR, vous indiquez au filtre que vous souhaitez voir les éléments qui correspondent à N’IMPORTE QUELLE de vos instructions OR par rapport à TOUTES vos instructions AND .
 
 ## Utilisation d’instructions OR
 
@@ -83,7 +83,7 @@ Cela signifie que Workfront recherche les éléments suivants :
 * **PLUS (OU)**
 * Tous les projets que vous avez créés.
 
-Comme vous pouvez le voir, cette configuration de filtre donne des résultats légèrement différents de ceux du filtre avec la règle de filtre répétée. C’est pourquoi il est important de s’assurer que le filtre est correctement configuré pour vous assurer que vous obtenez les résultats souhaités et dont vous avez besoin.
+Comme vous pouvez le voir, cette configuration de filtre donne des résultats légèrement différents de ceux du filtre avec la règle de filtre répétée. C’est pourquoi il est important de s’assurer que le filtre est correctement configuré pour s’assurer que vous obtenez les résultats souhaités et dont vous avez besoin.
 
 Vous ne pouvez pas utiliser fréquemment des instructions OU lors de la création de filtres. Mais cela peut vous aider à réduire le nombre de filtres que vous devez créer. Assurez-vous simplement que vos filtres ne renvoient pas trop de résultats : une longue liste peut rendre plus difficile la recherche des informations exactes requises pour les utilisateurs.
 

@@ -10,9 +10,9 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 kt: 10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!DNL Workfront]Les fonctions de vérification digitale de vous permettent de gérer des projets et des workflows de révision associés tous au même endroit — [!DNL Workfront]. Découvrez le travail de vérification effectué avec les types de rapports, les sources de champ et les noms de champ qui affichent les informations de révision et d’approbation.
 
-Nous vous recommandons de travailler avec vos [!DNL Workfront] consultant pour créer des rapports qui répondent aux exigences de votre entreprise. Certains rapports requièrent une connaissance approfondie de la fonction [!DNL Workfront]Création de rapports en mode texte de .
+Nous vous recommandons de travailler avec vos [!DNL Workfront] consultant pour créer des rapports qui répondent aux exigences de votre entreprise. Certains rapports requièrent une connaissance approfondie de la fonction [!DNL Workfront]Rapports du mode texte de .
 
 Commencez par ces rapports standard de base pour aider vos équipes à gérer les BAT lors d’un processus de révision et d’approbation dans [!DNL Workfront].
 
@@ -31,7 +31,7 @@ Ce type de rapport permet de suivre les validations de BAT en cours afin de s&#3
 
 ![Sélectionner [!UICONTROL Approbation du BAT] de la [!UICONTROL Nouveau rapport] menu déroulant](assets/proof-system-setups-proof-approval-report.png)
 
-Les options d’affichage et de filtrage incluent : [!UICONTROL date de décision], [!UICONTROL validation du BAT], [!UICONTROL étape approbateur], [!UICONTROL modèle de workflow], et [!UICONTROL informations sur le demandeur]. Avec les rapports en mode texte, vous pouvez créer un regroupement qui organise la liste par nom de document.
+Les options d’affichage et de filtrage incluent : [!UICONTROL date de décision], [!UICONTROL validation du BAT], [!UICONTROL étape approbateur], [!UICONTROL modèle de workflow], et [!UICONTROL informations sur le demandeur]. Avec les rapports en mode texte, vous pouvez créer un regroupement qui organise la liste par nom de document. Voir [Comprendre le mode de texte de base pour les regroupements](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en).
 
 Lors de l’écriture des rapports d’approbation de BAT, assurez-vous d’obtenir des informations relatives à la version la plus récente des bons à tirer. [!DNL Workfront] recommande d’inclure cette source de champ et ce nom de champ dans le filtre :
 

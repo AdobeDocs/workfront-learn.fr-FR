@@ -11,14 +11,14 @@ thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Découvrez les avantages de la vérification [!DNL Workfront]
+# Découvrez les avantages de la vérification dans [!DNL Workfront]
 
 Dans cette vidéo, vous apprendrez :
 
@@ -31,10 +31,10 @@ Dans cette vidéo, vous apprendrez :
 
 Avant de vous familiariser avec les configurations de BAT dans [!DNL  Workfront], familiarisez-vous avec la terminologie spécifique aux BAT utilisée. Ces termes sont fréquemment utilisés tout au long de ce tutoriel.
 
-* **Bon à tirer —** Version numérique d’un fichier qui peut être révisée, marquée et approuvée par le biais de [!DNL Workfront’s] visionneuse de BAT.
+* **Bon à tirer —** Version numérique d’un fichier qui peut être révisée, marquée et approuvée par le biais de [!DNL Workfront's] visionneuse de BAT.
 * **Workflow de BAT —** Processus de création, de routage et de gestion d’un BAT dans [!DNL Workfront]. Les étapes suivies pour effectuer ces actions.
 * **Modèle de BAT ou modèle de workflow automatisé —** Étapes de workflow préformatées pouvant être appliquées rapidement à un BAT. Incluez les réviseurs, les approbateurs, les rôles de BAT, les alertes par e-mail et les échéances.
 * **Rôle de preuve —** Définit ce qu’un utilisateur peut faire avec un BAT (par exemple, commentaire, annotation, approbation, etc.)
-* **Alerte email —** Notification en cas d’activité sur le BAT.
+* **Alerte email —** Notification en cas d&#39;activité sur le BAT.
 * **Utilisateur du BAT —** Quelqu’un avec un [!DNL Workfront] Planifiez ou travaillez une licence pouvant charger, réviser, approuver, gérer, etc., des BAT numériques.
 

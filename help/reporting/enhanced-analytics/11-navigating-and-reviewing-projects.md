@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Workfront recommande de définir le type de condition sur État de progression a
 
 ![Image des états de progression possibles](assets/section-2-3.png)
 
-Dans ce cas, la condition du projet peut être :
+Lorsqu’elle est définie sur État de progression, la condition du projet peut être :
 
 * **Sur Target**: lorsque l’état d’avancement de la dernière tâche sur le chemin critique est Activé, la condition du projet est Activé Target. Le projet est en bonne voie pour se terminer selon le calendrier.
 * **À risque**—Lorsque l’état d’avancement de la dernière tâche sur le chemin critique est Derrière ou En danger, la condition du projet est En danger. Le projet est en bonne voie pour se terminer tard mais n&#39;est pas encore en retard.
@@ -71,4 +71,4 @@ Dans ce cas, la condition du projet peut être :
 
 >[!NOTE]
 >
->Les conditions peuvent être personnalisées pour votre environnement. Vous pouvez donc trouver plus de trois options ou les noms peuvent être différents de ceux ci-dessus. Pour plus d’informations sur la personnalisation des conditions, voir l’article Créer ou modifier une condition personnalisée.
+>Les conditions peuvent être personnalisées pour votre environnement. Vous pouvez donc trouver plus de trois options ou les noms peuvent être différents de ceux ci-dessus. Pour plus d’informations sur la personnalisation des conditions, voir l’article [Création ou modification d’une condition personnalisée](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

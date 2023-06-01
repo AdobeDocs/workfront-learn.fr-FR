@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 kt: 10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,8 @@ Cependant, il peut arriver que vous deviez définir ces informations manuellemen
 [!DNL Workfront] propose les recommandations générales suivantes lors de l’attribution des rôles de BAT aux destinataires du BAT :
 
 * **Réviseur et approbateur —** Ces utilisateurs peuvent à la fois faire des commentaires sur les BAT et prendre une décision (approuvée ou rejetée, par exemple) sur un BAT. Utilisez ce rôle de BAT pour les principaux intervenants internes et externes dans le processus de révision.
-* **Réviseur —** Certaines personnes de votre workflow de BAT n&#39;ont qu&#39;à faire des commentaires, ce rôle est idéal pour elles. Le rôle de réviseur peut également être attribué à [!DNL Workfront] les utilisateurs qui chargent principalement des bons à tirer ou qui servent de propriétaire de BAT, mais qui ne font pas partie du processus de vérification.
-* **Lecture seule —** Idéal pour les destinataires qui n&#39;ont besoin que de voir le BAT. [!UICONTROL Lecture seule] donne accès à la vue et n’autorise pas les commentaires.
+* **Réviseur —** Certaines personnes de votre workflow de BAT n&#39;ont qu&#39;à faire des commentaires, ce rôle est idéal pour elles. Le rôle de réviseur peut également être attribué à [!DNL Workfront] les utilisateurs qui téléchargent principalement des bons à tirer ou qui servent de propriétaire de BAT, mais qui ne font pas partie du processus de vérification.
+* **Lecture seule —** Idéal pour les destinataires qui n&#39;ont besoin que de voir le BAT. [!UICONTROL Lecture seule] donne l’accès en vue et n’autorise pas les commentaires.
 
 [!DNL Workfront] propose les recommandations générales suivantes lors de l’attribution d’alertes par email aux destinataires du BAT :
 
@@ -46,9 +46,9 @@ Cependant, il peut arriver que vous deviez définir ces informations manuellemen
 
 ## Votre tour
 
-1. Connectez-vous à Workfront et créez des utilisateurs qui utiliseront la vérification que vous n’avez pas créée auparavant. Définissez le profil des autorisations de BAT dans leurs paramètres utilisateur en fonction du rôle que la personne jouera dans les workflows de BAT.
-1. Pour les utilisateurs déjà créés, modifiez leurs paramètres afin d’ajuster la sélection de profil des autorisations et BAT, si nécessaire.
-1. Accédez à la zone de configuration de la vérification et à l’onglet Utilisateurs . Vérifiez les paramètres personnels de vos utilisateurs (langue, fuseau horaire, format de date, rôle de BAT par défaut et alerte par e-mail par défaut). Ceci est important si ces utilisateurs ont été créés avant que les valeurs par défaut du système global ne soient établies (ces paramètres sont abordés dans la section 1 de ce parcours d’apprentissage).
+1. Connectez-vous à Workfront et créez des utilisateurs qui utiliseront la vérification que vous n’avez pas encore créée. Définissez le profil des autorisations de BAT dans leurs paramètres utilisateur en fonction du rôle que la personne jouera dans les workflows de BAT.
+1. Pour les utilisateurs déjà créés, modifiez leurs paramètres afin d’ajuster la sélection de profil des autorisations de BAT, si nécessaire.
+1. Accédez à la zone de configuration de la vérification et à l’onglet Utilisateurs . Vérifiez les paramètres personnels de vos utilisateurs (langue, fuseau horaire, format de date, rôle de BAT par défaut et alerte par e-mail par défaut). Ceci est important si ces utilisateurs ont été créés avant que les valeurs par défaut du système global ne soient établies.
 
 <!--
 Download the proof role and email alert guides to have on hand as you start uploading proofs and assigning proof recipients.
