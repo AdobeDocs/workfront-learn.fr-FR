@@ -1,5 +1,5 @@
 ---
-title: Vérification du contenu numérique et approbation du travail
+title: Révision et approbation de travaux numériques
 description: Découvrez comment rechercher et approuver des projets, des tâches, des problèmes, des documents et des bons à tirer dans [!DNL  Workfront].
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Vérification du contenu numérique et approbation du travail
+# Révision et approbation de travaux numériques
 
 Dans cette vidéo, vous apprendrez à :
 
