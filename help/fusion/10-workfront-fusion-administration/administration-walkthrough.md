@@ -10,9 +10,9 @@ level: Beginner
 kt: 9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,11 @@ Découvrez comment basculer entre différentes organisations ou équipes et ajou
 
 ## Présentation de l’administration
 
-Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
+Dans cette vidéo, vous apprendrez :
+
+* Comment naviguer entre les organisations et les équipes
+* Comment créer des équipes
+* Comment inviter des utilisateurs à rejoindre une organisation et une équipe
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
