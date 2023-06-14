@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '2370'
+source-wordcount: '2374'
 ht-degree: 2%
 
 ---
@@ -73,6 +73,13 @@ ht-degree: 2%
 
    + Performances et maintenance du système {#system-perfomance-and-maintenance}
       + [Prise en charge d’une instance Adobe Workfront existante](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
+   + Finances du projet {#project-finances}
+      + [Présentation des mesures de performances](manage-work/project-finances/understand-performance-metrics.md)
+      + [Configuration des valeurs par défaut des recettes et des coûts de la tâche](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Configurer les taux de change](manage-work/project-finances/set-up-exchange-rates.md)
+      + [Configuration des types de dépenses](manage-work/project-finances/set-up-expense-types.md)
+      + [Présentation de l’accès financier](manage-work/project-finances/understand-financial-access.md)
 
 
 + Données personnalisées {#custom-data}
@@ -176,16 +183,10 @@ ht-degree: 2%
       + [Journalisation et heures de révision](manage-work/close-a-project/log-and-review-hours.md)
       + [Fermeture d’une activité de projet](manage-work/close-a-project/close-a-project-activity.md)
 
-   + Finances du projet {#project-finances}
-      + [Présentation des mesures de performances](manage-work/project-finances/understand-performance-metrics.md)
-      + [Configuration des valeurs par défaut des recettes et des coûts de la tâche](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-      + [Configurer les taux de change](manage-work/project-finances/set-up-exchange-rates.md)
-      + [Configuration des types de dépenses](manage-work/project-finances/set-up-expense-types.md)
-      + [Présentation de l’accès financier](manage-work/project-finances/understand-financial-access.md)
+   + Finances du projet pour les utilisateurs {#project-finances-users}
       + [Mettre à jour et revoir les finances](manage-work/project-finances/update-and-review-finances.md)
       + [Rechercher des informations financières](manage-work/project-finances/find-financial-information.md)
       + [Comprendre plusieurs taux de facturation](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + Rapports {#reporting}
