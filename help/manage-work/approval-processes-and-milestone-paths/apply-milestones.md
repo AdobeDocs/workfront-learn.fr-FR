@@ -8,12 +8,13 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
+last-substantial-update: 2023-06-20T00:00:00Z
 kt: 8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,13 @@ ht-degree: 0%
 
 Dans cette vidéo, vous apprendrez à :
 
-* Application de chemins de jalon à un projet spécifique
-* Associer les tâches clés en tant qu’étapes jalons dans le projet
+* Application d’un chemin de jalon à un projet
+* Ajout d’un jalon à une tâche
+* Bonnes pratiques relatives à l’application de jalons
 
 >[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on)
+
+>[!TIP]
+>
+>Pour plus d’informations sur la création d’une vue Milestone, voir l’activité de vue Milestone dans [Création d’une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+
