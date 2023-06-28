@@ -7,9 +7,9 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10184
+jira: KT-10184
 exl-id: 3818c7fb-b820-4002-bf49-9c79c9f0afb2
-source-git-commit: 02bc5a09a838be6d98c9b746bff731236ee4116f
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -26,7 +26,7 @@ Le temps de pause d’un utilisateur est pris en compte dans la colonne Disponib
 
 ![Délai d’expiration dans la colonne disponible](assets/vis_01.png)
 
-## Équilbreur de charge de travail
+## Équilibreur de charge de travail
 
 Dans l’équilibreur de charge de travail, le décalage s’affiche sous forme de barres grises sur le calendrier. Cette visibilité aide les gestionnaires de ressources et d’autres personnes à prendre des décisions plus éclairées lors de l’affectation des tâches.
 

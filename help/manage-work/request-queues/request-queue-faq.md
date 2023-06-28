@@ -5,8 +5,9 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
-kt: 10101
-source-git-commit: f111f198d3d7587bb9e2de4e19434131cbef9c93
+jira: KT-10101
+exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 1%
@@ -44,4 +45,3 @@ Oui. Cela implique de créer un formulaire personnalisé et de sélectionner les
 **Je consulte un rapport de projet ou de tâche. Comment puis-je savoir de quelle requête provient cet objet ?**
 
 Vous pouvez utiliser la variable **[!UICONTROL Émetteur de problème converti]** source de champ pour ajouter ces informations aux rapports de projet et de tâche.
-

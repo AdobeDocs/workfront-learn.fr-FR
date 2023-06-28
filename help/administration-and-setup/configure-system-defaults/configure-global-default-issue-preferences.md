@@ -7,9 +7,9 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10018
+jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 0%
@@ -43,29 +43,29 @@ Examinons les options de cette section afin que vous puissiez choisir les option
 
 * **[!UICONTROL Mettre automatiquement à jour l’état Problème résolvable lorsque l’état de l’objet de résolution change]**
 
-   Ce paramètre permet de mettre en corrélation la résolution du problème d’origine avec la résolution du nouvel objet (tâche ou projet).
+  Ce paramètre permet de mettre en corrélation la résolution du problème d’origine avec la résolution du nouvel objet (tâche ou projet).
 
-   Lorsque ce paramètre est activé (coché), vous pouvez créer des états de problème personnalisés ayant la même clé d’état qu’une tâche ou un état de projet. Lorsque la tâche ou le projet (l’objet résolvable) est défini sur l’état personnalisé, la modification s’affiche également sur l’état du problème.
+  Lorsque ce paramètre est activé (coché), vous pouvez créer des états de problème personnalisés ayant la même clé d’état qu’une tâche ou un état de projet. Lorsque la tâche ou le projet (l’objet résolvable) est défini sur l’état personnalisé, la modification s’affiche également sur l’état du problème.
 
-   Lorsque cette option est désactivée, l’état de l’objet de résolution est défini automatiquement sur l’état par défaut, plutôt que sur l’état personnalisé.
+  Lorsque cette option est désactivée, l’état de l’objet de résolution est défini automatiquement sur l’état par défaut, plutôt que sur l’état personnalisé.
 
-   Pour que ce paramètre ait un effet, le paramètre[!UICONTROL Conserver le problème d’origine et lier sa résolution à la tâche]&quot; doit être sélectionnée.
+  Pour que ce paramètre ait un effet, le paramètre[!UICONTROL Conserver le problème d’origine et lier sa résolution à la tâche]&quot; doit être sélectionnée.
 
 * **[!UICONTROL Conserver le problème d’origine et lier la résolution à la tâche/au projet]**
 
-   Lorsque le problème est converti, cette instruction indique : [!DNL Workfront] pour conserver les problèmes d’origine. L’état du problème change à mesure que l’état de la tâche ou du projet est modifié. Une fois que la tâche ou le projet est marqué comme terminé, le problème est marqué comme résolu.
+  Lorsque le problème est converti, cette instruction indique : [!DNL Workfront] pour conserver les problèmes d’origine. L’état du problème change à mesure que l’état de la tâche ou du projet est modifié. Une fois que la tâche ou le projet est marqué comme terminé, le problème est marqué comme résolu.
 
-   Si cette option n’est pas cochée, le problème d’origine est supprimé et seule la tâche ou le projet converti est conservé.
+  Si cette option n’est pas cochée, le problème d’origine est supprimé et seule la tâche ou le projet converti est conservé.
 
-   Ce paramètre affecte la création de rapports sur les problèmes initialement consignés dans un projet ou qui passent par une [!DNL Workfront] file d’attente des demandes.
+  Ce paramètre affecte la création de rapports sur les problèmes initialement consignés dans un projet ou qui passent par une [!DNL Workfront] file d’attente des demandes.
 
 * **[!UICONTROL Autoriser les contacts Principal à accéder à la tâche/au projet]**
 
-   Cela permet à la personne qui a créé le problème d’origine d’accéder à la tâche ou au projet créé lors de la conversion. Ils peuvent examiner le travail, faire des mises à jour et rester informés de ses progrès.
+  Cela permet à la personne qui a créé le problème d’origine d’accéder à la tâche ou au projet créé lors de la conversion. Ils peuvent examiner le travail, faire des mises à jour et rester informés de ses progrès.
 
 * **[!UICONTROL Autoriser la modification de ces paramètres pendant la conversion]**
 
-   Lorsque cette option est sélectionnée, les paramètres par défaut de &quot;[!UICONTROL Conserver le problème d’origine]&quot; et &quot;[!UICONTROL Autoriser les contacts Principal]&quot; peut être modifié par l’utilisateur qui convertit le problème. Si vous souhaitez que les valeurs par défaut restent inchangées, désélectionnez cette option.
+  Lorsque cette option est sélectionnée, les paramètres par défaut de &quot;[!UICONTROL Conserver le problème d’origine]&quot; et &quot;[!UICONTROL Autoriser les contacts Principal]&quot; peut être modifié par l’utilisateur qui convertit le problème. Si vous souhaitez que les valeurs par défaut restent inchangées, désélectionnez cette option.
 
 <!---
 learn more URLs

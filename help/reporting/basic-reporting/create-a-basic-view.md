@@ -9,12 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '696'
 ht-degree: 6%
 
 ---
@@ -87,3 +87,45 @@ Créez une vue de tâche nommée &quot;Vue Milestone&quot; avec les colonnes sui
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ![Image d’une liste de tâches utilisant une vue de jalon](assets/view-milestone-exercise-2.png)
+
+## Activité 3 : Création d’une vue de types de durée et de contraintes de tâche
+
+Cette vue vous permet d’examiner et de modifier tous les types de durée et les contraintes de tâche dans votre projet.
+
+Créez une vue de tâche nommée &quot;Vue Types de durée et contraintes de tâche&quot; avec les colonnes suivantes :
+
+* [!UICONTROL Nom de la tâche]
+* [!UICONTROL Affectations]
+* [!UICONTROL Durée]
+* [!UICONTROL Durée prévue]
+* [!UICONTROL Hrs Prév]
+* [!UICONTROL Tâches antérieures]
+* [!UICONTROL Démarré le]
+* [!UICONTROL Dû le]
+* [!UICONTROL Type de durée]
+* [!UICONTROL Contrainte de tâche]
+* [!UICONTROL Date de contrainte]
+
+Modifiez la variable [!UICONTROL Format du champ] sur le [!UICONTROL Démarrer le] et [!UICONTROL Échéance activée] pour afficher la date et l’heure.
+
+## Réponse de l’activité 3
+
+![Une image de l’écran montrant la vue des types de durée et des contraintes de tâche](assets/view-activity-3.png)
+
+1. Dans la liste des tâches d’un projet, accédez au **[!UICONTROL Affichage]** menu déroulant, puis sélectionnez **[!UICONTROL Nouvelle vue]**.
+1. Nommez votre vue &quot;Types de durée et contraintes de tâche&quot;.
+1. Supprimez le [!UICONTROL % terminé] colonne .
+1. Cliquez sur **[!UICONTROL Ajouter une colonne]**.
+1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;duration&quot;] puis sélectionnez [!UICONTROL &quot;Durée planifiée&quot;] sous le [!UICONTROL Tâche] source du champ.
+1. Déplacer cette colonne entre les [!UICONTROL Durée] et le [!UICONTROL Heures de planification] colonnes.
+1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
+1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;type de durée&quot;] puis sélectionnez [!UICONTROL &quot;Type de durée&quot;] sous le [!UICONTROL Tâche] source du champ.
+1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
+1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;contrainte&quot;] puis sélectionnez [!UICONTROL &quot;Contrainte de tâche&quot;] sous la source du champ Tâche .
+1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
+1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;contrainte&quot;] puis sélectionnez [!UICONTROL &quot;Date de contrainte&quot;] sous la source du champ Tâche .
+1. Sélectionnez la [!UICONTROL Démarrer le] , puis cliquez sur [!UICONTROL Options avancées].
+1. Sous , [!UICONTROL Format du champ] menu déroulant [!UICONTROL &quot;10/17/60 3 heures&quot;].
+1. Sélectionnez la [!UICONTROL Échéance activée] , puis cliquez sur [!UICONTROL Options avancées].
+1. Sous , [!UICONTROL Format du champ] menu déroulant [!UICONTROL &quot;10/17/60 3 heures&quot;].
+1. Cliquer sur **[!UICONTROL Enregistrer]**.

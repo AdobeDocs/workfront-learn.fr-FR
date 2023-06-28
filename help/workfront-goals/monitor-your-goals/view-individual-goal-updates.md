@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8928
+jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 2%
@@ -46,4 +46,4 @@ Vous remarquerez peut-être que parfois vous obtenez trop d’informations dans 
 * [!UICONTROL Pulsation]
 * [!UICONTROL Alignement des objectifs]. Dans cette section, vous pouvez afficher temporairement les objectifs qui ne correspondent pas au filtre appliqué afin d’obtenir une vue d’ensemble de tous les objectifs alignés. Cliquez sur le bouton [!UICONTROL **Afficher/Afficher**] s’il existe des objectifs masqués par le filtre sélectionné.
 
-   ![](assets/19-workfront-goals-filter-show-it.png)
+  ![](assets/19-workfront-goals-filter-show-it.png)

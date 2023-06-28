@@ -8,9 +8,9 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10104.jpeg
-kt: 10104
+jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -47,4 +47,4 @@ Une fois connecté, une notification dans la partie supérieure de l’écran in
 
 Lorsqu’un administrateur se connecte en tant qu’autre utilisateur et apporte des modifications/mises à jour au nom de cet utilisateur, les modifications sont visibles dans la zone Mises à jour de cet élément spécifique. L’exemple ci-dessous montre que Joan Harris a modifié une date au nom de Roy Campbell.
 
-![[!UICONTROL Mises à jour] section](assets/admin-fund-log-in-as-4.png)
+![Met à jour la section](assets/admin-fund-log-in-as-4.png)

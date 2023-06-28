@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: upload-a-proof-video.png
-kt: 10176
+jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Chargement d’une vidéo dans [!DNL Workfront] suit les mêmes étapes que le t
 
 * Ouvrez le projet, la tâche ou la publication sur lesquels la vidéo doit être chargée.
 * Sélectionner [!UICONTROL **Documents**] dans le menu du panneau de gauche.
-* Dans la [!UICONTROL **Ajouter** ]bouton, sélectionner [!UICONTROL **Bon à tirer**].
+* Dans la [!UICONTROL **Ajouter**] bouton, sélectionner [!UICONTROL **Bon à tirer**].
 * Faites glisser et déposez le fichier vidéo dans la zone de chargement ou utilisez la fonction Parcourir .
 * Affectez un workflow de base ou automatisé.
 * Définissez une date limite.

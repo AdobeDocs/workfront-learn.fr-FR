@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11051
+jira: KT-11051
 thumbnail: KT1101.png
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -42,4 +42,4 @@ Pour de simples modifications de données, utilisez la fonction Switch afin de t
    + Une valeur clé est définie dans la première position après l’état de progression (&quot;LT&quot;) avec la sortie correspondante définie dans la seconde position (&quot;En retard&quot;).
    + La valeur de la clé suivante est définie à la troisième position, la sortie correspondante étant définie à la quatrième position, etc., pour autant de clés que vous le souhaitez.
 
-      ![Changer de fonction Image 2](../12-exercises/assets/switch-function-walkthrough-2.png)
+     ![Changer de fonction Image 2](../12-exercises/assets/switch-function-walkthrough-2.png)

@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335133.png
-kt: 8833
+jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '575'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Dans cette vidéo, vous apprendrez :
 
 Les paramètres au bas de la fenêtre de chargement des BAT sont facultatifs. Vérifiez donc auprès de votre entreprise si et comment vous les utilisez.
 
-![Une image de la fonction [!UICONTROL Nouvelle preuve ]avec la fenêtre [!UICONTROL Paramètres d’évaluation] surlignée.](assets/additional-proof-workflow-settings.png)
+![Une image de la fonction [!UICONTROL Nouvelle preuve]avec la fenêtre [!UICONTROL Paramètres d’évaluation] surlignée.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Verrouiller l’étape] —** Cela empêche les personnes qui se trouvent à l’étape du workflow de faire des commentaires ou de modifier des décisions une fois leur étape terminée.
 * **[!UICONTROL Transférer les droits de décision Principaux vers] —** Accélérer le processus de vérification en désignant un Principal décideur. Lorsqu’elle est définie, [!DNL Workfront] reconnaît la décision du BAT par cette personne comme la décision . Une fois que cette personne a pris sa décision, la scène est finie et aucune autre décision n&#39;est nécessaire.

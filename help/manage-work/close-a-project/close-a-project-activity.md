@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: e81ba47db087aa33510ddfa13ab8e5d4ef329d00
+jira: KT-null
+exl-id: ffbe2169-d475-4907-a78f-5c092b923900
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,5 +34,3 @@ En tant que chef de projet, la tenue de sessions &quot;leçons apprises&quot; pe
 
 * Pensez à certains des projets que vous avez gérés l’année dernière. Quels types de questions poseriez-vous ou d&#39;informations récolteriez-vous au cours d&#39;une session &quot;leçons apprises&quot; ?
 * Décidez si vous souhaitez incorporer les &quot;leçons apprises&quot; dans vos projets. Alors, décidez comment. Par exemple, vous pouvez faire quelque chose de informel, par exemple un contact rapide avec votre équipe. Ou il peut être intégré à votre plan de projet.
-
-

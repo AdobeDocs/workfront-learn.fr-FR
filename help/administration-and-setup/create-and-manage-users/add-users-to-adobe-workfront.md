@@ -1,5 +1,5 @@
 ---
-title: Ajout d’utilisateurs
+title: Ajouter des utilisateurs
 description: Découvrez les informations que vous devez rassembler sur les utilisateurs avant de créer des profils utilisateur.
 feature: System Setup and Administration
 activity: deploy
@@ -8,16 +8,16 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10035.jpeg
-kt: 10035
+jira: KT-10035
 exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Ajout d’utilisateurs
+# Ajouter des utilisateurs
 
 S’assurer que les personnes appropriées disposent des identifications utilisateur et des autorisations appropriées pour [!DNL Workfront] est une clé du succès. Les identifiants de connexion utilisateur peuvent être créés par les administrateurs système ou ceux qui disposent d’une licence Plan qui accorde un accès administratif aux informations sur les utilisateurs.
 

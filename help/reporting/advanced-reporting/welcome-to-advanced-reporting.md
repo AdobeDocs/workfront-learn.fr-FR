@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Experienced
 team: Technical Marketing
-kt: 11198
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+jira: KT-11198
+exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -49,4 +50,3 @@ L’audience cible de ces tutoriels est : [!UICONTROL Plan] les utilisateurs sou
 Ces tutoriels sont des enregistrements d’une classe live donnée sur une période de trois jours en février 2018. Vous remarquerez peut-être qu’une ancienne interface utilisateur apparaît dans les vidéos, mais cela n’aura aucune incidence sur la précision ou la pertinence du contenu fourni.
 
 Vous entendrez également des références à l’obtention d’un compte de lecteur de test dans lequel vous pouvez vous entraîner. Adobe Experience League ne fournit pas de comptes de lecteur de test, mais ne vous inquiétez pas. Vous pouvez vous entraîner dans votre compte de production. Après tout, la création de rapports consiste simplement à afficher des objets dans Workfront, et non à créer ou supprimer des objets. A part la création des rapports eux-mêmes, bien sûr. En plus de l’administrateur système, vous êtes le seul à pouvoir voir les rapports que vous créez, sauf si vous décidez de les partager.
-

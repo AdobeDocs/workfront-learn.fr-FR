@@ -8,9 +8,9 @@ thumbnail: close-tasks-and-issues.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: KT-10133
+jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 L’une des premières étapes pour fermer une [!DNL Workfront] Le projet s’assure que toutes les tâches et tous les problèmes ont l’état Terminé ou un état équivalent.
 
-Commencez par la liste des tâches et sélectionnez une [!UICONTROL Affichage] qui affiche le [!UICONTROL Pourcentage terminé] ou le [!UICONTROL État] ou les deux. Une analyse rapide de la liste des tâches vous permet de déterminer les tâches qui n’ont pas eu de changement d’état.
+Commencez par la liste des tâches et sélectionnez une [!UICONTROL Affichage] qui affiche le [!UICONTROL Pourcentage terminé] ou le [!UICONTROL État] ou les deux. Une analyse rapide de la liste des tâches vous permet de déterminer quelles tâches n’ont pas eu de changement d’état.
 
 ![Affichage du projet [!UICONTROL Pourcentage terminé] column](assets/planner-fund-close-tasks-and-issues.png)
 
-Toutes les organisations n’utilisent pas [!DNL Workfront’s] problèmes pour enregistrer ou résoudre les problèmes, modifier les commandes, etc., qui se sont produits pendant le projet. Mais si vous le faites, passez à la [!UICONTROL Problèmes] et assurez-vous que tous les problèmes ont été résolus.
+Toutes les organisations n’utilisent pas [!DNL Workfront's] problèmes pour enregistrer ou résoudre les problèmes, modifier les commandes, etc., qui se sont produits pendant le projet. Mais si vous le faites, passez à la [!UICONTROL Problèmes] et assurez-vous que tous les problèmes ont été résolus.
 
 <!---
 learn more

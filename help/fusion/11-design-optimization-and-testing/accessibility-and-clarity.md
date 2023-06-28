@@ -7,9 +7,9 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11037
+jira: KT-11037
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Au début de la formation à Workfront Fusion, vous avez appris quelques bonnes 
 En règle générale, un objectif Principal de Workfront Fusion est toujours d’avoir des conceptions de scénario simples. Voici quelques façons de créer des conceptions simples à interpréter.
 
 * Veillez à nommer tous les modules. Cliquez avec le bouton droit de la souris sur un module, puis sélectionnez Renommer. Les libellés de module doivent être courts mais compréhensibles pour ce que le module effectue. Par exemple, &quot;Créer un profil Mktg avec modèle Ch&quot;.
-   ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-1.png)
+  ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-1.png)
 * Étiqueter également les chemins de routage. Même si un chemin n&#39;utilise pas de filtre directement après un routeur, vous pouvez appliquer un libellé sans remplir la logique de filtrage. Cela permet à d’autres personnes de comprendre quels lots transmettent quels chemins et pourquoi. Pour créer un libellé pour un chemin de routeur sans filtre, cliquez avec le bouton droit sur le chemin, ajoutez un libellé et enregistrez.
-   ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-2.png)
+  ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-2.png)
 * Ajoutez des notes le cas échéant dans un scénario si une étiquette de module ou de chemin de routage est trop courte pour clarifier ce qui se passe réellement. Vous pouvez ajouter des notes lorsque vous le souhaitez tout au long du processus de conception et d’itération.
 
 Cependant, il peut être plus facile de lire et de comprendre si vous ajoutez des notes à la fin de la conception de scénario lorsque vous êtes prêt à démarrer. Travaillez à partir de la fin de la conception de votre scénario (tout en bas, dans le coin droit) vers l’arrière. Ainsi, les notes qui s’appliquent au début de votre scénario se trouvent en haut de la liste lors de l’ouverture du panneau Notes.

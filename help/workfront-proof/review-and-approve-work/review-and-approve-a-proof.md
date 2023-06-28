@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png
-kt: 8841
+jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Si vous travaillez dans [!DNL Workfront] et qu’on vous a demandé d’approuve
 
 ![Une image de [!DNL Workfront] [!UICONTROL Accueil] avec le [!UICONTROL Approbations] filtre activé et un BAT sélectionné dans la liste.](assets/open-proof-from-home.png)
 
-Il est important de noter que les bons à tirer s’affichent dans [!DNL Workfront] [!UICONTROL Accueil] uniquement si vous êtes chargé de l’approuver. Si vous venez de consulter uniquement le BAT, il ne s’affichera pas dans [!DNL Workfront] [!UICONTROL Accueil] lorsque vous sélectionnez [!UICONTROL Approbations ]dans la liste des filtres.
+Il est important de noter que les bons à tirer s’affichent dans [!DNL Workfront] [!UICONTROL Accueil] uniquement si vous êtes chargé de l’approuver. Si vous venez de consulter uniquement le BAT, il ne s’affichera pas dans [!DNL Workfront] [!UICONTROL Accueil] lorsque vous sélectionnez [!UICONTROL Approbations]dans la liste des filtres.
 
 Sélectionnez la validation du BAT dans la [!UICONTROL Liste de tâches], puis cliquez sur le bouton [!UICONTROL Accéder à Bon à tirer] pour l’ouvrir dans la visionneuse de vérification.
 
@@ -63,7 +63,7 @@ Vous pouvez également trouver des BAT à vérifier sur un [!DNL Workfront] tabl
 
 Si vous travaillez normalement avec des projets, des tâches ou des problèmes dans [!DNL Workfront], vous préférez peut-être ouvrir le BAT directement à partir de la [!DNL Documents] de cet élément.
 
-![Une image de la fonction [!UICONTROL Documents] dans une section [!DNL  Workfront] avec la tâche [!UICONTROL Bon à tirer ouvert ]lien mis en surbrillance.](assets/open-proof-from-documents.png)
+![Une image de la fonction [!UICONTROL Documents] dans une section [!DNL  Workfront] avec la tâche [!UICONTROL Bon à tirer ouvert]lien mis en surbrillance.](assets/open-proof-from-documents.png)
 
 1. Cliquez sur le nom du projet, de la tâche ou du problème.
 2. Cliquez sur [!UICONTROL Documents] dans le menu du panneau de gauche de la page de l’élément.

@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 thumbnail: understand-proof-details.png
-kt: 10110
+jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Ces paramètres vous aident à contrôler l’accès au BAT lui-même.
 
 * **[!UICONTROL Exiger une connexion. Ce BAT ne peut pas être partagé avec les utilisateurs invités] —** Le BAT ne peut être partagé qu&#39;avec les personnes qui ont une [!DNL Workfront] licence de vérification.
 * **[!UICONTROL Exiger que les décisions soient signées électroniquement] —** Lors du partage d’un BAT, cela nécessite que le destinataire dispose d’autorisations de vérification dans [!DNL Workfront] et les fait &quot;signer électroniquement&quot; le BAT en saisissant leur mot de passe de vérification lors de la décision d’un BAT. (Remarque : Le mot de passe de vérification est différent de votre [!DNL Workfront] mot de passe. Le mot de passe de vérification n’est pas facilement accessible. La plupart des destinataires ne connaîtront donc pas ce mot de passe.) [!DNL Workfront] recommande de discuter avec votre [!DNL Workfront] consultant avant d’utiliser cette fonctionnalité.
-* **[!UICONTROL Verrouiller le BAT lorsque toutes les décisions requises sont prises ]—** Cela verrouille le BAT à tout commentaire, réponse, décision, etc., une fois que chaque décision sur le BAT a été prise. Cela verrouille toute la version du BAT, et pas seulement une étape spécifique du workflow de vérification.
+* **[!UICONTROL Verrouiller le BAT lorsque toutes les décisions requises sont prises]—** Cela verrouille le BAT à tout commentaire, réponse, décision, etc., une fois que chaque décision sur le BAT a été prise. Cela verrouille toute la version du BAT, et pas seulement une étape spécifique du workflow de vérification.
 * **[!UICONTROL Autoriser le téléchargement du fichier d’origine] —** Les destinataires du BAT peuvent télécharger le fichier source d&#39;origine du BAT depuis la visionneuse de BAT (l&#39;option est dans le menu du panneau de droite).
 * **[!UICONTROL Autorisation du partage du BAT via une URL publique ou un code incorporé] —** Les destinataires du BAT peuvent partager avec n&#39;importe qui un lien accessible au public.
 * **[!UICONTROL Autoriser l’abonnement au BAT via une URL publique ou un code intégré] —** Quiconque reçoit l&#39;URL publique peut s&#39;ajouter au BAT avec son adresse email et son nom (si ce n&#39;est pas un utilisateur du BAT) ou son adresse email et son mot de passe de vérification (si un utilisateur du BAT). (Remarque : Le mot de passe de vérification n’est pas identique à un [!DNL Workfront] password.)

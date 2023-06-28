@@ -4,12 +4,12 @@ description: Découvrez les avantages de l’utilisation de la méthodologie "gr
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10890
+jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
 hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 0%
@@ -97,8 +97,8 @@ Lorsqu’une équipe répond aux trois Principales questions de son plan, il est
 ![Storyboard](assets/storyboard-01.png)
 
 
-### Graphique en courbes de Burndown
+### Graphique d&#39;avancement
 
 Un graphique de condensation peut être utilisé pour déterminer si l’équipe effectue des articles à une vitesse suffisante, ou à une vitesse variable. Les graphiques de Burndown peuvent être utilisés pour des itérations individuelles ou pour l’ensemble de la version du produit.
 
-![Graphique en courbes de Burndown](assets/burndown-01.png)
+![Graphique d&#39;avancement](assets/burndown-01.png)

@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11049
+jira: KT-11049
 thumbnail: KT11049.png
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -52,6 +52,7 @@ Passez en revue l’historique d’exécution pour le scénario &quot;Utilisatio
    ![Image de l’historique d’exécution 6](../12-exercises/assets/execution-history-walkthrough-6.png)
 
    + Cliquez sur un élément de journal pour ouvrir le panneau des opérations dans le panneau des scénarios. Les journaux sont répertoriés par ordre chronologique de leur date d’apparition.
+
 
    ![Image de l’historique d’exécution 7](../12-exercises/assets/execution-history-walkthrough-7.png)
 

@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335177.png
-kt: 8914
+jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -37,11 +37,11 @@ La plupart du temps, l’expression de données ROUND est utilisée conjointemen
 
 Créons un champ calculé afin de déterminer la différence entre le nombre d’heures prévu et réellement connecté à une tâche, qui nécessitera l’expression SOUS-B et ressemblera à ceci :
 
-**SUB({workRequired},{realWorkRequired})**
+**SUB({workRequired},{actualWorkRequired})**
 
 Et puisque le temps est suivi en minutes et que le format préféré est d&#39;afficher l&#39;information en heures, l&#39;expression doit également être divisée par 60 et se présenter comme suit :
 
-**DIV(SUB({workRequired},{realWorkRequired}),60)**
+**DIV(SUB({workRequired},{actualWorkRequired}),60)**
 
 Si le format est remplacé par Nombre lors de la création du champ calculé dans le formulaire personnalisé, vous pouvez modifier le format du nombre lors de l’ajout du champ dans une vue.
 
@@ -57,8 +57,8 @@ L’expression ROUND comprend le nom de l’expression (ROUND) et, généralemen
 
 Une expression serait structurée comme suit : ROUND(point de données, #)
 
-Dans l’expression calculant la différence entre les heures prévues et les heures réelles, utilisez cette expression —DIV(SUB({workRequired},{realWorkRequired}),60)—comme premier point de données. Assurez-vous ensuite que le nombre provenant de cette expression ne dépasse pas 2 chiffres à droite de la décimale.
+Dans l’expression calculant la différence entre les heures prévues et les heures réelles, utilisez cette expression —DIV(SUB({workRequired},{actualWorkRequired}),60), comme premier point de données. Assurez-vous ensuite que le nombre provenant de cette expression ne dépasse pas 2 chiffres à droite de la décimale.
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/round03.png)
 
-L’expression peut être écrite comme suit : ROUND(DIV(SUB({workRequired},{realWorkRequired}),60),2).
+L’expression peut être écrite comme suit : ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2).

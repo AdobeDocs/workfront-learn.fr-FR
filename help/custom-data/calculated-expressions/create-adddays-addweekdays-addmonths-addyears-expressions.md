@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335175.png
-kt: 8912
+jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Vous trouverez ci-dessous quelques expressions ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDY
 
 Le client souhaitait savoir quand la tâche devait être terminée en fonction de la date de début réelle et de la durée planifiée. Dans ce cas, la date de fin prévue ne fonctionnera pas, car elle peut se déplacer si la tâche est en retard et la date de fin planifiée n’est pas utile en cas de retards dans les tâches antérieures.
 
-L’expression créée était ADDDAYS({realStartDate},{durationMinutes}/480)
+L’expression créée était ADDDAYS({actualStartDate},{durationMinutes}/480)
 
 Le temps dans le champ Durée est stocké en minutes. Ainsi, dans cette expression, le champ Durée ne peut pas être autonome si le temps doit être reflété en jours. Pour ce faire, la durée doit être divisée par 480 minutes (480 minutes = 8 heures = 1 jour).
 

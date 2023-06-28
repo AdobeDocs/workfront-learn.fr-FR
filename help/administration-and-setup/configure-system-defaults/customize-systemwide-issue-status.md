@@ -7,9 +7,9 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10030
+jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
-source-git-commit: 02bc5a09a838be6d98c9b746bff731236ee4116f
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Vous pouvez modifier un état existant pour modifier le nom, les types de probl�
 1. Verrouillez l’état si ces paramètres doivent s’appliquer à tous les utilisateurs de votre [!DNL Workfront] instance.
 1. Déverrouillez l’état pour permettre aux administrateurs de groupe de modifier l’état uniquement pour leurs groupes.
 1. Cochez les cases correspondant au type de problème auquel le statut doit s’appliquer.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ![Fenêtre de création d’un nouveau statut](assets/admin-fund-edit-issue-status-2.png)
 

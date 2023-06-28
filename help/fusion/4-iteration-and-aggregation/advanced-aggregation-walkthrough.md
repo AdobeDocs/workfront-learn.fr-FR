@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9040
+jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Vous verrez une ombre entourant un segment dans votre scénario à partir d’un
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 
-Créez un nouveau scénario pour additionner toutes les heures consignées dans les tâches des projets du portefeuille marketing. Ensuite, envoyez un e-mail indiquant que &quot;votre équipe de projet {Project Name} a enregistré {summed hours} du total {scheduled hours} heures, ce qui vous place à {pourcentage} du plan.&quot;
+Créez un nouveau scénario pour additionner toutes les heures consignées dans les tâches des projets du portefeuille marketing. Ensuite, envoyez un e-mail indiquant que &quot;votre équipe de projet {Project Name} a enregistré {summed hours} du total {scheduled hours} heures, ce qui vous place à {percentage} du plan.&quot;
 
 **Défi :** Voyez si vous pouvez faire la même chose, sauf pour les heures enregistrées cette année uniquement.
 

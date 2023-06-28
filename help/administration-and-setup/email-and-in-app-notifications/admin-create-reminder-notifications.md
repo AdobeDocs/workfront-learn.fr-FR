@@ -8,9 +8,9 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: setupremindnote.png
-kt: 10091
+jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Les rappels sont spécifiques à un objet et doivent être joints manuellement �
 1. Cliquez sur le bouton **[!UICONTROL +Nouvelle notification de rappel]** bouton .
 1. Sélectionnez l’objet souhaité pour le menu déroulant.
 1. Renseignez les informations requises.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ![[!UICONTROL Nouvelle notification de rappel] window](assets/admin-fund-reminder-notification-1.png)
 
