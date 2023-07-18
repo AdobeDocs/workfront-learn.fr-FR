@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
@@ -38,10 +39,18 @@ Consultez cet article pour plus d’informations : [Problèmes de conversion](ht
 
 Vous pouvez utiliser la variable [!UICONTROL Rechercher] dans la barre de navigation ou recherchez-la répertoriée dans le [!UICONTROL Projets] zone.
 
+Si vous ouvrez une requête à partir de la file d’attente des demandes, vous pouvez cliquer sur le nom du projet dans la zone des chemins de navigation.
+
 **Puis-je transférer les informations d’un formulaire personnalisé de requête vers un projet ?**
 
 Oui. Cela implique de créer un formulaire personnalisé et de sélectionner les deux [!UICONTROL Problème] et [!UICONTROL Projet] types d’objets.
 
 **Je consulte un rapport de projet ou de tâche. Comment puis-je savoir de quelle requête provient cet objet ?**
 
-Vous pouvez utiliser la variable **[!UICONTROL Émetteur de problème converti]** source de champ pour ajouter ces informations aux rapports de projet et de tâche.
+Vous pouvez accéder aux champs du **[!UICONTROL Problème converti]** et le **[!UICONTROL Émetteur de problème converti]** sources de champ pour ajouter ces informations aux rapports de projet et de tâche.
+
+**Quel est le meilleur moyen de filtrer les files d’attente de requête dans un rapport ?**
+
+Si le filtre de votre projet inclut **File D’Attente &quot; Est Publique > Egal > Aucun** votre rapport affiche uniquement les projets qui **NOT** files d’attente.
+
+Si le filtre de votre projet inclut **File d’attente &quot; Est Publique > N’Est Pas Égal > Aucun** votre rapport affiche uniquement les projets qui **ARE** files d’attente.
