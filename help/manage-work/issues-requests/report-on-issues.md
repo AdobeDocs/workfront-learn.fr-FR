@@ -10,14 +10,16 @@ role: User
 level: Intermediate
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e8ce1414dc1873a725e75da3acb626af7e231a73
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '292'
 ht-degree: 2%
 
 ---
 
 # Rapport sur les problèmes
+
+Découvrez comment centraliser les problèmes en créant un rapport.
 
 ## Centraliser les problèmes en créant un rapport
 
@@ -36,7 +38,7 @@ Lorsqu’un problème est converti en projet ou tâche, de nombreux détails de 
 Un rapport de projet ou de tâche peut afficher ces informations à l’aide de la variable [!UICONTROL Émetteur de problème converti] avec deux champs dédiés. Ces colonnes peuvent être ajoutées à une vue personnalisée sans passer par le mode texte :
 
 * [!UICONTROL Date d&#39;entrée de l&#39;événement converti]
-* [!UICONTROL Nom de l&#39;événement converti]
+* [!UICONTROL Nom du problème converti]
 * [!UICONTROL Émetteur de problème converti > Nom]
 
 ![Image des informations de rapport de problèmes.](assets/19-text-mode-reporting-for-issues.png)
