@@ -1,7 +1,7 @@
 ---
 title: Utiliser les expressions ISBLANK et CONTAINS
 description: Découvrez comment utiliser et créer les expressions ISBLANK et CONTAINS dans un champ calculé dans Adobe [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -50,13 +50,13 @@ Veillez à placer des guillemets autour du mot ou de l’expression que vous rec
 
 Dans l’exemple ci-dessus (en recherchant &quot;événement caritatif&quot; dans la description du projet), l’expression serait :
 
-**CONTAINS(&quot;événement caritatif&quot;,{description})**
+**CONTAINS(&quot;événement caritatif&quot;),{description})**
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/isblank04.png)
 
 **Remarque**: L’expression CONTAINS est sensible à la casse. Par exemple, si &quot;Charity Event&quot; est mis en majuscules dans le champ de description, mettez cette expression en majuscules dans l’expression.
 
-**CONTAINS(&quot;Charity Event&quot;,{description})**
+**CONTAINS(&quot;Charity Event&quot;),{description})**
 
 Les expressions ISBLANK et CONTAINS sont très utiles si vous souhaitez voir si une valeur est présente. Cependant, il peut s’avérer plus utile de connaître la valeur, de la voir réellement ou d’avoir une sorte de descripteur pour fournir une meilleure information.
 

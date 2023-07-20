@@ -1,7 +1,7 @@
 ---
 title: Informations à connaître sur les expressions de champ calculées
 description: Découvrez la liste des concepts utiles pour l’utilisation de champs calculés personnalisés dans [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -32,19 +32,19 @@ Cependant, l’expression doit être écrite en majuscules pour que le système 
 
 ## Les heures sont stockées en minutes
 
-Les heures dans la base de données de Workfront sont stockées en minutes. Si vous référencez des champs tels que Heures planifiées ou Heures réelles, divisez par 60 pour afficher l’heure en heures et non en minutes.
+Les heures dans la base de données Workfront sont stockées en minutes. Si vous référencez des champs tels que Heures planifiées ou Heures réelles, divisez par 60 pour afficher l’heure en heures et non en minutes.
 
 ## L’espacement n’affecte pas les expressions
 
 La méthode recommandée pour écrire des expressions consiste à espacer peu ou pas entre chaque expression.
 
-* IF(ISBLANK({description}),&quot;No Description&quot;,&quot;Has Description&quot;)
+* IF(ISBLANK({description}), &quot;No Description&quot;, &quot;Has Description&quot;)
 
 ![Expressions sans espacement entre les champs](assets/T2K02.png)
 
 Cependant, si l’espacement vous permet de voir ce qui se passe, il est possible d’ajouter de l’espacement aux expressions. Les espaces supplémentaires ne doivent pas empêcher l’expression de collecter ou de calculer une valeur dans [!DNL Workfront].
 
-* IF (ISBLANK ({description}), &quot;No Description&quot; , &quot;Has Description&quot; )
+* IF (ISBLANC ({description}), &quot;Aucune description&quot; , &quot;Avec description&quot; )
 
 ![Expressions avec espacement entre les champs](assets/T2K03.png)
 
@@ -69,7 +69,7 @@ Vous pouvez actualiser les expressions à l’aide de l’option Recalculer les 
 Vous souhaitez voir le nombre de jours pendant lesquels un problème a été ouvert. Créez un champ calculé appelé &quot;Days Open&quot; avec l’expression DATEDIFF.
 
 * Nom du champ = Jours ouverts
-* Expression = DATEDIFF({entryDate},$$TODAY)
+* Expression = DATEDIFF({entryDate},$$AUJOURD’HUI)
 
 Une fois enregistré, le nombre de jours entre la première création du problème ou la saisie dans Workfront, et la date d’aujourd’hui peuvent être affichés sur la page de détails d’un objet ou dans une vue de rapport.
 
@@ -109,7 +109,7 @@ Lorsqu’un champ personnalisé calculé est sélectionné dans la bibliothèque
 
 Par exemple, vous avez créé un champ calculé &quot;Jours à terminer&quot; pour déterminer le temps nécessaire pour terminer une tâche dans un projet.
 
-* WEEKDAYDIFF({realStartDate},{realCompletionDate})
+* WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
 Vous voulez faire la même chose pour une itération. Vous pouvez utiliser la même expression ; cependant, les champs disponibles pour un objet de tâche ne sont pas toujours disponibles pour un objet d’itération. Donc [!DNL Workfront] vous donne la possibilité de créer le calcul avec les champs d’objet appropriés.
 
@@ -121,4 +121,4 @@ Selon les besoins, les champs calculés dans les formulaires personnalisés peuv
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->

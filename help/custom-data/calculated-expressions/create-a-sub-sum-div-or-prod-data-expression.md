@@ -1,7 +1,7 @@
 ---
 title: Créer une expression de données SOB, SUM, DIV ou PROD
 description: Découvrez comment utiliser et créer les expressions mathématiques de base dans un champ calculé dans Adobe [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -35,7 +35,7 @@ L’expression ROUND prend n’importe quel nombre et l’arrondit à un certain
 
 La plupart du temps, l’expression de données ROUND est utilisée conjointement avec une autre expression de données et lorsque le champ de format est conservé sous la forme Texte ou Nombre.
 
-Créons un champ calculé afin de déterminer la différence entre le nombre d’heures prévu et réellement connecté à une tâche, qui nécessitera l’expression SOUS-B et ressemblera à ceci :
+Créez un champ calculé afin de déterminer la différence entre le nombre d’heures prévu et réellement connecté à une tâche, qui nécessitera l’expression SOUS-B et se présentera comme suit :
 
 **SUB({workRequired},{actualWorkRequired})**
 
@@ -47,7 +47,7 @@ Si le format est remplacé par Nombre lors de la création du champ calculé dan
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/round01.png)
 
-Cependant, si le format du champ lors de la création d’un champ personnalisé est laissé comme Texte, il ne peut pas être facilement modifié dans la vue. L’expression ROUND doit être utilisée pour éviter de voir des nombres comme celui-ci dans votre projet :
+Cependant, si le format du champ lors de la création d’un champ personnalisé est laissé sous la forme Texte, il ne peut pas être facilement modifié dans la vue. L’expression ROUND doit être utilisée pour éviter de voir des nombres comme celui-ci dans votre projet :
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/round02.png)
 
