@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ Vous avez le choix entre :
 
 * **Effectuez la validation —** Cela peut signifier rappeler aux autres la validation en cours. Pour ce faire, effectuez une mise à jour via [!DNL Workfront]. Selon votre [!DNL Workfront] autorisations, vous pouvez effectuer vous-même l’approbation.
 * **Supprimez la validation —** Si l’approbation n’est pas nécessaire, il peut être plus facile de la supprimer. Votre capacité à le faire dépend de votre [!DNL Workfront] autorisations.
-* **Modifiez l’état —** Sélectionnez un état auquel aucune approbation n’est jointe. Assurez-vous simplement que l’état est égal à Terminé.
+* **Modifiez l’état —** Sélectionnez un état auquel aucune approbation n’est jointe. Assurez-vous simplement que l’état équivaut à Terminé.
 
 Si votre entreprise utilise des problèmes pour suivre les problèmes, modifier les commandes ou d’autres événements pendant les projets, suivez les mêmes étapes dans la variable [!UICONTROL Problèmes] de votre projet.
