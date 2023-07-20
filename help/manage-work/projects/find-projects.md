@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,6 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 Vous pouvez rapidement trouver un projet récent (ainsi que d’autres objets) en cliquant sur le bouton [!UICONTROL Récents] icône .
 
 ![[!UICONTROL État] champ développé dans l’en-tête du projet](assets/recents.png)
-
->[!NOTE]
->
->Les vidéos suivantes ne contiennent pas d’audio. C&#39;est une démonstration de la [!DNL Workfront] fonctions mentionnées.
 
 ## Epinglage d’un projet
 
