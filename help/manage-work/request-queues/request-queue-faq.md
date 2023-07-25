@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ Vous pouvez utiliser la variable [!UICONTROL Rechercher] dans la barre de naviga
 
 Si vous ouvrez une requête à partir de la file d’attente des demandes, vous pouvez cliquer sur le nom du projet dans la zone des chemins de navigation.
 
-**Puis-je transférer les informations d’un formulaire personnalisé de requête vers un projet ?**
+**Puis-je transférer les informations d’un formulaire personnalisé de demande vers un formulaire personnalisé de projet ?**
 
-Oui. Cela implique de créer un formulaire personnalisé et de sélectionner les deux [!UICONTROL Problème] et [!UICONTROL Projet] types d’objets.
+Oui. Lorsque vous créez un formulaire personnalisé, sélectionnez les deux [!UICONTROL Projet] et [!UICONTROL Problème] comme type d’objet. Joignez le formulaire personnalisé à la requête. Lorsque vous convertissez la demande en projet, le formulaire personnalisé est automatiquement joint au nouveau projet et les valeurs contenues dans tous les champs apparaissent à la fois dans les formulaires personnalisés de demande et de projet.
 
 **Je consulte un rapport de projet ou de tâche. Comment puis-je savoir de quelle requête provient cet objet ?**
 

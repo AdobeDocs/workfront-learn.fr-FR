@@ -1,6 +1,6 @@
 ---
-title: Utilisation des modules externes Adobe Workfront pour Creative Cloud
-description: 'Recherchez et mettez à jour le travail qui vous est assigné dans Adobe Workfront sans quitter les applications Adobe Creative Cloud suivantes : Photoshop, XD, InDesign, Illustrator, Premiere Pro et After Effects.'
+title: Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud
+description: 'Intégrez Workfront à Creative Cloud pour rechercher et mettre à jour le travail qui vous est assigné dans Workfront sans quitter les applications de Creative Cloud suivantes : Photoshop, XD, InDesign, Illustrator, Premiere Pro et l’.'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="Intégration" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Utilisation des modules externes Adobe Workfront pour Creative Cloud
+# Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud
 
-Recherchez et mettez à jour le travail qui vous est assigné dans Adobe Workfront sans quitter les applications Adobe Creative Cloud suivantes :
+Intégrez Workfront à Creative Cloud pour rechercher et mettre à jour le travail qui vous est assigné dans Adobe Workfront sans quitter les applications Adobe Creative Cloud suivantes :
 
 * Photoshop
 * XD
@@ -46,7 +49,7 @@ Dans cette vidéo, vous apprendrez à effectuer les opérations suivantes dans v
 * Ajout de commentaires et membres de l’équipe de balises
 * Demande d’approbation de documents
 * Charger des BAT et affecter un workflow de vérification
-* Temps de connexion
+* Enregistrer des heures
 * Marquer la fin de votre travail
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)
