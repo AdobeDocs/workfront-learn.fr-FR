@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,20 +25,20 @@ ht-degree: 0%
 >
 >Conditions préalables :
 >
->* Présentation des éléments de reporting
->* Présentation des composants de création de rapports
->* Création d’une vue de base
+>* [Présentation des éléments de reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Présentation des composants de création de rapports](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
 >* Pour mieux comprendre le mode texte, nous vous recommandons de regarder l’événement webinaire enregistré. [Demander à l’expert - Présentation du reporting en mode texte](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), qui dure une heure.
->* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder la [Rapports avancés](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) les tutoriels qui, ensemble, durent cinq heures et demie.
+>* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder la [Création de rapports avancés](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) les tutoriels qui, ensemble, durent cinq heures et demie.
 
 Dans cette vidéo, vous apprendrez :
 
 * Quel mode de texte ?
 * Quelle casse de chameau ?
-* Un mode de texte simple &quot;plug and play&quot; que vous pouvez utiliser dans vos vues
+* Un mode de texte simple &quot;Plug and play&quot; que vous pouvez utiliser dans vos vues
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
@@ -231,16 +231,23 @@ type=iterate
 
 ![Image d’écran affichant la vue Affectations et Rôles](assets/assignments-roles-and-percent-view.png)
 
-## Tâche : prédécesseurs et successeurs de plusieurs projets
+## Tâche : prédécesseurs et successeurs sur plusieurs projets
 
 ### Filtre de tâche (facultatif)
 
-**Me montrer toutes les tâches ayant au moins un prédécesseur multi-projet**
+**Me montrer toutes les tâches ayant au moins un prédécesseur multi-projets ou au moins un successeur multi-projets sur les projets en cours**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Tâche : affichez les noms des prédécesseurs et le prédécesseur de projet est dans
@@ -315,10 +322,10 @@ valueformat=HTML
 width=150
 ```
 
-![Une image d’écran présentant la vue Croiser les prédécesseurs et les successeurs du projet](assets/cross-project-predecessors-and-successors.png)
+![Image d’écran montrant la vue des prédécesseurs et successeurs sur plusieurs projets](assets/cross-project-predecessors-and-successors.png)
 
 
-## Tâche : itération indiquant toutes les personnes affectées et chacune d’elles affectée.
+## Tâche : itération indiquant toutes les personnes affectées et chacune d’elles affectée
 
 ```
 displayname=All assignees and requesters
@@ -361,7 +368,7 @@ valueformat=HTML
 width=150
 ```
 
-![Image d’écran montrant les Principaux contacts pour les éléments à résoudre](assets/primary-contacts-for-resolvables.png)
+![Une image d’écran montrant les Principaux contacts pour les éléments à résoudre](assets/primary-contacts-for-resolvables.png)
 
 ## Projet : itération présentant tous les membres de l’équipe de projet
 
@@ -396,7 +403,7 @@ valueformat=HTML
 
 ![Image d’écran affichant entryDate de tous les problèmes résolvables d’un projet.](assets/resolvables-entry-date.png)
 
-## Projet : affichez le groupe d’accueil du demandeur de projet d’origine.
+## Projet : affiche le groupe d’accueil du demandeur de projet d’origine.
 
 ```
 displayname=Requestor home group
@@ -444,7 +451,7 @@ width=150
 
 ![Image d’écran montrant tous les membres de l’équipe de projet de résolution](assets/all-resolve-project-team-members.png)
 
-## Problème : itération montrant toutes les équipes du Principal contact du problème
+## Problème : itération montrant toutes les équipes du contact Principal du problème.
 
 ```
 displayname=Requestor Teams
