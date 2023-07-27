@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
 workflow-type: tm+mt
-source-wordcount: '2389'
+source-wordcount: '2392'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
       + [Configuration des paramètres globaux par défaut du projet](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
       + [Présentation des types de problèmes par défaut](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Création d’un état de problème](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
-      + [Création de l’état des problèmes à l’échelle du système](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Créer un état des problèmes à l’échelle du système](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
       + [Création et gestion des statistiques sur les problèmes](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Personnalisation des types de problèmes et de la terminologie](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configuration des préférences de problème par défaut globales](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
@@ -45,7 +45,7 @@ ht-degree: 2%
       + [Personnalisation de l’accueil avec des modèles de mise en page](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Attribuer et gérer l’accès aux modèles de mise en page](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Personnalisation des zones d’objet avec un modèle de mise en page](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
-      + [Personnalisation des détails d’un projet à l’aide de modèles de mise en page](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [Personnalisation des détails d’un projet avec des modèles de mise en page](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
       + [Personnalisation des en-têtes de projet avec des modèles de mise en page](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [Personnalisation des listes de rapports avec des modèles de mise en page](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
@@ -57,13 +57,13 @@ ht-degree: 2%
       + [Configuration des notifications de rappel](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
       + [Joindre des notifications de rappel aux éléments de travail](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
       + [Configuration de rappels automatiques](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
-      + [S’abonner aux tâches](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
+      + [S’abonner à des tâches](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
 
    + Création et gestion des utilisateurs {#create-and-manage-users}
       + [Ajouter des utilisateurs](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [Création d’un utilisateur individuel](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
       + [Ajout d’utilisateurs en bloc](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
-      + [Modification des informations sur l’utilisateur](administration-and-setup/create-and-manage-users/modify-user-information.md)
+      + [Modification des informations sur les utilisateurs](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Quand et comment désactiver ou supprimer des utilisateurs](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [Présentation du journal d’audit système](administration-and-setup/create-and-manage-users/system-audit-log.md)
 
@@ -129,7 +129,7 @@ ht-degree: 2%
       + [Présentation des durées de tâche](manage-work/tasks/understand-task-durations.md)
       + [Découvrez comment séquencer des tâches](manage-work/tasks/learn-to-sequence-tasks.md)
       + [Présentation des heures planifiées](manage-work/tasks/understand-planned-hours.md)
-      + [Comprendre [!UICONTROL Effort de travail]](manage-work/tasks/understand-work-effort.md)
+      + [Comprendre [!UICONTROL Effort professionnel]](manage-work/tasks/understand-work-effort.md)
 
    + Problèmes/requêtes {#issues-requests}
       + [Gérer le travail non planifié](manage-work/issues-requests/handle-unplanned-work.md)
@@ -176,7 +176,7 @@ ht-degree: 2%
    + Fermeture d’un projet {#close-a-project}
       + [Fermeture d’un projet](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Modifier l’état du projet pour qu’il soit terminé](manage-work/projects/change-the-project-status.md)
-      + [Fermeture des tâches et problèmes](manage-work/close-a-project/close-tasks-and-issues.md)
+      + [Fermeture des tâches et des problèmes](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Approbation complète](manage-work/close-a-project/complete-approvals.md)
       + [Chargement de ressources](manage-work/close-a-project/upload-assets.md)
       + [Enregistrer les leçons apprises](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
@@ -190,25 +190,26 @@ ht-degree: 2%
 
    + Projets intermédiaires {#intermediate-projects}
       + [Comprendre et gérer les types de durée et les contraintes de tâche](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Présentation des prédécesseurs sur plusieurs projets](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + Rapports {#reporting}
-   + Création de rapports de base {#basic-reporting}
+   + Reporting de base {#basic-reporting}
       + [Présentation des éléments de reporting](reporting/basic-reporting/reporting-elements.md)
       + [Présentation des composants de création de rapports](reporting/basic-reporting/reporting-components.md)
       + [Créer un groupement de base](reporting/basic-reporting/create-a-basic-grouping.md)
-      + [Création d’une vue de base](reporting/basic-reporting/create-a-basic-view.md)
+      + [Créer une vue de base](reporting/basic-reporting/create-a-basic-view.md)
       + [Ajouter une mise en forme conditionnelle de base](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
-      + [Création d’un filtre de base](reporting/basic-reporting/create-a-basic-filter.md)
+      + [Créer un filtre de base](reporting/basic-reporting/create-a-basic-filter.md)
       + [Créer une activité de filtre de base](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Créer un rapport simple](reporting/basic-reporting/create-a-simple-report.md)
-      + [Créer un rapport de tâche](reporting/basic-reporting/create-a-task-report.md)
+      + [Création d’un rapport de tâche](reporting/basic-reporting/create-a-task-report.md)
       + [Création de rapports avec des graphiques](reporting/basic-reporting/create-reports-with-charts.md)
       + [Créer un rapport de matrice](reporting/basic-reporting/create-a-matrix-report.md)
       + [Créer des tableaux de bord](reporting/basic-reporting/create-dashboards.md)
       + [Envoi et partage de rapports](reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [Présentation des paramètres des rapports](reporting/basic-reporting/report-settings.md)
-      + [Présentation de l’interface Calendrier](reporting/basic-reporting/tour-of-the-interface.md)
+      + [Présentation de l’interface du calendrier](reporting/basic-reporting/tour-of-the-interface.md)
       + [Création d’un calendrier personnalisé](reporting/basic-reporting/creating-custom-calendars.md)
       + [Présentation des options de calendrier supplémentaires](reporting/basic-reporting/additional-calendar-options.md)
       + [Votre tour de créer un calendrier](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
@@ -225,11 +226,11 @@ ht-degree: 2%
       + [Comprendre le mode de texte de base pour les regroupements](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Création d’invites personnalisées](reporting/intermediate-reporting/custom-prompts.md)
 
-   + Rapports avancés {#advanced-reporting}
+   + Création de rapports avancés {#advanced-reporting}
       + [Bienvenue dans les rapports avancés](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
       + [Partie 1 des rapports avancés](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Partie 2 des rapports avancés](reporting/advanced-reporting/advanced-reporting-part-2.md)
-      + [Rapport avancé - partie 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
+      + [Création de rapports avancés, partie 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + Analytique améliorée {#enhanced-analytics}
       + [Un moment avec Product [!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
@@ -240,8 +241,8 @@ ht-degree: 2%
       + [Présentation des filtres](reporting/enhanced-analytics/6-filters-overview.md)
       + [Comprendre les périodes et les délais](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
       + [Présentation des heures planifiées et des vues de durée](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [Comprendre les actions : pointer et faire glisser et cliquer dessus](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [Présentation des IPC](reporting/enhanced-analytics/10-kpis-overview.md)
+      + [Comprendre les actions : cliquez avec le bouton de la souris et faites glisser et cliquez dessus.](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
+      + [Présentation des indicateurs de performance clés](reporting/enhanced-analytics/10-kpis-overview.md)
       + [Comprendre la navigation et la révision des projets](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
       + [Exploration plus approfondie à l’aide des délais et des graphiques supplémentaires](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
       + [Comprendre la navigation et la révision de l’activité de projet](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
@@ -264,7 +265,7 @@ ht-degree: 2%
       + [Configuration de la gestion des ressources, équilibreur de charge de travail et rapport d’utilisation](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + Équilibreur de charge de travail {#workload-balancer}
-      + [Recherche de l’équilibreur de charge de travail](manage-resources/workload-balancer/find-the-workload-balancer.md)
+      + [Recherche de l’équilibreur de charge](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [Filtrage de l’équilibreur de charge de travail](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Affichage des affectations utilisateur dans l’équilibreur de charge de travail](manage-resources/workload-balancer/view-user-allocations.md)
       + [Ajuster les allocations quotidiennes dans l’équilibreur de charge de travail](manage-resources/workload-balancer/adjust-daily-allocations.md)
@@ -279,7 +280,7 @@ ht-degree: 2%
       + [Afficher par projet](manage-resources/resource-planning/view-by-project/view-by-project.md)
 
    + Calendrier des heures de désactivation personnelles {#personal-time-off-calendar}
-      + [Pourquoi utiliser le calendrier des congés ?](manage-resources/pto/why-use-time-off-calendar.md)
+      + [Pourquoi utiliser le calendrier des heures de congé ?](manage-resources/pto/why-use-time-off-calendar.md)
       + [Comment le délai d’expiration affecte-t-il les calendriers du projet](manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Gestion des autres interruptions de service des utilisateurs](manage-resources/pto/manage-other-users-time-off.md)
       + [Afficher le délai d’expiration lors de l’affectation de tâches](manage-resources/pto/see-time-off-when-assigning-tasks.md)
@@ -297,7 +298,7 @@ ht-degree: 2%
 
 + Objectifs Workfront {#workfront-goals}
    + Définition d’une vision pour votre organisation {#establish-a-vision-and-strategy}
-      + [Présentation de la vision sous-jacente aux objectifs de Workfront](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
+      + [Présentation de la vision sous-jacente aux objectifs Workfront](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [Comprendre le fonctionnement des objectifs de Workfront](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Comprendre comment les objectifs Workfront s’inscrivent dans votre cycle de travail](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Définition d’une vision et d’une stratégie pour votre organisation](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
@@ -351,7 +352,7 @@ ht-degree: 2%
 
    + Microsofts Teams {#ms-teams}
       + [Présentation d’Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
-      + [Installation d’Adobe Workfront pour les Microsofts Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Installation d’Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
       + [Accès à Adobe Workfront à partir de Microsofts Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
       + [Recherche et partage d’éléments Adobe Workfront dans les Microsofts Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
       + [Création de tâches Adobe Workfront à partir de Microsofts Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
@@ -434,7 +435,7 @@ ht-degree: 2%
       + [Gestion des erreurs](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [Comprendre les directives de gestion des erreurs](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [Présentation de la gestion des erreurs](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
-      + [Présentation des exécutions incomplètes](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
+      + [Comprendre les exécutions incomplètes](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
       + [Présentation des exécutions incomplètes](fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
 
    + Administration de Workfront Fusion {#workfront-fusion-administration}
@@ -449,7 +450,7 @@ ht-degree: 2%
       + [Tests et lancement](fusion/11-design-optimization-and-testing/testing-considerations.md)
    + Exercices {#exercises}
       + [Conception initiale du scénario](fusion/12-exercises/initial-scenario-design.md)
-      + [Au-delà du mappage de base](fusion/12-exercises/beyond-basic-mapping.md)
+      + [Au mappage de base](fusion/12-exercises/beyond-basic-mapping.md)
       + [Filtres](fusion/12-exercises/filters.md)
       + [Accès aux versions précédentes](fusion/12-exercises/access-previous-versions.md)
       + [Présentation des connecteurs universels](fusion/12-exercises/introduction-to-universal-connectors.md)
@@ -462,7 +463,7 @@ ht-degree: 2%
       + [Historique d&#39;exécution](fusion/12-exercises/execution-history.md)
       + [Exploration des exécutions, des cycles et des lots](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Fonction Switch](fusion/12-exercises/switch-function.md)
-      + [Module Switch](fusion/12-exercises/switch-module.md)
+      + [Module de basculement](fusion/12-exercises/switch-module.md)
       + [Webhooks](fusion/12-exercises/webhooks.md)
       + [Structures de données](fusion/12-exercises/data-structures.md)
       + [Entrepôts de données](fusion/12-exercises/data-stores.md)
@@ -495,7 +496,7 @@ ht-degree: 2%
       + [Téléchargement d’une version de BAT](workfront-proof/upload-proofs/upload-a-proof-version.md)
       + [Gestion des versions de BAT](workfront-proof/upload-proofs/manage-proof-versions.md)
       + [Chargement d’un BAT d’une vidéo](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
-      + [Télécharger un BAT d’un site web](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
+      + [Télécharger un bon à tirer d’un site web](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
       + [Chargement d’un BAT avec un workflow de base](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
       + [Chargement d’un BAT avec un workflow automatisé](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [Chargement avec un glisser-déposer](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
@@ -505,8 +506,8 @@ ht-degree: 2%
       + [Présentation des workflows de BAT dans les calendriers du projet](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [Modification d’un workflow de BAT](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [Créer des groupes de modèles pour organiser les modèles de workflow automatisés](workfront-proof/administration-and-setup/create-template-groups.md)
-      + [Création d’un modèle de workflow automatisé](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
-      + [Modification d’un modèle de workflow automatisé](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
+      + [Créer un modèle de workflow automatisé](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
+      + [Modifier un modèle de workflow automatisé](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
 
    + Réviser et approuver le travail {#review-and-approve-work-for-proof}
       + [Navigation dans la visionneuse de BAT](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
@@ -523,14 +524,14 @@ ht-degree: 2%
       + [Comprendre [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Présentation des paramètres système](workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendre [!UICONTROL Brand Portal]](workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analyser et planifier une [!DNL Workfront DAM] stratégie](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analysez et planifiez une [!DNL Workfront DAM] stratégie](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configuration de groupes et d’utilisateurs](workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configuration de l’intégration dans Workfront](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personnaliser [!DNL Workfront DAM]](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + Métadonnées et mots-clés {#metadata-and-keywords}
       + [Présentation des métadonnées](workfront-dam/metadata-and-keywords/metadata-introduction.md)
-      + [Activation et application de la taxonomie des mots-clés](workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
+      + [Activer et appliquer la taxonomie des mots-clés](workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
       + [Vérification de la terminologie des métadonnées](workfront-dam/metadata-and-keywords/review-the-terminology.md)
       + [Recherche de ressources à l’aide de métadonnées et de mots-clés](workfront-dam/metadata-and-keywords/search-for-assets.md)
       + [Configuration d’un modèle de métadonnées](workfront-dam/metadata-and-keywords/metadata-templates.md)
@@ -546,7 +547,7 @@ ht-degree: 2%
       + [Personnalisation de l’aspect de [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [Personnalisation de l’aspect de [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
 
-   + Utilisateur DAM Workfront : Contributeur {#workfront-dam-contributor}
+   + Utilisateur DAM Workfront : contributeur {#workfront-dam-contributor}
       + [Comprendre [!UICONTROL Gestion des actifs numériques Workfront] en tant que contributeur](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [Présentation de la gestion des ressources en tant que contributeur](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Présentation de la recherche de ressources en tant que contributeur](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
@@ -566,7 +567,7 @@ ht-degree: 2%
       + [Utilisation des ressources en tant qu’utilisateur](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Page d’accueil {#home}
-   + [Rechercher votre travail](workfront-home/find-your-work-in-workfront-home.md)
+   + [Trouver votre travail](workfront-home/find-your-work-in-workfront-home.md)
    + [Organisation de votre liste de tâches](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Définir la priorité de votre travail](workfront-home/prioritize-your-work-in-workfront-home.md)
    + [indiquer le statut du travail ;](workfront-home/indicate-work-status-in-workfront-home.md)
@@ -574,7 +575,7 @@ ht-degree: 2%
    + [Heures de connexion au travail](workfront-home/log-hours-on-work-in-workfront-home.md)
    + [Marquer la tâche affectée comme terminée](workfront-home/mark-assigned-work-as-complete.md)
    + [Approuver le travail dans [!UICONTROL Accueil]](workfront-home/approve-work-in-workfront-home.md)
-   + [Collaborer au travail avec [!UICONTROL Mes mises à jour]](workfront-home/collaborate-on-work-with-my-updates.md)
+   + [Collaborer avec [!UICONTROL Mes mises à jour]](workfront-home/collaborate-on-work-with-my-updates.md)
    + [Vérifier le travail dans [!UICONTROL Mes mises à jour] ou [!UICONTROL Accueil]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
    + [Présentation des mises à jour et des notifications](manage-work/issues-requests/understand-updates-and-notifications.md)
 
@@ -588,11 +589,11 @@ ht-degree: 2%
       + [Utiliser la page d&#39;itération](agile/using-the-iteration-page.md)
 
    + Kanban {#kanban}
-      + [Créer une équipe Kanban](agile/create-a-kanban-team.md)
+      + [Création d’une équipe Kanban](agile/create-a-kanban-team.md)
       + [Gérer le travail en tant qu&#39;équipe Kanban](agile/manage-work-kanban-team.md)
 
    + Panoramas  {#boards}
-      + [Recherche et création d’un panorama de base](boards/find-and-create-a-basic-board.md)
+      + [Rechercher et créer un panorama de base](boards/find-and-create-a-basic-board.md)
       + [Gestion des colonnes de panorama](boards/manage-board-columns.md)
       + [Ajout de cartes à un panorama](boards/add-cards-to-a-board.md)
       + [Gestion des cartes sur un panorama](boards/manage-cards-on-a-board.md)
