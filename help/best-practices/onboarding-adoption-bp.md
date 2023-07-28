@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des consignes qui représentent un plan d’action efficace. Elles sont facilement adoptées par vous et les utilisateurs de votre entreprise et peuvent être répliquées avec succès dans l’ensemble de votre entreprise.
 
 Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
 
@@ -42,7 +42,7 @@ Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut ni
 
 * Commencez par un processus de base et passez lentement en revue pour stimuler l’adoption des utilisateurs. N’essayez pas de tout rendre au système ou au nouveau processus pour tout le monde.
 
-* Utilisez vos diagrammes de processus pour prendre en charge les conversations dans les cas où l’adoption est en difficulté.
+* Utilisez vos diagrammes de processus pour prendre en charge les conversations dans les cas où l’adoption se heurte à des difficultés.
 
 * Créez un centre d’excellence Workfront pour informer les bonnes pratiques de l’entreprise sur Workfront.
 
@@ -88,7 +88,7 @@ Définissez et créez la structure d’un panorama de gouvernance Workfront et s
 
 **Voici pourquoi**
 
-Comme tant d’équipes contribuent au succès global de votre organisation, il faut respecter certaines normes pour assurer l’excellence opérationnelle. C&#39;est le fait du conseil de gouvernance, qui a tous voix au chapitre, qui comprend les initiatives stratégiques de l&#39;entreprise et qui peut participer à la réalisation d&#39;objectifs communs.
+Comme tant d’équipes contribuent au succès global de votre organisation, il faut respecter certaines normes pour assurer l’excellence opérationnelle. Cela est fait par le conseil de gouvernance, qui ont tous voix au chapitre, comprennent les initiatives stratégiques de l&#39;entreprise et peuvent participer à la réalisation d&#39;objectifs communs.
 
 Le plus souvent, le conseil se compose des éléments suivants :
 
@@ -107,7 +107,7 @@ Pour plus d’informations, voir Bonnes pratiques pour l’administrateur systè
 
 **Bonne pratique**
 
-Utilisez vos diagrammes de processus pour prendre en charge les conversations dans les cas où l’adoption est en difficulté.
+Utilisez vos diagrammes de processus pour prendre en charge les conversations dans les cas où l’adoption se heurte à des difficultés.
 
 **Voici pourquoi**
 
@@ -151,3 +151,18 @@ Il est important que les utilisateurs reçoivent des attentes claires afin qu’
 
 
 Assurez-vous que le leadership envoie des communications pour confirmer leur soutien.
+
+</br>
+</br>
+
+
+**Bonne pratique**
+
+Créez et déployez une enquête sur l’adoption de vos utilisateurs afin de mieux comprendre où ils rencontrent des défis et où ils trouvent de la valeur
+
+**Voici pourquoi**
+
+Nos clients les plus performants ont développé une cadence régulière pour recueillir des commentaires afin de comprendre ce qui peut entraver une meilleure adoption de la solution Workfront. La collecte des données de retour permet aux administrateurs de trouver les ressources appropriées pour apporter des améliorations. Ce guide des enquêtes sur l’adoption décrit les étapes d’exécution, de mesure, de planification et de révision d’une enquête auprès de vos utilisateurs Workfront.
+
+[Téléchargement du Guide Workfront pour l’adoption d’une enquête](../assets/adoption-survey.pdf)
+
