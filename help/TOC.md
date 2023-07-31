@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2392'
+source-wordcount: '2401'
 ht-degree: 2%
 
 ---
@@ -28,13 +28,15 @@ ht-degree: 2%
       + [Restaurer des objets à partir de la corbeille](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + Configuration des paramètres système par défaut {#configure-system-defaults}
-      + [Configuration des paramètres globaux par défaut du projet](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [Création et gestion des états d’objet](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Présentation des types de problèmes par défaut](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Création d’un état de problème](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [Créer un état des problèmes à l’échelle du système](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Création et gestion des plannings](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [Création et gestion des statistiques sur les problèmes](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Personnalisation des types de problèmes et de la terminologie](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configuration des préférences de problème par défaut globales](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [Configuration des paramètres globaux par défaut du projet](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + Modèles de disposition {#layout-templates}
       + [Que sont les modèles de mise en page ?](administration-and-setup/layout-templates/what-are-layout-templates.md)
