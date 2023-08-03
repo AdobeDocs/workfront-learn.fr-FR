@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
+source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
 workflow-type: tm+mt
-source-wordcount: '2401'
+source-wordcount: '2405'
 ht-degree: 2%
 
 ---
@@ -122,6 +122,7 @@ ht-degree: 2%
       + [Suivi de la progression globale du projet](manage-work/projects/track-overall-project-progress.md)
       + [Suivi de la progression du travail avec les mesures de projet](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Comprendre le [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
+      + [Comprendre le [!UICONTROL board] view](manage-work/projects/understand-the-board-view.md)
 
    + Tâches {#tasks}
       + [Création de tâches](manage-work/tasks/how-to-create-tasks.md)
