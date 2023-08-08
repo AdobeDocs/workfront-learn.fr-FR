@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 2%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 2%
       + [Gestion des colonnes de panorama](boards/manage-board-columns.md)
       + [Ajout de cartes à un panorama](boards/add-cards-to-a-board.md)
       + [Gestion des cartes sur un panorama](boards/manage-cards-on-a-board.md)
+      + [Personnalisation des cartes sur un panorama](boards/customize-cards-on-a-board.md)
       + [Ajout et gestion des membres de l’équipe pour un panorama](boards/add-and-manage-team-members-for-a-board.md)
       + [Ajout et modification des paramètres de colonne sur un panorama](boards/add-and-edit-column-settings-on-a-board.md)
       + [Ajout et gestion de balises pour les cartes](boards/add-and-manage-tags-for-cards.md)
