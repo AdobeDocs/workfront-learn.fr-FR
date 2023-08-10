@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -32,13 +32,13 @@ Dans cette vidéo, vous apprendrez à :
 
 La variable [!UICONTROL Options] peut être masquée par l’administrateur système s’il souhaite que vous utilisiez les valeurs par défaut qu’il a définies. Si la variable [!UICONTROL Options] s’affiche, où en sont les implications :
 
-**Conservez le problème d’origine et liez sa résolution à ce projet.**
+**Conserver le problème d’origine et lier sa résolution à ce projet**
 
 Si cette option est sélectionnée, le problème d’origine sera marqué comme résolu une fois le projet terminé. Si cette option est **not** sélectionné, le problème d’origine sera supprimé lors de la création du projet.
 
 **Autoriser (nom de l’utilisateur) à accéder à ce projet**
 
-Si cette option est sélectionnée, la personne qui a effectué la demande (ou au nom de qui la demande a été faite) se verra automatiquement attribuer des droits d’accès au nouveau projet une fois créé. Si cette option est **not** sélectionnés, ils ne bénéficieront d’aucun droit.
+Si cette option est sélectionnée, la personne qui a effectué la demande (ou au nom de qui la demande a été faite) se verra automatiquement attribuer des droits d’accès au nouveau projet une fois créé. Si cette option est **not** sélectionnés, ils ne se verront attribuer aucun droit automatiquement.
 
 ![Image d’un écran de projet présentant les options de conversion](assets/conversion-options.png)
 
