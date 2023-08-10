@@ -4,24 +4,32 @@ description: Découvrez comment utiliser les tableaux de bord, [!UICONTROL Accue
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: find-requests.jpeg
+thumbnail: 3422686.jpg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
+last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Recherche de requêtes
 
-Si vous trouvez des requêtes qui peuvent varier, contactez votre [!DNL  Workfront] pour savoir comment gérer l’ingestion des demandes. Certains endroits dans [!DNL Workfront] où vous pouvez trouver des requêtes :
+Dans cette vidéo, vous découvrirez comment rechercher les requêtes auxquelles vous êtes affecté, les requêtes que vous avez créées et les requêtes que vous gérez.
 
-* **Tableaux de bord :** Beaucoup [!DNL Workfront] les clients écrivent des rapports personnalisés qui affichent les requêtes entrantes, effectuent le suivi des requêtes qui ont été converties en projets, etc. Ces rapports individuels sont regroupés dans un tableau de bord, ce qui permet de visualiser facilement et rapidement tout le contenu. [!DNL Workfront] recommande cette méthode de gestion des requêtes, car elle peut être personnalisée en fonction des besoins de votre entreprise.
-* **[!UICONTROL Accueil]:** Les requêtes sont désignées comme un problème, car c’est ainsi que le serveur principal de [!DNL Workfront] gère une demande effectuée par le biais d’une file d’attente de demandes.
-* **[!UICONTROL Zone de requêtes]**: Le [!UICONTROL Envoyé] , par défaut, affiche les requêtes auxquelles vous avez accès qui sont toujours ouvertes ou non résolues. Modifiez la variable [!UICONTROL Filtrer] pour afficher toutes les requêtes envoyées auxquelles vous avez accès, uniquement vos requêtes ou simplement vos requêtes ouvertes. Pour afficher rapidement les détails d’une requête, sélectionnez-la dans la liste et ouvrez le panneau de résumé.
-* **[!UICONTROL Équipes] page :** Lorsque les requêtes sont acheminées vers une équipe, elles apparaissent sur la page [!UICONTROL Équipes] dans la [!UICONTROL Requêtes d’équipe] . À partir de là, les membres de l’équipe peuvent s’auto-affecter ou un responsable d’équipe peut affecter le travail.
+Vous apprendrez à trouver ces requêtes aux emplacements suivants :
+
+* Workfront [!UICONTROL Accueil]
+* La variable [!UICONTROL Demandes] area
+* La variable [!UICONTROL Équipes] page
+* Dans un tableau de bord personnalisé
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+
+Pour savoir comment créer des rapports personnalisés et les placer dans un tableau de bord, reportez-vous à la section [Cours de création de rapports de base](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)

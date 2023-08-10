@@ -3,7 +3,7 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 2%
@@ -138,18 +138,12 @@ ht-degree: 2%
       + [Gérer le travail non planifié](manage-work/issues-requests/handle-unplanned-work.md)
       + [Effectuer une requête](manage-work/issues-requests/make-a-request.md)
       + [Recherche de requêtes](manage-work/issues-requests/find-requests.md)
-      + [Gestion des requêtes](manage-work/issues-requests/manage-incoming-requests.md)
       + [Gestion des affectations de problèmes](manage-work/issues-requests/manage-issue-assignments.md)
       + [Mettre à jour une requête](manage-work/issues-requests/update-a-request.md)
-      + [Création d’un projet à partir d’une requête](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Convertir des problèmes en d’autres éléments de travail](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Convertir un problème/une requête en projet](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Convertir un problème/une requête en tâche](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Révision et approbation de travaux numériques](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Rapport sur les problèmes](manage-work/issues-requests/report-on-issues.md)
-
-   + Portefeuilles {#portfolios}
-      + [Présentation des portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Présentation de l’analyse de cas](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Définir la priorité et gérer le travail avec les portefeuilles](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Files d’attente des demandes {#request-queues}
       + [Présentation des files d’attente de requête](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 2%
       + [Création d’une file d’attente de requêtes](manage-work/request-queues/create-a-request-queue.md)
       + [Création d’un flux de requêtes](manage-work/request-queues/create-a-request-flow.md)
       + [Réponses aux questions courantes sur les files d’attente de requêtes](manage-work/request-queues/request-queue-faq.md)
+
+   + Portefeuilles {#portfolios}
+      + [Présentation des portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Présentation de l’analyse de cas](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Définir la priorité et gérer le travail avec les portefeuilles](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processus de validation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Créer un processus d’approbation à usage unique](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
