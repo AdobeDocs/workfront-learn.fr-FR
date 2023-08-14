@@ -6,22 +6,20 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 thumbnail: manage-incoming-requests.jpeg
 jira: KT-10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
 # Gestion des requêtes
 
-Si vous êtes responsable de la révision ou de la gestion des requêtes entrantes, où les requêtes peuvent varier, alors contactez votre [!DNL Workfront] pour savoir comment gérer l’ingestion des demandes. Certains endroits dans [!DNL Workfront] où vous pouvez trouver des requêtes :
+>[!NOTE]
+>
+>**Gestion des requêtes** est désormais inclus dans **[Recherche et gestion des requêtes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**.
 
-* **Tableaux de bord :** Beaucoup [!DNL Workfront] les clients écrivent des rapports personnalisés qui affichent les requêtes entrantes, effectuent le suivi des requêtes qui ont été converties en projets, etc. Ces rapports individuels sont regroupés dans un tableau de bord, ce qui permet de visualiser facilement et rapidement tout le contenu. [!DNL Workfront] recommande cette méthode de gestion des requêtes, car elle peut être personnalisée en fonction des besoins de votre entreprise.
-* **[!UICONTROL Accueil]:** Les requêtes sont désignées comme un problème, car c’est ainsi que le serveur principal de [!DNL Workfront] gère une demande effectuée par le biais d’une file d’attente de demandes.
-* **[!UICONTROL Demandes] area :** Le [!UICONTROL Tous] Le filtre affiche chaque demande envoyée à laquelle vous avez accès. Il ne s’agit pas d’un emplacement idéal pour gérer les requêtes entrantes, car les nouvelles requêtes et les requêtes en cours sont affichées ensemble.
-* **[!UICONTROL Équipes] page :** Lorsque les requêtes sont acheminées vers une équipe, elles apparaissent sur la page [!UICONTROL Équipes] dans la [!UICONTROL Requêtes d’équipe] . À partir de là, les membres de l’équipe peuvent s’auto-affecter ou un responsable d’équipe peut affecter le travail.
