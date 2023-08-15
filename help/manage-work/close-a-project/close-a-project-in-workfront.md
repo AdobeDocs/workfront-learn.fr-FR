@@ -11,16 +11,16 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d34e7acf962b6205d0912b2e40f9a4e2582772fa
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # Fermeture d’un projet
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous découvrirez les éléments suivants :
 
 * Informations à examiner dans [!DNL Workfront] avant de fermer un projet
 * Pourquoi il est important d’avoir mis à jour les données
