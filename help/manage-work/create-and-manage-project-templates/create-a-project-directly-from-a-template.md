@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,9 @@ La fenêtre de détails vous permet d’apporter des modifications aux paramètr
 >
 >Pour créer un projet à l’aide de cette méthode, vous devez accéder à la zone Modèles de Workfront. Si vous ne pouvez pas accéder aux modèles, vous pouvez toujours utiliser un modèle pour créer un projet à partir de la zone Projets ou lors de la conversion d’un problème/d’une tâche.
 
-**Pro-Tip**: S’il existe un modèle que vous utilisez fréquemment, faites-en un favori ! Le modèle apparaît dans le menu Nouveau projet, en plus de s’afficher sous le menu Favoris et Récents de la barre de navigation.
+>[!TIP]
+>
+>S’il existe un modèle que vous utilisez fréquemment, faites-en un favori ! Le modèle apparaît dans le menu Nouveau projet, en plus de s’afficher sous le menu Favoris de la barre de navigation.
+
 
 ![Nouveaux modèles favoris de projet](assets/direct-template-03.png)
