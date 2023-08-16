@@ -1,5 +1,5 @@
 ---
-title: Fermeture des tâches et problèmes
+title: Fermeture des tâches et des problèmes
 description: Découvrez comment vous assurer que les tâches et les problèmes sont fermés avant de fermer un projet dans [!DNL  Workfront].
 activity: use
 team: Technical Marketing
@@ -10,25 +10,19 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# Fermeture des tâches et problèmes
+# Fermeture des tâches et des problèmes
 
 L’une des premières étapes pour fermer une [!DNL Workfront] Le projet s’assure que toutes les tâches et tous les problèmes ont l’état Terminé ou un état équivalent.
 
-Commencez par la liste des tâches et sélectionnez une [!UICONTROL Affichage] qui affiche le [!UICONTROL Pourcentage terminé] ou le [!UICONTROL État] ou les deux. Une analyse rapide de la liste des tâches vous permet de déterminer quelles tâches n’ont pas eu de changement d’état.
+Si la variable [!UICONTROL Pourcentage terminé] dans l’en-tête du projet, indique que toutes les tâches sont marquées comme étant entièrement terminées. Toutefois, une tâche qui est [!UICONTROL Terminé - En attente d’approbation] sera toujours lu à 100%, donc n&#39;oubliez pas de vérifier ceux-ci. Voir [Approbation complète](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) pour obtenir tous les conseils sur les approbations.
 
-![Affichage du projet [!UICONTROL Pourcentage terminé] column](assets/planner-fund-close-tasks-and-issues.png)
+Si des problèmes sont incomplets, même ceux en attente d’approbation, un nombre s’affiche en regard de l’onglet Problèmes pour indiquer le nombre de problèmes. Si le nombre est nul, vous n’avez aucun problème incomplet.
 
-Toutes les organisations n’utilisent pas [!DNL Workfront's] problèmes pour enregistrer ou résoudre les problèmes, modifier les commandes, etc., qui se sont produits pendant le projet. Mais si vous le faites, passez à la [!UICONTROL Problèmes] et assurez-vous que tous les problèmes ont été résolus.
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![Affichage du projet [!UICONTROL Pourcentage terminé] et les problèmes en cours](assets/close-tasks-and-issues.png)
