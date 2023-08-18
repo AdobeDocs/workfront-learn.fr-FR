@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '2414'
+source-wordcount: '2416'
 ht-degree: 2%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 2%
 
    + Portefeuilles {#portfolios}
       + [Présentation des portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Présentation de l’analyse de cas](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Définir la priorité et gérer le travail avec les portefeuilles](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Comprendre le [!UICONTROL Analyse de cas]](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Utilisez la variable [!UICONTROL Portfolio Optimizer] prioriser et gérer le travail](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processus de validation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Créer un processus d’approbation à usage unique](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)

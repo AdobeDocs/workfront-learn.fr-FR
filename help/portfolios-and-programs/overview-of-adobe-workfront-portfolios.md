@@ -1,26 +1,28 @@
 ---
 title: Présentation des portefeuilles
-description: Découvrez les portefeuilles dans [!DNL Workfront] et comment ils peuvent vous aider à hiérarchiser les projets et à comparer les projets les uns par rapport aux autres.
+description: Découvrez les portfolios de Workfront et comment ils peuvent vous aider à hiérarchiser les projets et à comparer les projets les uns par rapport aux autres.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-18T00:00:00Z
+jira: KT-13837
 level: Intermediate
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
 
 # Présentation des portefeuilles
 
-Les gestionnaires ont souvent la tâche délicate de déterminer quels projets aideraient le mieux leur entreprise à atteindre ses objectifs. Cela implique de juger un projet actuel ou potentiel en fonction de critères importants pour ces objectifs. Ce critère peut inclure des éléments comme le nombre de ressources nécessaires, le coût du projet par rapport à ce qu’il implique, et/ou le nombre de risques impliqués. Grâce à ces informations, les gestionnaires peuvent décider quels projets doivent être réalisés en premier et lesquels peuvent être mis en second plan.
+Les gestionnaires ont souvent la tâche délicate de déterminer quels projets aideraient le mieux leur entreprise à atteindre ses objectifs. Cela implique de juger un projet actuel ou potentiel en fonction de critères importants pour ces objectifs. Ce critère peut inclure des éléments comme le nombre de ressources nécessaires, le coût du projet par rapport à ce qu&#39;il apportera et la compréhension des risques encourus. Grâce à ces informations, les gestionnaires peuvent décider quels projets doivent être réalisés et quand.
 
-Penser et planifier des projets n’est pas une tâche trop difficile, c’est un processus auquel la plupart des gestionnaires sont habitués. La véritable difficulté réside dans la comparaison des projets les uns par rapport aux autres. Trouver une liste longue et détaillée de projets prend du temps. C’est là que les portefeuilles se trouvent dans [!DNL  Workfront] peut vous aider.
+Penser et planifier des projets n&#39;est pas une tâche trop difficile, c&#39;est un processus auquel la plupart des gestionnaires sont habitués. La véritable difficulté réside dans la comparaison des projets les uns par rapport aux autres. Trouver une liste longue et détaillée de projets prend du temps. C’est là que les portefeuilles de Workfront peuvent vous aider.
 
 ## Qu’est-ce qu’un portefeuille ?
 
@@ -32,27 +34,27 @@ Vous pouvez utiliser la variable **[!UICONTROL Nouveau projet]** pour ajouter fa
 
 ![Image du menu déroulant pour la [!UICONTROL Nouveau projet] button](assets/01-portfolio-management3.png)
 
-Une fois les projets ajoutés au portfolio, vous pouvez utiliser les informations de résumé dans l’en-tête de la page pour obtenir une vue générale de la manière dont la collection de projets contribue, positivement ou négativement, aux objectifs globaux.
+Une fois les projets ajoutés au portfolio, vous pouvez utiliser les informations récapitulatives contenues dans l’en-tête de la page pour obtenir une vue d’ensemble de la contribution positive ou négative de cette collection de projets aux objectifs globaux du portfolio.
 
 ![Une image des informations récapitulatives du portfolio dans l’en-tête de page](assets/02-portfolio-management1.png)
 
-Vous pouvez également utiliser l’outil d’optimisation de portefeuille pour hiérarchiser les projets qui prendront en charge les objectifs stratégiques globaux.
+Vous pouvez utiliser l’outil d’optimisation de portefeuille (alias [!UICONTROL Portfolio Optimizer]) pour classer les projets par priorité en fonction de la valeur nette, de l’alignement, du coût, du risque et du retour sur investissement.
 
 ![Image de hiérarchisation des projets dans un portfolio](assets/03-portfolio-management2.png)
 
 ## Accès aux portefeuilles
 
-Pour utiliser des portefeuilles, vous devez disposer d’une licence Plan dans [!DNL Workfront] et un niveau d’accès qui vous permet de travailler avec des portefeuilles.
+Pour travailler avec des portefeuilles, vous devez disposer d’une licence Plan dans Workfront et d’un niveau d’accès qui vous permet de travailler avec des portefeuilles.
 
-Lorsqu’un portfolio est créé, seul le créateur ou le responsable du portfolio y a accès. Vous pouvez donner accès au portfolio en le partageant. Cela donne également accès aux programmes et projets créés dans le portefeuille.
+Lorsqu’un portfolio est créé, seul le créateur ou le responsable du portfolio y a accès. Vous pouvez donner à d’autres l’accès au portefeuille en le partageant. Cela donne également accès à tous les programmes et projets du portefeuille.
 
 Ouvrez le portfolio, cliquez sur le menu à trois points, puis sélectionnez **[!UICONTROL Partage]**. Ajoutez les individus, les équipes, les rôles de travail, les groupes ou les entreprises qui doivent y avoir accès. Déterminez ensuite le type d’accès que chaque utilisateur doit avoir : gérer ou afficher.
 
-![Une image de la fonction [!UICONTROL Partage] dans une [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
+![Une image de la [!UICONTROL Partage] dans une [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
 
 <!--
 Pro-tips graphic
-If a user can’t access a specific portfolio, make sure it’s shared with them. The Workfront access level determines that a user can access portfolios in general, but sharing makes sure they can see specific portfolios. 
+If a user can't access a specific portfolio, make sure it's shared with them. The Workfront access level determines that a user can access portfolios in general, but sharing makes sure they can see specific portfolios. 
 -->
 
 <!--
