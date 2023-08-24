@@ -10,9 +10,9 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -21,28 +21,29 @@ ht-degree: 0%
 
 Ce qui est merveilleux avec Workfront, c&#39;est qu&#39;il est tellement personnalisable. Le problème avec Workfront est qu’il est tellement personnalisable. Et si vous êtes un nouvel administrateur système, ou groupe, qui prend le contrôle d’une instance Workfront existante, il peut s’avérer fastidieux de comprendre comment elle a été configurée et configurée à l’origine.
 
-Cependant, grâce à notre liste de contrôle des instances héritées, vous pouvez apprendre tout ce que vous devez savoir sur votre instance.\
+Cependant, grâce à notre liste de contrôle des instances héritées, vous pouvez apprendre tout ce que vous devez savoir sur votre instance.
+
+![Image de liste de contrôle d’instance héritée](assets/wf-inherited-instance-image.png)
+<br></br>
+
+Dans la liste de contrôle des instances héritées, vous passerez en revue un ensemble complet de questions, de ressources et de liens afin de vous familiariser avec sa configuration.
+
+La liste de contrôle a été créée en tant que plan directeur Workfront et en tant que feuille de calcul Excel téléchargeable. Nous vous recommandons d’utiliser le plan directeur pour gérer et documenter votre travail correctement dans Workfront.
+
+Le plan directeur et la feuille de calcul sont organisés par sujet, plutôt que par chronologie, de sorte que vous puissiez progresser de la manière la plus logique pour vous et votre organisation. . Les durées fournies ne sont qu’un exemple et vous devez les adapter à vos besoins spécifiques. Cela n&#39;a pas à être fait en une seule fois !
+
+Dans la mesure du possible, nous vous encourageons à collaborer avec d’autres membres de votre organisation pour examiner et documenter ces éléments, et à tenir votre documentation à jour en cas de modifications majeures. Les futurs administrateurs de votre instance vous remercieront !
+
+* Pour télécharger le plan directeur, accédez au menu principal dans votre propre instance Workfront et sélectionnez Plans directeurs. Recherchez le plan directeur intitulé &quot;Principes des instances héritées&quot; | Liste de contrôle&quot;, puis cliquez sur Installer. Sélectionnez votre environnement de production ou sandbox et continuez à le configurer. Vous trouverez plus d’informations sur l’installation et la configuration des plans directeurs. [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Pour télécharger la liste de contrôle Excel, cliquez sur [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+Que vous utilisiez le plan directeur ou la liste de contrôle Excel, vous pouvez envisager ce processus en 3 phases clés : détection, audit et documentation. Les descriptions et les résultats idéaux sont répertoriés ci-dessous.
+
 <br>
 </br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Télécharger la liste de contrôle des instances héritées </span>
-</a>
 
-![Image de liste de contrôle d’instance héritée](assets/wf-inherited-instance-imagel.jpg)
-
-Dans cette liste de contrôle, vous passerez en revue un ensemble complet de questions, de ressources et de liens pour mieux comprendre comment ils ont été configurés.
-
-En outre, nous avons décrit 3 phases clés que vous allez passer - Découverte, Audit et Documentation - avec des durées suggérées. Celles-ci peuvent être ajustées à vos besoins spécifiques et n’ont pas à être faites en une seule fois !
-
-Les onglets de la feuille de calcul sont organisés par sujet, plutôt que par chronologie, de sorte que vous puissiez parcourir le document de la manière la plus pertinente pour vous et votre organisation.
-
-Dans la mesure du possible, nous vous encourageons à collaborer avec d’autres membres de votre organisation pour examiner et documenter ces éléments, et à tenir ce document à jour en cas de modifications majeures. Les futurs administrateurs de votre instance vous remercieront !
-
-
-<br>
-</br>
-
-## Phase 1 : Formation et découverte
+## Phase 1 : apprentissage et découverte
 
 <b>Période suggérée : 4 semaines</b>
 
@@ -62,7 +63,7 @@ Si vous ne connaissez pas Workfront d’un point de vue technologique, suivez la
 <br>
 </br>
 
-## Phase 2 : Audit système
+## Phase 2 : audit du système
 
 <b>Période suggérée : 4 semaines </b>
 
@@ -76,9 +77,9 @@ Après la découverte initiale, il est recommandé d’effectuer un audit plus t
 <br>
 </br>
 
-## Phase 3 : Documentation et optimisation
+## Phase 3 : documentation et optimisation
 
-<b>Période suggérée : Initial = 2 semaines; Mise à jour continue </b>
+<b>Période suggérée : initiale = 2 semaines ; mise à jour continue </b>
 
 En fonction de ce que vous avez appris dans les phases 1 et 2, vous allez créer, mettre à jour et documenter votre instance et élaborer des feuilles de route pour relever les défis stratégiques et de programme.
 
@@ -97,6 +98,7 @@ En passant en revue chaque phase, et avec l’aide de la liste de contrôle des 
 </br>
 
 Vous trouverez des informations supplémentaires ci-dessous :
+* [Webinaire : conseils pour prendre le contrôle d’une instance héritée](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Définition des objectifs de votre mise en oeuvre Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
-* [Billet de blog : Le parrainage des cadres et la valeur du leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Blog Post : Présentation des indicateurs clés de performance Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Article de blog : Sponsorisation de l&#39;Exécutif et valeur au leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
+* [Publication de blog : introduction aux indicateurs clés de performance Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
