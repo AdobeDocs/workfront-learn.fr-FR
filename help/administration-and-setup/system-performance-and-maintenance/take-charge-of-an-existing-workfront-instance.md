@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ Dans la liste de contrôle des instances héritées, vous passerez en revue un e
 
 La liste de contrôle a été créée en tant que plan directeur Workfront et en tant que feuille de calcul Excel téléchargeable. Nous vous recommandons d’utiliser le plan directeur pour gérer et documenter votre travail correctement dans Workfront.
 
-Le plan directeur et la feuille de calcul sont organisés par sujet, plutôt que par chronologie, de sorte que vous puissiez progresser de la manière la plus logique pour vous et votre organisation. . Les durées fournies ne sont qu’un exemple et vous devez les adapter à vos besoins spécifiques. Cela n&#39;a pas à être fait en une seule fois !
+Le plan directeur et la feuille de calcul sont organisés par sujet, plutôt que par chronologie, de sorte que vous puissiez progresser de la manière la plus logique pour vous et votre organisation. Les durées fournies ne sont qu’un exemple et vous devez les adapter à vos besoins spécifiques. Cela n&#39;a pas à être fait en une seule fois !
 
 Dans la mesure du possible, nous vous encourageons à collaborer avec d’autres membres de votre organisation pour examiner et documenter ces éléments, et à tenir votre documentation à jour en cas de modifications majeures. Les futurs administrateurs de votre instance vous remercieront !
 
-* Pour télécharger le plan directeur, accédez au menu principal dans votre propre instance Workfront et sélectionnez Plans directeurs. Recherchez le plan directeur intitulé &quot;Principes des instances héritées&quot; | Liste de contrôle&quot;, puis cliquez sur Installer. Sélectionnez votre environnement de production ou sandbox et continuez à le configurer. Vous trouverez plus d’informations sur l’installation et la configuration des plans directeurs. [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>Pour télécharger le plan directeur</b>, accédez au menu principal dans votre propre instance Workfront et sélectionnez Plans directeurs. Recherchez le plan directeur intitulé &quot;Principes des instances héritées&quot; | Liste de contrôle&quot;, puis cliquez sur Installer. Sélectionnez votre environnement de production ou sandbox et continuez à le configurer. Vous trouverez plus d’informations sur l’installation et la configuration des plans directeurs. [here](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Pour télécharger la liste de contrôle Excel, cliquez sur [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Pour télécharger Excel</b> Liste de contrôle, cliquez sur [here](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 Que vous utilisiez le plan directeur ou la liste de contrôle Excel, vous pouvez envisager ce processus en 3 phases clés : détection, audit et documentation. Les descriptions et les résultats idéaux sont répertoriés ci-dessous.
 
