@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -36,22 +36,22 @@ Lorsqu’une ressource est prête à être examinée et approuvée, vous recevez
 
 Il est important de noter que ce lien du BAT est votre propre particularité. Si vous partagez le lien avec une personne, tout commentaire et balisage qu’elle fait sera marqué avec votre nom.
 
-Le [!UICONTROL Nouvelle preuve] L&#39;email contient également des informations essentielles sur le BAT :
+La variable [!UICONTROL Nouvelle preuve] L&#39;email contient également des informations essentielles sur le BAT :
 
 * Le nom du BAT est l’objet de l’email.
 * La miniature vous donne un aperçu rapide de ce que vous allez vérifier.
 * Le numéro de version vous indique la version du BAT que vous allez consulter.
-* Et, plus important encore, la date limite apparaît à deux endroits dans l’email, juste au-dessus de la section des détails du BAT et dans la barre grise pour l’étape de workflow dont vous faites partie.
+* Et, plus important encore, la date limite apparaît à deux endroits dans l’email, juste au-dessus de la section des détails du BAT et dans la barre grise de l’étape de workflow dont vous faites partie.
 
-Une fois que vous êtes prêt à démarrer votre révision, il vous suffit de cliquer sur le bouton bleu. [!UICONTROL Accéder au BAT] et le fichier s’ouvre automatiquement dans [!DNL Workfront’s] visionneuse de vérification.
+Une fois que vous êtes prêt à démarrer votre révision, il vous suffit de cliquer sur le bouton bleu. [!UICONTROL Accéder au BAT] et le fichier s’ouvre automatiquement dans la fonction [!DNL Workfront] visionneuse de vérification.
 
 ### Ouverture d’un BAT à partir d’ [!UICONTROL Accueil]
 
-Si vous travaillez dans [!DNL Workfront] et qu’on vous a demandé d’approuver un BAT, vous trouverez une affectation dans la variable [!UICONTROL Liste de tâches] de [!DNL Workfront] [!UICONTROL Accueil]. Il est utile de sélectionner uniquement [!UICONTROL Approbations] de la [!UICONTROL Filtrer], afin que vous puissiez vous concentrer sur ce type de travail.
+Si vous travaillez dans [!DNL Workfront] et que vous avez été invité à approuver un BAT, vous trouverez une affectation dans la variable [!UICONTROL Liste de tâches] de [!DNL Workfront] [!UICONTROL Accueil]. Il est utile de sélectionner uniquement [!UICONTROL Approbations] de la [!UICONTROL Filtrer], afin que vous puissiez vous concentrer sur ce type de travail.
 
-![Une image de [!DNL Workfront] [!UICONTROL Accueil] avec le [!UICONTROL Approbations] filtre activé et un BAT sélectionné dans la liste.](assets/open-proof-from-home.png)
+![Une image de [!DNL Workfront] [!UICONTROL Accueil] avec la propriété [!UICONTROL Approbations] filtre activé et un BAT sélectionné dans la liste.](assets/open-proof-from-home.png)
 
-Il est important de noter que les bons à tirer s’affichent dans [!DNL Workfront] [!UICONTROL Accueil] uniquement si vous êtes chargé de l’approuver. Si vous venez de consulter uniquement le BAT, il ne s’affichera pas dans [!DNL Workfront] [!UICONTROL Accueil] lorsque vous sélectionnez [!UICONTROL Approbations]dans la liste des filtres.
+Il est important de noter que les bons à tirer s’affichent dans [!DNL Workfront] [!UICONTROL Accueil] uniquement si vous êtes chargé de l’approuver. Si vous venez de consulter uniquement le BAT, celui-ci ne s’affichera pas dans [!DNL Workfront] [!UICONTROL Accueil] lorsque vous sélectionnez [!UICONTROL Approbations]dans la liste des filtres.
 
 Sélectionnez la validation du BAT dans la [!UICONTROL Liste de tâches], puis cliquez sur le bouton [!UICONTROL Accéder à Bon à tirer] pour l’ouvrir dans la visionneuse de vérification.
 
@@ -63,7 +63,7 @@ Vous pouvez également trouver des BAT à vérifier sur un [!DNL Workfront] tabl
 
 Si vous travaillez normalement avec des projets, des tâches ou des problèmes dans [!DNL Workfront], vous préférez peut-être ouvrir le BAT directement à partir de la [!DNL Documents] de cet élément.
 
-![Une image de la fonction [!UICONTROL Documents] dans une section [!DNL  Workfront] avec la tâche [!UICONTROL Bon à tirer ouvert]lien mis en surbrillance.](assets/open-proof-from-documents.png)
+![Une image de la [!UICONTROL Documents] section trouvée dans une [!DNL  Workfront] avec la tâche [!UICONTROL Bon à tirer ouvert]lien surligné.](assets/open-proof-from-documents.png)
 
 1. Cliquez sur le nom du projet, de la tâche ou du problème.
 2. Cliquez sur [!UICONTROL Documents] dans le menu du panneau de gauche de la page de l’élément.
@@ -75,7 +75,7 @@ Si vous travaillez normalement avec des projets, des tâches ou des problèmes d
 Dans cette vidéo, vous apprendrez à :
 
 * Savoir ce que vous attendez de la révision d’un BAT
-* Commenter un BAT
+* Faire un commentaire sur un BAT
 * Utilisez des balises pour indiquer les modifications nécessaires sur un BAT.
 * Réponse à un commentaire de BAT
 * Approuver ou refuser un BAT
