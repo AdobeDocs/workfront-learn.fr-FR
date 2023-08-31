@@ -13,14 +13,21 @@ hidefromtoc: true
 jira: KT-null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '500'
 ht-degree: 1%
 
 ---
 
 # Workfront pour les cadres
+
+En tant qu’administrateur, Adobe Workfront peut :
+
+* Tenez-vous informé de l’avancement du travail qui vous préoccupe tout au long de la procédure. **rapports et tableaux de bord**
+* Donnez-vous un moyen facile de **communiquer avec les parties prenantes du projet à l’aide de mises à jour**
+* Donnez-vous un moyen facile de **effectuer une requête de travail ;**
+* Vous donner un moyen facile de voir **éléments en attente de votre approbation**
 
 ## Rapports et tableaux de bord
 
@@ -40,19 +47,26 @@ Cliquez sur Tableaux de bord dans l’icône de menu principal dans le coin sup�
 
 Les dirigeants peuvent accéder aux différents tableaux de bord disponibles à partir de la navigation dans le panneau de gauche.
 
-![Image de l’option Tableaux de bord dans le menu principal](assets/workfront-4-executives-2.png)
+![Image de la page Tableaux de bord](assets/workfront-4-executives-2.png)
 
-* **Tous les tableaux de bord**: Affiche les tableaux de bord que vous ou d’autres utilisateurs avez créés et que vous êtes autorisé à au moins afficher.
-* **Mes tableaux de bord**: Affiche les tableaux de bord que vous avez créés.
-* **Tableaux de bord partagés**: Affiche les tableaux de bord créés par d’autres utilisateurs et partagés avec vous.
+* **Tous les tableaux de bord**: affiche les tableaux de bord que vous ou d’autres utilisateurs avez créés et que vous êtes autorisé à au moins afficher.
+* **Mes tableaux de bord**: affiche les tableaux de bord que vous avez créés.
+* **Tableaux de bord partagés**: affiche les tableaux de bord créés par d’autres utilisateurs et partagés avec vous.
 
 Grâce à un tableau de bord, les dirigeants peuvent consulter des éléments tels que &quot;Coûts, Recettes et Budgets&quot; pour les projets importants et les problèmes ouverts auxquels leurs équipes sont confrontées. Ils peuvent également afficher les projets à risque, ainsi qu’une liste des éléments qui doivent être approuvés par l’administrateur.
 
-Les rapports dans Workfront peuvent contribuer à responsabiliser vos employés. Pour tirer parti des rapports, il est essentiel d’établir un processus clair pour la manière dont votre entreprise les utilise. Assurez-vous que tout le monde sait clairement quels rapports sont utilisés pour mesurer le succès.
+Les rapports dans Workfront peuvent contribuer à responsabiliser vos employés. Pour tirer parti des rapports, il est essentiel d’établir un processus clair pour la manière dont votre entreprise les utilise. Assurez-vous que tout le monde comprend clairement quels rapports sont utilisés pour mesurer le succès.
 
 ![Exemple de rapports dans un tableau de bord dans Workfront ](assets/workfront-4-executives-3.png)
 
 Exemple de rapports dans un tableau de bord dans Workfront
+
+## Communication avec les parties prenantes du projet à l’aide de mises à jour
+
+Communiquez avec l’équipe du projet au sein du projet lui-même afin que toutes les communications du projet soient facilement accessibles.
+
+![Image de la page Mises à jour](assets/workfront-4-executives-4.png)
+
 
 ## Effectuer une requête
 
@@ -65,3 +79,10 @@ Dans cette vidéo, vous apprendrez à :
 * Affichage des requêtes envoyées
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+
+## Éléments en attente d’approbation
+
+Dans [!UICONTROL Accueil] vous pouvez facilement trouver les éléments en attente de votre approbation.
+
+![Image de la page d’accueil](assets/workfront-4-executives-5.png)
+
