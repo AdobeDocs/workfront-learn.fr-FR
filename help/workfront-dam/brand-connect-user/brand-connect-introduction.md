@@ -1,5 +1,5 @@
 ---
-title: En savoir plus sur [!UICONTROL Gestion des actifs numériques Workfront] et Brand Connect
+title: Présentation de Brand Connect en tant qu’utilisateur
 description: En savoir plus sur les [!UICONTROL Gestion des actifs numériques Workfront] et Brand Connect sont et comment ils sont utilisés.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Brand Connect : introduction
+# Brand Connect : Présentation de Brand Connect en tant qu’utilisateur
 
 [!UICONTROL Brand Connect] fait partie de [!UICONTROL Gestion des actifs numériques Workfront], une solution de gestion des ressources numériques (DAM) permettant de gérer, de contrôler et de publier vos ressources marketing, créatives, professionnelles et autres. Utilisation [!DNL Workfront] pour créer des requêtes de ressources, puis gérer la production et la révision des ressources. Traitez, stockez et distribuez les ressources terminées et approuvées à l’aide de [!UICONTROL Gestion des actifs numériques Workfront]. Publication de ressources sur [!UICONTROL Brand Connect] pour s’assurer que le message approprié est disponible pour la bonne audience, où et comment elle le doit.
 

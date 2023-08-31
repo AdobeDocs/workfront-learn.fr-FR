@@ -1,5 +1,5 @@
 ---
-title: Connexion à la marque [!UICONTROL Gestion des actifs numériques Workfront] Explained
+title: Présentation de la navigation et de la recherche en tant qu’utilisateur
 description: En savoir plus sur la connexion à la marque dans [!UICONTROL Gestion des actifs numériques Workfront] et comment la parcourir.
 activity: use
 feature: Digital Content and Documents
@@ -10,19 +10,19 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Brand Connect : prise en main
+# Brand Connect : comprendre la navigation et la recherche en tant qu’utilisateur
 
 Dans cette vidéo, vous apprendrez :
 
 * Ce que vous voyez lorsque vous vous connectez
-* Navigation dans Brand Connect
+* Comment naviguer dans Brand Connect
 * Recherche de ressources
 
 >[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on)
@@ -43,7 +43,7 @@ Pour rechercher une correspondance partielle, ajoutez un astérisque au terme re
 
 ### Opérateur ET
 
-Pour rechercher des résultats contenant plusieurs termes de recherche, saisissez ET entre les mots. Les mots se trouvent dans n&#39;importe quel ordre. Lors de la recherche dans tous les champs, il se peut que les deux mots ne figurent pas dans le même champ. Par exemple, Paris ET la tour trouveront des ressources ayant ces deux mots dans l’un des champs.
+Pour rechercher des résultats contenant plusieurs termes de recherche, saisissez ET entre les mots. Les mots peuvent être trouvés dans n&#39;importe quel ordre. Lors de la recherche dans tous les champs, il se peut que les deux mots ne figurent pas dans le même champ. Par exemple, Paris ET la tour trouveront des ressources ayant ces deux mots dans l’un des champs.
 
 ### Opérateur OU
 
@@ -65,10 +65,10 @@ Pour rechercher des ressources qui ne contiennent pas d’informations dans un c
 
 Les directives sur les marques sont un ensemble de règles qui expliquent le fonctionnement de la marque de votre entreprise. Également appelés standards de marque, guide de style, guide de marque ou guides d’identité de marque, ces consignes peuvent inclure :
 
-* Une vue d’ensemble de l’histoire, de la vision, de la personnalité et du ton de votre marque.
-* L’utilisation du logo de l’entreprise est une bonne chose.
-* Exemples de polices approuvées pour l’impression et l’utilisation web.
-* Ventilation des couleurs Principales et secondaires de l’entreprise.
+* Présentation de l’histoire, de la vision, de la personnalité et du ton de votre marque.
+* L&#39;utilisation du logo de l&#39;entreprise est une bonne chose.
+* Exemples de polices validées pour l’impression et l’utilisation web.
+* Ventilation des couleurs primaires et secondaires de l’entreprise.
 * Exemples de style d’image et de photos qui fonctionnent bien avec la marque.
 
 Une fois connecté [!UICONTROL Brand Connect], accédez aux instructions en cliquant sur Brand Guidelines dans la barre de navigation supérieure.
