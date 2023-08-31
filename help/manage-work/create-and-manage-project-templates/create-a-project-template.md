@@ -1,6 +1,6 @@
 ---
-title: Création d’un modèle de projet
-description: Découvrez comment créer un modèle de projet à partir de zéro et d’un modèle existant.
+title: Créer un modèle de projet et en savoir plus [!UICONTROL Plans directeurs]
+description: Découvrez comment créer un modèle de projet à partir de zéro et d’un modèle existant et comment [!UICONTROL Plans directeurs] vous donne accès à un univers de modèles de projet utiles créés par des experts de Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -8,17 +8,22 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
-# Création d’un modèle de projet
+# Créer un modèle de projet et en savoir plus [!UICONTROL Plans directeurs]
+
+Découvrez comment créer un modèle de projet à partir de zéro et d’un modèle existant et comment [!UICONTROL Plans directeurs] vous donne accès à un univers de modèles de projet utiles créés par des experts de Workfront.
+
+## Création d’un modèle de projet
 
 Dans cette vidéo, vous apprendrez à :
 
@@ -29,11 +34,11 @@ Dans cette vidéo, vous apprendrez à :
 
 ## Modèles créés avec [!UICONTROL Plans directeurs]
 
-Les administrateurs système peuvent utiliser [!UICONTROL Plans directeurs] pour créer des modèles de projet. Cette fonctionnalité, située dans le menu principal, vous permet d’accéder à des modèles préconfigurés et prêts à l’emploi qui sont ciblés sur une agence et un niveau de maturité spécifique. Ces modèles permettent aux utilisateurs de commencer à créer des projets répétables et de maintenir la cohérence entre les projets de portée similaire.
+Les utilisateurs de Workfront peuvent utiliser [!UICONTROL Plans directeurs] pour créer des modèles de projet. Cette fonctionnalité, située dans le menu principal, vous permet d’accéder à des modèles préconfigurés et prêts à l’emploi qui sont ciblés sur une agence et un niveau de maturité spécifique. Ces modèles permettent aux utilisateurs de commencer à créer des projets répétables et de maintenir la cohérence entre les projets de portée similaire.
 
 ![Plans directeurs dans le menu principal](assets/pt-blueprints-01.png)
 
-En tant que planificateur, vous pouvez parcourir la liste des plans directeurs disponibles dans Workfront. Vous ne pouvez pas appliquer directement un plan directeur lors de la création d’un projet (par exemple, lors de la conversion d’une tâche ou d’une requête en projet). La principale distinction entre un plan directeur et un modèle de projet réside dans le fait qu’un plan directeur est utilisé pour créer un modèle, alors qu’un modèle de projet est utilisé pour créer un projet. Le plan directeur doit être installé par un administrateur système pour que le modèle correspondant soit créé.
+Tout utilisateur sous licence peut parcourir la liste des plans disponibles dans Workfront. Vous ne pouvez pas appliquer directement un plan directeur lors de la création d’un projet (par exemple, lors de la conversion d’une tâche ou d’une requête en projet). La principale différence entre un plan directeur et un modèle de projet réside dans le fait qu’un plan directeur est utilisé pour créer un modèle, alors qu’un modèle est utilisé pour créer un projet. **Le plan directeur doit être installé par un administrateur système pour que le modèle correspondant soit créé.**
 
 Si vous trouvez un plan directeur intéressant, vous pouvez cliquer sur **[!UICONTROL Détails]** pour en savoir plus.
 

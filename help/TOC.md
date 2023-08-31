@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2426'
 ht-degree: 2%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 2%
       + [Application de jalons](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + Création et gestion de modèles de projet {#create-and-manage-project-templates}
-      + [Création d’un modèle de projet](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Créer un modèle de projet et en savoir plus sur les plans directeurs](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Créer un projet directement à partir d’un modèle](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Partage d’un modèle de projet](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copier un projet existant](manage-work/manage-projects/copy-an-existing-project.md)
