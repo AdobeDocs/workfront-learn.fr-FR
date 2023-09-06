@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: cbeb3387107da639899ab22e4372200356551154
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 Avant de commencer à vérifier un bon à tirer, assurez-vous de savoir ce que vous attendez de vous. Quel est votre rôle dans le workflow de vérification ? Examinez le BAT, approuvez-le, ou les deux ?
 
-En tant qu&#39;éditeur de copie, vous pourriez vous concentrer sur la vérification des fautes de grammaire et d&#39;orthographe. Les équipes marketing et créatives peuvent se concentrer sur la conception de la ressource et s’assurer que l’identité graphique de l’entreprise est respectée. Les équipes juridiques peuvent s&#39;assurer que la formulation d&#39;un contrat de services est hermétique. De plus, un chef de projet peut s’assurer que le contenu examiné respecte l’intention et les objectifs du projet auquel il est associé.
+En tant qu&#39;éditeur de copie, vous pourriez vous concentrer sur la vérification des fautes de grammaire et d&#39;orthographe. Les équipes marketing et créatives peuvent se concentrer sur la conception de la ressource et s’assurer que l’identité graphique de l’entreprise est respectée. Les équipes juridiques peuvent s&#39;assurer que la formulation d&#39;un contrat de services est hermétique. Et un chef de projet peut s’assurer que le contenu examiné respecte l’intention et les objectifs du projet auquel il est associé.
 
-On pourrait aussi vous demander d&#39;approuver le BAT. Valider un bon à tirer signifie que vous dites : &quot;Ce travail est prêt à partir.&quot; Ou peut-être que vous devez dire, &quot;ce travail nécessite des modifications, veuillez le renvoyer pour révision.&quot;
+On pourrait aussi vous demander d&#39;approuver le BAT. Valider un bon à tirer signifie que vous dites, &quot;ce travail est prêt à partir.&quot; Ou peut-être que vous devez dire, &quot;ce travail nécessite des modifications, veuillez le renvoyer pour révision.&quot;
 
 Une fois que vous savez ce qui est attendu, vous pouvez commencer à vérifier un bon à tirer.
 
@@ -41,17 +41,17 @@ La variable [!UICONTROL Nouvelle preuve] L&#39;email contient également des inf
 * Le nom du BAT est l’objet de l’email.
 * La miniature vous donne un aperçu rapide de ce que vous allez vérifier.
 * Le numéro de version vous indique la version du BAT que vous allez consulter.
-* Et, plus important encore, la date limite apparaît à deux endroits dans l’email, juste au-dessus de la section des détails du BAT et dans la barre grise de l’étape de workflow dont vous faites partie.
+* Et, plus important encore, la date limite apparaît à deux endroits dans l’email, juste au-dessus de la section des détails du BAT et dans la barre grise pour l’étape de workflow dont vous faites partie.
 
 Une fois que vous êtes prêt à démarrer votre révision, il vous suffit de cliquer sur le bouton bleu. [!UICONTROL Accéder au BAT] et le fichier s’ouvre automatiquement dans la fonction [!DNL Workfront] visionneuse de vérification.
 
 ### Ouverture d’un BAT à partir d’ [!UICONTROL Accueil]
 
-Si vous travaillez dans [!DNL Workfront] et que vous avez été invité à approuver un BAT, vous trouverez une affectation dans la variable [!UICONTROL Liste de tâches] de [!DNL Workfront] [!UICONTROL Accueil]. Il est utile de sélectionner uniquement [!UICONTROL Approbations] de la [!UICONTROL Filtrer], afin que vous puissiez vous concentrer sur ce type de travail.
+Si vous travaillez dans [!DNL Workfront] et qu’on vous a demandé d’approuver un BAT, vous trouverez une affectation dans la variable [!UICONTROL Liste de tâches] de [!DNL Workfront] [!UICONTROL Accueil]. Il est utile de simplement sélectionner [!UICONTROL Approbations] de la [!UICONTROL Filtrer], afin que vous puissiez vous concentrer sur ce type de travail.
 
 ![Une image de [!DNL Workfront] [!UICONTROL Accueil] avec la propriété [!UICONTROL Approbations] filtre activé et un BAT sélectionné dans la liste.](assets/open-proof-from-home.png)
 
-Il est important de noter que les bons à tirer s’affichent dans [!DNL Workfront] [!UICONTROL Accueil] uniquement si vous êtes chargé de l’approuver. Si vous venez de consulter uniquement le BAT, celui-ci ne s’affichera pas dans [!DNL Workfront] [!UICONTROL Accueil] lorsque vous sélectionnez [!UICONTROL Approbations]dans la liste des filtres.
+Il est important de noter que les bons à tirer s’affichent dans [!DNL Workfront] [!UICONTROL Accueil] uniquement si vous êtes chargé de l’approuver. Si vous venez de consulter uniquement le BAT, il ne s’affichera pas dans [!DNL Workfront] [!UICONTROL Accueil] lorsque vous sélectionnez [!UICONTROL Approbations]dans la liste des filtres.
 
 Sélectionnez la validation du BAT dans la [!UICONTROL Liste de tâches], puis cliquez sur le bouton [!UICONTROL Accéder à Bon à tirer] pour l’ouvrir dans la visionneuse de vérification.
 
@@ -69,6 +69,16 @@ Si vous travaillez normalement avec des projets, des tâches ou des problèmes d
 2. Cliquez sur [!UICONTROL Documents] dans le menu du panneau de gauche de la page de l’élément.
 3. Recherchez le BAT dans le [!UICONTROL Documents] liste.
 4. Cliquez sur le bouton [!UICONTROL Bon à tirer ouvert] pour ouvrir la visionneuse de vérification.
+
+## Comment valider un BAT
+
+Après avoir ouvert un bon à tirer, vous verrez un **Prendre une décision** en haut de l’écran, en regard de **Ajouter un commentaire**. Si vous n’êtes pas un approbateur de ce BAT, ce bouton ne s’affiche pas.
+
+![Image du premier bouton Prendre une décision .](assets/make-decision-1.png)
+
+Lorsque vous êtes prêt à prendre une décision, cliquez sur le bouton **Prendre une décision** pour afficher vos options de décision. Sélectionnez votre choix, puis cliquez sur l’autre **Prendre une décision** ci-dessous.
+
+![Image du second bouton Prendre une décision .](assets/make-decision-2.png)
 
 ## Vérifier et approuver un BAT
 

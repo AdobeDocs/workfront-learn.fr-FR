@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,19 @@ ht-degree: 0%
 
 Découvrez des conseils de navigation de base pour la première connexion à Workfront Fusion et créez votre premier scénario.
 
+## Conditions préalables
+
+1. Cet exercice nécessite un lecteur de test Workfront. Vous pouvez en demander un en remplissant [ce formulaire](https://forms.office.com/r/f1J8HRGrNY). Si vous ne pouvez pas accéder au formulaire, envoyez votre nom, votre adresse électronique et le nom de votre société à wfttstdr@adobe.com.
+1. Les exercices de fusion supposent que vous avez visionné la vidéo de présentation qui correspond à l’exercice. Dans ce cas, c’est [Présentation de la conception initiale du scénario](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
+
 ## Présentation de l’exercice
 
 Créez un projet dans Workfront pour chaque ligne du fichier CSV Liste de projets .
 
 ![Image de conception du scénario initial 1](../12-exercises/assets/initial-scenario-design-1.png)
 
-## Étapes à suivre
+## Procédure à suivre
 
 1. Créez un dossier dans la section Scénario intitulé &quot;Exercices d’activation de fusion&quot;.
 1. Cliquez dans le dossier, puis sur Créer un scénario.
@@ -48,7 +54,7 @@ Créez un projet dans Workfront pour chaque ligne du fichier CSV Liste de projet
 
    ![Image de conception du scénario initial 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Saisissez l’URL de votre instance Workfront, puis cliquez sur Suivant.
+1. Saisissez l’URL de **votre instance Workfront**, puis cliquez sur Suivant.
 
    ![Image de conception du scénario initial 5](../12-exercises/assets/initial-scenario-design-5.png)
 
@@ -58,7 +64,7 @@ Créez un projet dans Workfront pour chaque ligne du fichier CSV Liste de projet
 
    ![Image de conception du scénario initial 7](../12-exercises/assets/initial-scenario-design-7.png)
 
-1. Revenez à Workfront. Dans le dossier &quot;Fusion Exercise Files&quot;, sélectionnez &quot;_Fusion2020_Project List.csv&quot; et cliquez sur Document Details dans le panneau de gauche. Copiez le numéro d’ID du document à partir de l’adresse URL (il s’agit du premier numéro long de l’URL).
+1. Revenez à Workfront. Dans le dossier &quot;Fusion Exercise Files&quot;, sélectionnez &quot;_Fusion2020_Project List.csv&quot; et cliquez sur Document Details dans le panneau de gauche. Copiez le numéro d’ID de document de l’adresse URL (il s’agit du premier numéro long de l’URL).
 
    ![Image de conception du scénario initial 8](../12-exercises/assets/initial-scenario-design-8.png)
 
@@ -95,7 +101,7 @@ Créez un projet dans Workfront pour chaque ligne du fichier CSV Liste de projet
    >
    >Recherchez-le en commençant à saisir quelques lettres, telles que *proj*, pour y aller directement.
 
-1. Utilisez ensuite Cmd/Ctrl+G pour rechercher le nom (nom du projet). Cochez la case en regard de Nom ; le champ apparaît ci-dessous.
+1. Utilisez ensuite Cmd/Ctrl+G pour rechercher le nom (nom du projet). Cochez la case en regard de l’option Nom ; le champ apparaît ci-dessous.
 1. Désormais, cochez les cases en regard de Date et priorité de début planifiées.
 1. Cliquez dans le champ Nom pour faire apparaître le panneau de mappage. Cliquez sur le champ Colonne 1 du module Analyse CSV pour l’ajouter au champ Nom . Il s’agit du nom du projet à partir du fichier CSV.
 1. Pour la Date de début planifiée, cliquez sur Colonne 5 dans le module Analyse CSV.
