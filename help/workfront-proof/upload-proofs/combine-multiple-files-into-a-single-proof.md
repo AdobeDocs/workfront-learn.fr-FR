@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Aucun autre élément n’est nécessaire pour afficher le fichier combiné. Cli
 
 La combinaison de fichiers n’est pas possible lorsque des fichiers multimédias enrichis tels que des vidéos, des animations et des URL interactives figurent dans votre liste.
 
-![Une image du message d’erreur expliquant que vous ne pouvez pas combiner des fichiers vidéo.](assets/combine-proofs-2.png)
+![Une image du message d’erreur expliquant que vous ne pouvez pas combiner des fichiers vidéo.](assets/combine-proofs-error.png)
 
 
 ## Votre tour
