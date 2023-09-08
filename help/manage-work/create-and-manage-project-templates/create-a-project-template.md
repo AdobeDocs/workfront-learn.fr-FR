@@ -1,6 +1,6 @@
 ---
 title: Créer un modèle de projet et en savoir plus [!UICONTROL Plans directeurs]
-description: Découvrez comment créer un modèle de projet à partir de zéro et d’un modèle existant et comment [!UICONTROL Plans directeurs] vous donne accès à un univers de modèles de projet utiles créés par des experts de Workfront.
+description: Découvrez comment créer un modèle de projet à partir de zéro et d’un projet existant et comment [!UICONTROL Plans directeurs] vous donne accès à un univers de modèles de projet utiles créés par des experts de Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
+source-git-commit: 5e13fec9021af23c1c2fb6c9126c3a28370675b4
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
