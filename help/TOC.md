@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
+source-git-commit: 0c1695807751540ce72fb68e0cbfc1f04a5862a9
 workflow-type: tm+mt
-source-wordcount: '2426'
+source-wordcount: '2428'
 ht-degree: 2%
 
 ---
@@ -193,6 +193,7 @@ ht-degree: 2%
    + Projets intermédiaires {#intermediate-projects}
       + [Comprendre et gérer les types de durée et les contraintes de tâche](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
       + [Présentation des prédécesseurs sur plusieurs projets](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [Anciens prédécesseurs avancés](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + Rapports {#reporting}
@@ -570,7 +571,7 @@ ht-degree: 2%
       + [Présentation des Lightbox en tant qu’utilisateur](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
       + [Utilisation des ressources en tant qu’utilisateur](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
-+ Page d’accueil {#home}
++ Accueil {#home}
    + [Trouver votre travail](workfront-home/find-your-work-in-workfront-home.md)
    + [Organisation de votre liste de tâches](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Définir la priorité de votre travail](workfront-home/prioritize-your-work-in-workfront-home.md)
