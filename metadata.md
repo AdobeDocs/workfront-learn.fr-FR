@@ -6,16 +6,17 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-learn.fr-FR
 index: true
-source-git-commit: 991748b15e9252f8a903a2e6a4169c796a6923d1
+auto-video-transcripts: true
+source-git-commit: ae940d186b31e89f8ce47807c6a988ea9d495679
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 52%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
 
-Voir [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) pour une liste de valeurs valides pour **solution**, **product**, et **type**.
+Consultez les [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) pour obtenir une liste de valeurs valides pour la **solution**, le **produit** et le **type**.
