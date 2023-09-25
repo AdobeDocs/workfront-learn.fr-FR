@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 90620c916e5b276c851d3d32c49b8f0ab33f3efb
+source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
 workflow-type: tm+mt
-source-wordcount: '2423'
+source-wordcount: '2430'
 ht-degree: 2%
 
 ---
@@ -571,6 +571,7 @@ ht-degree: 2%
       + [Utilisation des ressources en tant qu’utilisateur](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Accueil {#home}
+   + [Suppression, ajout et réorganisation de widgets dans l’accueil](workfront-home/remove-add-and-rearrange-widgets.md)
    + [Trouver votre travail](workfront-home/find-your-work-in-workfront-home.md)
    + [Organisation de votre liste de tâches](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Définir la priorité de votre travail](workfront-home/prioritize-your-work-in-workfront-home.md)
