@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dans cette vidéo, vous apprendrez :
 
-* Comment envoyer une requête par le biais d’une [!DNL  Workfront] file d’attente de requête
+* Comment envoyer une requête via une [!DNL  Workfront] file d’attente de requête
 * Structuration des files d’attente de requête
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
@@ -35,7 +35,7 @@ Vous verrez une indication que le brouillon a été enregistré en haut de la fe
 
 ![image d’un brouillon de requête](assets/queue-mgt-make-a-request-draft-1.png)
 
-Lorsque vous êtes prêt à envoyer la demande, recherchez-la dans la variable [!UICONTROL Brouillons] . Cliquez sur le nom pour l’ouvrir et terminer le remplissage du formulaire. Cliquez ensuite sur [!UICONTROL Envoyer la requête] lorsque vous avez terminé.
+Lorsque vous êtes prêt à envoyer la demande, recherchez-la dans la variable [!UICONTROL Brouillons] . Cliquez sur le nom pour l’ouvrir et terminer le remplissage du formulaire. Cliquez ensuite sur [!UICONTROL Envoyer la requête] lorsque vous avez fini.
 
 ![image de rappel d’un brouillon de requête](assets/queue-mgt-make-a-request-draft-2.png)
 
