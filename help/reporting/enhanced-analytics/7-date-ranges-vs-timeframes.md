@@ -10,18 +10,18 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Comprendre les périodes et les périodes dans [!UICONTROL Analytics amélioré]
+# Comprendre les périodes et les délais
 
 Lors de l’affichage de la variable [!DNL Enhanced analytics] les graphiques, les plages de dates sont spécifiées à l’aide du widget Calendrier. Les horodatages sont créés dans un graphique lorsque vous cliquez et faites glisser pour définir une région spécifique. Vous pouvez ainsi effectuer un zoom avant et obtenir un aperçu plus détaillé des informations pendant cette période.
 
-## Périodes
+## Plages de dates
 
 Il vous suffit de cliquer sur une date du calendrier pour indiquer une date de votre période, puis de cliquer sur une date pour indiquer l’autre extrémité de la période. Utilisez les flèches situées en haut du calendrier pour accéder à un mois différent si les dates de début et de fin ne se trouvent pas dans le même mois.
 

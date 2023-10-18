@@ -10,16 +10,16 @@ level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Présentation des modèles de routage et des abandons
+# Présentation des modèles de routage
 
-Utilisez le module Set Variable (Définir la variable) pour envoyer un nombre à travers plusieurs chemins afin de visualiser le comportement des filtres et des secours lors du routage.
+Utilisez le module Définir la variable pour envoyer un nombre à travers plusieurs chemins afin de voir comment se comportent les filtres et les secours lors du routage.
 
 ![Une image du scénario Fusion](assets/universal-connectors-and-routing-7.png)
 

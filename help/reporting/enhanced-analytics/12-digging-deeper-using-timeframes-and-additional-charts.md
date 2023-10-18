@@ -1,6 +1,6 @@
 ---
-title: Explorez plus en détail l’utilisation des délais et des graphiques supplémentaires dans [!UICONTROL Analytics amélioré]
-description: Découvrez comment approfondir une analyse d’un projet dans le diagramme du plan de vol pour faire apparaître le graphique de Burndown et le graphique des tâches en vol dans Workfront.
+title: Exploration plus approfondie à l’aide des délais et des graphiques supplémentaires
+description: Découvrez comment approfondir l’analyse d’un projet dans le diagramme du plan de vol pour faire apparaître le diagramme de Burndown et le graphique des tâches en vol dans [!UICONTROL Analytics amélioré].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Explorez plus en détail l’utilisation des délais et des graphiques supplémentaires dans [!UICONTROL Analytics amélioré]
+# Exploration plus approfondie à l’aide des délais et des graphiques supplémentaires
 
 Dans cette vidéo, vous apprendrez :
 

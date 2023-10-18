@@ -1,6 +1,6 @@
 ---
-title: Paramètres de vérification des utilisateurs
-description: Découvrez comment déterminer laquelle [!DNL  Workfront] les utilisateurs disposent d’une licence de vérification, puis ajustent les paramètres utilisateur dans les deux [!DNL Workfront] et les paramètres principaux.
+title: Paramètres pour les utilisateurs de BAT
+description: Découvrez comment déterminer laquelle [!DNL  Workfront] les utilisateurs obtiennent une licence de vérification, puis ajustent les paramètres utilisateur dans les deux [!DNL Workfront] et les paramètres principaux.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -11,16 +11,16 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# Paramètres de vérification des utilisateurs
+# Paramètres pour les utilisateurs de BAT
 
-Avant de commencer à créer des utilisateurs dans [!DNL  Workfront], il est recommandé d’avoir votre [!DNL Workfront] et les paramètres du système de BAT sont terminés. Certains de ces paramètres s’appliquent aux profils utilisateur au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définies avant la création de certains utilisateurs...vous pouvez modifier ces paramètres sur chaque profil utilisateur individuel.
+Avant de commencer à créer des utilisateurs dans [!DNL  Workfront], il est recommandé d’avoir votre [!DNL Workfront] et les paramètres du système de BAT sont terminés. Certains de ces paramètres s’appliquent aux profils utilisateur au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définies avant la création de certains utilisateurs... vous pouvez modifier ces paramètres sur chaque profil utilisateur individuel.
 
 
 Dans cette vidéo, vous apprendrez à :

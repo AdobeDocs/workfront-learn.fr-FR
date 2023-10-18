@@ -1,6 +1,6 @@
 ---
-title: Présentation de la navigation et de la révision des projets dans [!UICONTROL Analytics amélioré]
-description: Découvrez comment lire le diagramme du plan de vol dans Workfront.
+title: Comprendre la navigation et la révision des projets
+description: Découvrez comment lire le diagramme du plan de vol dans [!UICONTROL Analytics amélioré].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
 
-# Présentation de la navigation et de la révision des projets dans [!UICONTROL Analytics amélioré]
+# Comprendre la navigation et la révision des projets
 
 Dans cette vidéo, vous apprendrez :
 
@@ -33,7 +33,7 @@ Dans cette vidéo, vous apprendrez :
 Sur le graphique, vous voyez :
 
 1. Les noms des projets se trouvent à gauche.
-1. Les dates sont affichées en bas.
+1. Les dates s’affichent dans la partie inférieure.
 1. La ligne bleue verticale indique la date spécifique à laquelle la souris survole.
 1. Les lignes bleues horizontales indiquent les dates de début et de fin prévues du projet.
 1. Les lignes vertes indiquent que le projet est Sur Target.
@@ -45,14 +45,14 @@ L’affichage de ces informations sur vos projets vous aide à déterminer les �
 * Les événements étendent un projet au-delà de la date d’achèvement prévue.
 * Lorsqu’un projet commence à rencontrer des problèmes.
 * Nombre de projets ouverts au cours de la même période.
-* Combien de projets sont principaux ?
+* Nombre de projets actifs.
 * Les projets qui nécessitent une attention ou un soutien supplémentaire.
 
 ## La condition est basée sur l’état de progression
 
 La condition du projet est une représentation visuelle de l’avancement du projet. Workfront détermine la condition en fonction de l’état d’avancement des tâches dans le projet.
 
-![Image des états de progression possibles](assets/section-2-2.png)
+![Une image des états de progression possibles](assets/section-2-2.png)
 
 La condition d’un projet peut être définie :
 
@@ -61,7 +61,7 @@ La condition d’un projet peut être définie :
 
 Workfront recommande de définir le type de condition sur État de progression afin que vous ayez une indication claire de l’état d’avancement réel du projet, en fonction de l’état d’avancement de vos tâches.
 
-![Image des états de progression possibles](assets/section-2-3.png)
+![Une image des états de progression possibles](assets/section-2-3.png)
 
 Lorsqu’elle est définie sur État de progression, la condition du projet peut être :
 

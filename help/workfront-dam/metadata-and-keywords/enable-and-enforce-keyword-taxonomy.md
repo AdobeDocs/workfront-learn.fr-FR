@@ -1,5 +1,5 @@
 ---
-title: Activation et application de la taxonomie des mots-clés
+title: Activer et appliquer la taxonomie des mots-clés
 description: Découvrez comment activer et appliquer la taxonomie des mots-clés, lorsque les utilisateurs peuvent saisir leurs propres mots-clés et configurer les facettes de recherche dans [!UICONTROL Gestion des actifs numériques Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Métadonnées et mots-clés : activation et application de la taxonomie des mots-clés
+# Activer et appliquer la taxonomie des mots-clés
 
 Dans cette vidéo, vous apprendrez à :
 

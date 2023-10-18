@@ -1,6 +1,6 @@
 ---
-title: Vérification des tâches en cours dans [!UICONTROL Analytics amélioré]
-description: Découvrez comment accéder aux Tâches dans le graphique en ligne et comment voir rapidement quelles tâches n’ont pas été effectuées dans un projet, le tout dans Workfront.
+title: Vérification des tâches en cours
+description: Découvrez comment accéder aux Tâches dans le graphique en ligne et comment voir rapidement quelles tâches n’ont pas été terminées dans un projet, le tout dans [!UICONTROL Analytics amélioré].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Vérification des tâches en cours dans [!UICONTROL Analytics amélioré]
+# Vérification des tâches en cours
 
 Dans cette vidéo, vous apprendrez :
 
@@ -27,9 +27,9 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on)
 
-## Données au niveau de la tâche
+## Données de niveau tâche
 
-Le graphique Tâches en vol vous permet d’analyser les tâches d’un projet spécifique afin de voir la quantité de travail terminée pour chaque tâche principale et comment les tâches sont planifiées. Le graphique vous permet de déterminer les tâches d’un projet qui doivent être terminées et le pourcentage d’achèvement de ces tâches.
+Le graphique Tâches en vol vous permet d’analyser les tâches d’un projet spécifique afin de voir la quantité de travail terminée pour chaque tâche active et comment les tâches sont planifiées. Le graphique vous permet de déterminer les tâches d’un projet qui doivent être terminées et le pourcentage d’achèvement de ces tâches.
 
 Ces informations peuvent vous aider à déterminer :
 

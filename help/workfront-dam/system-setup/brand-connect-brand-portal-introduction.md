@@ -1,5 +1,5 @@
 ---
-title: Accédez à Brand Portal dans [!UICONTROL Gestion des actifs numériques Workfront]
+title: Présentation de Brand Portal
 description: Découvrez comment accéder à Brand Portal dans [!UICONTROL Gestion des actifs numériques Workfront], créez des dossiers, définissez des dates d’expiration pour chaque ressource et modifiez les paramètres de la ressource.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# Brand Connect : Présentation de Brand Portal et création de dossiers
+# Présentation de Brand Portal
 
 Dans cette vidéo, vous apprendrez à :
 
@@ -36,4 +36,4 @@ Certains utilisateurs parcourent les dossiers pour trouver les ressources qu’i
 
 Les dossiers permettent également aux utilisateurs d’accéder aux ressources. Les utilisateurs sont organisés en groupes, puis les groupes sont autorisés à accéder aux dossiers. Les autorisations des dossiers peuvent varier en fonction du groupe (affichage uniquement, chargement de ressources, téléchargement de ressources, modification de ressources, etc.).
 
-Lors de la création de dossiers et de dossiers imbriqués, gardez à l’esprit les groupes et les utilisateurs qui devront accéder aux ressources contenues dans les dossiers. La structure des groupes peut avoir une incidence sur la manière dont vous organisez les dossiers. et l’organisation des dossiers peut affecter la création des groupes.
+Lors de la création de dossiers et de dossiers imbriqués, gardez à l’esprit les groupes et les utilisateurs qui devront accéder aux ressources contenues dans les dossiers. La structure des groupes peut avoir une incidence sur la manière dont vous organisez les dossiers. De plus, l’organisation des dossiers peut avoir une incidence sur la manière dont les groupes sont créés.

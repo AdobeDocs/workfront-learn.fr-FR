@@ -1,5 +1,5 @@
 ---
-title: Révision et approbation de travaux numériques à l’aide de la page d’accueil de Workfront
+title: Révision et approbation de travaux numériques
 description: Découvrez comment rechercher et approuver des projets, des tâches, des problèmes, des documents et des bons à tirer dans [!DNL Workfront Home].
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Révision et approbation de travaux numériques à l’aide de [!DNL Workfront Home]
+# Révision et approbation de travaux numériques
 
 Dans cette vidéo, vous apprendrez à :
 

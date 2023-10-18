@@ -1,6 +1,6 @@
 ---
-title: Comprendre l’accès au graphique de ventilation et le revoir dans [!UICONTROL Analytics amélioré]
-description: Découvrez comment accéder au graphique de ventilation et comprendre la relation entre les heures restantes, la condition du projet et la vitesse du projet dans Workfront.
+title: Comprendre l’accès au graphique de ventilation et le revoir
+description: Découvrez comment accéder au graphique de ventilation et comprendre la relation entre les heures restantes, la condition du projet et la vitesse du projet dans [!UICONTROL Analytics amélioré].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-# Comprendre l’accès et la révision de la ventilation dans [!UICONTROL Analytics amélioré]
+# Comprendre l’accès et la révision de la ventilation
 
 Dans cette vidéo, vous apprendrez :
 

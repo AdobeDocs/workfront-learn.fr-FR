@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Présentation de la définition et de l’obtention de variables
+# Présentation détaillée de la définition/de l’obtention des variables
 
 Recherchez des informations sur un projet dans Workfront et envoyez un courrier électronique contenant des informations connexes.
 

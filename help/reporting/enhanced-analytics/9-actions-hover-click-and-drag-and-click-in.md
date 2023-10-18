@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# Présentation des actions dans [!UICONTROL Analytics amélioré] - survolez, cliquez et faites glisser, puis cliquez sur
+# Comprendre les actions : survolez, cliquez et faites glisser, puis cliquez sur
 
 Dans cette vidéo, vous apprendrez :
 
@@ -33,9 +33,9 @@ Dans cette vidéo, vous apprendrez :
 Si vous cliquez sur certaines parties d’un graphique, d’autres graphiques ou une ventilation des informations du graphique s’affichent.
 
 * **Plan de vol**: cliquez sur le nom du projet pour afficher le Burndown et les Tâches dans les graphiques en vol.
-* **Activité Projet**: cliquez sur le nom du projet pour développer le graphique et afficher l’activité du projet par utilisateur.
+* **Activité du projet**: cliquez sur le nom du projet pour développer le graphique et afficher l’activité du projet par utilisateur.
 * **Treemap du projet**: cliquez sur la zone d’un projet pour afficher la liste déroulante et les tâches dans les graphiques en vol.
-* **Activité par équipe**: cliquez sur le nom de l’équipe pour développer le graphique afin de visualiser l’activité par utilisateur.
+* **Activité par équipe**: cliquez sur le nom de l’équipe pour développer le graphique afin que vous puissiez voir l’activité par utilisateur.
 * **Capacité des ressources**: cliquez sur le nom de l’équipe pour afficher le graphique Capacité de l’équipe .
 
 ## Qu’est-ce qu’une nuance plus sombre et plus claire signifie en ce qui concerne l’activité d’équipe ?

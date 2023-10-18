@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-# Personnalisation de l’apparence de [!UICONTROL Brand Connect]
+# Personnalisation de l’aspect de [!UICONTROL Brand Connect]
 
 Dans cette vidéo, vous apprendrez à :
 
@@ -28,9 +28,9 @@ Dans cette vidéo, vous apprendrez à :
 
 ## Additional [!UICONTROL Apparence] paramètre
 
-Le [!UICONTROL Police] sous l’option [!UICONTROL Apparence] style de menu tout le texte dans l’ensemble de votre [!UICONTROL Brand Portal] dans la police sélectionnée. Plus de 800 polices Google sont prises en charge.
+La variable [!UICONTROL Police] sous l’option [!UICONTROL Apparence] style de menu tout le texte dans l’ensemble de votre [!UICONTROL Brand Portal] dans la police sélectionnée. Plus de 800 polices Google sont prises en charge.
 
-![Le [!UICONTROL Police] sous l’option [!UICONTROL Apparence] style de menu pour [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
+![La variable [!UICONTROL Police] sous l’option [!UICONTROL Apparence] style de menu pour la [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
 ## Widgets de page d’accueil
 
@@ -44,7 +44,7 @@ Ces widgets sont disponibles :
 
 **B. Dossier**: affiche un dossier contenant les ressources sélectionnées. Cliquez sur l’icône Ajouter pour ouvrir le [!UICONTROL Sélecteur de ressources] vous pouvez sélectionner un dossier. Les ressources du dossier sont visibles pour [!UICONTROL Brand Connect] mais ne peut être téléchargé que par les utilisateurs autorisés.
 
-**C. Lightbox**: affiche une valeur [!UICONTROL Lightbox]. Les ressources dans la variable [!UICONTROL Lightbox] sera visible pour [!UICONTROL Brand Connect] mais ne peut être téléchargé que par les utilisateurs autorisés.
+**C. Lightbox**: affiche une valeur existante [!UICONTROL Lightbox]. Les ressources dans la variable [!UICONTROL Lightbox] sera visible pour [!UICONTROL Brand Connect] mais ne peut être téléchargé que par les utilisateurs autorisés.
 
 **D. Consignes relatives aux marques**: affichez les directives sur la marque sur la page d’accueil au lieu de/en plus de dans la barre de navigation supérieure.
 

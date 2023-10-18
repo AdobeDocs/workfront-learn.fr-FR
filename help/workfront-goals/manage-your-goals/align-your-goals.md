@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
-# Alignement des objectifs
+# Aligner vos objectifs
 
 ## Alignement des objectifs entre les individus, les équipes et l’entreprise
 
-Maintenant que vous avez créé et activé vos objectifs dans [!DNL Workfront Goals], nous allons nous assurer qu&#39;ils sont alignés les uns avec les autres. L’alignement des objectifs est un élément important de la gestion des objectifs. Si vous n’avez pas terminé les objectifs Workfront du parcours d’apprentissage, partie 1 : Créez une vision et une stratégie, nous vous recommandons de la prendre avant de continuer.
+Maintenant que vous avez créé et activé vos objectifs dans [!DNL Workfront Goals], nous allons nous assurer qu&#39;ils sont alignés les uns avec les autres. L’alignement des objectifs est un élément important de la gestion des objectifs. Si vous n’avez pas terminé les objectifs Workfront du parcours d’apprentissage, partie 1 : élaborez une vision et une stratégie, nous vous recommandons de commencer par ces objectifs avant de continuer.
 
 <!--Insert link to LP 1, above -->
 
@@ -33,7 +33,7 @@ Utilisez la section Alignement de l’objectif pour :
 
 S&#39;assurer que les objectifs sont harmonisés signifie que tout le monde, de haut en bas, s&#39;exécutera sur le travail qui oriente les mêmes initiatives vers l&#39;avant. La visualisation est un élément important de la façon dont chaque objectif principal de l’entreprise s’aligne directement sur les niveaux ministériel, individuel et d’équipe. Les silos sont réduits grâce à l&#39;alignement des équipes de manière interfonctionnelle. L&#39;alignement crée de la clarté autour des objectifs de chacun et connecte l&#39;organisation à ce qui importe vraiment.
 
-Lorsque vous harmonisez les objectifs de votre entreprise, n’oubliez pas qu’ils sont censés créer de la clarté et de la concision grâce à la simplicité. Si vous avez du mal avec l&#39;alignement, c&#39;est probablement parce que vous essayez de forcer ensemble des objectifs qui sont par nature déconnectés. Lorsque vous vous sentez bloqué, il vous suffit de revoir les principaux objectifs de l’entreprise, puis les objectifs du groupe et de l’équipe, et de décider lesquels sont les plus importants à garder. Éliminez tout ce qui semble redondant ou qui ne correspond pas à la vision de votre organisation.
+Lorsque vous harmonisez les objectifs de votre entreprise, n’oubliez pas qu’ils sont censés créer de la clarté et de la concision grâce à la simplicité. Si vous avez du mal avec l&#39;alignement, c&#39;est probablement parce que vous essayez de forcer l&#39;union d&#39;objectifs qui sont par nature déconnectés. Lorsque vous vous sentez bloqué, il vous suffit de revoir les principaux objectifs de l’entreprise, puis les objectifs du groupe et de l’équipe, et de décider lesquels sont les plus importants à garder. Éliminez tout ce qui semble redondant ou qui ne correspond pas à la vision de votre organisation.
 
 Une fois les objectifs de niveau supérieur établis et examinés, il appartient aux contributeurs et aux membres de l’équipe de créer des objectifs en cascade à partir de ce niveau afin de définir des objectifs plus ciblés. La portée des objectifs individuels sera plus étroite.
 

@@ -1,6 +1,6 @@
 ---
-title: Comprendre le graphique de la capacité des ressources dans [!UICONTROL Analytics amélioré]
-description: Découvrez comment le graphique Capacité des ressources indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
+title: Comprendre le graphique de la capacité des ressources
+description: Découvrez comment le graphique de la capacité de ressource dans [!UICONTROL Analytics amélioré] indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Comprendre le graphique de la capacité des ressources dans [!UICONTROL Analytics amélioré]
+# Comprendre le graphique de la capacité des ressources
 
 Le graphique Capacité des ressources indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
 
@@ -45,7 +45,7 @@ Sur le graphique, vous pouvez voir les détails clés suivants :
 
 ## Utilisation du graphique
 
-Vous devez ajouter des filtres et sélectionner une plage de dates pour afficher les données sur les graphiques du [!UICONTROL Analyse améliorée] de Workfront. Si vous avez ajouté des filtres précédemment, ils sont principaux jusqu’à ce que vous les supprimiez.
+Vous devez ajouter des filtres et sélectionner une plage de dates pour afficher les données sur les graphiques du [!UICONTROL Analyse améliorée] de Workfront. Si vous avez ajouté des filtres précédemment, ils sont actifs jusqu’à ce que vous les supprimiez.
 
 ![Image présentant un graphique de capacité de ressource](assets/section-3-3.png)
 

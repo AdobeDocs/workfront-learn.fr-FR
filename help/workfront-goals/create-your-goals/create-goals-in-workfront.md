@@ -1,5 +1,5 @@
 ---
-title: Création d’objectifs dans [!DNL Workfront Goals]
+title: Créer des objectifs
 description: Découvrez comment créer des objectifs dans [!DNL Workfront Goals] en utilisant trois options différentes.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
 
-# Création d’objectifs dans [!DNL Workfront Goals]
+# Créer des objectifs
 
 Dans [!DNL Workfront Goals], les cadres et les équipes de direction d’entreprise peuvent voir les progrès de l’ensemble de l’organisation à chaque niveau, jusqu’à l’individu. [!DNL Workfront Goals] offre la visibilité nécessaire pour obtenir des informations exploitables clés afin de faire avancer les priorités les plus élevées, d’identifier les objectifs à risque, de diagnostiquer les problèmes en temps réel et de corriger de manière proactive les cours.
 
@@ -66,9 +66,9 @@ Voici quelques éléments à prendre en compte avant de copier des objectifs :
 
 1. Cliquez sur **[!UICONTROL Copier l’objectif]**. L’objectif copié est enregistré avec l’état Brouillon.
 
-   ![Une image de la fonction [!UICONTROL Détails de l’objectif] dans [!DNL Workfront Goals] avec le [!UICONTROL Copier] option](assets/03-workfront-goals-copy-a-goal.png)
+   ![Une image de la [!UICONTROL Détails de l’objectif] dans [!DNL Workfront Goals] avec la propriété [!UICONTROL Copier] option](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Cliquez sur l’icône à 3 points, puis sélectionnez  **[!UICONTROL Activer]**, qui met à jour l’état de l’objectif sur Principal. L’objectif doit être associé à une activité ou à un résultat pour être &quot;activé&quot;.
+1. Cliquez sur l’icône à 3 points, puis sélectionnez  **[!UICONTROL Activer]**, qui met à jour l’état de l’objectif en Actif. L’objectif doit être associé à une activité ou à un résultat pour être &quot;activé&quot;.
 
 Si vous avez copié un objectif qui n’a pas été terminé au cours d’une période précédente et que vous souhaitez continuer à travailler dessus au cours de la période suivante, procédez comme suit :
 

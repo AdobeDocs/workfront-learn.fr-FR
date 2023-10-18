@@ -1,6 +1,6 @@
 ---
 title: Présentation des filtres
-description: Découvrez comment ajouter un filtre entre les deux modules dans les modules de [!DNL Adobe Workfront Fusion].
+description: Découvrez comment ajouter un filtre entre les deux modules dans [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Présentation du filtre puissant
+# Présentation des filtres
 
 À l’aide de l’exercice de présentation &quot;Au-delà du mappage de base&quot; que vous avez créé précédemment, ajoutez un filtre entre les deux modules dans les modules afin de créer uniquement les projets dont la couleur de projet &quot;Rouge&quot; figure dans la liste des projets.
 

@@ -1,5 +1,5 @@
 ---
-title: Développer une [!UICONTROL Gestion des actifs numériques Workfront] Stratégie
+title: Analysez et planifiez une [!UICONTROL Gestion des actifs numériques Workfront] stratégie
 description: Découvrez comment analyser et planifier le développement d’un [!UICONTROL Gestion des actifs numériques Workfront] stratégie.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: Admin
 level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
-# Analyser et planifier l’élaboration d’un [!UICONTROL Gestion des actifs numériques Workfront] stratégie
+# Analysez et planifiez une [!UICONTROL Gestion des actifs numériques Workfront] stratégie
 
 Avant de commencer la configuration [!UICONTROL Gestion des actifs numériques Workfront] pour votre organisation, il est essentiel que vous établissiez une stratégie organisationnelle et une stratégie de métadonnées/mot-clé.
 

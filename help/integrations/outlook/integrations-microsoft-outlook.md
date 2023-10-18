@@ -1,5 +1,5 @@
 ---
-title: Installez le [!UICONTROL Module complémentaire Microsoft Outlook]
+title: Installez le [!UICONTROL Microsoft Outlook] add-in
 description: Découvrez comment installer le [!UICONTROL Module complémentaire Microsoft Outlook]
 activity: use
 feature: Workfront Integrations and Apps
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Dans cette vidéo, vous apprendrez à :
 
 Vous pouvez configurer la variable [!DNL Workfront] [!UICONTROL Calendrier d’accueil] pour effectuer les opérations suivantes :
 
-* Intégration à une version web de [!DNL Outlook] dans le cloud hébergé [!DNL Office 365] ou [!DNL Outlook Live]. Vous pouvez afficher tous les événements de votre [!DNL Outlook] calendrier et tous les calendriers associés que vous sélectionnez, tels que les calendriers Anniversaires et Jours fériés, dans votre [!DNL Workfront] [!UICONTROL Calendrier d’accueil].
+* Intégration à une version web d’ [!DNL Outlook] dans le cloud hébergé [!DNL Office 365] ou [!DNL Outlook Live]. Vous pouvez afficher tous les événements de votre [!DNL Outlook] calendrier et tous les calendriers associés que vous sélectionnez, tels que les calendriers Anniversaires et Jours fériés, dans votre [!DNL Workfront] [!UICONTROL Calendrier d’accueil].
 
 * Vous aide à effectuer le suivi de votre charge de travail par rapport à vos heures de travail disponibles sur la barre d’affectation.

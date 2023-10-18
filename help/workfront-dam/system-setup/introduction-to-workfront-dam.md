@@ -1,5 +1,5 @@
 ---
-title: Introduction à [!UICONTROL Gestion des actifs numériques Workfront]
+title: Comprendre [!UICONTROL Gestion des actifs numériques Workfront]
 description: Découvrez comment rechercher et afficher des ressources, et comment la structure de dossiers affecte l’organisation des ressources et l’accès dans [!UICONTROL Gestion des actifs numériques Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# Configuration du système : introduction à [!UICONTROL Gestion des actifs numériques Workfront]
+# Comprendre [!UICONTROL Gestion des actifs numériques Workfront]
 
 [!UICONTROL Gestion des actifs numériques Workfront] est une solution de gestion des ressources numériques (DAM) spécialement conçue pour gérer, contrôler et publier vos ressources marketing et créatives. Il peut être utilisé conjointement avec les workflows dont vous disposez déjà dans [!DNL Workfront], où vous pouvez gérer des projets, des affectations de tâches et d’autres tâches. Utilisation [!DNL Workfront] pour créer des requêtes de ressources, puis gérer la production et la révision des ressources. Traitez, stockez et distribuez les ressources terminées et approuvées à l’aide de [!UICONTROL Gestion des actifs numériques Workfront].
 

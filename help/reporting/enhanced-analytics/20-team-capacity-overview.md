@@ -1,6 +1,6 @@
 ---
-title: Comprendre la capacité de l’équipe dans [!UICONTROL Analytics amélioré]
-description: Découvrez comment le graphique de capacité de l’équipe indique quand une équipe d’accueil a été suraffectée ou sous-affectée.
+title: Comprendre les capacités de l’équipe
+description: Découvrez comment le graphique des capacités de l’équipe dans [!UICONTROL Analytics amélioré] indique lorsqu’une équipe d’accueil a été suraffectée ou sous-affectée.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Comprendre la capacité de l’équipe dans [!UICONTROL Analytics amélioré]
+# Comprendre les capacités de l’équipe
 
 Le graphique Capacité de l’équipe indique quand une équipe d’accueil a été suraffectée ou sous-affectée. Le graphique affiche le volume de travail assigné à l’équipe d’accueil un jour donné et attribue une couleur bleue plus foncée lorsqu’elles approchent d’un épuisement ou qu’elles ne sont pas contestées. Une couleur plus claire et plus transparente indique que la charge de travail est plus équilibrée.
 
@@ -32,7 +32,7 @@ L’affichage de ces informations vous permet de déterminer les éléments suiv
 
 Sur le graphique, vous pouvez voir :
 
-1. Le pourcentage de la capacité de l’équipe d’accueil est à gauche.
+1. Le pourcentage de la capacité de l’équipe d’accueil est sur la gauche.
 1. Les dates dans la partie inférieure proviennent de la période sélectionnée.
 1. La couleur de remplissage bleue plus foncée indique que l’équipe d’accueil est en état de épuisement (4) ou n’est pas contestée.
 1. Un bleu plus clair ou plus transparent indique que la charge de travail de l’équipe d’accueil est équilibrée.
@@ -45,7 +45,7 @@ Sur le graphique, vous pouvez voir :
 
 ## Utilisation du graphique
 
-Pour afficher les données des graphiques dans la section Personnes de la zone Analytics, vous devez ajouter des filtres et sélectionner une plage de dates. Si vous avez déjà ajouté des filtres, ils sont principaux jusqu’à ce que vous les supprimiez.
+Pour afficher les données des graphiques dans la section Personnes de la zone Analytics, vous devez ajouter des filtres et sélectionner une plage de dates. Si vous avez déjà ajouté des filtres, ils sont actifs jusqu’à ce que vous les supprimiez.
 
 ![Image montrant un graphique de capacité d’équipe](assets/section-3-5.png)
 

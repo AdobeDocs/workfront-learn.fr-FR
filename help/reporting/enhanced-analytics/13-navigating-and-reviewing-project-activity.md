@@ -1,6 +1,6 @@
 ---
-title: Comprendre la navigation et la révision de l’activité de projet dans [!UICONTROL Analytics amélioré]
-description: Découvrez comment comparer des projets en fonction des utilisateurs connectés, des modifications d’état des tâches et des tâches terminées dans Workfront.
+title: Comprendre la navigation et la révision de l’activité de projet
+description: Découvrez comment comparer des projets en fonction des utilisateurs connectés, des modifications d’état des tâches et des tâches terminées dans [!UICONTROL Analytics amélioré].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# Comprendre la navigation et la révision de l’activité de projet dans [!UICONTROL Analytics amélioré]
+# Comprendre la navigation et la révision de l’activité de projet
 
 Dans cette vidéo, vous apprendrez :
 
@@ -41,7 +41,7 @@ L’affichage de ces informations vous permet de déterminer les éléments suiv
 Sur le graphique, vous pouvez voir :
 
 1. Noms des projets sur la gauche.
-1. Les dates sont affichées en bas.
+1. Les dates s’affichent dans la partie inférieure.
 1. Les zones violettes indiquent que les utilisateurs affectés au projet se sont connectés ce jour-là, avec une nuance plus sombre indiquant un nombre plus élevé d’utilisateurs se connectant.
 1. Les zones roses montrent que les utilisateurs ont modifié l’état d’une tâche pour le projet ce jour-là, avec une nuance plus foncée indiquant un nombre plus élevé de statuts de tâche changeant.
 1. Les zones bleues indiquent que les utilisateurs ont terminé une tâche pour le projet, avec une nuance plus foncée indiquant un nombre plus élevé de tâches en cours d’exécution.

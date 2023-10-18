@@ -1,5 +1,5 @@
 ---
-title: Définition d’une vision et d’une stratégie
+title: Définition d’une vision et d’une stratégie pour votre organisation
 description: Apprenez-en plus sur la formulation du " quoi " et du " pourquoi " pendant la phase de planification, sur les objectifs à suivre et sur l'étendue de l'influence.
 activity: use
 feature: Workfront Goals
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
 
-# Définition d’une vision et d’une stratégie
+# Définition d’une vision et d’une stratégie pour votre organisation
 
-Dans cette vidéo, vous découvrirez :
+Dans cette vidéo, vous découvrirez les éléments suivants :
 
 * l&#39;élaboration du &quot; quoi &quot; et du &quot; pourquoi &quot; pendant la phase de planification;
 * Exemples d’objectifs
@@ -37,15 +37,15 @@ Une cadence traditionnelle pour un cycle de planification à long terme/à court
 
 Tenez compte de ces concepts lorsque vous déterminez la cadence appropriée à votre entreprise.
 
-* Dans l’environnement des affaires actuel, les facteurs internes et externes sont plus volatiles et changent souvent. Pour traiter ces facteurs stratégiquement, les révisions et les ajustements des objectifs à court terme devraient être au minimum tous les trois mois.
+* Dans l&#39;environnement des affaires actuel, les facteurs internes et externes sont plus volatiles et changent souvent. Pour traiter ces facteurs stratégiquement, les révisions et les ajustements des objectifs à court terme devraient être au minimum tous les trois mois.
 
-* Chaque examen devrait donner le temps de réfléchir aux réalisations et aux efforts passés et d&#39;évaluer la trajectoire des activités futures. Demandez-vous et à vos équipes...sommes-nous encore sur la bonne voie ?
+* Chaque examen devrait donner le temps de réfléchir aux réalisations et aux efforts passés et d&#39;évaluer la trajectoire des activités futures. Demandez-vous à vous et à vos équipes.. sommes-nous encore sur la bonne voie ?
 
 Le tableau suivant illustre la relation et la nature cyclique de cette cadence, entre les objectifs à plus long et à plus court terme, et les efforts à plus long et à plus court terme.
 
 ![Graphique du cycle d&#39;exécution stratégique](assets/02-workfront-goals-strategic-execution-cycle.png)
 
-1. **Objectifs à long terme** sont généralement des objectifs d’entreprise ou d’entreprise plus larges qui prendront 12 mois ou plus. Il est peu probable qu&#39;elles soient accomplies par des efforts de travail singuliers. La plupart des entreprises et des organisations ont deux niveaux de ces objectifs à long terme en haut de la hiérarchie qui unissent les objectifs à court terme dans un seul et même objectif final.
+1. **Objectifs à long terme** sont généralement des objectifs d’entreprise ou d’entreprise plus larges qui prendront 12 mois ou plus. Il est peu probable qu&#39;elles soient accomplies par des efforts de travail singuliers. La plupart des entreprises et des organisations ont deux ou trois niveaux de ces objectifs à long terme en haut de la hiérarchie qui unissent les objectifs à court terme dans un seul et même objectif final.
 1. **Initiatives à long terme** représente l’estimation de haut niveau de l’effort de travail mappé pour piloter les opérations. Ces initiatives seront finalement perfectionnées en efforts de travail plus consommables (c’est-à-dire, projet, tâches, etc.). Bien qu’il s’agisse généralement d’efforts de travail plus longs, par exemple 12 mois ou plus, il peut parfois s’agir d’un regroupement de plusieurs initiatives de 6 mois ou plus qui correspondent au même résultat.
 1. **Objectifs à court terme** sont les objectifs définis par vos personnes et vos équipes qui correspondent à des résultats de type jalon plus nombreux. Toutes ces réalisations segmentées contribuent à la réalisation globale des objectifs à long terme de votre entreprise ou de votre organisation.
 1. **Projets à court terme** se référer à la portée de travail la plus étroitement définie pour atteindre les objectifs à court terme. Il peut s’agir de projets ponctuels ou de projets faisant partie d’une initiative plus large.

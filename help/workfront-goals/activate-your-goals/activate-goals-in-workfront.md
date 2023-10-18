@@ -1,5 +1,5 @@
 ---
-title: Activation des objectifs dans [!DNL Workfront Goals]
+title: Activation des objectifs
 description: Découvrez comment activer des objectifs dans [!DNL Workfront Goals] une fois que vous les avez créés.
 activity: use
 team: Technical Marketing
@@ -9,22 +9,22 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
-# Activation des objectifs dans [!DNL Workfront]
+# Activation des objectifs
 
-Maintenant que vous avez créé des objectifs, activons-les ! Lorsque vous créez un objectif, il est enregistré dans [!UICONTROL Version préliminaire] statut. [!UICONTROL Version préliminaire] les objectifs ne font pas partie de la gestion des objectifs tant que vous ne les avez pas activés. Une fois activés, ils passent à une [!UICONTROL Principal] et afficher la progression dans le tableau de bord et la manière dont ils s’alignent sur la stratégie globale. Objectifs dans [!UICONTROL Principal] Les statuts sont associés à un indicateur de progression (généralement une activité, un résultat, un projet ou un objectif aligné (relation d’objectif enfant-parent).
+Maintenant que vous avez créé des objectifs, activons-les ! Lorsque vous créez un objectif, il est enregistré dans [!UICONTROL Version préliminaire] statut. [!UICONTROL Version préliminaire] les objectifs ne font pas partie de la gestion des objectifs tant que vous ne les avez pas activés. Une fois activés, ils passent à une [!UICONTROL Actif] et afficher la progression dans le tableau de bord et la manière dont ils s’alignent sur la stratégie globale. Objectifs dans [!UICONTROL Actif] Les statuts sont associés à un indicateur de progression (généralement une activité, un résultat, un projet ou un objectif aligné (relation d’objectif enfant-parent).
 
 ![Capture d’écran d’un objectif dans l’état Brouillon des objectifs de Workfront](assets/04-workfront-goals-activate-goals.png)
 
 ## Des indicateurs de progression sont nécessaires pour activer les objectifs
 
-Avant de poursuivre, il est important de comprendre les indicateurs de progression utilisés dans [!DNL Workfront Goals]. Les indicateurs de progression sont les objets de la variable [!DNL Goals] utilisé pour calculer la progression d’un objectif. Les indicateurs de progression sont les objectifs, les résultats, les activités et les projets harmonisés. Vous en apprendrez plus en détail plus tard. Pour l’instant, il est important de comprendre que des objectifs, des résultats, des activités et des projets alignés doivent être ajoutés à un objectif afin de l’activer.
+Avant de poursuivre, il est important de comprendre les indicateurs de progression utilisés dans [!DNL Workfront Goals]. Les indicateurs de progression sont les objets dans [!DNL Goals] utilisé pour calculer la progression d’un objectif. Les indicateurs de progression sont les objectifs, les résultats, les activités et les projets harmonisés. Vous en apprendrez plus en détail plus tard. Pour l’instant, il est important de comprendre que des objectifs, des résultats, des activités et des projets alignés doivent être ajoutés à un objectif afin de l’activer.
 
 Pour ajouter un indicateur de progression, ouvrez l&#39;objectif et sélectionnez l&#39;onglet Indicateurs de progression à gauche, puis le menu déroulant Nouvel indicateur de progression situé à côté.
 

@@ -8,14 +8,14 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
-# Questions courantes à propos des files d’attente de requêtes
+# Réponses aux questions courantes sur les files d’attente de requêtes
 
 **Pourquoi puis-je voir une file d’attente de demandes, mais pas mon utilisateur ?**
 
@@ -47,10 +47,10 @@ Oui. Lorsque vous créez un formulaire personnalisé, sélectionnez les deux [!U
 
 **Je consulte un rapport de projet ou de tâche. Comment puis-je savoir de quelle requête provient cet objet ?**
 
-Vous pouvez accéder aux champs du **[!UICONTROL Problème converti]** et le **[!UICONTROL Émetteur de problème converti]** sources de champ pour ajouter ces informations aux rapports de projet et de tâche.
+Vous pouvez accéder aux champs du **[!UICONTROL Problème converti]** et la variable **[!UICONTROL Émetteur de problème converti]** sources de champ pour ajouter ces informations aux rapports de projet et de tâche.
 
 **Quel est le meilleur moyen de filtrer les files d’attente de requête dans un rapport ?**
 
-Si le filtre de votre projet inclut **File D’Attente &quot; Est Publique > Egal > Aucun** votre rapport affiche uniquement les projets qui **NOT** files d’attente.
+Si le filtre de votre projet inclut **File D’Attente &quot; Est Publique > Egal > Aucun** votre rapport affiche uniquement les projets qui **NOT** files d’attente de requête.
 
-Si le filtre de votre projet inclut **File d’attente &quot; Est Publique > N’Est Pas Égal > Aucun** votre rapport affiche uniquement les projets qui **ARE** files d’attente.
+Si le filtre de votre projet inclut **File d’attente &quot; Est Publique > N’Est Pas Égal > Aucun** votre rapport affiche uniquement les projets qui **ARE** files d’attente de requête.

@@ -1,5 +1,5 @@
 ---
-title: Présentation des heures planifiées et des affichages de durée dans [!UICONTROL Analytics amélioré]
+title: Présentation des heures planifiées et des vues de durée
 description: Dans les graphiques Treemap de Burndown et Project, vous pouvez afficher les informations par heures ou durée planifiées.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Présentation des heures planifiées et des affichages de durée dans [!UICONTROL Analytics amélioré]
+# Présentation des heures planifiées et des vues de durée
 
 Dans les graphiques Treemap de Burndown et Project, vous pouvez afficher les informations par heures ou durée planifiées, en fonction de ce que vous considérez plus précis pour votre environnement Workfront.
 

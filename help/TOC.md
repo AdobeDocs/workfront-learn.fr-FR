@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2436'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ ht-degree: 2%
       + [Présentation des composants de création de rapports](reporting/basic-reporting/reporting-components.md)
       + [Créer un groupement de base](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Créer une vue de base](reporting/basic-reporting/create-a-basic-view.md)
-      + [Ajouter une mise en forme conditionnelle de base](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [Ajout d’une mise en forme conditionnelle de base à une vue](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Créer un filtre de base](reporting/basic-reporting/create-a-basic-filter.md)
       + [Créer une activité de filtre de base](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Créer un rapport simple](reporting/basic-reporting/create-a-simple-report.md)
@@ -308,7 +308,7 @@ ht-degree: 2%
       + [Définition d’une vision et d’une stratégie pour votre organisation](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [Créer une instruction d’objectif claire](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [Collaboration autour des objectifs de l’entreprise et de l’entreprise](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Aligner les groupes et les équipes sur votre stratégie](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [Aligner les groupes et les équipes sur la stratégie](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + Créer vos objectifs {#create-goals}
       + [[!UICONTROL Objectifs de Workfront] Présentation](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 2%
       + [Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Configuration de l&#39;intégration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Mappage des métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [Envoi de documents et liaison de ressources](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [Historique des versions](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [Maintenance de l’historique des versions](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + Suite G {#g-suite-integrations}
       + [Amélioration de votre workflow avec l’intégration de G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -396,7 +396,7 @@ ht-degree: 2%
       + [Modèles de routage courants](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Présentation des modèles de routage](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
       + [Set-it et get-it](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
-      + [Présentation détaillée des variables Get/set](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [Présentation détaillée de la fonction Obtenir/Définir des variables](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
 
    + Itération et agrégation {#iteration-and-aggregation}
       + [Présentation des itérateurs](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
@@ -465,7 +465,7 @@ ht-degree: 2%
       + [Agrégation](fusion/12-exercises/aggregation.md)
       + [Agrégation avancée](fusion/12-exercises/advanced-aggregation.md)
       + [Historique d&#39;exécution](fusion/12-exercises/execution-history.md)
-      + [Exploration des exécutions, des cycles et des lots](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Exploration des cycles et des lots](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Fonction Switch](fusion/12-exercises/switch-function.md)
       + [Module de basculement](fusion/12-exercises/switch-module.md)
       + [Webhooks](fusion/12-exercises/webhooks.md)
@@ -494,7 +494,7 @@ ht-degree: 2%
 
    + Téléchargement de BAT {#upload-proofs}
       + [Qu’est-ce qu’une version de BAT ?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Qui charge les versions de BAT ?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Qui charge les versions de BAT](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Convertir un document en BAT](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Affichage et comparaison des versions de BAT](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Téléchargement d’une version de BAT](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 2%
       + [Configuration des métadonnées](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Personnalisation de Brand Connect {#brand-connect-customization}
-      + [Présentation [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Présentation [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [Définition des paramètres système dans [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Ajout de pages personnalisées dans [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Création de directives sur la marque dans [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

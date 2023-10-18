@@ -10,20 +10,20 @@ role: User
 level: Beginner
 jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 4%
+source-wordcount: '280'
+ht-degree: 5%
 
 ---
 
-# Prise en main d’Adobe Workfront [!UICONTROL Analytics amélioré]
+# Prise en main d’ [!UICONTROL Analytics amélioré]
 
 Les analyses améliorées peuvent vous montrer l’avancement de vos équipes et projets dans Workfront, ainsi que ce qui s’est passé dans les projets précédents dont vous pourriez apprendre à planifier des projets futurs.
 
 ## Conditions préalables d’Analytics
 
-Pour tirer le meilleur parti des analyses améliorées de Workfront, vous devez vous assurer que vos équipes saisissent des données et mettent à jour certains champs aussi précisément que possible.
+Pour tirer pleinement parti des analyses améliorées de Workfront, vous devez vous assurer que vos équipes saisissent des données et mettent à jour certains champs aussi précisément que possible.
 
 Lorsque nous utilisons le terme &quot;équipe&quot; dans Analytics, nous faisons référence à &quot;équipes d’accueil&quot;. Les utilisateurs de Workfront peuvent appartenir à plusieurs équipes, mais ils ne peuvent appartenir qu’à une seule équipe d’accueil. Les équipes utilisées dans les graphiques des personnes sont composées uniquement d’utilisateurs pour lesquels cette équipe est désignée comme équipe d’accueil.
 
@@ -31,7 +31,7 @@ Commencez les tâches correctement en vous assurant que les modèles de projet o
 
 Lors de la création des rapports et des graphiques, Analytics utilise les informations suivantes. Certaines de ces informations sont renseignées automatiquement par Workfront, mais d’autres doivent être renseignées par vos utilisateurs.
 
-* Tâche Heures planifiées (il s’agit du champ le plus important pour Analytics. Si vos équipes n’utilisent pas les heures prévues, vous pouvez consulter des graphiques sélectionnés en fonction de la durée du projet.)
+* Tâche Heures planifiées (il s’agit du champ le plus important d’Analytics. Si vos équipes n’utilisent pas les heures prévues, vous pouvez consulter des graphiques sélectionnés en fonction de la durée du projet.)
 * Nom du projet
 * Statut du projet
 * Statut de projet
