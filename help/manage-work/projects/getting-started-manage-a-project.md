@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335094.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dans cette vidéo, vous apprendrez :
 
-* Eléments à prendre en compte lors de la surveillance du travail d’un projet
+* Eléments à prendre en compte lors de la surveillance du projet
 * Quel est votre rôle de chef de projet ?
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
@@ -40,7 +40,7 @@ Mais quelle que soit la manière dont vous gérez un projet, vous pouvez :
 * Communiquez avec vos parties prenantes.
 * Célébrez les victoires en chemin.
 
-En fin de compte, votre tâche principale consiste à diriger le projet vers une réalisation réussie. [!DNL Workfront] peut vous aider à surveiller le travail effectué dans la chronologie du projet ; filtres, vues et regroupements; mises à jour ; rapports , etc.
+En fin de compte, votre tâche principale consiste à diriger le projet vers une réalisation réussie. [!DNL Workfront] Vous pouvez vous aider à surveiller le travail effectué par le biais de la chronologie du projet ; filtres, vues et regroupements ; mises à jour ; rapports ... et plus encore.
 
 <!---
 learn more urls

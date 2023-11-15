@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335089.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8776
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 Dans cette vidéo, vous apprendrez :
 
 * Contenu de la durée d’une tâche [!DNL Workfront]
-* Incidence des durées sur les dates de début et de fin des tâches
+* Incidence des durées sur les dates de début et d’achèvement des tâches
 * Mode de prise en compte des durées dans les chronologies du projet
 * Recommandations relatives aux bonnes pratiques relatives à l’utilisation des durées de tâche
 

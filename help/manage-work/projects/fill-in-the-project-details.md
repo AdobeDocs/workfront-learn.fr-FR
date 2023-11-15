@@ -7,10 +7,10 @@ feature: Work Management
 thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '1219'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Ne vous inquiétez pas ... vous n’avez pas à remplir tous les champs et cases
 
 1. **Description**
 
-   Lorsque plusieurs personnes travaillent sur un projet, vous devez, en tant que chef de projet, vous assurer que tout le monde est au courant des objectifs et des attentes du projet.
+   Lorsque plusieurs personnes travaillent sur un projet, vous, en tant que chef de projet, devez vous assurer que tout le monde est au courant des objectifs et des attentes du projet.
 
    Pour ce faire, utilisez une description du projet qui fournit des informations de base, répond à des questions et permet à l’équipe du projet de poursuivre son travail. Par exemple, &quot;Campagne visant à augmenter de 50 % le travail générant des recettes&quot; ou &quot;Nouvelle mise à niveau du système pour améliorer l’efficacité dans l’ensemble du service&quot;.
 
@@ -38,7 +38,7 @@ Ne vous inquiétez pas ... vous n’avez pas à remplir tous les champs et cases
 
    L’état est utilisé dans Workfront pour indiquer où se trouve, ou à quelle étape, un projet dans le workflow. L’état est utilisé dans de nombreux rapports Workfront pour suivre l’avancement du travail.
 
-   Workfront recommande que l’état soit défini sur Planification pendant que vous élaborez et finalisez le plan du projet. L’élément clé de l’état Planification est que les notifications Workfront ne sont pas envoyées aux personnes désignées pour la tâche concernant le projet lorsqu’il est dans cet état.
+   Workfront recommande que l’état soit défini sur Planification pendant que vous élaborez et finalisez le plan du projet. L’élément clé de l’état Planification est que les notifications Workfront ne sont pas envoyées aux personnes désignées pour la tâche concernant le projet tant qu’il est dans cet état.
 
    Ensuite, une fois que le projet est prêt à être mis en ligne, définissez l’état sur Actuel. Cela permet à Workfront d’envoyer des notifications aux personnes au sujet des nouvelles tâches auxquelles elles sont affectées, mais il n’envoie pas de notifications aux utilisateurs pour les tâches qui leur ont été affectées alors que le projet était à l’état Planification .
 
@@ -72,7 +72,7 @@ Ne vous inquiétez pas ... vous n’avez pas à remplir tous les champs et cases
 
 1. **Propriétaire du projet**
 
-   Le propriétaire du projet est le terme Workfront du gestionnaire de projet. Il s’agit de la personne responsable de la planification et/ou de la gestion du projet.
+   Le propriétaire du projet est le terme de Workfront pour le chef de projet. Il s’agit de la personne responsable de la planification et/ou de la gestion du projet.
 
    Pour que le propriétaire du projet dispose d’autorisations de gestion complètes pour le projet, il doit disposer d’une licence Plan .
 
@@ -120,7 +120,7 @@ Ne vous inquiétez pas ... vous n’avez pas à remplir tous les champs et cases
 
    Un pool de ressources par défaut peut être défini dans le modèle.
 
-1. **Accès au projet pour les visionneuses et les contributeurs**
+1. **Accès au projet pour les observateurs et les contributeurs**
 
    Lorsqu’une personne a accès à un projet par l’intermédiaire du partage, il existe trois niveaux d’autorisations qu’elle peut obtenir : Affichage, Contribution et Gestion. Chaque niveau d’autorisation permet à l’utilisateur d’afficher et de réaliser certaines actions avec le projet.
 

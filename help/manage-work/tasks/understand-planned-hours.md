@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335090.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 Dans cette vidéo, vous apprendrez à :
 
 * Dans quelles heures planifiées [!DNL  Workfront]
-* Pourquoi les heures planifiées sont-elles importantes pour votre projet ?
+* Pourquoi les heures planifiées sont-elles importantes pour votre projet
 * Ajout d’heures planifiées à des tâches
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)

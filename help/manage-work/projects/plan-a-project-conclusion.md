@@ -6,10 +6,10 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 5%
@@ -26,7 +26,7 @@ Obtenez votre [!DNL  Workfront] projets exécutés rapidement à l’aide d’un
 1. Tâches antérieures
 1. Affectations
 
-Une fois que tout est défini, modifiez l’état du projet pour qu’il soit actif. Au fur et à mesure que le projet avancera, vous souhaiterez garder une trace du travail qui est fait, des problèmes qui surgissent, des questions qui ont besoin de réponses, et plus encore. Rappelez-vous juste que ... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront]!
+Une fois que tout est défini, modifiez l’état du projet pour qu’il soit actif. Au fur et à mesure que le projet avancera, vous souhaiterez garder une trace du travail à faire, des problèmes qui surgissent, des questions qui ont besoin de réponses, et plus encore. Rappelez-vous juste que ... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront]!
 
 <!---
 footer urls for the LP

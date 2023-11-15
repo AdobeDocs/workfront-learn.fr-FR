@@ -1,17 +1,17 @@
 ---
 title: Découvrez quatre façons de créer un projet
-description: Découvrez comment créer un projet à partir d’un modèle, créer un projet à partir de zéro, copier un projet existant ou importer un [!DNL Microsoft Project] fichier .
+description: Découvrez comment créer un projet à partir d’un modèle, créer entièrement un projet, copier un projet existant ou importer un [!DNL Microsoft Project] fichier .
 activity: use
 feature: Work Management
 thumbnail: 335084.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Dans cette vidéo, vous apprendrez à :
 * Création d’un projet à partir d’un modèle
 * Création d’un projet à partir de zéro
 * Copier un projet existant
-* Importer un [!DNL Microsoft Project] fichier
+* Importation d’une [!DNL Microsoft Project] fichier
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
 ## Conseils pratiques
 
-* Le [!UICONTROL Nouveau projet à partir du modèle] facilite la sélection du modèle approprié pour votre projet. Faites défiler le panneau de gauche pour trouver un modèle, puis sélectionnez-le pour obtenir un aperçu de son contenu. Cet aperçu vous indique le nombre de tâches figurant dans le modèle, les rôles de tâche requis, etc.
+* La variable [!UICONTROL Nouveau projet à partir du modèle] facilite la sélection du modèle approprié pour votre projet. Faites défiler le panneau de gauche pour trouver un modèle, puis sélectionnez-le pour obtenir un aperçu de son contenu. Cet aperçu vous indique le nombre de tâches figurant dans le modèle, les rôles de tâche requis, etc.
 
 ![[!UICONTROL Nouveau projet à partir du modèle] window](assets/planner-fund-new-project-from-template-window.png)
 

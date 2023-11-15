@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 22%
@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez :
 
 * Quatre étapes pour mettre en route un projet
 * Définition d’un projet dans [!DNL Workfront]
-* Les trois méthodes les plus courantes de création d’un projet
+* Les trois méthodes les plus courantes pour créer un projet
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
@@ -36,4 +36,4 @@ Obtenez votre [!DNL  Workfront] projets exécutés rapidement à l’aide d’un
 1. Tâches antérieures
 1. Affectations
 
-Une fois que tout est défini, modifiez l’état du projet pour qu’il soit actif. Au fur et à mesure que le projet avancera, vous souhaiterez garder une trace du travail qui est fait, des problèmes qui surgissent, des questions qui ont besoin de réponses, et plus encore. Rappelez-vous juste que ... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront]!
+Une fois que tout est défini, modifiez l’état du projet pour qu’il soit actif. Au fur et à mesure que le projet avancera, vous souhaiterez garder une trace du travail à faire, des problèmes qui surgissent, des questions qui ont besoin de réponses, et plus encore. Rappelez-vous juste que ... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront]!
