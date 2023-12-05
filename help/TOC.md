@@ -3,10 +3,10 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 2%
+source-wordcount: '2375'
+ht-degree: 1%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 2%
       + [Personnalisation des types de problèmes et de la terminologie](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configuration des préférences de problème par défaut globales](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
 
-   + Modèles de disposition {#layout-templates}
+   + Modèles de mise en page {#layout-templates}
       + [Que sont les modèles de mise en page ?](administration-and-setup/layout-templates/what-are-layout-templates.md)
       + [Rechercher des modèles de mise en page](administration-and-setup/layout-templates/find-layout-templates.md)
       + [Personnalisation de la terminologie à l’aide de modèles de mise en page](administration-and-setup/layout-templates/customize-workfront-terminology.md)
@@ -84,11 +84,12 @@ ht-degree: 2%
 
 
 + Données personnalisées {#custom-data}
-   + Formulaires personnalisés {#custom-forms}
+   + Forms personnalisée {#custom-forms}
       + [Création et partage d’un formulaire personnalisé](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [Partage de champs personnalisés](custom-data/custom-forms/share-custom-fields.md)
       + [Modifier un formulaire personnalisé](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Joindre un formulaire personnalisé à un objet](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Ajout de sauts de section et de logiques à un formulaire personnalisé](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportation d’un formulaire personnalisé en tant que PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Expressions calculées {#calculated-expressions}
@@ -123,7 +124,7 @@ ht-degree: 2%
       + [Comprendre le [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
       + [Comprendre le [!UICONTROL board] view](manage-work/projects/understand-the-board-view.md)
 
-   + Tâches {#tasks}
+   + Tâche {#tasks}
       + [Création de tâches](manage-work/tasks/how-to-create-tasks.md)
       + [Présentation des tâches parent-enfant](manage-work/tasks/understand-parent-child-tasks.md)
       + [Utilisation des tâches](manage-work/tasks/work-with-tasks.md)
@@ -151,7 +152,7 @@ ht-degree: 2%
       + [Création d’un flux de requêtes](manage-work/request-queues/create-a-request-flow.md)
       + [Réponses aux questions courantes sur les files d’attente de requêtes](manage-work/request-queues/request-queue-faq.md)
 
-   + Portefeuilles {#portfolios}
+   + Portfolios {#portfolios}
       + [Présentation des portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Comprendre le [!UICONTROL Analyse de cas]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Utilisez la variable [!UICONTROL Portfolio Optimizer] prioriser et gérer le travail](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -195,7 +196,7 @@ ht-degree: 2%
       + [Anciens prédécesseurs avancés](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Rapports {#reporting}
++ Reporting {#reporting}
    + Reporting de base {#basic-reporting}
       + [Présentation des éléments de reporting](reporting/basic-reporting/reporting-elements.md)
       + [Présentation des composants de création de rapports](reporting/basic-reporting/reporting-components.md)
@@ -236,7 +237,7 @@ ht-degree: 2%
       + [Présentation des options de rapport de calendrier supplémentaires](reporting/basic-reporting/additional-calendar-options.md)
       + [Votre tour de créer un rapport de calendrier](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Analytique améliorée {#enhanced-analytics}
+   + Analytics amélioré {#enhanced-analytics}
       + [Un moment avec Product [!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Prise en main d’ [!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Ajouter [!UICONTROL analytics] pour les modèles de mise en page](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -290,7 +291,7 @@ ht-degree: 2%
       + [Afficher le délai d’expiration lors de l’affectation de tâches](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Visibilité des outils de gestion des ressources](manage-resources/pto/visibility-in-resource-management-tools.md)
 
-   + Planificateur de scénarios {#scenario-planner}
+   + Planification du scénario {#scenario-planner}
       + [Moment avec le produit à propos du planificateur de scénario](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [Qu’est-ce que le planificateur de scénario ?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Accès à un plan dans le planificateur de scénarios](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
@@ -300,7 +301,7 @@ ht-degree: 2%
       + [Mise à jour et copie de plans](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [Publication d’un scénario](manage-resources/scenario-planner/publish-a-scenario.md)
 
-+ Objectifs Workfront {#workfront-goals}
++ Objectifs de Workfront {#workfront-goals}
    + Définition d’une vision pour votre organisation {#establish-a-vision-and-strategy}
       + [Présentation de la vision sous-jacente aux objectifs Workfront](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [Comprendre le fonctionnement des objectifs de Workfront](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
@@ -474,7 +475,7 @@ ht-degree: 2%
       + [Utilisation de JSON](fusion/12-exercises/working-with-json.md)
       + [Outil de développement](fusion/12-exercises/devtool.md)
 
-+ Workfront Proof {#workfront-proof}
++ Bon à tirer Workfront {#workfront-proof}
    + [Découvrez les avantages de la vérification](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Comprendre la différence entre un document et un BAT](workfront-proof/document-vs-proof.md)
    + [Explication des visionneuses de test](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -523,7 +524,7 @@ ht-degree: 2%
       + [Gérer les commentaires de BAT](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Suivi de la progression du BAT](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ Gestion des actifs numériques Workfront {#workfront-dam-program}
    + Configuration du système {#system-setup}
       + [Comprendre [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Présentation des paramètres système](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -587,7 +588,7 @@ ht-degree: 2%
 + Agile {#agile}
 
    + Scrum {#scrum}
-      + [Création d’une équipe dynamique](agile/create-a-scrum-agile-team.md)
+      + [Création d’une équipe agile Scrum](agile/create-a-scrum-agile-team.md)
       + [Gérer le travail en tant qu’équipe Scrum](agile/manage-work-scrum-team.md)
       + [Augmentation du retard](agile/gooming-the-backlog.md)
       + [Planification et création d’une itération](agile/plan-and-create-an-iteration.md)
@@ -612,13 +613,13 @@ ht-degree: 2%
    + [Explorateur d’API](best-practices/api-explorer-bp.md)
    + [Analyse de cas et optimisation de portefeuille](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Communication](best-practices/communication-bp.md)
-   + [Formulaires personnalisés](best-practices/custom-forms-bp.md)
+   + [Formulaires personnalisés dans mon groupe](best-practices/custom-forms-bp.md)
    + [Rapports personnalisés](best-practices/custom-reports-bp.md)
    + [Tableaux de bord](best-practices/dashboards-bp.md)
    + [Documents](best-practices/documents-bp.md)
    + [Filtres, vues et regroupements](best-practices/filters-views-groupings-bp.md)
    + [Fonctions](best-practices/job-roles-bp.md)
-   + [Modèles de disposition](best-practices/layout-templates-bp.md)
+   + [Modèles de mise en page](best-practices/layout-templates-bp.md)
    + [Licences et niveaux d’accès](best-practices/licenses-access-levels-bp.md)
    + [Intégration et adoption](best-practices/onboarding-adoption-bp.md)
    + [Entités organisationnelles](best-practices/organizational-units-bp.md)
@@ -626,9 +627,9 @@ ht-degree: 2%
    + [Aperçu de l’environnement de test](best-practices/preview-sandbox-bp.md)
    + [Préférences pour les projets, tâches et problèmes](best-practices/project-task-issue-preferences-bp.md)
    + [Modèles de projet](best-practices/project-templates-bp.md)
-   + [Workfront Proof](best-practices/proofing-bp.md)
+   + [Épreuve Workfront](best-practices/proofing-bp.md)
    + [File d’attente des demandes](best-practices/request-queues-bp.md)
-   + [Planificateur de ressources](best-practices/resource-planner-bp.md)
+   + [Planification des ressources](best-practices/resource-planner-bp.md)
    + [Pools de ressources](best-practices/resource-pools-bp.md)
    + [Planificateur de scénarios](best-practices/scenario-planner-bp.md)
    + [Planifications](best-practices/schedules-bp.md)
@@ -639,7 +640,7 @@ ht-degree: 2%
    + [Fiches horaires et heure de connexion](best-practices/timesheets-logging-time-bp.md)
    + [Utilisation](best-practices/utilization-bp.md)
    + [Objectifs Workfront](best-practices/workfront-goals-bp.md)
-   + [Équilibreur de charge de travail](best-practices/workload-balancer-bp.md)
+   + [Équilbreur de charge de travail](best-practices/workload-balancer-bp.md)
 
 
 
