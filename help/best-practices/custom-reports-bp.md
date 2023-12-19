@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des consignes qui représentent un plan d’action efficace. Elles sont facilement adoptées par vous et les utilisateurs de votre entreprise et peuvent être répliquées avec succès dans l’ensemble de votre entreprise.
 
 Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
 
@@ -53,14 +53,14 @@ Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut ni
 Envisagez d’utiliser des invites de rapport pour réduire les résultats d’un rapport, plutôt que de créer plusieurs rapports similaires ou de créer des structures de filtre complexes dans un rapport.
 
 
-**Voici pourquoi**
+**Voici pourquoi :**
 
 Réduisez le nombre de rapports à créer (et développez l’utilisation des rapports que vous créez) en incluant des invites, en particulier sur les rapports que vous exécutez fréquemment.
 
-Les invites vous permettent de filtrer &quot;sur le moment&quot; les ajouts sur un rapport sans modifier les configurations de filtre du rapport. Par exemple, vous disposez d’un rapport qui détecte les tâches ayant un certain statut qui sont affectées à une équipe spécifique. Ajoutez des invites à ce rapport &quot;de base&quot; qui vous permettent de préciser la période des dates d’échéance des tâches, de voir uniquement les tâches auxquelles des documents sont joints ou d’identifier les tâches auxquelles un formulaire personnalisé particulier est associé.
+Les invites vous permettent de filtrer &quot;sur le moment&quot; les ajouts sur un rapport sans modifier les configurations de filtre du rapport. Par exemple, vous disposez d’un rapport qui détecte les tâches ayant un certain statut qui sont affectées à une équipe spécifique. Ajoutez des invites à ce rapport &quot;de base&quot; qui vous permettent de préciser la période des dates d’échéance des tâches, de voir uniquement les tâches auxquelles des documents sont joints ou de déterminer les tâches auxquelles un formulaire personnalisé particulier est associé.
 
 
-**Remarque**: Certains utilisateurs peuvent trouver des invites déroutantes. Si tel est le cas, plusieurs rapports avec des titres clairs peuvent être une meilleure solution pour eux.
+**Remarque**: certains utilisateurs peuvent trouver des invites déroutantes. Si tel est le cas, plusieurs rapports avec des titres clairs peuvent être une meilleure solution pour eux.
 
 
 </br>
@@ -70,7 +70,7 @@ Les invites vous permettent de filtrer &quot;sur le moment&quot; les ajouts sur 
 
 Accélérez la création de rapports en copiant un rapport existant similaire à partir duquel créer votre nouveau rapport.
 
-**Voici pourquoi**
+**Voici pourquoi :**
 
 Cela vous permet non seulement d’économiser du temps, mais cela garantit également que le nouveau rapport contient les filtres, vues ou regroupements dont vous avez besoin dans le rapport d’origine.
 
@@ -79,30 +79,21 @@ Cela vous permet non seulement d’économiser du temps, mais cela garantit éga
 
 **Bonne pratique**
 
-Lorsque cela est possible, utilisez la fonctionnalité de création de rapports d&#39;usine au lieu du mode texte.
-
-**Voici pourquoi**
-
-Les configurations de création de rapports restent ainsi aussi simples que possible afin de garantir qu’elles sont évolutives et compatibles avec les autres.
-
-</br>
-</br>
-
-**Bonne pratique**
-
 Utilisez des caractères génériques basés sur l’utilisateur pour créer des rapports dynamiques afin que l’utilisateur qui consulte le rapport voit les informations qui le concernent.
 
-**Voici pourquoi**
+**Voici pourquoi :**
 
 Les caractères génériques basés sur les utilisateurs rendent les rapports plus flexibles, ce qui permet aux auteurs de rapports de créer un seul rapport qui peut être partagé avec plusieurs utilisateurs. Non seulement les caractères génériques basés sur l’utilisateur fournissent des informations personnalisées et personnalisées à l’utilisateur connecté qui consulte le rapport personnalisé, mais cela signifie que vous pouvez réduire le nombre de rapports à créer et à gérer.
 
 </br>
 </br>
 
+Pour plus d’informations sur l’utilisation des caractères génériques dans les rapports, voir [Création de filtres avec des caractères génériques basés sur l’utilisateur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+
 **Bonne pratique**
 
 Créez des vues qui permettent la modification en ligne.
 
-**Voici pourquoi**
+**Voici pourquoi :**
 
 Grâce à la modification en ligne, les utilisateurs peuvent modifier les informations d’un élément directement à partir d’un rapport ou d’une liste. Cela permet d’économiser du temps car les utilisateurs n’ont pas à ouvrir l’objet pour apporter des modifications ou rebondir d’un objet à l’autre lors de la mise à jour de plusieurs éléments. Assurez-vous que les utilisateurs savent que la modification en ligne est pratique et rapide (deux éléments qui contribuent à l’adoption par les utilisateurs de Workfront).

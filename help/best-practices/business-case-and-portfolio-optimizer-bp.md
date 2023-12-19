@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des consignes qui représentent un plan d’action efficace. Elles sont facilement adoptées par vous et les utilisateurs de votre entreprise et peuvent être répliquées avec succès dans l’ensemble de votre entreprise.
 
 Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
 
@@ -45,11 +45,13 @@ Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut ni
 
 Utilisez l’ Analyse de cas avant ou au début de votre projet.
 
-**Voici pourquoi**
+**Voici pourquoi :**
 
 L’utilisation d’un Business Case avant le démarrage de votre projet, ou même au début de votre projet, vous permet d’anticiper réellement les besoins de ce projet (ressources humaines et non humaines), budget, calendrier et comment atténuer les risques potentiels avant qu’ils ne se produisent.
 
 Il vous donne également la possibilité de montrer aux parties prenantes comment votre projet contribue aux objectifs du département, de la région et/ou de l’entreprise.
+
+Pour obtenir des instructions sur l’utilisation de l’analyse de cas, voir [Présentation de l’analyse de cas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
 
 </br>
 </br>
@@ -58,6 +60,11 @@ Il vous donne également la possibilité de montrer aux parties prenantes commen
 
 Estimez et ajustez des informations importantes sur le projet, telles que le coût, l’alignement, la valeur nette, le risque et le retour sur investissement dans l’analyse de cas.
 
-**Voici pourquoi**
+**Voici pourquoi :**
 
 S’assurer que ces informations sont aussi proches de ce que le projet &quot;vie réelle&quot; implique vous permet d’utiliser précisément la fonctionnalité de score dans Portfolio Optimizer pour déterminer la priorité des projets répertoriés. Portfolio Optimizer est un excellent outil pour vous assurer que vos projets sont hiérarchisés efficacement et qu’ils correspondent à la stratégie et à la valeur de votre entreprise.
+
+Pour obtenir des instructions sur l’utilisation de l’analyse de cas, voir [Présentation de l’analyse de cas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
+Pour obtenir des instructions sur l’utilisation de Portfolio Optimizer, voir [Utilisation de Portfolio Optimizer pour hiérarchiser et gérer le travail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+
