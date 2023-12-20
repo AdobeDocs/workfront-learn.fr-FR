@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Vous trouverez ci-dessous des instructions détaillées.
 ![Image de l’écran pour créer un nouveau filtre](assets/basic-filter-activity-1.png)
 
 1. Accédez au [!UICONTROL Projets] de la zone [!UICONTROL Menu Principal]. Vous affichez ainsi la liste des projets.
-1. Cliquez sur le bouton **[!UICONTROL Filtrer]** et sélectionnez [!UICONTROL Filtres hérités]
+1. Cliquez sur le bouton **[!UICONTROL Filtrer]** et sélectionnez [!UICONTROL Filtres hérités].
 1. Sélectionner **[!UICONTROL Nouveau filtre]**.
 1. Nommez votre filtre &quot;Tous les projets du portefeuille marketing&quot;.
 1. Cliquez sur **[!UICONTROL Ajouter une règle de filtre]**.
@@ -39,7 +39,7 @@ Vous trouverez ci-dessous des instructions détaillées.
 1. Laissez le champ [!UICONTROL Égal] en l’état.
 1. Type &quot;[!UICONTROL marketing]&quot; dans la variable [!UICONTROL Commencer à saisir le nom] champ .
 1. Sélectionner [!UICONTROL Portfolio marketing] en supposant que vous ayez un portefeuille portant ce nom que vous souhaitez filtrer. Si ce n’est pas le cas, utilisez simplement la fonction de type à l’avance pour trouver le portfolio que vous souhaitez.
-1. Cliquez sur **[!UICONTROL Enregistrer le filtre]**
+1. Cliquez sur **[!UICONTROL Enregistrer le filtre]**.
 
 ## Activité 2 - Projets dont je suis propriétaire qui ferment ce mois-ci
 
@@ -54,7 +54,7 @@ Vous trouverez ci-dessous des instructions détaillées.
 ![Image de l’écran pour créer un nouveau filtre](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. Accédez au [!UICONTROL Projets] de la zone [!UICONTROL Menu Principal]. Vous affichez ainsi la liste des projets.
-1. Cliquez sur le bouton **[!UICONTROL Filtrer]** et sélectionnez [!UICONTROL Filtres hérités]
+1. Cliquez sur le bouton **[!UICONTROL Filtrer]** et sélectionnez [!UICONTROL Filtres hérités].
 1. Sélectionner **[!UICONTROL Nouveau filtre]**.
 1. Nommez votre filtre &quot;Projets dont je suis propriétaire fermant ce mois-ci&quot;.
 1. Cliquez sur **[!UICONTROL Ajouter une règle de filtre]**.
@@ -69,4 +69,4 @@ Vous trouverez ci-dessous des instructions détaillées.
 1. Cliquez sur [!UICONTROL Ajouter une règle de filtre] encore une fois.
 1. Dans le [!UICONTROL Commencer à saisir le nom du champ] type de champ &quot;planifié&quot;, puis sélectionnez [!UICONTROL Date d’achèvement prévue] sous le [!UICONTROL Projet] source du champ.
 1. Modifiez la variable [!UICONTROL Égal] à [!UICONTROL Ce mois-ci].
-1. Cliquez sur **[!UICONTROL Enregistrer le filtre]**
+1. Cliquez sur **[!UICONTROL Enregistrer le filtre]**.
