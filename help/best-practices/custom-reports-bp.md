@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,6 @@ Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut ni
 * Envisagez d’utiliser des invites de rapport pour réduire les résultats d’un rapport, plutôt que de créer plusieurs rapports similaires ou de créer des structures de filtre complexes dans un rapport.
 
 * Accélérez la création de rapports en copiant un rapport existant similaire à partir duquel créer votre nouveau rapport.
-
-* Lorsque cela est possible, utilisez la fonctionnalité de création de rapports d&#39;usine au lieu du mode texte.
 
 * Utilisez des caractères génériques basés sur l’utilisateur pour créer des rapports dynamiques afin que l’utilisateur qui consulte le rapport voit les informations qui le concernent.
 
@@ -88,7 +86,7 @@ Les caractères génériques basés sur les utilisateurs rendent les rapports pl
 </br>
 </br>
 
-Pour plus d’informations sur l’utilisation des caractères génériques dans les rapports, voir [Création de filtres avec des caractères génériques basés sur l’utilisateur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+Pour plus d’informations sur l’utilisation des caractères génériques dans les rapports, voir [Création de filtres avec des caractères génériques basés sur l’utilisateur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Bonne pratique**
 
