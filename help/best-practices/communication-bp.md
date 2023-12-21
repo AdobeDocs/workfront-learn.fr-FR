@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 1%
+source-wordcount: '407'
+ht-degree: 0%
 
 ---
 
@@ -48,6 +48,10 @@ Utilisez vos workflows pour déterminer les notifications nécessaires.
 **Voici pourquoi :**
 
 parcourir vos workflows étape par étape permet d’identifier plus facilement les points de communication et de s’assurer que les notifications appropriées sont activées. Permet d’activer les notifications pour la façon dont votre organisation fonctionne déjà, empêchant le spam ou la ventilation des communications.
+
+Pour obtenir des instructions sur la configuration des notifications d’événement, voir [Configuration des notifications d’événement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+
+Pour obtenir des instructions sur la gestion des notifications d’événement, voir [Gestion des notifications d’événement in-app et par e-mail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
 
 </br>
 </br>
