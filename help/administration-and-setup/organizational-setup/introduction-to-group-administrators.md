@@ -1,6 +1,6 @@
 ---
 title: Comprendre les besoins des administrateurs de groupe
-description: Découvrez comment les administrateurs et administratrices système peuvent utiliser les administrateurs et administratrices de groupe pour aider à gérer les paramètres  [!DNL Workfront]  tout en donnant aux groupes davantage de contrôle sur leur travail.
+description: Découvrez comment les administrateurs système peuvent utiliser les administrateurs de groupe pour faciliter la maintenance. [!DNL Workfront] tout en donnant aux groupes plus de contrôle sur leur travail.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,8 +12,8 @@ jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 5%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Nommer les administrateurs de groupe qui peuvent exécuter certaines fonctions a
 
 Les administrateurs de groupe ont tendance à être plus en phase avec les défis quotidiens de leur groupe, afin de pouvoir gérer les besoins du groupe. Cela vous permet, en tant qu’administrateur système, de vous concentrer sur l’événement [!DNL Workfront] configurations qui bénéficient à l’ensemble de votre organisation.
 
-Ce que les administrateurs de groupe peuvent faire dans [!DNL Workfront] inclure :
+Certaines des actions que les administrateurs de groupes peuvent effectuer dans [!DNL Workfront] inclure :
 
 * Créez des sous-groupes et ajoutez des utilisateurs aux sous-groupes.
 * Créez des modèles de mise en page pour leur groupe.
@@ -38,9 +38,9 @@ Ce que les administrateurs de groupe peuvent faire dans [!DNL Workfront] inclure
 * Accédez aux projets, programmes et portfolios associés au groupe à partir de la page du groupe.
 * Gérez les préférences de projet, de tâche et de problème au niveau du groupe.
 * Gérez les préférences de la feuille de temps au niveau du groupe.
-* Gérez les notifications d’événement au niveau du groupe.
+* Gérer les notifications d’événement au niveau du groupe.
 * Connectez-vous en tant qu’autres membres du groupe.
-* Affectez un chef d’entreprise au groupe.
+* Affectez un responsable commercial au groupe.
 * Gérez une entreprise.
 
 En tant qu’administrateur système ou groupe, vous pouvez créer des sous-groupes au sein des groupes et des sous-groupes que vous administrez. Ces sous-groupes peuvent se voir attribuer leurs propres administrateurs de groupe.
@@ -55,7 +55,7 @@ En tant qu’administrateur système ou groupe, vous pouvez créer des sous-grou
 bullet points below need hyperlinks
 --->
 
-Pour obtenir une liste des actions que peuvent effectuer les administrateurs système, les administrateurs de groupe et les administrateurs de sous-groupe dans [!DNL Workfront], voir l’article Actions autorisées pour différents types d’administrateurs .
+Pour obtenir une liste des actions que peuvent effectuer les administrateurs système, les administrateurs de groupe et les administrateurs de sous-groupe dans [!DNL Workfront], reportez-vous à l’article Actions autorisées pour différents types d’administrateurs.
 
 ## Gestion d’un groupe
 

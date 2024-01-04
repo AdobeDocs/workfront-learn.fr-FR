@@ -1,6 +1,6 @@
 ---
 title: Création et partage d’un formulaire personnalisé
-description: Découvrez comment créer un formulaire personnalisé, ajouter des champs uniques au formulaire et partager des formulaires avec des utilisateurs.
+description: Découvrez comment créer un formulaire personnalisé, y ajouter des champs uniques, et partager des formulaires avec les utilisateurs et les utilisatrices.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -15,7 +15,7 @@ last-substantial-update: 2023-12-05T00:00:00Z
 source-git-commit: 9d3d89b471b8f84e50b93987fbc684e47be74e7a
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 35%
 
 ---
 

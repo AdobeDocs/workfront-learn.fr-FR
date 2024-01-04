@@ -1,6 +1,6 @@
 ---
 title: Présentation de la création de projet de base
-description: Découvrez les quatre étapes nécessaires pour lancer un projet, la définition d’un projet et les trois méthodes les plus courantes pour créer un projet.
+description: Découvrez les quatre étapes nécessaires pour lancer un projet, la définition d’un projet et les trois méthodes les plus courantes pour créer un projet.
 activity: use
 feature: Work Management
 thumbnail: 335082.jpeg
