@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1743'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,8 @@ Examinez et mettez régulièrement à jour les modèles de projet.
 
 À mesure que les processus et les équipes changent, les modèles de projet doivent être mis à jour. Créez une cadence régulière, par exemple trimestrielle, pour vérifier et voir les modèles qui ne sont pas activement utilisés. Vous pouvez les désactiver afin qu’ils soient toujours dans Workfront, mais qu’ils n’apparaissent pas dans les listes de sélection de modèles.
 
+Pour plus d’informations sur la désactivation d’un modèle de projet, voir [Désactivation d’un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ Lorsque vous créez un modèle à partir d’un projet existant, à moins que vo
 
 Tous ces utilisateurs seront répertoriés dans l’équipe du projet, dans les sections Personnes et Planification du projet. Par conséquent, ils seront propagés à tous les projets créés à partir de ce modèle. Cela peut prêter à confusion pour l’utilisateur, car l’équipe du projet reçoit des notifications sur l’activité du projet, voit le projet dans la liste Projets actifs et obtient des autorisations sur le projet et ses tâches, problèmes et documents.
 
-
+Pour plus d’informations sur la modification de l’équipe de projet dans un modèle de projet, voir [Modification de l’équipe de projet dans un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

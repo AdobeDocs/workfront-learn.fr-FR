@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '826'
 ht-degree: 1%
 
 ---
@@ -134,7 +134,7 @@ Modifiez la variable [!UICONTROL Format du champ] sur le [!UICONTROL Démarrer l
 
 Quiconque gère des modèles de projet apprécie l’état actif (Vrai ou Faux) de chaque modèle dans une liste. Mieux encore : le champ est modifiable en ligne.
 
-Créez une vue de modèle de projet nommée &quot;État actif du modèle de projet&quot; avec les colonnes suivantes :
+Créez une vue de modèle de projet nommée &quot;Standard+état actif&quot; avec les colonnes suivantes :
 
 * [!UICONTROL Nom]
 * [!UICONTROL Propriétaire]
