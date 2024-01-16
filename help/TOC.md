@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
 workflow-type: tm+mt
-source-wordcount: '2386'
+source-wordcount: '2383'
 ht-degree: 1%
 
 ---
@@ -86,7 +86,6 @@ ht-degree: 1%
 + Données personnalisées {#custom-data}
    + Forms personnalisée {#custom-forms}
       + [Création et partage d’un formulaire personnalisé](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-      + [Partage de champs personnalisés](custom-data/custom-forms/share-custom-fields.md)
       + [Modifier un formulaire personnalisé](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Joindre un formulaire personnalisé à un objet](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Ajout de sauts de section et de logiques à un formulaire personnalisé](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
