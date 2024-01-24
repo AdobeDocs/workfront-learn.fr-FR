@@ -9,19 +9,18 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-default-proof-roles.png
 jira: KT-10235
+last-substantial-update: 2024-01-23T00:00:00Z
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 731005176bc02e3a4d26d00373931fa7444afeea
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
 # Définition des rôles de BAT par défaut
 
-<!---
-21.4 updates have been made
---->
+
 
 Le premier paramètre par défaut à effectuer consiste à déterminer un rôle de BAT par défaut qui sera attribué lorsque de nouveaux utilisateurs seront créés ou que des personnes ouvriront un BAT.
 
@@ -36,10 +35,16 @@ Cependant, ce rôle de BAT par défaut peut être modifié au fur et à mesure d
 
 1. Sélectionner **Configuration** de la [!UICONTROL Menu Principal].
 1. Sélectionner **Révision et approbation** dans le menu de gauche.
-1. Cliquez sur le bouton en regard du rôle de BAT par défaut souhaité pour les deux nouveaux [!DNL Workfront] utilisateurs et utilisateurs invités du BAT pour les &quot;destinataires désignés&quot; : toute personne ajoutée au workflow du BAT, soit manuellement, soit via un modèle de workflow.
+1. Cliquez sur le bouton en regard du rôle de BAT par défaut souhaité pour les deux nouveaux [!DNL Workfront] utilisateurs et utilisateurs invités du BAT pour les &quot;destinataires désignés&quot; : toute personne ajoutée au workflow de BAT, soit manuellement, soit via un modèle de workflow.
 1. Cliquez sur le bouton en regard du rôle de BAT par défaut souhaité pour les deux nouveaux [!DNL Workfront] utilisateurs et utilisateurs invités BAT pour les utilisateurs &quot;non-destinataires&quot;. Elles sont généralement [!DNL Workfront] les utilisateurs qui ont accès à un BAT, mais qui ne font pas partie des personnes affectées au workflow.
 1. Enregistrez les modifications.
 
 ![Paramètres de révision et d’approbation dans Workfront](assets/proof-system-setups-workfront-defaults.png)
 
-Tenez compte de ce que la plupart de vos utilisateurs et invités seront tenus de faire lorsqu’ils seront ajoutés à un workflow de vérification. Il doit s’agir de votre valeur par défaut.
+Tenez compte de ce que la plupart de vos utilisateurs et de vos invités seront tenus de faire lorsqu’ils seront ajoutés à un workflow de vérification. Il doit s’agir de votre valeur par défaut.
+
+## Bonnes pratiques
+
+| Bonne pratique | Voici pourquoi : |
+|---|---|
+| Utilisez uniquement Lecture seule ou Réviseur pour le paramètre &quot;Rôles pour les non-destinataires qui ouvrent un BAT de document&quot; dans Workfront. | Les autres options de ce paramètre nécessitent toutes une décision de BAT, ce qui peut faire dérailler votre workflow de vérification. En règle générale, les personnes qui ne sont pas ajoutées au workflow de BAT doivent simplement afficher le BAT ou faire des commentaires, ne pas approuver réellement le BAT. Par conséquent, les options Lecture seule ou Réviseur sont votre meilleur choix. <br> <br>Remarque : ce paramètre se trouve dans le menu principal de Workfront > Configuration > Révision et approbation. |
