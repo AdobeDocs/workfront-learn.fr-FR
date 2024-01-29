@@ -1,6 +1,6 @@
 ---
 title: Ajouter des utilisateurs
-description: Découvrez les informations que vous devez rassembler sur les utilisateurs avant de créer des profils utilisateur.
+description: Découvrez comment ajouter des utilisateurs à Workfront en copiant un utilisateur existant, en important de nouveaux utilisateurs en bloc et en créant un nouvel utilisateur à partir de zéro.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,31 +10,16 @@ level: Beginner
 thumbnail: 10035.jpeg
 jira: KT-10035
 exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 9d75c3b3e4242c4a95980b6dc5978c54708d5def
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '52'
+ht-degree: 7%
 
 ---
 
 # Ajouter des utilisateurs
 
-S’assurer que les personnes appropriées disposent des identifications utilisateur et des autorisations appropriées pour [!DNL Workfront] est une clé du succès. Les identifiants de connexion utilisateur peuvent être créés par les administrateurs système ou ceux qui disposent d’une licence Plan qui accorde un accès administratif aux informations sur les utilisateurs.
+Découvrez comment ajouter des utilisateurs à Workfront en copiant un utilisateur existant, en important de nouveaux utilisateurs en bloc et en créant un nouvel utilisateur à partir de zéro.
 
-Les utilisateurs peuvent être créés individuellement, ce qui s’avère pratique lorsqu’une nouvelle personne démarre au sein de votre entreprise. Vous pouvez également effectuer un import en bloc, ce qui est idéal lorsque plusieurs utilisateurs doivent être configurés en même temps.
+>[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on)
 
-Parlez avec votre [!DNL Workfront] consultant pour savoir quand créer la majorité de vos utilisateurs pendant votre processus de mise en oeuvre. Votre consultant recommandera également la meilleure méthode pour créer des utilisateurs, en fonction des configurations système et des besoins de votre entreprise.
-
-## Collecte des informations requises
-
-Rassemblez les informations nécessaires sur vos utilisateurs avant de commencer à créer leurs connexions dans [!DNL Workfront]. Cela accélère le processus et garantit que chaque utilisateur est créé correctement.
-
-Voici quelques informations dont vous aurez besoin :
-
-* Nom
-* Adresse e-mail
-* Mot de passe par défaut
-* Niveau d’accès
-* Groupe Principal et groupes secondaires, le cas échéant
-* Équipe Principal et équipes secondaires, le cas échéant
-* Rôle Principal de la tâche et rôles secondaires, le cas échéant
