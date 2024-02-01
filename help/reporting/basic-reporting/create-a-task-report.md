@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 6%
 
 ---
@@ -101,7 +101,7 @@ Insérez des invites pour les éléments suivants :
 
 ## Activité 2 : création d’un rapport de retour de l’équipe d’administration
 
-Il s’agit d’un rapport de problèmes qui affiche tous les problèmes d’une file d’attente de demandes de retour créée pour les administrateurs système. Vous pouvez voir comment créer cette file d’attente de demandes dans le **Création d’une file d’attente de demandes de commentaires de l’administrateur système** tutoriel .
+Il s’agit d’un rapport de problèmes qui affiche tous les problèmes d’une file d’attente de demandes de retour créée pour les administrateurs système. Vous pouvez voir comment créer cette file d’attente de demandes dans le [Création d’une file d’attente de demandes de commentaires de l’administrateur système](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) tutoriel .
 
 Ce rapport utilise également un formulaire personnalisé. Pour savoir comment créer un formulaire personnalisé, reportez-vous au [Création et partage d’un formulaire personnalisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutoriel .
 
@@ -159,7 +159,8 @@ Filtrez sur l’identifiant du projet de file d’attente des demandes où rési
    ![Image de l’écran de création de colonnes de rapport de problème](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problème] > [!UICONTROL Nom]
-   * [!UICONTROL Contact Principal] > [!UICONTROL Nom] Remarque : &quot;Propriétaire:Nom&quot; apparaît comme libellé de colonne. Vous pouvez remplacer cette valeur par &quot;Signalé par&quot; en cliquant sur Options avancées et en saisissant &quot;Signalé par&quot; dans la zone **Libellé de colonne personnalisé** champ .
+   * [!UICONTROL Contact Principal] > [!UICONTROL Nom]
+      * Remarque : &quot;Propriétaire:Nom&quot; apparaît comme libellé de colonne. Vous pouvez remplacer cette valeur par &quot;Signalé par&quot; en cliquant sur Options avancées et en saisissant &quot;Signalé par&quot; dans la zone **Libellé de colonne personnalisé** champ .
    * [!UICONTROL Problème] > [!UICONTROL Type de processus]
    * [!UICONTROL Problème] > [!UICONTROL Nom du processus]
    * [!UICONTROL Problème] > [!UICONTROL Évaluation des processus]
