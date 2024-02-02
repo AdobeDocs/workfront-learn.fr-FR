@@ -1,6 +1,6 @@
 ---
-title: Présentation des heures planifiées
-description: Découvrez les heures prévues dans [!DNL  Workfront], pourquoi les heures planifiées sont importantes pour votre projet et comment ajouter des heures planifiées aux tâches.
+title: Comprendre le nombre d’heures prévues
+description: Découvrez le nombre d’heures prévues dans  [!DNL  Workfront], pourquoi ces heures sont importantes pour votre projet et comment en ajouter aux tâches.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -11,20 +11,20 @@ team: Technical Marketing
 jira: KT-8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
-# Présentation des heures planifiées
+# Comprendre le nombre d’heures prévues
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez :
 
-* Dans quelles heures planifiées [!DNL  Workfront]
-* Pourquoi les heures planifiées sont-elles importantes pour votre projet
-* Ajout d’heures planifiées à des tâches
+* Présentation du nombre d’heures prévues dans [!DNL  Workfront]
+* Importance du nombre d’heures prévues pour votre projet
+* Ajout du nombre d’heures planifiées à des tâches
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
