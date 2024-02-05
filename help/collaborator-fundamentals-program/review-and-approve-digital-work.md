@@ -1,26 +1,26 @@
 ---
-title: Révision et approbation de travaux numériques
-description: Découvrez comment rechercher et approuver des projets, des tâches, des problèmes, des documents et des bons à tirer.
+title: Révision et approbation du travail numérique
+description: Apprenez à trouver et à approuver des projets, des tâches, des problèmes, des documents et des BAT.
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8808
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Révision et approbation de travaux numériques
+# Examiner et approuver les travaux numériques
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Recherche des validations
-* Approbation de projets, de tâches et de problèmes
-* Approbation de documents
-* Approbation de BAT
+* Trouver des approbations
+* Approuver des projets, des tâches et des problèmes
+* Approuver des documents
+* Approuver des BAT
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
