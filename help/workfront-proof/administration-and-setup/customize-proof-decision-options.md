@@ -1,6 +1,6 @@
 ---
-title: Personnalisation des options de décision du BAT
-description: Découvrez ce qu'est une décision de BAT. Renommez ensuite les options de décision du BAT et masquez les options inutiles dans les configurations du système de vérification.
+title: Personnaliser les options de décision du BAT
+description: Découvrez ce qu’est une décision de BAT. Renommez ensuite les options de décision d’épreuve et masquez les options inutiles dans les configurations du système de relecture.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,27 +12,27 @@ jira: KT-8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personnalisation des options de décision du BAT
+# Personnaliser les options de décision du BAT
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Quelle décision de BAT ?
-* Comment renommer les options de décision de BAT
-* Comment masquer les options de décision de BAT inutiles
+* En quoi consiste une décision de BAT
+* Comment renommer des options de décision d’épreuve
+* Comment masquer les options de décision d’épreuve inutiles
 
 >[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on)
 
-## Votre tour
+## À vous
 
-1. Déterminez les options de décision nécessaires aux workflows de BAT de votre entreprise. N’oubliez pas que ces paramètres sont globaux, de sorte que chaque équipe utilisant la vérification visuelle voit les mêmes options.
-1. Connectez-vous maintenant à Workfront et accédez aux paramètres de vérification. Dans l’onglet Décisions , renommez les décisions en fonction des besoins de votre entreprise. Masquez les options qui ne seront pas nécessaires.
-1. Une fois les paramètres de décision terminés, effectuez-leur un test rapide en téléchargeant un BAT et en vous attribuant en tant que Révision et approbateur.
+1. Déterminez les options de décision nécessaires pour les workflows de BAT de votre organisation. N’oubliez pas que ces paramètres sont généraux, de sorte que chaque équipe qui utilise la relecture verra les mêmes options.
+1. Connectez-vous ensuite à Workfront et accédez aux paramètres de relecture. Dans l’onglet Décisions, renommez les décisions en fonction des besoins de votre organisation. Masquez les options qui ne seront pas nécessaires.
+1. Une fois les paramètres de décision définis, testez-les rapidement en chargeant un BAT et en vous affectant réviseur et approbateur ou réviseuse et approbatrice.
 
 
 <!--
