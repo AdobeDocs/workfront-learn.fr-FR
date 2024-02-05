@@ -1,6 +1,6 @@
 ---
-title: Création de filtres avec des caractères génériques basés sur l’utilisateur
-description: Découvrez comment utiliser des caractères génériques basés sur l’utilisateur et comment créer un filtre basé sur l’utilisateur connecté.
+title: Créer des filtres avec des caractères génériques basés sur l’utilisateur ou l’utilisatrice
+description: Découvrez comment utiliser les caractères génériques basés sur l’utilisateur ou l’utilisatrice et créer un filtre basé sur la personne connectée.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -12,46 +12,46 @@ jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création de filtres avec des caractères génériques basés sur l’utilisateur
+# Créer des filtres avec des caractères génériques basés sur l’utilisateur ou l’utilisatrice
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Comprendre pourquoi utiliser des caractères génériques
-* Création d’un filtre à l’aide d’un caractère générique (générique) basé sur l’utilisateur
+* Créer un filtre avec un caractère générique basé sur l’utilisateur ou l’utilisatrice
 
 >[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Utilisez la source et le nom du champ Affectation Utilisateurs &quot; ID lors de la création de filtres qui examinent les informations d’affectation de tâche ou de problème.  Cette option examine tous les utilisateurs affectés à la tâche ou au problème, et pas seulement le &quot;propriétaire&quot; ou la personne désignée Principale.
+>Utilisez la source et le nom du champ Utilisateurs de l’affectation >> ID lorsque vous créez des filtres qui examinent les informations relatives à l’affectation des tâches ou des problèmes.  Cette option permet d’examiner les utilisateurs et les utilisatrices affectés à la tâche ou au problème, et pas seulement le « propriétaire » ou la personne désignée principale.
 
 >[!TIP]
 >
->Utilisez $$USER.ID (au lieu de votre nom) même lors de la création de filtres pour vous-même. Ainsi, si quelqu’un voit un filtre que vous exécutez et dit &quot;Partagez-le avec moi&quot;, le filtre est déjà configuré pour que chaque personne qui l’utilise voit ses propres informations.
+>Utilisez l’identifiant $$USER.ID (au lieu de votre nom), même lorsque vous créez des filtres pour vous-même. Ainsi, si quelqu’un voit un filtre que vous utilisez et demande : « partagez-le avec moi », le filtre est déjà configuré de sorte que chaque personne qui l’utilise voie ses propres informations.
 
 >[!TIP]
 >
->Vous devez toujours utiliser le qualificateur de filtre Egal lorsque vous utilisez des caractères génériques basés sur l’utilisateur.
+>Vous devez toujours utiliser le qualificatif de filtre Égal lorsque vous utilisez des caractères génériques basés sur l’utilisateur ou l’utilisatrice.
 
 ## Activité
 
-Vous avez un peu de temps supplémentaire cette semaine, donc vous voulez voir s’il y a quelqu’un dans votre équipe qui pourrait avoir besoin d’aide pour ses devoirs. Créez un filtre de tâche pour trouver les tâches qui doivent être effectuées cette semaine et qui n’ont pas été terminées.
+Vous disposez d’un peu de temps supplémentaire cette semaine, vous voulez donc voir si quelqu’un dans votre équipe a besoin d’aide pour réaliser ses affectations. Créez un filtre de tâche pour trouver les tâches qui arrivent à échéance cette semaine et qui ne sont pas terminées.
 
 ## Réponse
 
-Vous êtes génial pour aider vos coéquipiers ! Avec le filtre configuré comme l’image ci-dessous, vous trouverez les tâches suivantes :
+Merci infiniment d’aider vos coéquipiers ! Lorsque le filtre est configuré comme dans l’image ci-dessous, vous trouverez les tâches suivantes :
 
-* Cela n’a pas été effectué (ce qui signifie qu’il n’y a pas de [!UICONTROL Terminer] statut ou état qui correspond à [!UICONTROL Terminer]);
-* qui se trouvent dans des projets avec une [!UICONTROL Actuel] statut (après tout, vous ne souhaitez pas trouver de tâches pour les projets qui n’ont pas encore été lancés) ;
-* qui sont affectés à une personne de votre équipe d’accueil, conformément aux paramètres définis par l’équipe Workfront ;
-* Et dont la date d’achèvement est fixée à un certain temps cette semaine (cette règle a utilisé le filtre de date prédéfini pour définir &quot;cette semaine&quot;).
+* Les tâches qui n’ont pas été achevées (ce qui signifie qu’elles n’ont pas le statut [!UICONTROL Terminé] ou un statut équivalent) ;
+* Les tâches qui se trouvent dans des projets dont le statut est [!UICONTROL En cours] (le but n’est pas de trouver des tâches pour des projets qui n’ont pas encore été lancés) ;
+* Les tâches qui sont affectées à une personne de votre équipe d’origine, tel que défini par les paramètres d’équipe Workfront ;
+* Et les tâches dont la date d’achèvement est prévue pour cette semaine (cette règle utilise le filtre de date prédéfinie, réglé sur « cette semaine »).
 
-![Image de l’écran de création d’un filtre de tâche avec un caractère générique basé sur l’utilisateur](assets/user-wildcard-exercise-answer.png)
+![Une image de l’écran de création d’un filtre de tâches avec un caractère générique basé sur l’utilisateur ou l’utilisatrice](assets/user-wildcard-exercise-answer.png)
 
-Vous devrez peut-être ajouter d’autres filtres si vous avez besoin de limiter un peu plus la liste. Par exemple, vous pouvez ajouter une règle de filtrage qui examine un programme ou un portefeuille spécifique issu de votre équipe.
+Vous devrez peut-être ajouter des filtres supplémentaires pour restreindre un peu plus la liste. Par exemple, vous voudrez peut-être ajouter une règle de filtrage qui concerne un programme ou un portfolio spécifique avec lesquels votre équipe travaille.
