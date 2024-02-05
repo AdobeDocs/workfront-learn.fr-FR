@@ -1,6 +1,6 @@
 ---
-title: Gestion des affectations de problèmes
-description: Découvrez comment attribuer un problème à un utilisateur individuel, à plusieurs utilisateurs ou à une équipe afin que le problème soit résolu.
+title: Gérer les affectations de problèmes
+description: Découvrez comment affecter un problème à un utilisateur individuel ou une utilisatrice individuelle, à plusieurs utilisateurs ou utilisatrices ou à une équipe afin que le problème soit résolu.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,21 +12,21 @@ last-substantial-update: 2023-05-26T00:00:00Z
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Gestion des affectations de problèmes
+# Gérer les affectations de problèmes
 
-La gestion des problèmes est une responsabilité importante du chef de projet et de ceux qui sont chargés de travailler sur les problèmes.
+La gestion des problèmes est une responsabilité importante du ou de la chef de projet et de ceux qui sont chargés de travailler sur les problèmes.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Attribuer un problème
-* Recherche d’une affectation de problème
-* Mise à jour des progrès sur les problèmes
-* Mettre à jour l’état du problème
+* Affecter un problème
+* Rechercher une affectation de problème
+* Mettre à jour les progrès sur les problèmes
+* Mettre à jour le statut du problème
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on)
