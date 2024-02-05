@@ -1,6 +1,6 @@
 ---
-title: Personnalisation des zones d’objets avec un modèle de mise en page
-description: Découvrez comment utiliser un modèle de mise en page pour ajouter, supprimer et réorganiser des éléments dans le menu du panneau de gauche dans [!DNL  Workfront].
+title: Personnaliser les zones d’objets avec un modèle de disposition.
+description: Découvrez comment utiliser un modèle de disposition pour ajouter, supprimer et réorganiser des éléments dans le menu du panneau de gauche dans  [!DNL  Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personnalisation des zones d’objet avec un modèle de mise en page
+# Personnaliser les zones d’objet avec un modèle de disposition
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Supprimer des éléments du menu du panneau de gauche sur une page d’objet
-* Ajout d’éléments au menu du panneau de gauche
-* Réorganiser les éléments dans le menu du panneau
+* Supprimer des éléments du menu du panneau de gauche sur une page d’objet.
+* Ajouter des éléments au menu du panneau de gauche.
+* Réorganiser les éléments dans le menu du panneau.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)
