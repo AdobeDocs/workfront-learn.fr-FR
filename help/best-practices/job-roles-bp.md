@@ -1,109 +1,109 @@
 ---
-title: Bonne pratique - Rôles de tâche
-description: Examinez les recommandations relatives aux bonnes pratiques des experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation des rôles de tâche Workfront.
+title: 'Bonnes pratiques : fonctions'
+description: Découvrez les bonnes pratiques recommandées par les spécialistes Adobe Workfront en matière de configuration, de gestion et d'utilisation des fonctions dans Workfront.
 feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '600'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bonne pratique - Rôles de tâche
+# Bonnes pratiques : fonctions
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
-
-</br>
-</br>
-
-## Bonnes pratiques relatives aux rôles de tâche
-
-* Utilisez des conventions d’affectation de noms pour les rôles de tâche utilisés dans l’ensemble de l’organisation.
-
-* Affectez des tâches aux rôles de tâche lors de la création de modèles de projet.
-
-* Ne créez pas de rôles de tâche par titres de tâche.
-
-* Lors de la création de rôles de tâche, veillez à ne pas les rendre trop granulaires.
-
-* Créez des rôles de tâche similaires uniquement lorsqu’une distinction claire est nécessaire.
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
-## Pourquoi ces bonnes pratiques ?
+## Bonnes pratiques en matière de fonctions
 
-**Bonne pratique**
+* Utilisez des conventions de dénomination pour les fonctions utilisées dans l’ensemble de l’organisation.
 
-Utilisez des conventions d’affectation de noms pour les rôles de tâche utilisés dans l’ensemble de l’organisation.
+* Affectez des tâches à des fonctions lors de la création de modèles de projet.
+
+* Ne créez pas de fonctions selon les noms de postes.
+
+* Lorsque vous créez des fonctions, veillez à ne pas les rendre trop granulaires.
+
+* Ne créez des fonctions similaires que lorsqu’une distinction claire est nécessaire.
+
+</br>
+</br>
+
+## Pourquoi s’agit-il des bonnes pratiques ?
+
+**Bonnes pratiques**
+
+Utilisez des conventions de dénomination pour les fonctions utilisées dans l’ensemble de l’organisation.
 
 **Voici pourquoi**
 
-Les rôles de tâche sont globaux. Si vous souhaitez différencier et gérer les rôles de tâche portant le même nom dans différents groupes de votre organisation, les conventions d’affectation de noms sont la meilleure méthode. Utilisez une convention d’affectation des noms qui répond à vos besoins, mais n’oubliez pas de la simplifier.
-
-</br>
-</br>
-
-**Bonne pratique**
-
-Affectez des tâches aux rôles de tâche lors de la création de modèles de projet.
-
-**Voici pourquoi**
-
-Lorsque des utilisateurs individuels sont affectés à des tâches dans des modèles de projet, cela peut entraîner des problèmes de recrutement lorsqu’un utilisateur change de rôle ou quitte l’entreprise. La maintenance du modèle et du projet est ainsi plus longue.
-
-En outre, l’affectation de rôles de tâche à des tâches vous permet de prévoir vos besoins en ressources et d’affecter du travail à l’aide des outils de gestion des ressources de Workfront.
+Les fonctions sont globales.  Si vous souhaitez différencier et gérer des fonctions portant le même nom dans différents groupes au sein de votre organisation, les conventions de dénomination constituent la meilleure méthode. Utilisez une convention de dénomination adaptée à vos besoins, mais n’oubliez pas de rester simple.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Ne créez pas de rôles de tâche par titres de tâche.
+Affectez des tâches à des fonctions lors de la création de modèles de projet.
 
 **Voici pourquoi**
 
-Les rôles de tâche représentent le jeu de compétences qu’un utilisateur possède pour terminer une tâche. Les titres des tâches ne reflètent pas toujours les compétences ou le type de travail de l’utilisateur.
+Lorsque des utilisateurs et utilisatrices individuels sont affectés à des tâches dans des modèles de projet, cela peut entraîner des problèmes de gestion de personnel lorsqu’un utilisateur ou une utilisatrice change de fonction ou quitte l’organisation. Cela rend la maintenance du modèle et du projet plus fastidieuse.
+
+De plus, l’affectation de fonctions aux tâches vous permet de prévoir vos besoins en ressources et d’affecter le travail à l’aide des outils de gestion des ressources de Workfront.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Lors de la création de rôles de tâche, veillez à ne pas les rendre trop granulaires.
+Ne créez pas de fonctions selon les noms de postes.
 
 **Voici pourquoi**
 
-Vous pouvez associer un utilisateur à plusieurs rôles de tâche, mais vous n’avez peut-être pas besoin d’un rôle de tâche pour chaque compétence d’un utilisateur. Basez les rôles de tâche selon vos besoins pour affecter les tâches et le niveau de détail souhaité dont vous avez besoin dans les rapports de gestion des ressources.
+Les fonctions représentent l’ensemble des compétences qu’un utilisateur ou une utilisatrice possède pour accomplir une tâche. Les noms des postes ne reflètent pas toujours les compétences de l’utilisateur ou de l’utilisatrice ou le type de travail qu’ils effectuent.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Créez des rôles de tâche similaires uniquement lorsqu’une distinction claire est nécessaire.
+Lorsque vous créez des fonctions, veillez à ne pas les rendre trop granulaires.
 
 **Voici pourquoi**
 
-Dans la plupart des cas, plusieurs rôles de tâche ne sont pas nécessaires pour représenter le même ensemble de compétences. Cependant, vous aurez besoin de plusieurs rôles de tâche si :
+Vous pouvez associer un utilisateur ou une utilisatrice à plusieurs fonctions, mais il se peut que vous n’ayez pas besoin d’une fonction pour chaque compétence d’un utilisateur ou d’une utilisatrice donnés. Les fonctions sont déterminées en fonction de vos besoins en matière d’affectation des tâches et du niveau de détail souhaité dans les rapports de gestion des ressources.
 
-Le taux de facturation est différent. Par exemple, un concepteur graphique senior peut être facturé à un débit différent d’un concepteur graphique.
-Les affectations de travail nécessitent un type spécifique de rôle de tâche. Par exemple, une tâche doit être effectuée par un chef de projet, mais pas par un coordinateur.
-Vous devez gérer les ressources en fonction des rôles de tâche. Par exemple, vous pouvez avoir 600 heures de graphisme mais seulement 200 heures de direction artistique.
+</br>
+</br>
+
+**Bonne pratique**
+
+Ne créez des fonctions similaires que lorsqu’une distinction claire est nécessaire.
+
+**Voici pourquoi**
+
+Dans la plupart des cas, il n’est pas nécessaire que plusieurs fonctions représentent le même ensemble de compétences. Cependant, vous aurez besoin de plusieurs fonctions si :
+
+Le taux de facturation est différent. Par exemple, il est possible qu’un graphiste senior soit facturé à un taux différent de celui d’un graphiste standard.
+Les affectations de travail nécessitent un type de fonction spécifique. Par exemple, une tâche devant être effectuée par un chef de projet mais pas par un coordinateur.
+Vous devez gérer les ressources selon les fonctions. Par exemple, vous pouvez avoir 600 heures de conception graphique à votre actif mais seulement 200 heures de direction artistique senior.
 
 
-Si vous créez des rôles de tâche similaires, utilisez le champ de description de chacun pour indiquer les différences entre les rôles, le moment et la manière dont ils sont utilisés, etc.
+Si vous créez des fonctions similaires, utilisez le champ de description pour chacun d’eux afin d’indiquer les différences entre les fonctions, quand et comment elles sont utilisées, etc.
