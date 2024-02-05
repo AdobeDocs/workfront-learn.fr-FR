@@ -1,5 +1,5 @@
 ---
-title: Rapport avancé - partie 3
+title: Reporting avancé Partie 3
 description: Comprendre une étude approfondie des regroupements en mode texte, des agrégats calculés et des regroupements calculés.
 activity: use
 feature: Text Mode Reporting
@@ -12,17 +12,17 @@ jira: KT-11202
 exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Rapport avancé - partie 3
+# Reporting avancé Partie 3
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Une étude approfondie des regroupements en mode texte
+* Étude approfondie des regroupements en mode texte
 * Agrégats calculés
 * Regroupements calculés
 
@@ -32,4 +32,4 @@ Dans cette vidéo, vous apprendrez :
 
 [[!UICONTROL Explorateur d’API]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manuel des rapports avancés](/help/assets/advanced-reporting-manual.pdf)
+[Manuel de création de rapports avancés](/help/assets/advanced-reporting-manual.pdf)
