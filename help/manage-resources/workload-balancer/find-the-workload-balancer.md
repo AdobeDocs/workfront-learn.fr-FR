@@ -1,6 +1,6 @@
 ---
-title: Recherche de l’équilibreur de charge de travail
-description: Découvrez comment trouver l’équilibreur de charge de travail dans Workfront et découvrir certaines des zones disponibles.
+title: Trouver l’équilibreur de charge de travail
+description: Apprenez à trouver l’équilibreur de charge de travail dans Workfront et familiarisez-vous avec certaines des zones disponibles.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,38 +11,38 @@ thumbnail: find-wlb.png
 jira: KT-10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Recherchez le [!DNL Workload Balancer]
+# Rechercher l’[!DNL Workload Balancer]
 
-Savoir quelles ressources sont disponibles et comment les distribuer peut être une tâche difficile pour n&#39;importe qui. C’est pourquoi Workfront a créé la variable [!DNL Workload Balancer].
+Découvrez quelles sont les ressources disponibles et comment les distribuer peut être une tâche difficile. C’est pourquoi Workfront a créé l’[!DNL Workload Balancer].
 
-Son objectif est de vous donner plus d’informations et de mieux gérer les charges de travail quotidiennes et hebdomadaires des personnes que vous gérez. Vous pouvez ainsi effectuer de meilleures affectations, en fonction du rôle et de la disponibilité, sur plusieurs projets.
+Son objectif est de vous permettre de mieux comprendre et gérer les charges de travail quotidiennes et hebdomadaires des personnes que vous dirigez. Vous pouvez ainsi effectuer de meilleures affectations, en fonction du rôle et de la disponibilité, sur plusieurs projets.
 
 ![ressources dans le menu principal](assets/Find_01.png)
 
-* Cliquez sur [!UICONTROL Ressource] dans le [!UICONTROL Menu Principal].
-* Accédez au [!UICONTROL Planification] dans la zone Resource Management.
-* Cliquez sur le bouton [!UICONTROL &quot;équilibreur de charge de travail&quot;] qui s’affiche.
+* Cliquez sur [!UICONTROL Ressources] dans le [!UICONTROL menu principal].
+* Accédez à la section [!UICONTROL Planification] dans la zone de la gestion des ressources.
+* Cliquez sur la section [!UICONTROL « Équilibreur de charge de travail »] qui apparaît.
 
-![section répartition de charge de travail](assets/Find_02.png)
+![section équilibreur de charge de travail](assets/Find_02.png)
 
 ## Zones de l’équilibreur de charge de travail
 
-Deux sections s’affichent dans la section [!DNL Workload Balancer]: Travail attribué et travail non assigné.
+Deux sections apparaissent sur l’[!DNL Workload Balancer] : Travail affecté et Travail non affecté.
 
-![zone non attribuée](assets/Find_03.png)
+![zone non affectée](assets/Find_03.png)
 
-La zone Travail attribué affiche la liste des utilisateurs et du travail auxquels ils ont déjà été affectés dans Workfront. Par défaut, cette zone est filtrée pour les utilisateurs qui font partie des équipes Workfront auxquelles vous appartenez. Vous pouvez ainsi voir sur quels membres de l’équipe ont été affectés.
+La zone Travail affecté affiche une liste d’utilisateurs et d’utilisatrices et le travail qui leur a déjà été affecté dans Workfront. Par défaut, cette zone est filtrée pour les utilisateurs et les utilisatrices qui font partie des équipes Workfront auxquelles vous appartenez. Vous pouvez ainsi savoir à quoi les membres de l’équipe ont été affectés.
 
-![utilisateurs de zone affectés](assets/Find_03b.png)
+![utilisateurs et utilisatrices de la zone affectée](assets/Find_03b.png)
 
-La zone de travail Non attribué affiche le travail qui doit encore être attribué, que ce soit à une personne, à un rôle professionnel ou à une équipe. Toutefois, au début, cette zone n’affichera rien.
+La zone Travail non affecté présente le travail qui doit encore être affecté, que ce soit à une personne, à une fonction ou à une équipe. Toutefois, au début, cette zone n’affichera rien.
 
-![zone de travail non attribuée](assets/Find_03c.png)
+![zone de travail non affecté](assets/Find_03c.png)
 
-En commençant par la zone de travail non assignée vide, vous avez la possibilité de vous concentrer d’abord sur les charges de travail actuelles de vos utilisateurs, dans la zone de travail affectée, avant d’effectuer des affectations.
+En commençant par vider la zone Travail non affecté, vous avez la possibilité de vous concentrer sur les charges de travail actuelles de vos utilisateurs et utilisatrices, dans la zone Travail affecté, avant de procéder à des affectations.
