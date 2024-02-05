@@ -1,6 +1,6 @@
 ---
-title: Configuration des utilisateurs avec des licences et des niveaux d’accès
-description: Découvrez comment les licences et les niveaux d’accès contrôlent ce que possèdent les utilisateurs d’accès. Découvrez comment les rôles de tâche sont utilisés dans le système.
+title: Configurer les utilisateurs et les utilisatrices avec des licences et des niveaux d’accès
+description: Découvrez comment les licences et les niveaux d’accès contrôlent ce à quoi les utilisateurs et les utilisatrices ont accès. Découvrez comment les fonctions sont utilisées dans le système.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,17 +13,17 @@ exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
 last-substantial-update: 2023-08-31T00:00:00Z
 doc-type: video
 source-git-commit: c33b14b11cf612cc9ae06d0e4cc446d0bdb2d18e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configuration des utilisateurs avec des licences et des niveaux d’accès
+# Configurer les utilisateurs et les utilisatrices avec des licences et des niveaux d’accès
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Quelles sont les licences et les niveaux d’accès ?
+* Description des licences et des niveaux d’accès
 * Création et gestion des niveaux d’accès
 
 >[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on)
