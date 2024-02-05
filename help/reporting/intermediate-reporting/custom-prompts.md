@@ -1,5 +1,5 @@
 ---
-title: Création d’invites personnalisées
+title: Créer des invites personnalisées
 description: Découvrez ce qu’est une invite personnalisée, comment créer une invite personnalisée à l’aide du mode texte et quelques exemples que vous pouvez utiliser dans les rapports dans Workfront.
 activity: use
 feature: Text Mode Reporting
@@ -12,25 +12,25 @@ jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Création d’invites personnalisées
+# Créer des invites personnalisées
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Présentation d’une invite personnalisée
-* Création d’une invite personnalisée en mode texte
-* Exemples que vous pouvez utiliser dans vos rapports
+* En quoi consiste une invite personnalisée
+* Comment créer une invite personnalisée en mode texte
+* Des exemples que vous pouvez utiliser dans vos rapports
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Activité : Création d’invites personnalisées
+## Activité : création d’invites personnalisées
 
-1. Créez une invite personnalisée qui affiche les états de projet suivants dans le menu déroulant de l’invite :
+1. Créez une invite personnalisée qui affiche les statuts de projet suivants dans le menu déroulant de l’invite :
    * Planification
    * Actuel
    * Terminé
@@ -39,20 +39,20 @@ Dans cette vidéo, vous apprendrez :
 
 ## Réponses
 
-1. Les invites personnalisées doivent ressembler à ceci et présenter le mode de texte suivant :
+1. Les invites personnalisées doivent ressembler à ceci et présenter le mode texte suivant :
 
-   ![Image de l’écran pour créer un nouveau filtre en mode texte](assets/cp-01.png)
+   ![Image de l’écran pour créer un filtre en mode texte](assets/cp-01.png)
 
-   Une fois que vous avez enregistré l’invite personnalisée, le menu déroulant de l’invite doit se présenter comme suit :
+   Une fois que vous avez enregistré l’invite personnalisée, le menu déroulant de l’invite doit se présenter comme suit :
 
-1. Le mode texte de votre invite personnalisée doit se présenter comme suit :
+1. Le mode texte de votre invite personnalisée doit se présenter comme suit :
 
-![Image de l’écran pour créer un nouveau filtre en mode texte](assets/cp-02.png)
+![Image de l’écran pour créer un filtre en mode texte](assets/cp-02.png)
 
 ```
    status=CUR&plannedCompletionDate=$$TODAYbm&plannedCompletionDate_Mod=between&plannedCompletionDate_Range=$$TODAYem 
 ```
 
-Le libellé de la liste déroulante des principales invites doit être mis à jour pour refléter le changement du code comme ceci :
+Le libellé de la liste déroulante des invites actives doit être mis à jour pour refléter le changement du code comme ceci :
 
-![Image de l’écran pour créer un nouveau filtre en mode texte](assets/cp-02a.png)
+![Image de l’écran pour créer un filtre en mode texte](assets/cp-02a.png)
