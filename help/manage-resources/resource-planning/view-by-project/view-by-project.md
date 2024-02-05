@@ -1,6 +1,6 @@
 ---
-title: Afficher par projet dans le planificateur de ressources
-description: Découvrez comment utiliser l’option Afficher par projet et comment les informations sur les ressources s’affichent dans cette vue.
+title: Vue par projet dans le planificateur de ressources
+description: Découvrez comment utiliser l’option Vue par projet et comment les informations sur les ressources s’affichent dans cette vue.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,43 +12,43 @@ jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '313'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Afficher par projet dans [!DNL Resource Planner]
+# Vue par projet dans le [!DNL Resource Planner]
 
-Dans cette vidéo, vous allez :
+Dans cette vidéo, vous allez :
 
-* Voir [!UICONTROL Afficher par projet]view
-* Découvrez comment les informations sur les ressources s&#39;affichent dans cette vue
+* Voir l’affichage [!UICONTROL Vue par projet]
+* Découvrez comment les informations des ressources sont affichées dans cette vue
 
 >[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on)
 
-Pour l’option Afficher par projet , la valeur par défaut est d’afficher la colonne Budget , qui extrait l’estimation du nombre de ressources nécessaires à un projet à partir d’un cas d’entreprise, si celui-ci a été complété. Cela signifie également que la colonne Réseau utilise par défaut les chiffres de la colonne Budget pour indiquer le nombre de ressources restantes.
+Pour l’option Vue par projet, la colonne Budgété est affichée par défaut. Elle reprend l’estimation du nombre de ressources nécessaires pour un projet à partir d’une analyse de rentabilité, si celle-ci a été remplie. Cela signifie également que la colonne Net utilise, par défaut, les chiffres de la colonne Budgété pour vous indiquer la quantité de ressources restantes.
 
-Cependant, votre entreprise peut ne pas utiliser ou ne pas être prête à utiliser des analyses de cas pour estimer ces montants. Vous utilisez plutôt les heures planifiées déjà entrées sur un projet. Grâce à l&#39;option Personnaliser , vous pouvez choisir les colonnes qui apparaissent dans la vue choisie et la manière dont vous souhaitez calculer la colonne Réseau.
+Cependant, il se peut que votre organisation n’utilise pas, ou ne soit pas prête à utiliser, des analyses de rentabilité pour estimer ces quantités. Au lieu de cela, vous utilisez le nombre d’heures prévues déjà saisies sur un projet. Grâce à l’option Personnaliser, vous pouvez choisir les colonnes qui apparaissent dans la vue choisie et la manière dont vous souhaitez que la colonne Net soit calculée.
 
-Pour modifier les colonnes affichées et le calcul de la colonne Réseau afin qu&#39;il soit basé sur les heures planifiées :
+Pour modifier les colonnes qui apparaissent et le calcul de la colonne Net afin qu’il soit basé sur le nombre d’heures prévues :
 
 * Cliquez sur le menu déroulant Heures et sélectionnez Personnaliser.
 
-![Option Personnaliser dans le menu déroulant](assets/NetHours01.png)
+![Option de personnalisation du menu déroulant.](assets/NetHours01.png)
 
 * Dans la zone Personnaliser les mesures affichées, déterminez les colonnes qui s’affichent et cochez la case en regard de l’option Utiliser les valeurs planifiées (PLN) dans les calculs NET.
 
-![Utiliser les valeurs planifiées dans l’option calculs NET](assets/NetHours02.png)
+![Option Utiliser les valeurs planifiées dans les calculs NET](assets/NetHours02.png)
 
-**Remarque**: Vous pouvez modifier les colonnes et les calculs des différents types de vue dans le planificateur de ressources en sélectionnant une option dans la partie gauche de la zone.
+**Note** : vous pouvez modifier les colonnes et les calculs pour les différents types de vue dans le planificateur de ressources en sélectionnant une option sur le côté gauche de la boîte de dialogue.
 
-![Options de type d’affichage](assets/NetHours03.jpg)
+![Options de type de vue](assets/NetHours03.jpg)
 
-* Une fois que vous avez cliqué sur Enregistrer, la boîte se ferme et l’écran s’actualise.
+* Une fois que vous avez cliqué sur Enregistrer, la boîte de dialogue se ferme et l’écran s’actualise.
 
-![Outil de planification des ressources](assets/NetHours04.jpg)
+![Outil planificateur de ressources](assets/NetHours04.jpg)
 
-Le planificateur de ressources indique ce que vous devez savoir sur votre offre et votre demande sans tableurs complexes ni communication circulaire.
+Le planificateur de ressources montre ce que vous devez savoir sur l’offre et la demande sans avoir recours à des feuilles de calcul complexes et à une communication à tour de rôle.
 
-Grâce aux informations disponibles et aux outils de votre commande, vous pouvez optimiser la capacité de votre équipe à exécuter le travail qui vous importe.
+Avec les informations dont vous disposez et les outils qui sont à votre disposition, vous pouvez affiner la capacité de votre équipe à exécuter le travail qui est important pour vous.
