@@ -1,6 +1,6 @@
 ---
-title: Présentation des portefeuilles
-description: Découvrez les portfolios de Workfront et comment ils peuvent vous aider à hiérarchiser les projets et à comparer les projets les uns par rapport aux autres.
+title: Vue d’ensemble des portfolios
+description: Découvrez le principe des portefeuilles dans Workfront et comment ils peuvent vous aider à définir les priorités de vos projets et à les comparer les uns aux autres.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,45 +12,45 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '442'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des portefeuilles
+# Vue d’ensemble des portfolios
 
-Les gestionnaires ont souvent la tâche délicate de déterminer quels projets aideraient le mieux leur entreprise à atteindre ses objectifs. Cela implique de juger un projet actuel ou potentiel en fonction de critères importants pour ces objectifs. Ce critère peut inclure des éléments comme le nombre de ressources nécessaires, le coût du projet par rapport à ce qu&#39;il apportera et la compréhension des risques encourus. Grâce à ces informations, les gestionnaires peuvent décider quels projets doivent être réalisés et quand.
+Les gestionnaires ont souvent la tâche délicate de déterminer quels projets aideraient le mieux leur entreprise à atteindre ses objectifs. Cela implique de juger un projet actuel ou potentiel sur la base de critères importants pour ces objectifs. Ces critères peuvent inclure des éléments tels que le nombre de ressources nécessaires, le coût du projet par rapport à ses bénéfices, et la compréhension des risques qu’il implique. Grâce à ces informations, les gestionnaires peuvent décider quels projets doivent être menés à bien et à quel moment.
 
-Penser et planifier des projets n&#39;est pas une tâche trop difficile, c&#39;est un processus auquel la plupart des gestionnaires sont habitués. La véritable difficulté réside dans la comparaison des projets les uns par rapport aux autres. Trouver une liste longue et détaillée de projets prend du temps. C’est là que les portefeuilles de Workfront peuvent vous aider.
+Réfléchir à des projets et les planifier n’est pas une tâche excessivement difficile. Il s’agit d’un processus auquel la plupart des gestionnaires sont habitués. La véritable difficulté consiste à comparer les projets entre eux. Passer au crible une liste longue et détaillée de projets prend beaucoup de temps. C’est dans cette optique que les portefeuilles dans Workfront peuvent vous être utiles.
 
-## Qu’est-ce qu’un portefeuille ?
+## En quoi consiste un portefeuille ?
 
-Un portfolio est un ensemble de projets qui se terminent pour les mêmes ressources, budget, planification et priorité. Par exemple, une agence marketing peut utiliser un portefeuille pour regrouper tous les projets pour un client particulier.
+Un portefeuille est un ensemble de projets qui se partagent les mêmes ressources, le même budget, le même calendrier et la même priorité. Par exemple, une agence marketing peut utiliser un portfolio pour regrouper tous les projets pour un client particulier.
 
-Accédez au **[!UICONTROL Portfolios]** de la section [!UICONTROL Menu Principal], puis cliquez sur le nom d’un portfolio pour l’ouvrir.
+Accédez à la section **[!UICONTROL Portfolios]** du [!UICONTROL Menu Principal], puis cliquez sur le nom d’un portfolio pour l’ouvrir.
 
-Vous pouvez utiliser la variable **[!UICONTROL Nouveau projet]** pour ajouter facilement un projet existant au portfolio. Vous pouvez également créer un projet directement dans le portfolio.
+Vous pouvez utiliser le bouton **[!UICONTROL Nouveau projet]** pour ajouter facilement un projet existant au portfolio. Vous pouvez également créer un projet directement dans le portfolio.
 
-![Image du menu déroulant pour la [!UICONTROL Nouveau projet] button](assets/01-portfolio-management3.png)
+![Image du bouton [!UICONTROL Nouveau projet] dans le menu déroulant ](assets/01-portfolio-management3.png)
 
-Une fois les projets ajoutés au portfolio, vous pouvez utiliser les informations récapitulatives contenues dans l’en-tête de la page pour obtenir une vue d’ensemble de la contribution positive ou négative de cette collection de projets aux objectifs globaux du portfolio.
+Une fois les projets ajoutés au portfolio, vous pouvez utiliser les informations récapitulatives dans l’en-tête de la page pour obtenir une vue d’ensemble de la manière dont cet ensemble de projets contribue, de manière positive ou négative, aux objectifs globaux du portfolio.
 
-![Une image des informations récapitulatives du portfolio dans l’en-tête de page](assets/02-portfolio-management1.png)
+![Image des informations récapitulatives du portfolio dans l’en-tête de la page](assets/02-portfolio-management1.png)
 
-Vous pouvez utiliser l’outil d’optimisation de portefeuille (alias [!UICONTROL Portfolio Optimizer]) pour classer les projets par priorité en fonction de la valeur nette, de l’alignement, du coût, du risque et du retour sur investissement.
+Vous pouvez utiliser l’outil d’optimisation du portfolio ( [!UICONTROL Optimisateur de portfolio]) pour hiérarchiser les projets en fonction de la valeur nette, de l’alignement, du coût, du risque et du retour sur investissement.
 
-![Image de hiérarchisation des projets dans un portfolio](assets/03-portfolio-management2.png)
+![Image d’une hiérarchisation des projets dans un portfolio](assets/03-portfolio-management2.png)
 
-## Accès aux portefeuilles
+## Accès aux portfolios
 
-Pour travailler avec des portefeuilles, vous devez disposer d’une licence Plan dans Workfront et d’un niveau d’accès qui vous permet de travailler avec des portefeuilles.
+Pour travailler avec des portfolios, vous devez disposer d’une licence Plan dans Workfront et d’un niveau d’accès vous permettant de travailler avec des portfolios.
 
-Lorsqu’un portfolio est créé, seul le créateur ou le responsable du portfolio y a accès. Vous pouvez donner à d’autres l’accès au portefeuille en le partageant. Cela donne également accès à tous les programmes et projets du portefeuille.
+Lorsqu’un portfolio est créé, seul le créateur du portfolio ou le gestionnaire y a accès. Vous pouvez octroyer l’accès au portfolio à d’autres personnes en le partageant. Cela octroie également l’accès à tous les programmes et projets contenus dans le portfolio.
 
-Ouvrez le portfolio, cliquez sur le menu à trois points, puis sélectionnez **[!UICONTROL Partage]**. Ajoutez les individus, les équipes, les rôles de travail, les groupes ou les entreprises qui doivent y avoir accès. Déterminez ensuite le type d’accès que chaque utilisateur doit avoir : gérer ou afficher.
+Ouvrez le portfolio et cliquez sur le menu à trois points, puis sélectionnez **[!UICONTROL Partage]**. Ajoutez les personnes, les équipes, les fonctions, les groupes ou les entreprises qui doivent y avoir accès. Déterminez ensuite le type d’accès que chaque utilisateur ou utilisatrice doit posséder : gérer ou afficher.
 
-![Une image de la [!UICONTROL Partage] dans une [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
+![Image de l’option [!UICONTROL Partage] dans un portfolio [!DNL Workfront]](assets/04-portfolio-management11.png)
 
 <!--
 Pro-tips graphic
