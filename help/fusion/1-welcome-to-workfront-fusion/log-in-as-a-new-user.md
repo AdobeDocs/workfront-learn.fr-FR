@@ -1,6 +1,6 @@
 ---
-title: Connexion en tant que nouvel utilisateur
-description: Découvrez comment vous connecter en tant que nouvel utilisateur.
+title: Connexion en tant que nouvel utilisateur ou nouvelle utilisatrice
+description: Découvrez comment vous connecter en tant que nouvel utilisateur ou nouvelle utilisatrice.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,28 +10,28 @@ level: Beginner
 jira: KT-11036
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Connexion en tant que nouvel utilisateur
+# Connexion en tant que nouvel utilisateur ou nouvelle utilisatrice
 
-Lorsque vous êtes invité en tant que nouvel utilisateur à rejoindre une instance Workfront Fusion, vous recevez deux e-mails.
+Lorsque vous êtes invité à rejoindre une instance Workfront Fusion en tant que nouvel utilisateur ou nouvelle utilisatrice, vous recevez deux e-mails.
 
-Un email comporte une note que l’administrateur système Workfront Fusion a ajoutée lors de la création de votre profil et vous a invité à rejoindre l’organisation. Au bas de l&#39;email se trouve [!UICONTROL Acceptation Du Rôle] bouton . **Ne cliquez pas encore sur ce bouton !**
+L’un des e-mails contient une note que l’administrateur ou l’administratrice du système Workfront Fusion a ajoutée lorsqu’il u elle a créé votre profil et vous a invité à rejoindre l’organisation. Au bas de l’e-mail se trouve le bouton [!UICONTROL Accepter le rôle]. **Ne cliquez pas encore sur ce bouton !**
 
-![Une image de votre invitation par courrier électronique](assets/new-user-1.png)
+![Image de votre invitation par e-mail](assets/new-user-1.png)
 
-L’autre adresse électronique contient vos informations de connexion.
+L’autre e-mail contient vos informations de connexion.
 
-![Une image de votre invitation par courrier électronique](assets/new-user-2.png)
+![Image de votre invitation par e-mail](assets/new-user-2.png)
 
-Pour commencer à utiliser Workfront Fusion, cliquez sur le bouton [!UICONTROL Se connecter] dans le deuxième courrier électronique et connectez-vous à l’aide du mot de passe fourni.
+Pour commencer à utiliser Workfront Fusion, cliquez sur le bouton [!UICONTROL Se connecter] dans le deuxième e-mail et connectez-vous à l’aide du mot de passe fourni.
 
 Après la première connexion, vous êtes invité à modifier votre mot de passe.
 
-Une fois que vous êtes connecté, revenez à l’autre adresse électronique et cliquez sur le bouton [!UICONTROL Acceptation Du Rôle] bouton .
+Une fois la connexion effectuée, revenez à l’autre e-mail et cliquez sur le bouton [!UICONTROL Accepter le rôle].
 
-Une fois que vous avez effectué cette opération, revenez à Workfront Fusion et actualisez la page. Vous pouvez maintenant voir votre équipe et les sections d’aperçu dans le panneau de gauche.
+Une fois que vous avez fait cela, retournez à Workfront Fusion et rafraîchissez la page. Vous pouvez maintenant voir votre équipe et les sections de vue d’ensemble dans le panneau de gauche.
