@@ -1,6 +1,6 @@
 ---
-title: Comment privilégier le travail dans [!UICONTROL Accueil]
-description: Découvrez comment marquer des éléments dans le [!UICONTROL Liste de tâches] comme affectations de priorité sur la page d’accueil. Filtrez ensuite la liste pour afficher les tâches prioritaires dans [!DNL  Workfront].
+title: Hiérarchiser les tâches dans [!UICONTROL Accueil]
+description: Découvrez comment marquer les éléments de la [!UICONTROL Liste de travail] en tant qu’affectations prioritaires sur la page d’accueil. Filtrez ensuite la liste pour voir vos tâches prioritaires dans  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,17 +12,17 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Définir la priorité de votre travail dans [!DNL Workfront] [!UICONTROL Accueil]
+# Hiérarchisez vos tâches dans la page d’[!UICONTROL Accueil] de [!DNL Workfront].
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Marquer le travail comme des affectations de priorité
-* Filtrez les [!UICONTROL Liste de tâches] pour afficher uniquement les tâches prioritaires
+* Marquer les tâches comme affectations prioritaires
+* Filtrez la [!UICONTROL Liste de travail] pour afficher uniquement les tâches prioritaires.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)
