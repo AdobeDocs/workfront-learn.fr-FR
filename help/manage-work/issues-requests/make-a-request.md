@@ -1,6 +1,6 @@
 ---
-title: Effectuer une requête
-description: Découvrez comment trouver le [!UICONTROL Demandes] et effectuez une requête dans [!DNL  Workfront]. Découvrez ensuite comment afficher les requêtes envoyées et les brouillons.
+title: Effectuer une demande
+description: Découvrez où trouver la zone [!UICONTROL Demandes] et à effectuer une demande dans  [!DNL  Workfront]. Découvrez ensuite comment afficher les demandes envoyées et les brouillons.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -13,21 +13,21 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Effectuer une requête
+# Effectuer une demande
 
-Dans de nombreuses entreprises, la première étape du lancement d’un nouveau projet, du développement d’un nouveau produit ou de la création d’un livrable consiste à envoyer une demande dans [!DNL Workfront]. Vous pouvez suivre la progression de la requête et fournir des informations supplémentaires si nécessaire.
+Dans de nombreuses organisations, la première étape du lancement d’un nouveau projet, du développement d’un nouveau produit ou de la création d’un produit livrable consiste à effectuer une demande dans [!DNL Workfront]. Vous pouvez suivre la progression de la demande et fournir des informations supplémentaires si nécessaire.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Accédez à la zone de requête
-* Effectuer une requête
-* Affichage des requêtes envoyées
-* Recherche d’un brouillon de requête
+* Accéder à la zone de demande
+* Effectuer une demande
+* Afficher les demandes envoyées
+* Rechercher un brouillon de demande
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
