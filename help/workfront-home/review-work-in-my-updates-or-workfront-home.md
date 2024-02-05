@@ -1,6 +1,6 @@
 ---
-title: Vérifier le travail dans [!DNL My Updates] ou [!DNL Home]
-description: '[!DNL  Workfront] fournit deux emplacements pour accéder aux tâches qui vous sont affectées à des fins de révision et d’approbation ; [!DNL My Updates] et [!DNL Home] '
+title: Vérifier le travail dans  [!DNL My Updates]  ou  [!DNL Home]
+description: '« [!DNL  Workfront] fournit deux emplacements pour accéder aux tâches qui vous sont affectées à des fins de révision et d’approbation :  [!DNL My Updates]  et  [!DNL Home]  »'
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,25 +11,25 @@ thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Vérifier le travail dans [!DNL My Updates] ou [!DNL Home]
 
-Workfront fournit deux emplacements pour accéder aux tâches qui vous sont assignées à des fins de révision et d’approbation :
+Workfront fournit deux emplacements pour accéder aux tâches qui vous sont assignées à des fins de révision et d’approbation :
 
 * [!DNL My Updates]
 * [!DNL Home]
 
-Le [!DNL My Updates] La page permet de simplifier les choses en affichant les demandes d’approbation qui vous sont affectées, ainsi que les mises à jour qui vous sont incluses. Cette page se charge par défaut pour les utilisateurs de la licence de révision lorsque vous vous connectez à Workfront, sauf si l’administrateur système de votre entreprise a défini une page d’entrée différente.
+La page [!DNL My Updates] simplifie les choses en affichant toutes les demandes d’approbation qui vous ont été attribuées, ainsi que les mises à jour auxquelles vous avez participé. Cette page se charge par défaut pour les utilisateurs et utilisatrices de la licence de révision lorsque vous vous connectez à Workfront, sauf si l’administrateur ou l’administratrice système de votre entreprise a défini une page de destination différente.
 
-![Une image de la fonction [!DNL My Updates] page](assets/my-updates-overview.png)
+![Image de la page [!DNL My Updates]](assets/my-updates-overview.png)
 
-[!DNL Home] peut être utilisé pour plus que des validations. Si vous disposez d’une licence de travail ou de plan dans Workfront, vos affectations des projets et demandes se trouvent dans Accueil. Il se peut que la page d’accueil soit la page sur laquelle vous accédez lorsque vous vous connectez à Workfront ou que vous deviez également sélectionner Accueil dans le menu principal, selon les configurations du système Workfront de votre entreprise.
+La page [!DNL Home] peut être utilisée à d’autres fins que l’approbation. Si vous avez une licence Travail ou Plan dans Workfront, vos affectations de projets et de requêtes se trouvent dans Accueil. Il se peut que la page Accueil soit la page à laquelle vous accédez lorsque vous vous connectez à Workfront, ou vous pouvez également avoir à sélectionner Accueil dans le menu principal, selon les configurations du système Workfront de votre entreprise.
 
-![Une image de la fonction [!DNL Home] page](assets/home-overview.png)
+![Image de la page [!DNL Home]](assets/home-overview.png)
 
-La section que vous utilisez pour gérer vos demandes d’approbation dépend des processus de révision et d’approbation du travail de votre entreprise. Contactez votre responsable, votre administrateur système ou votre équipe Workfront interne pour déterminer lequel vous devez utiliser pour prendre le mieux en charge votre workflow.
+La section que vous utilisez pour gérer vos demandes d’approbation dépend des processus de révision et d’approbation du travail de votre organisation. Contactez votre responsable, votre administrateur ou administratrice système ou votre équipe Workfront interne pour déterminer laquelle vous devez utiliser pour prendre le mieux en charge votre workflow.
