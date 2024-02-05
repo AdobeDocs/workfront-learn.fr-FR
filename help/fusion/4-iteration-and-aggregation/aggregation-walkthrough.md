@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’agrégation
-description: Découvrez comment agréger les heures planifiées sur chaque tâche opérationnelle d’un projet et vous envoyer un email contenant ces informations, le tout dans [!DNL Adobe Workfront Fusion].
+title: Présentation des agrégations
+description: Découvrez comment regrouper le nombre d’heures prévues pour chaque tâche d’un projet et à vous envoyer un e-mail contenant ces informations, le tout dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,21 +11,21 @@ jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation de l’agrégation
+# Présentation des agrégations
 
 ## Vue d’ensemble
 
-À l’aide du scénario &quot;Introduction à l’itération&quot; que vous avez créé lors de la dernière présentation, agrégez les heures planifiées sur chaque tâche opérationnelle du projet et envoyez-vous un courrier électronique contenant ces informations.
+En utilisant le scénario « Présentation de l’itération » que vous avez créé lors de votre dernière présentation, additionnez le nombre d’heures prévues pour chaque tâche du projet et envoyez-vous un e-mail avec ces informations.
 
-![Une image du scénario Fusion](assets/iteration-and-aggregation-2.png)
+![Image du scénario Fusion](assets/iteration-and-aggregation-2.png)
 
-## Présentation de l’agrégation
+## Présentation des agrégations
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
@@ -33,9 +33,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation de l’agrégation](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation de l’agrégation](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=fr).
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
