@@ -1,6 +1,6 @@
 ---
-title: Présentation de la conception initiale du scénario
-description: Découvrez comment créer des dossiers et de nouveaux scénarios, utiliser le concepteur de scénarios et créer un scénario de base dans [!DNL Adobe Workfront Fusion].
+title: Présentation de la conception du scénario initial
+description: Apprenez à créer des dossiers et de nouveaux scénarios, à utiliser le concepteur de scénarios et à créer un scénario de base sur  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,34 +11,34 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation de la conception initiale du scénario
+# Présentation de la conception du scénario initial
 
-Créez un projet dans Workfront pour chaque ligne du fichier CSV Liste de projets .
+Créez un nouveau projet dans Workfront pour chaque ligne du fichier CSV de la liste des projets.
 
-![Une image du scénario Fusion](assets/understand-the-basics-1.png)
+![Image du scénario Fusion](assets/understand-the-basics-1.png)
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Création de dossiers et de nouveaux scénarios
-* Utilisation du concepteur de scénarios
-* Création d’un scénario de base
+* Créer des dossiers et de nouveaux scénarios
+* Utiliser le concepteur de scénarios
+* Créer un scénario de base
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation détaillée de la conception du scénario initial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) exercice.
+>Pour obtenir des instructions pas à pas, consultez l’exercice [Présentation de la conception de scénario initiale](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=fr).
 
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
