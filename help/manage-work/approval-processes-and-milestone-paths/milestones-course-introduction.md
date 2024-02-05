@@ -1,6 +1,6 @@
 ---
-title: Présentation du cours Milestone
-description: Découvrez comment les jalons peuvent vous aider à conserver [!DNL  Workfront] projets à venir.
+title: Présentation du cours sur les jalons
+description: Découvrez comment les jalons peuvent vous aider à faire avancer les projets  [!DNL  Workfront] .
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8931
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Jalons : Présentation du cours
+# Jalons : présentation du cours
 
-Ce cours est conçu à l’intention des chefs de projet, des planificateurs et d’autres personnes qui gèrent des projets dans [!DNL Workfront]. Nous vous recommandons de terminer le programme Principes de planification ou d’avoir une base solide pour la création de projets dans [!DNL Workfront] avant de commencer ce cours.
+Ce cours est destiné aux personnes chargées de la gestion de projet et de la planification ainsi qu’aux autres personnes qui gèrent des projets sur [!DNL Workfront]. Nous vous recommandons de terminer le programme Principes de planification ou d’avoir une base solide pour la création de projets dans [!DNL Workfront] avant de commencer ce cours.
 
-Dans cette vidéo, vous découvrirez comment les jalons peuvent vous aider à conserver [!DNL  Workfront] projets à venir.
+Découvrez comment les jalons peuvent vous aider à faire avancer les projets [!DNL  Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)
