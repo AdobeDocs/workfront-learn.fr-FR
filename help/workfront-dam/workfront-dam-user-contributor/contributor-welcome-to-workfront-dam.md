@@ -1,6 +1,6 @@
 ---
-title: En savoir plus sur les [!UICONTROL Gestion des actifs numériques Workfront], Cours de contributeur
-description: En savoir plus sur ce qui sera couvert dans la section [!UICONTROL Gestion des actifs numériques Workfront], cours de contributeur.
+title: En savoir plus sur [!UICONTROL Workfront DAM], Cours du contributeur ou de la contributrice
+description: En savoir plus sur le contenu de [!UICONTROL Workfront DAM], Cours du contributeur ou de la contributrice.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,19 +10,19 @@ team: Technical Marketing
 jira: KT-8991
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Contributeur : bienvenue à [!UICONTROL Gestion des actifs numériques Workfront]
+# Contributeur ou contributrice : bienvenue dans [!UICONTROL Workfront DAM]
 
-[!UICONTROL Gestion des actifs numériques Workfront] est une solution de gestion des ressources numériques (DAM) spécialement conçue pour gérer, contrôler et publier vos ressources marketing et créatives. Il peut être utilisé conjointement avec les workflows dont vous disposez déjà dans [!DNL Workfront], où vous pouvez gérer des projets, des affectations de tâches et d’autres tâches. Utilisation [!DNL Workfront] pour créer des requêtes de ressources, puis gérer la production et la révision des ressources. En tant qu’utilisateur contributeur dans [!UICONTROL Gestion des actifs numériques Workfront], vous pouvez traiter, stocker et distribuer des ressources terminées et approuvées.
+[!UICONTROL Workfront DAM] est une solution de gestion des actifs numériques (DAM) spécialement conçue pour gérer, contrôler et publier vos ressources marketing et créatives. Il peut être utilisé conjointement aux workflows dont vous disposez déjà dans [!DNL Workfront], où vous gérez peut-être des projets, des affectations de tâches et d’autres travaux. Utilisez [!DNL Workfront] pour créer des demandes de ressources, puis gérez la production et la révision des ressources. En tant que contributeur ou contributrice à [!UICONTROL Workfront DAM], vous pouvez traiter, stocker et distribuer les ressources terminées et approuvées.
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Ce que vous allez apprendre pendant ce cours
-* What [!UICONTROL Gestion des actifs numériques Workfront] est et comment l’utiliser
+* En quoi consiste ce cours
+* En quoi consiste [!UICONTROL Workfront DAM] et son utilisation
 
 >[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on)
