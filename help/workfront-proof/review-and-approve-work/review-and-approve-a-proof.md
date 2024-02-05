@@ -1,6 +1,6 @@
 ---
 title: Vérifier et approuver un BAT
-description: Découvrez comment accéder à un BAT et y ajouter des commentaires, utiliser des balises pour indiquer les modifications nécessaires, répondre aux commentaires du BAT et prendre une décision sur un BAT dans [!DNL Workfront].
+description: Découvrez comment accéder à un BAT et le commenter, utiliser des balises pour indiquer les modifications nécessaires, répondre aux commentaires d’un BAT et prendre une décision sur un BAT dans  [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,83 +12,83 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '768'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Vérifier et approuver un BAT
 
-Avant de commencer à vérifier un bon à tirer, assurez-vous de savoir ce que vous attendez de vous. Quel est votre rôle dans le workflow de vérification ? Examinez le BAT, approuvez-le, ou les deux ?
+Avant de commencer à vérifier un BAT, assurez-vous de savoir ce que l’on attend de vous. Quel est votre rôle dans le processus de relecture ? Vérifier le BAT, l’approuver, ou les deux ?
 
-En tant qu&#39;éditeur de copie, vous pourriez vous concentrer sur la vérification des fautes de grammaire et d&#39;orthographe. Les équipes marketing et créatives peuvent se concentrer sur la conception de la ressource et s’assurer que l’identité graphique de l’entreprise est respectée. Les équipes juridiques peuvent s&#39;assurer que la formulation d&#39;un contrat de services est hermétique. Et un chef de projet peut s’assurer que le contenu examiné respecte l’intention et les objectifs du projet auquel il est associé.
+En tant que rédacteur ou rédactrice, vous pouvez vous focaliser sur la vérification des BAT afin de détecter les erreurs grammaticales et les fautes d’orthographe. Les équipes de marketing et de création peuvent se concentrer sur la conception de la ressource et s’assurer que l’identité de marque de l’entreprise est respectée. Les équipes juridiques peuvent s’assurer que la manière dont un contrat de services est rédigé est impeccable. Enfin, une personne responsable de projet peut s’assurer que le contenu en cours de vérification respecte l’intention et les objectifs du projet auquel il est associé.
 
-On pourrait aussi vous demander d&#39;approuver le BAT. Valider un bon à tirer signifie que vous dites, &quot;ce travail est prêt à partir.&quot; Ou peut-être que vous devez dire, &quot;ce travail nécessite des modifications, veuillez le renvoyer pour révision.&quot;
+Il se peut que l’on vous demande également d’approuver le BAT. Approuver un BAT signifie que vous dites « Ce travail est prêt à être livré ». Ou peut-être devez-vous dire « Ce travail a besoin d’être modifié, veuillez le renvoyer pour qu’il soit révisé ».
 
-Une fois que vous savez ce qui est attendu, vous pouvez commencer à vérifier un bon à tirer.
+Une fois que vous savez ce que l’on attend de vous, vous pouvez commencer à vérifier un BAT.
 
-## Réception d’un BAT à réviser
+## Réception d’un BAT à vérifier
 
-Lorsqu’une ressource est prête à être examinée et approuvée, vous recevez une notification par courrier électronique.
+Lorsqu’une ressource est prête à être vérifiée et approuvée, vous recevez une notification par e-mail.
 
-![Image d’un nouvel email de BAT demandant la révision et l’approbation de deux bons à tirer dans [!DNL  Workfront].](assets/new-proof-emails.png)
+![Image d’un e-mail de nouveau BAT demandant la vérification et l’approbation de deux BAT dans [!DNL  Workfront].](assets/new-proof-emails.png)
 
-Il est important de noter que ce lien du BAT est votre propre particularité. Si vous partagez le lien avec une personne, tout commentaire et balisage qu’elle fait sera marqué avec votre nom.
+Notez que ce lien vers le BAT est unique et vous est propre. Si vous partagez le lien avec quelqu’un, tous les commentaires et balises que cette personne ajoutera seront étiquetés avec votre nom.
 
-La variable [!UICONTROL Nouvelle preuve] L&#39;email contient également des informations essentielles sur le BAT :
+L’e-mail [!UICONTROL Nouveau BAT] contient également des informations essentielles sur le BAT :
 
-* Le nom du BAT est l’objet de l’email.
+* Le nom du BAT constitue l’objet de l’e-mail.
 * La miniature vous donne un aperçu rapide de ce que vous allez vérifier.
 * Le numéro de version vous indique la version du BAT que vous allez consulter.
-* Et, plus important encore, la date limite apparaît à deux endroits dans l’email, juste au-dessus de la section des détails du BAT et dans la barre grise pour l’étape de workflow dont vous faites partie.
+* Et surtout, la date d’échéance apparaît à deux endroits dans l’e-mail : juste au-dessus de la section des détails du BAT et dans la barre grise correspondant à l’étape du workflow dont vous faites partie.
 
-Une fois que vous êtes prêt à démarrer votre révision, il vous suffit de cliquer sur le bouton bleu. [!UICONTROL Accéder au BAT] et le fichier s’ouvre automatiquement dans la fonction [!DNL Workfront] visionneuse de vérification.
+Une fois que vous pouvez commencer votre vérification, il vous suffit de cliquer sur le bouton bleu [!UICONTROL Accéder au BAT] et le fichier s’ouvre automatiquement dans le visualiseur de BAT de [!DNL Workfront].
 
-### Ouverture d’un BAT à partir d’ [!UICONTROL Accueil]
+### Ouvrir un BAT à partir de l’[!UICONTROL Accueil]
 
-Si vous travaillez dans [!DNL Workfront] et qu’on vous a demandé d’approuver un BAT, vous trouverez une affectation dans la variable [!UICONTROL Liste de tâches] de [!DNL Workfront] [!UICONTROL Accueil]. Il est utile de simplement sélectionner [!UICONTROL Approbations] de la [!UICONTROL Filtrer], afin que vous puissiez vous concentrer sur ce type de travail.
+Si vous travaillez sur [!DNL Workfront] et que l’on vous a demandé d&#39;approuver un BAT, vous aurez une affectation dans la [!UICONTROL liste de travail] de l’[!UICONTROL Accueil] de [!DNL Workfront]. Il est plus pratique de sélectionner uniquement [!UICONTROL Approbations] dans le [!UICONTROL Filtre] afin de vous focaliser sur ce type de travail.
 
-![Une image de [!DNL Workfront] [!UICONTROL Accueil] avec la propriété [!UICONTROL Approbations] filtre activé et un BAT sélectionné dans la liste.](assets/open-proof-from-home.png)
+![Image de l’[!UICONTROL Accueil] de [!DNL Workfront] avec le filtre [!UICONTROL Approbations] activé et un BAT sélectionné dans la liste.](assets/open-proof-from-home.png)
 
-Il est important de noter que les bons à tirer s’affichent dans [!DNL Workfront] [!UICONTROL Accueil] uniquement si vous êtes chargé de l’approuver. Si vous venez de consulter uniquement le BAT, il ne s’affichera pas dans [!DNL Workfront] [!UICONTROL Accueil] lorsque vous sélectionnez [!UICONTROL Approbations]dans la liste des filtres.
+Notez que les BAT apparaissent dans l’[!UICONTROL Accueil] de [!DNL Workfront] uniquement si vous êtes responsable de leur approbation. S’il vous a été demandé de ne faire qu’une vérification du BAT, celui-ci n’apparaîtra pas dans l’ [!UICONTROL Accueil] de [!DNL Workfront] lorsque vous sélectionnerez [!UICONTROL Validations]dans la liste des filtres.
 
-Sélectionnez la validation du BAT dans la [!UICONTROL Liste de tâches], puis cliquez sur le bouton [!UICONTROL Accéder à Bon à tirer] pour l’ouvrir dans la visionneuse de vérification.
+Sélectionnez l’approbation du BAT dans la [!UICONTROL liste de travail], puis cliquez sur le lien [!UICONTROL Accéder au BAT] pour l’ouvrir dans le visualiseur de BAT.
 
-Selon les workflows de projet et de BAT de votre entreprise, une affectation de tâche peut s’afficher dans [!DNL Workfront] [!UICONTROL Accueil] au lieu d’une demande d’approbation de BAT. Dans ce cas, vous allez ouvrir le BAT à partir de la [!UICONTROL Documents] de la tâche elle-même (voir ci-dessous pour obtenir des instructions).
+Selon les workflows de votre organisation en matière de BAT et de projets, il se peut que vous voyiez une affectation de tâche sur l’[!UICONTROL Accueil] de [!DNL Workfront] au lieu d’une demande d’approbation de BAT. Dans ce cas, ouvrez le BAT à partir de la section [!UICONTROL Documents] de la tâche elle-même (reportez-vous ci-dessous pour les instructions).
 
-Vous pouvez également trouver des BAT à vérifier sur un [!DNL Workfront] tableau de bord créé spécifiquement pour votre équipe ou votre organisation pour vous aider à gérer les workflows de BAT.
+Vous pouvez également trouver des BAT à vérifier sur un tableau de bord [!DNL Workfront] spécifiquement créé pour votre équipe ou votre organisation afin de faciliter la gestion des workflows de BAT.
 
 ### Ouvrir un BAT à partir d’un projet, d’une tâche ou d’un problème
 
-Si vous travaillez normalement avec des projets, des tâches ou des problèmes dans [!DNL Workfront], vous préférez peut-être ouvrir le BAT directement à partir de la [!DNL Documents] de cet élément.
+Si vous travaillez habituellement avec des projets, des tâches ou des problèmes dans [!DNL Workfront], vous préférerez peut-être ouvrir le BAT directement à partir de la section [!DNL Documents] de cet élément.
 
-![Une image de la [!UICONTROL Documents] section trouvée dans une [!DNL  Workfront] avec la tâche [!UICONTROL Bon à tirer ouvert]lien surligné.](assets/open-proof-from-documents.png)
+![Image de la section [!UICONTROL Documents] située dans une tâche [!DNL  Workfront] avec le lien [!UICONTROL Ouvrir un BAT]en surbrillance.](assets/open-proof-from-documents.png)
 
 1. Cliquez sur le nom du projet, de la tâche ou du problème.
-2. Cliquez sur [!UICONTROL Documents] dans le menu du panneau de gauche de la page de l’élément.
-3. Recherchez le BAT dans le [!UICONTROL Documents] liste.
-4. Cliquez sur le bouton [!UICONTROL Bon à tirer ouvert] pour ouvrir la visionneuse de vérification.
+2. Cliquez sur [!UICONTROL Documents] dans le menu du panneau de gauche sur la page de l’élément.
+3. Cherchez le BAT dans la liste des [!UICONTROL Documents].
+4. Cliquez sur le lien [!UICONTROL Ouvrir un BAT] pour ouvrir la visionneuse de relecture.
 
-## Comment valider un BAT
+## Comment approuver un BAT
 
-Après avoir ouvert un bon à tirer, vous verrez un **Prendre une décision** en haut de l’écran, en regard de **Ajouter un commentaire**. Si vous n’êtes pas un approbateur de ce BAT, ce bouton ne s’affiche pas.
+Après avoir ouvert un BAT, vous verrez un bouton **Prendre une décision** en haut, à côté de **Ajouter un commentaire**. Si vous n’êtes pas approbateur ou approbatrice de ce BAT, vous ne verrez pas ce bouton.
 
-![Image du premier bouton Prendre une décision .](assets/make-decision-1.png)
+![Image du premier bouton « Prendre une décision »](assets/make-decision-1.png)
 
-Lorsque vous êtes prêt à prendre une décision, cliquez sur le bouton **Prendre une décision** pour afficher vos options de décision. Sélectionnez votre choix, puis cliquez sur l’autre **Prendre une décision** ci-dessous.
+Lorsque vous êtes prêt ou prête à prendre une décision, cliquez sur le bouton **Prendre une décision** pour voir les options de décision qui s’offrent à vous. Sélectionnez votre choix, puis cliquez sur l’autre bouton **Prendre une décision** ci-dessous.
 
-![Image du second bouton Prendre une décision .](assets/make-decision-2.png)
+![Image du deuxième bouton « Prendre une décision »](assets/make-decision-2.png)
 
 ## Vérifier et approuver un BAT
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Savoir ce que vous attendez de la révision d’un BAT
+* Savoir ce que l’on attend de vous lors de l’examen d’un BAT
 * Faire un commentaire sur un BAT
-* Utilisez des balises pour indiquer les modifications nécessaires sur un BAT.
-* Réponse à un commentaire de BAT
-* Approuver ou refuser un BAT
+* Utiliser des balises pour indiquer les modifications à apporter à un BAT
+* Répondre à un commentaire d’épreuve
+* Approuver ou refuser une épreuve
 
 >[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on)
 
