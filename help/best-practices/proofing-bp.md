@@ -1,139 +1,139 @@
 ---
-title: Bonne pratique - Vérification
-description: Découvrez les recommandations de bonnes pratiques des experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation de la vérification dans Workfront.
+title: Bonne pratique - Relecture
+description: Découvrez les bonnes pratiques recommandées par les spécialistes d’Adobe Workfront en matière de configuration, de gestion et d’utilisation de la relecture dans Workfront.
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bonne pratique - Vérification
+# Bonne pratique - Relecture
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
-
-</br>
-</br>
-
-## Bonnes pratiques relatives à la vérification dans Workfront
-
-* Prenez le temps de créer des modèles de workflow de vérification.
-
-* Désactivez le paramètre &quot;Envoyer des emails à partir de Workfront lorsqu’un commentaire est fait sur un BAT&quot; dans les configurations Workfront.
-
-* Utilisez uniquement Lecture seule ou Réviseur pour le paramètre &quot;Rôles pour les non-destinataires qui ouvrent un BAT de document&quot; dans Workfront.
-
-* Ajustez les paramètres du serveur principal BAT afin que les utilisateurs voient les échéances sous la forme d’une horloge de 12 heures.
-
-* Définissez une date limite de BAT par défaut dans les paramètres du système.
-
-* Masquez l’option de décision de BAT non pertinent .
-
-* Ne réorganisez pas les options de décision du BAT dans les paramètres du BAT.
-
-* Définissez les valeurs par défaut des utilisateurs pour les rôles de BAT et les alertes par email.
-
-* Définissez le rôle de BAT du créateur du BAT sur Réviseur.
-
-* Évitez d’utiliser le rôle d’approbateur de BAT.
-
-* Évitez l’option d’alerte par email de toutes les activités BAT .
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
-## Pourquoi ces bonnes pratiques ?
+## Bonnes pratiques en matière de relecture dans Workfront
 
-**Bonne pratique**
+* Prenez le temps de créer des modèles de workflow de relecture.
 
-Prenez le temps de créer des modèles de workflow de vérification.
+* Désactivez le paramètre « Envoyer des e-mails depuis Workfront lorsqu’un commentaire est fait sur une épreuve » dans les paramètres de Workfront.
+
+* Utilisez uniquement les rôles Lecture seule ou Réviseur pour le paramètre « Rôles pour les personnes non destinataires qui ouvrent une épreuve de document » dans Workfront.
+
+* Ajustez les paramètres back-end de l’épreuve pour que les utilisateurs et les utilisatrices voient les échéances au format 12 heures.
+
+* Fixez une date d’échéance par défaut pour la relecture dans les paramètres système.
+
+* Masquez l’option non pertinente de statut de décision de l’épreuve.
+
+* Ne réorganisez pas les options de statut de décision de l’épreuve les paramètres de l’épreuve.
+
+* Définissez les valeurs par défaut des utilisateurs et des utilisatrices pour les rôles d’épreuve et les alertes par e-mail.
+
+* Définissez le rôle de la personne ayant créé l’épreuve sur Réviseur.
+
+* Évitez d’utiliser le rôle d’épreuve Approbateur.
+
+* Évitez l’option d’alerte par e-mail d’épreuve Toutes les activités.
+
+</br>
+</br>
+
+## Pourquoi s’agit-il des bonnes pratiques ?
+
+**Bonnes pratiques**
+
+Prenez le temps de créer des modèles de workflow de relecture.
 
 **Voici pourquoi**
 
-Non seulement les modèles accélèrent et rationalisent le processus de création et d’affectation de BAT, mais ils assurent la cohérence entre les workflows de BAT pour des types de ressources similaires. Ils s’assurent également que chaque destinataire du BAT se voit attribuer le rôle de BAT approprié et une alerte par email, et qu’une date limite a été fixée.
-
-</br>
-</br>
-
-**Bonne pratique**
-
-Désactivez le paramètre &quot;Envoyer des emails à partir de Workfront lorsqu’un commentaire est fait sur un BAT&quot; dans les configurations Workfront.
-
-
-
-**Voici pourquoi**
-
-Lorsque ce paramètre est activé (par défaut), les utilisateurs peuvent recevoir plusieurs notifications par e-mail pour chaque commentaire sur un BAT, l’une provenant de la fonctionnalité de vérification et l’autre de Workfront lui-même. Ces notifications en double provoquent des perturbations et une confusion dans les notifications par e-mail, ainsi qu’une boîte de réception par e-mail complète, ce qui peut entraîner l’ignorance des notifications de BAT reçues par les utilisateurs. Ce qui, à son tour, pourrait signifier des échéances non respectées.
-
-
-
-**Remarque**: Ce paramètre se trouve dans le menu principal de Workfront > Configuration > Email > Révision et approbation.
+Non seulement les modèles accélèrent et rationalisent le processus de création et d’attribution des épreuves, mais ils assurent la cohérence des workflows d’épreuve pour des types de ressources similaires. Ils s’assurent également que chaque personne destinataire d’épreuve se voit attribuer le rôle d’épreuve et l’alerte e-mail appropriés, et qu’une échéance a été fixée.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Utilisez uniquement Lecture seule ou Réviseur pour le paramètre &quot;Rôles pour les non-destinataires qui ouvrent un BAT de document&quot; dans Workfront.
+Désactivez le paramètre « Envoyer des e-mails depuis Workfront lorsqu’un commentaire est fait sur une épreuve » dans les paramètres de Workfront.
 
 
 
 **Voici pourquoi**
 
-Les autres options de ce paramètre nécessitent qu’une décision de BAT soit prise, ce qui peut faire dérailler votre workflow de vérification. En règle générale, les personnes qui ne sont pas ajoutées au workflow de BAT doivent simplement afficher le BAT ou faire des commentaires, ne pas approuver réellement le BAT. Par conséquent, les options Lecture seule ou Réviseur sont votre meilleur choix.
+Lorsque ce paramètre est activé (ce qui est le cas par défaut), les utilisateurs et les utilisatrices ont la possibilité de recevoir plusieurs notifications par e-mail pour chaque commentaire sur une épreuve : une de la fonctionnalité de relecture et une autre de Workfront. Ces notifications en double entraînent une perturbation et une confusion dans les notifications par e-mail, ainsi qu’une boîte de réception pleine, ce qui peut amener les utilisateurs et les utilisatrices à ignorer les notifications d’épreuve qu’ils reçoivent. Ce qui, à son tour, pourrait signifier des échéances non respectées.
 
 
 
-**Remarque**: Ce paramètre se trouve dans le menu principal de Workfront > Configuration > Révision et approbation.
+**Note** : ce paramètre se trouve dans le menu principal de Workfront > Configuration > E-mail > Révision et approbation.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Ajustez les paramètres du serveur principal BAT afin que les utilisateurs voient les échéances sous la forme d’une horloge de 12 heures.
+Utilisez uniquement les rôles Lecture seule ou Réviseur pour le paramètre « Rôles pour les personnes non destinataires qui ouvrent une épreuve de document » dans Workfront.
 
 
 
 **Voici pourquoi**
 
-Sélectionnez l’option F j, Y, gi:a dans les paramètres du BAT pour les utilisateurs qui souhaitent afficher les échéances/heures du BAT au format AM/PM. Pour les zones qui utilisent une horloge de 12 heures, cette option permet de clarifier les échéances.
+Les autres options de ce paramètre requièrent toutes un statut de décision de l’épreuve, ce qui peut faire dérailler votre workflow de relecture. En règle générale, les personnes qui n’ont pas été ajoutées au workflow d’épreuve ont juste besoin de consulter l’épreuve ou de faire des commentaires, et non de l’approuver, de sorte que les options « Lecture seule » ou « Réviseur » sont les mieux adaptées.
 
 
 
-**Remarque**: Pour accéder à ce paramètre, sélectionnez le menu principal Workfront > Vérification > Paramètres du compte > Utilisateurs > et modifiez le champ Format de date pour chaque utilisateur.
+**Remarque** : ce paramètre se trouve dans le menu principal de Workfront > Configuration > Révision et approbation.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Définissez une date limite de BAT par défaut dans les paramètres du système.
+Ajustez les paramètres back-end de l’épreuve pour que les utilisateurs et les utilisatrices voient les échéances au format 12 heures.
 
 
 
 **Voici pourquoi**
 
-Lorsqu’un délai de BAT par défaut est défini (la date de téléchargement + x nombre de jours ouvrés), si le créateur du BAT oublie d’ajouter une date limite, Workfront applique automatiquement ce délai à chaque BAT transféré.
+Sélectionnez l’option F j, Y, gi:a dans les paramètres d’épreuve pour les personnes qui souhaitent voir les échéances/heures d’épreuve au format AM/PM. Pour les régions qui utilisent le format 12 heures, cela permet de clarifier les échéances.
 
 
 
-**Remarque**: Ce paramètre est accessible à partir du menu principal de Workfront > Vérification > Paramètres du compte > Paramètres > Valeurs par défaut du bon à tirer > Délai (+ jours ouvrables).
+**Remarque** : ce paramètre se trouve dans le menu principal de Workfront > Relecture > Paramètres du compte > Utilisateurs et utilisatrices > et dans le champ Format de date pour chaque personne.
+
+</br>
+</br>
+
+**Bonne pratique**
+
+Fixez une date d’échéance par défaut pour la relecture dans les paramètres système.
+
+
+
+**Voici pourquoi**
+
+Lorsqu’une date d’échéance pour la relecture est définie par défaut (date de chargement + x nombre de jours ouvrables), si la personne ayant créé l’épreuve oublie d’ajouter une échéance, Workfront applique automatiquement cette échéance à chaque épreuve chargée.
+
+
+
+**Remarque** : ce paramètre se trouve dans le menu principal Workfront > Relecture > Paramètres du compte > Paramètres > Valeurs par défaut des épreuves > champ Échéance (+ jours ouvrables).
 
 </br>
 </br>
@@ -141,88 +141,88 @@ Lorsqu’un délai de BAT par défaut est défini (la date de téléchargement +
 
 **Bonne pratique**
 
-Masquez l’option de décision de BAT non pertinent .
+Masquez l’option non pertinente de statut de décision de l’épreuve.
 
 
 
 **Voici pourquoi**
 
-Cette option de décision crée souvent de la confusion parmi les approbateurs, car les organisations ne définissent pas quand l’option Non pertinent doit être utilisée. L&#39;option Non pertinent indique généralement que le BAT n&#39;est pas pertinent pour le destinataire du BAT et qu&#39;il n&#39;est pas nécessaire qu&#39;il prenne une décision approuvée ou rejetée. En sélectionnant Non pertinent, le workflow de BAT peut continuer.
+Cette option de décision est souvent source de confusion pour les personnes chargées de l’approbation, car les organisations ne définissent pas toujours quand l’option Non pertinent doit être utilisée. L’option Non pertinent indique généralement que l’épreuve n’est pas pertinente pour la personne destinataire de l’épreuve et qu’elle n’a pas besoin de prendre une décision d’approbation ou de rejet. En sélectionnant Non pertinent, le workflow d’épreuve peut continuer.
 
 
-L’option Non pertinent n’est pas nécessaire dans la plupart des workflows de BAT.
+L’option Non pertinent n’est pas nécessaire dans la plupart des workflows d’épreuve.
 
-**Remarque**: Ce paramètre est accessible dans le menu principal de Workfront > Vérification > Paramètres du compte > Décisions.
+**Remarque** : ce paramètre se trouve dans le menu principal de Workfront > Relecture > Paramètres du compte > Décisions.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Ne réorganisez pas les options de décision du BAT dans les paramètres du BAT.
+Ne réorganisez pas les options de statut de décision de l’épreuve les paramètres de l’épreuve.
 
 
 
 **Voici pourquoi**
 
-Chaque paramètre de décision de BAT contient une valeur/un poids spécifique qui, s’il est réorganisé, peut prêter à confusion dans vos configurations de BAT. L’ordre de décision et la valeur/le poids sont utilisés comme déclencheurs d’activation de l’étape du BAT et dans les rapports.
+Chaque paramètre de statut de décision de l’épreuve contient une valeur/un poids spécifique qui, s’ils sont réorganisés, peuvent semer la confusion dans vos configurations d’épreuve. L’ordre de décision et la valeur/le poids sont utilisés comme déclencheurs d’activation de l’étape d’épreuve et dans les rapports.
 
 
 
-**Remarque**: Ce paramètre est accessible dans le menu principal de Workfront > Vérification > Paramètres du compte > Décisions.
+**Remarque** : ce paramètre se trouve dans le menu principal de Workfront > Relecture > Paramètres du compte > Décisions.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Définissez les valeurs par défaut des utilisateurs pour les rôles de BAT et les alertes par email.
+Définissez les valeurs par défaut des utilisateurs et des utilisatrices pour les rôles d’épreuve et les alertes par e-mail.
 
 
 
 **Voici pourquoi**
 
-Ces paramètres sont renseignés automatiquement lors de l’attribution d’un workflow de BAT, de l’accélération du processus et de la cohérence entre les workflows de BAT.
+Ces paramètres sont automatiquement renseignés lors de l’affectation d’un workflow d’épreuve, ce qui accélère le processus et contribue à la cohérence des workflows d’épreuve.
 
 
 
-**Remarque**: Les paramètres par défaut de l’utilisateur sont disponibles dans le menu principal de Workfront > Vérification > Paramètres du compte > Utilisateurs > et sélectionnez l’utilisateur pour lequel définir les paramètres par défaut.
+**Remarque** : les paramètres d’utilisateur par défaut se trouvent dans le menu principal de Workfront, en choisissant Relecture > Paramètres du compte > Utilisateurs et utilisatrices, et en sélectionnant l’utilisateur ou l’utilisatrice pour lequel les paramètres par défaut doivent être définis.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Définissez le rôle de BAT du créateur du BAT sur Réviseur.
+Définissez le rôle de la personne ayant créé l’épreuve sur Réviseur.
 
 
 
 **Voici pourquoi**
 
-Le rôle du BAT du réviseur permet au créateur du BAT de faire des commentaires et d’accéder aux commentaires laissés par d’autres personnes. La plupart du temps, le créateur du BAT n’est pas tenu de prendre une décision sur un BAT qu’il a téléchargé. Les rôles de BAT Approbateur, Réviseur et approbateur, Auteur ou Modérateur requièrent tous une décision. Si le créateur du BAT se voit attribuer l’un de ces rôles de BAT, mais qu’il ne prend jamais de décision, cela peut nuire aux délais du BAT.
+Le rôle d’épreuve Réviseur garantit que la personne ayant créé l’épreuve peut faire des commentaires et accéder à ceux laissés par d’autres. La plupart du temps, la personne ayant créé une épreuve n’est pas tenue de prendre une décision sur une épreuve qu’elle a chargée. Les rôles d’approbation, de révision et d’approbation, de création ou de modération des épreuves exigent tous qu’une décision soit prise. Si la personne ayant créé l’épreuve se voit affecter l’un de ces rôles mais ne prend jamais de décision, cela peut avoir des conséquences négatives sur les échéances.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Évitez d’utiliser le rôle d’approbateur de BAT.
+Évitez d’utiliser le rôle d’épreuve Approbateur.
 
 
 
 **Voici pourquoi**
 
-Le rôle d’ approbateur de BAT ne permet pas à l’utilisateur de faire des commentaires sur ce BAT. Cela peut entraîner un refus du BAT de la part d&#39;un utilisateur, sans aucune explication, car il ne peut pas faire de commentaires. Utilisez plutôt le rôle de BAT Réviseur et approbateur afin que l’utilisateur puisse fournir des commentaires.
+Le rôle d’approbation ne permet pas à l’utilisateur ou à l’utilisatrice d’apporter des commentaires sur cette épreuve. Cela pourrait amener un utilisateur ou une utilisatrice à refuser l’épreuve, sans aucune explication, parce qu’il lui a été impossible de faire des commentaires. Utilisez plutôt le rôle Réviseur et approbateur d’épreuve pour que l’utilisateur ou l’utilisatrice puisse faire des commentaires.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Évitez l’option d’alerte par email de toutes les activités BAT .
+Évitez l’option d’alerte par e-mail d’épreuve Toutes les activités.
 
 **Voici pourquoi**
 
-Cette option envoie une notification par email de BAT chaque fois qu’un événement se produit avec un BAT : un commentaire est émis, une réponse est publiée, une décision est prise, etc. Le destinataire voit essentiellement l’activité du BAT au fur et à mesure.
+Cette option permet d’envoyer une notification par e-mail à chaque fois qu’il se passe quelque chose avec une épreuve : un commentaire est fait, une réponse est publiée, une décision est prise, etc. Le ou la destinataire voit l’activité du BAT au fur et à mesure qu’elle se produit.
 
-Pour les propriétaires et les créateurs de BAT, l’alerte par e-mail Decisions fonctionne le mieux pour les workflows de BAT à plusieurs étapes et la décision finale fonctionne le mieux pour les workflows à une seule étape. En règle générale, tout le monde peut être défini sur Désactivé, sauf s’il souhaite être averti des commentaires ou décisions d’autres personnes (auquel cas, l’une des options de résumé du courrier électronique peut fonctionner le mieux).
+Pour les propriétaires et créateurs et créatrices de BAT, l’alerte par e-mail Décisions est la plus adaptée aux workflows de BAT en plusieurs étapes et la Décision finale est la plus adaptée aux workflows en une seule étape. En règle générale, tous les autres peuvent être désactivés, à moins qu’ils ne souhaitent être informés des commentaires ou décisions des autres personnes (dans ce cas, l’une des options d’envoi d’un résumé par e-mail peut se révéler plus efficace).
