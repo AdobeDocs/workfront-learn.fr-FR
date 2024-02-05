@@ -1,6 +1,6 @@
 ---
-title: Maturité de la gestion des ressources
-description: Découvrez comment installer le module complémentaire Microsoft Outlook
+title: Degré de gestion des ressources
+description: Découvrez comment installer le module complémentaire Microsoft Outlook
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,43 +12,43 @@ jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Degré de gestion des ressources
 
-Savoir quelles ressources sont disponibles et quand au sein d’une organisation peut être compliqué et chronophage. Il y a beaucoup de parties mobiles, d&#39;attitudes et d&#39;opinions qui peuvent brouiller les pistes.
+Savoir quelles ressources sont disponibles et à quel moment au sein d’une organisation peut être compliqué et prendre du temps. Il y a beaucoup d’éléments mouvants, de points de vue et d’opinions qui peuvent brouiller les pistes.
 
-De nombreuses organisations décident d&#39;acheter un logiciel de gestion des ressources avec toutes les &quot;cloches&quot; et tous les sifflets pensant que cela résoudra tous leurs problèmes de ressources. Cela conduit souvent à plus de pièces mobiles, à des détails plus profonds que les processus actuels n’impliquent pas, et à moins de personnes utilisant le système que vous avez acheté pour résoudre le problème.
+De nombreuses organisations décident d’acheter un logiciel de gestion des ressources doté de toutes les fonctionnalités, pensant que cela résoudra tous leurs problèmes de ressources. Cela conduit souvent à plus des éléments mouvants, à des détails plus précis que les processus actuels ne prennent pas en charge, et à moins de personnes utilisant le système que vous avez acheté pour résoudre le problème.
 
-Alors comment démêler votre ressource nécessite-t-il de clarifier votre capacité de ressource ?
+Alors comment démêler vos besoins en ressource pour clarifier votre capacité en termes de ressource ?
 
-La première prise de conscience à venir est que vos problèmes de ressources ne seront pas résolus du jour au lendemain ou dans un mois. Apprendre à comprendre et à gérer vos ressources est une compétence qui demande du temps et des efforts à maîtriser.
+La première constatation à faire est que vos problèmes de ressources ne seront pas résolus du jour au lendemain ou en un mois. Apprendre à comprendre et à gérer vos ressources est une compétence qui demande du temps et des efforts.
 
-Cependant, certains d&#39;entre vous sont peut-être plus au parcours de la maîtrise de la gestion des ressources que vous ne le pensez. Jetez un oeil à chaque étape du modèle de maturité des ressources et vérifiez si vous reconnaissez votre organisation dans l’une d’elles.
+Cependant, certains d’entre vous sont peut-être plus avancés qu’ils ne le pensent sur la voie de la maîtrise de la gestion des ressources. Jetez un œil à chaque étape du modèle de degré de gestion des ressources et vérifiez si vous reconnaissez votre organisation dans l’une d’elles.
 
-## Quatre étapes de maturité de la gestion des ressources
+## Quatre étapes de degré de gestion des ressources
 
 >[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on)
 
 
-## Où aller d&#39;ici
+## Et après ?
 
-Avez-vous vu votre organisation à l’une de ces étapes ? Si tu l&#39;as fait, super. À partir de là, vous pouvez commencer à planifier le reste de votre parcours de gestion des ressources.
+Votre organisation se trouve-t-elle à l’un de ces stades ? Si c’est le cas, c’est parfait. À partir de là, vous pouvez commencer à planifier le reste de votre parcours de gestion des ressources.
 
-&lt;!Along with this learning path, you’ll find a guide, Resource maturity growth, that presents ideas on how to progress from one resource management stage to another.&gt;
+&lt;!Parallèlement à ce parcours de formation, vous trouverez un guide sur le degré des ressources qui présente des idées sur l’évolution d’une étape de gestion des ressources à l’autre.&gt;
 
-Si ce n&#39;était pas le cas, pas de soucis. Même avec ces définitions, il peut être difficile de déterminer exactement où vous êtes.
+Si ce n’est pas le cas, ne vous inquiétez pas. Même avec ces définitions, il peut être difficile de déterminer exactement où vous êtes.
 
-Jetez un oeil honnête et discutez de l’emplacement actuel de vos processus de gestion des ressources. Adressez-vous et pouvez répondre à des questions telles que :
+Examinez honnêtement l’état actuel de vos processus de gestion des ressources et discutez-en. Posez-vous les bonnes questions, telles que :
 
-* Comment suivre la capacité ?
-* Qui suit la capacité ?
-* Nos ressources humaines sont-elles organisées et si oui, comment ?
-* Y a-t-il une ou plusieurs personnes qui divisent les ressources pour un travail prioritaire ?
-* Comment est-ce que ce travail est prioritaire ?, etc.
+* Comment suivre la capacité ?
+* Qui suit la capacité ?
+* Nos ressources humaines sont-elles organisées et si oui, comment ?
+* Y a-t-il une ou plusieurs personnes qui divisent les ressources pour un travail prioritaire ?
+* Comment ce travail est-il prioritaire ?, etc.
 
-Prenez ces réponses et identifiez le stade de maturité des ressources auquel votre organisation est actuellement confrontée. Vous aurez ainsi un point de départ pour réfléchir à la manière dont la gestion des ressources doit fonctionner pour votre organisation.
+À partir de ces réponses, identifiez le stade de degré des ressources auquel se trouve actuellement votre organisation. Vous aurez ainsi un point de départ pour réfléchir à la manière dont la gestion des ressources doit fonctionner pour votre organisation.
