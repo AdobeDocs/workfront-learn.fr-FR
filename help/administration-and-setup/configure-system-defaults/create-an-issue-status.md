@@ -1,6 +1,6 @@
 ---
-title: Création d’un état de problème
-description: Découvrez comment créer un état de problème pour répondre aux besoins des workflows de votre entreprise.
+title: Créer un statut de problème
+description: Découvrez comment créer un statut de problème pour répondre aux besoins des workflows de votre organisation.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,42 +10,42 @@ level: Intermediate, Experienced
 jira: KT-10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création d’un état de problème
+# Créer un statut de problème
 
-[!DNL Workfront] vous recommande de modifier les statues de problème existantes dans votre système avant de commencer à créer de nouveaux statuts. Cela permet de limiter le nombre d’états qui doivent être conservés.
+[!DNL Workfront] recommande de modifier les statuts de problème existants dans votre système avant de commencer à créer de nouveaux statuts. Cela permet de limiter le nombre de statuts à conserver.
 
-1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL Menu Principal]**.
-1. Développez l’objet **[!UICONTROL Préférences du projet]** dans le panneau du menu de gauche.
-1. Sélectionner **[!UICONTROL Statuts]**.
-1. Sélectionnez la **[!UICONTROL Problèmes]** .
-1. Assurez-vous que le champ dans le coin supérieur droit est défini sur [!UICONTROL États du système]. Cela garantit que le nouvel état est disponible globalement dans vos [!DNL Workfront] instance.
-1. Sélectionner **[!UICONTROL Liste des Principal]** pour afficher tous les statuts des problèmes. C’est là que vous créez ou modifiez un état.
-1. Cliquez sur **[!UICONTROL Ajouter un nouvel état]**.
-1. Renseignez les champs selon les besoins de votre organisation : nom, description, couleur, correspond à, clé, etc.
-1. Cochez les cases correspondant au type de problème avec lequel cet état peut être utilisé.
+1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
+1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau du menu de gauche.
+1. Sélectionnez **[!UICONTROL Statuts]**.
+1. Sélectionnez l’onglet **[!UICONTROL Problèmes]**.
+1. Assurez-vous que le champ en haut à droite est défini sur [!UICONTROL Statuts du système]. Cela garantit que le nouveau statut est disponible globalement partout dans votre instance [!DNL Workfront].
+1. Sélectionnez **[!UICONTROL Liste maîtresse]** pour voir tous les statuts de problèmes. C’est là que vous créez ou modifiez un statut.
+1. Cliquez sur **[!UICONTROL Ajouter un statut]**.
+1. Renseignez les champs nécessaires à votre organisation : nom, description, couleur, correspond à, clé, etc.
+1. Cochez les cases correspondant au type de problème avec lequel ce statut peut être utilisé.
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
-![Nouvelle fenêtre d’état sur [!UICONTROL Statuts] page](assets/admin-fund-create-issue-status.png)
+![Fenêtre Nouveau statut sur la page [!UICONTROL Statuts]](assets/admin-fund-create-issue-status.png)
 
-## Statuts des problèmes et administrateurs de groupes
+## Statuts des problèmes et administrateurs et administratrices de groupes
 
-Les administrateurs de groupe peuvent créer et personnaliser des états de problème pour les groupes qu’ils gèrent. Cela leur donne une certaine autonomie, leur donnant les états dont ils ont besoin pour continuer à travailler. Il élimine également la nécessité d’une longue liste d’états à l’échelle du système.
+Les administrateurs et administratrices de groupe peuvent créer et personnaliser les statuts de problèmes pour les groupes qu’ils gèrent. Cela confère une certaine autonomie à leur groupe, en leur fournissant les statuts dont ils ont besoin pour faire avancer le travail. Cela élimine également la nécessité d’une longue liste de statuts à l’échelle du système.
 
-Les administrateurs de groupe peuvent modifier les états existants si l’administrateur système les a configurés pour autoriser la personnalisation.
+Les administrateurs et administratrices de groupe peuvent modifier les statuts existants si l’équipe d’administration système les a configurés pour autoriser la personnalisation.
 
-Les administrateurs système peuvent gérer les états des groupes en sélectionnant le nom du groupe dans le coin supérieur droit de la [!UICONTROL Statuts] fenêtre.
+Les administrateurs et administratrices système peuvent gérer les statuts des groupes en sélectionnant le nom du groupe en haut à droite de la fenêtre [!UICONTROL Statuts].
 
-![Menu Liste des groupes sur [!UICONTROL Statuts] page](assets/admin-fund-change-group-master-list.png)
+![Menu Liste des groupes sur la page [!UICONTROL Statuts]](assets/admin-fund-change-group-master-list.png)
 
-Les administrateurs de groupe peuvent cliquer sur dans la variable [!UICONTROL Groupes] dans la section [!UICONTROL Configuration] , ouvrez le groupe en cliquant sur le nom, puis en sélectionnant [!UICONTROL Statuts] dans le menu du panneau de gauche. Veillez à sélectionner l’onglet Problèmes .
+Les administrateurs et administratrices de groupe peuvent cliquer sur la section [!UICONTROL Groupes] dans la zone [!UICONTROL Configuration], ouvrir leur groupe en cliquant sur son nom, puis en sélectionnant [!UICONTROL Statuts] dans le menu du panneau de gauche. Veillez à sélectionner l’onglet Problèmes.
 
-![[!UICONTROL Statuts] section [!UICONTROL Groupe] page](assets/admin-fund-group-issue-statuses.png)
+Section ![[!UICONTROL Statuts] de la page [!UICONTROL Groupe]](assets/admin-fund-group-issue-statuses.png)
 
 <!---
 For detailed information on how managing statuses can be done by group administrators, see these articles:
