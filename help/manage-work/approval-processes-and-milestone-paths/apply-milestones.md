@@ -1,6 +1,6 @@
 ---
-title: Application de jalons
-description: Découvrez comment appliquer des chemins de jalon à un événement [!DNL  Workfront] projet et associer des tâches clés en tant qu’étapes jalon du projet.
+title: Appliquer des jalons
+description: Apprenez à appliquer des chemins jalonnés à un projet  [!DNL  Workfront]  et à associer des tâches clés à des étapes de jalons au sein du projet.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -13,23 +13,23 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Application de jalons
+# Appliquer des jalons
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Application d’un chemin de jalon à un projet
-* Ajout d’un jalon à une tâche
+* Appliquer un chemin jalonné à un projet
+* Ajouter un jalon à une tâche
 * Bonnes pratiques relatives à l’application de jalons
 
 >[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on)
 
 >[!TIP]
 >
->Pour plus d’informations sur la création d’une vue Milestone, voir l’activité de vue Milestone dans [Création d’une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+>Pour plus d’informations sur la création d’une vue Jalon, consultez l’activité Vue Jalon dans [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr).
 
