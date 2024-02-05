@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8908
 hidefromtoc: true
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Présentation du cours sur les formulaires personnalisés
 
-Dans cette vidéo, vous découvrirez ce qu’est un formulaire personnalisé et comment il peut être utilisé pour capturer des informations spécifiques à l’organisation.
+Dans cette vidéo, vous découvrirez ce qu’est un formulaire personnalisé et comment l’utiliser pour capturer des informations spécifiques à l’organisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on)
