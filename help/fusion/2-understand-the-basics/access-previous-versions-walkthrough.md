@@ -1,6 +1,6 @@
 ---
-title: Accès à la présentation des versions précédentes
-description: Découvrez comment restaurer des versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées dans [!DNL Adobe Workfront Fusion].
+title: Accéder à la présentation des versions précédentes
+description: Découvrez comment restaurer les versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Accès à la présentation des versions précédentes
+# Accéder à la présentation des versions précédentes
 
-Dans cette vidéo, vous allez :
+Dans cette vidéo, vous allez :
 
-* Découvrez comment restaurer des versions précédentes après avoir apporté des modifications à votre scénario et enregistré plusieurs fois.
+* Découvrez comment restaurer les versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées plusieurs fois.
 
-## Présentation de l’accès aux versions précédentes
+## Accéder à la présentation des versions précédentes
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
@@ -31,32 +31,32 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!NOTE]
 >
->Après avoir enregistré votre scénario, une nouvelle version est disponible sous le menu à trois points si vous devez y accéder ultérieurement. Les versions de scénario précédemment enregistrées ne sont disponibles que pendant 60 jours. Si vous devez accéder aux versions précédentes au-delà des 60 jours à des fins d’audit, Workfront recommande d’enregistrer un plan directeur de votre scénario et de l’archiver à un emplacement convenu.
+>Après avoir sauvegardé votre scénario, une nouvelle version est disponible dans le menu à trois points si vous avez besoin d’y accéder ultérieurement. Les versions de scénario sauvegardées précédemment ne sont disponibles que pendant 60 jours. Si vous devez accéder à des versions précédentes après les 60 jours à des fins d’audit, Workfront recommande de sauvegarder un plan directeur de votre scénario et de l’archiver dans un endroit convenu.
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Accès à la présentation des versions précédentes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées sur la façon de procéder, consultez l’exercice [Accéder à la présentation des versions précédentes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=fr).
 
-## Ajouter à votre terminologie
+## Compléter votre terminologie
 
-![Une image d’un enregistrement Watch et d’un module webhook personnalisé](assets/understand-the-basics-3.png)
+![Une image d’un enregistrement de veille et d’un module de webhook personnalisé](assets/understand-the-basics-3.png)
 
-### Modules de déclenchement
+### Modules déclencheurs
 
-Les modules Trigger ne peuvent être utilisés que comme premier module et peuvent renvoyer zéro, un ou plusieurs lots. Elles seront traitées individuellement dans les modules suivants, sauf si elles sont agrégées.
+Les modules de déclencheur ne peuvent être utilisés qu’en tant que premier module et peuvent renvoyer zéro, un ou plusieurs bundles. Ils seront traités individuellement dans les modules suivants, à moins qu’ils ne soient agrégés.
 
-**Déclencheur d’interrogation (horloge sur le déclencheur)**: fonctionnalités spéciales pour effectuer le suivi du dernier enregistrement traité.
+**Déclencheur d’attente active (déclencheur avec horloge)** : fonction spéciale permettant de garder la trace du dernier enregistrement traité.
 
-**Déclencheur instantané (éclair sur déclencheur)**: déclenché immédiatement en fonction du webhook.
+**Déclencheur instantané (déclencheur avec éclair)** : déclenchement immédiat sur la base d’un webhook.
 
-![Image d’un enregistrement de création et d’un module de recherche](assets/understand-the-basics-4.png)
+![Une image d’un enregistrement de création et d’un module de recherche](assets/understand-the-basics-4.png)
 
 ### Actions et modules de recherche
 
-**Action**: utilisé pour effectuer des opérations CRUD (création, lecture, mise à jour et suppression).
+**Action** : utilisée pour effectuer des opérations CRUD (création, lecture, mise à jour et suppression).
 
-**Recherches**—Utilisé pour rechercher zéro, un ou plusieurs enregistrements et les renvoie sous forme de lots, qui seront traités individuellement dans les modules suivants, sauf si agrégés.
+**Recherches** : permet de rechercher zéro, un ou plusieurs enregistrements et de les renvoyer sous forme de bundles, qui seront traités individuellement dans les modules suivants, à moins qu’ils ne soient agrégés.
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
