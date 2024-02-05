@@ -1,6 +1,6 @@
 ---
-title: Configuration de rappels automatiques
-description: Découvrez comment créer des rappels automatiques pour informer les utilisateurs que les dates d’achèvement prévues pour l’affectation de travail approchent ou sont dépassées.
+title: Mettre en place des rappels automatiques
+description: Découvrez comment créer des rappels automatiques pour informer les utilisateurs et utilisatrices que les dates d’achèvement prévues pour les affectations de travail approchent ou sont dépassées.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,9 +11,9 @@ thumbnail: setupautoreminds.png
 jira: KT-10092
 exl-id: 69d5b383-af3a-4414-92fe-32c8cf869d25
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,25 +21,25 @@ ht-degree: 0%
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->
 
-# Configuration de rappels automatiques
+# Mettre en place des rappels automatiques
 
-Les rappels automatiques sont similaires aux notifications de rappel, sauf qu’ils s’appliquent à chaque objet, qu’ils sont envoyés à toutes les personnes affectées à ces tâches et que le message ne peut pas être personnalisé.
+Les rappels automatiques sont similaires aux notifications de rappel, mais ils s’appliquent à chaque objet, ils sont envoyés à toutes les personnes affectées à ces éléments de travail et le message ne peut pas être personnalisé.
 
-Ils peuvent être envoyés à l’une ou plusieurs des ressources suivantes :
+Ils peuvent être envoyés à un ou plusieurs des destinataires suivants :
 
-* L’utilisateur affecté à une tâche ou à un problème.
-* Gestionnaire immédiat de l’utilisateur.
-* Le gérant du manager immédiat.
+* La personne affectée à une tâche ou à un problème.
+* Le responsable direct ou la responsable directe de cette personne.
+* La ou le responsable du responsable direct ou de la responsable directe.
 
-Bien qu’elles ne soient pas couramment utilisées, les rappels automatiques peuvent s’avérer utiles si votre entreprise a un problème avec et souhaite demander aux utilisateurs de rendre des comptes pour avoir effectué le travail à temps.
+Bien qu’ils ne soient pas couramment utilisés, les rappels automatiques peuvent être utiles si votre organisation a un problème avec les utilisateurs et utilisatrices et souhaite les responsabiliser pour qu’ils terminent leur travail à temps.
 
-Les rappels automatiques peuvent être configurés dans la variable [!UICONTROL Email] de la section [!UICONTROL Configuration] zone. Vous devez simplement déterminer les éléments suivants :
+Les rappels automatiques peuvent être configurés dans la section [!UICONTROL E-mail] de la zone [!UICONTROL Configuration]. Il vous suffit de déterminer :
 
-* Qui doit obtenir le rappel automatique.
-* Le temps avant/après l’envoi de la notification.
+* La personne qui doit recevoir le rappel automatique.
+* Le délai à prévoir avant/après la date de remise du travail pour envoyer la notification.
 
-![[!UICONTROL Reminders automatiques] fenêtre [!UICONTROL Configuration]](assets/admin-fund-automatic-reminders-1.png)
+Fenêtre ![[!UICONTROL Rappels automatiques] dans [!UICONTROL Configuration]](assets/admin-fund-automatic-reminders-1.png)
 
-A ce stade, les rappels automatiques ont été appliqués et seront envoyés dès que les critères seront remplis. En outre, les utilisateurs ne peuvent pas désactiver les rappels automatiques dans leur [!UICONTROL Mes paramètres] fenêtre.
+À ce stade, les rappels automatiques ont été appliqués et seront envoyés dès que les critères seront remplis. En outre, les utilisateurs et utilisatrices ne peuvent pas désactiver les rappels automatiques dans leur fenêtre [!UICONTROL Mes paramètres].
 
-![[!UICONTROL Reminder automatique] message électronique](assets/admin-fund-automatic-reminders-2.png)
+Message e-mail de ![[!UICONTROL Rappel automatique]](assets/admin-fund-automatic-reminders-2.png)
