@@ -1,6 +1,6 @@
 ---
-title: Utilisation de ressources dans [!UICONTROL Gestion des actifs numériques Workfront]
-description: Découvrez comment utiliser des ressources dans [!UICONTROL Gestion des actifs numériques Workfront].
+title: Utiliser des ressources dans [!UICONTROL Workfront DAM]
+description: Découvrez comment utiliser des ressources dans [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,20 +11,20 @@ jira: KT-8995
 doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Contributeur : utilisation des ressources
+# Contributeur ou contributrice : utilisation des ressources
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Chargement de ressources dans [!UICONTROL Gestion des actifs numériques Workfront]
-* Ajout de métadonnées et de mots-clés aux ressources
-* Utilisation d’un modèle de métadonnées
-* Ajout de fichiers associés à une ressource
-* Téléchargement de ressources
+* Charger des ressources dans [!UICONTROL Workfront DAM]
+* Ajouter des métadonnées et de mots-clés aux ressources
+* Utiliser un modèle de métadonnées
+* Ajouter des fichiers associés à une ressource
+* Télécharger des ressources
 
 >[!VIDEO](https://video.tv.adobe.com/v/335255/?quality=12&learn=on)
