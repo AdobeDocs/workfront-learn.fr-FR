@@ -1,6 +1,6 @@
 ---
-title: Quand et comment désactiver ou supprimer des utilisateurs
-description: Découvrez la différence entre la désactivation et la suppression des utilisateurs. Gérez ensuite les profils utilisateur en fonction des besoins de votre entreprise.
+title: Quand et comment désactiver ou supprimer des utilisateurs et utilisatrices ?
+description: Découvrez la différence entre la désactivation et la suppression d’utilisateurs et d’utilisatrices. Gérez ensuite les profils des utilisateurs et utilisatrices en fonction des besoins de votre entreprise.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,37 +11,37 @@ thumbnail: 10037.jpeg
 jira: KT-10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Quand et comment désactiver ou supprimer des utilisateurs
+# Quand et comment désactiver ou supprimer des utilisateurs et utilisatrices ?
 
-Lorsqu’un utilisateur quitte l’entreprise ou n’utilise plus [!DNL Workfront], vous souhaitez désactiver leur connexion. La suppression d’un profil utilisateur ne doit être effectuée que dans des situations spécifiques.
+Lorsqu’un utilisateur ou une utilisatrice quitte l’organisation ou n’utilise plus [!DNL Workfront], vous devez désactiver son identifiant de connexion. La suppression d’un profil d’un utilisateur ou d’une utilisatrice ne doit être effectuée que dans des situations spécifiques.
 
 ## Désactiver
 
-La désactivation d’un utilisateur supprime la licence du profil de l’utilisateur, de sorte qu’il ne puisse plus se connecter ou avoir accès à [!DNL Workfront]. Leur licence peut être attribuée à un autre utilisateur.
+La désactivation d’un utilisateur ou d’une utilisatrice supprime la licence du profil de l’utilisateur ou de l’utilisatrice, qui ne peut donc plus se connecter ou accéder à [!DNL Workfront]. Leur licence est ensuite libre d’être attribuée à un autre utilisateur ou une autre utilisatrice.
 
-Un utilisateur désactivé ne peut pas se voir attribuer une nouvelle tâche, mais il reste affecté à toute tâche existante.
+Un utilisateur ou une utilisatrice désactivé ne peut pas être affecté sur de nouveaux travaux, mais reste affecté aux travaux déjà existants.
 
-Par exemple, le travail d’un collaborateur indépendant est terminé pour un projet particulier. Vous souhaitez donc désactiver leur connexion jusqu’à la prochaine fois qu’ils seront nécessaires.
+Par exemple, le travail d’un ou d’une freelance est terminé pour un projet particulier : vous souhaitez donc désactiver son identifiant de connexion jusqu’à ce que ses services soient de nouveau nécessaires.
 
 ## Supprimer
 
-Dans de rares cas (comme une entrée accidentelle ou un utilisateur de test), il se peut qu’une connexion utilisateur doive être supprimée de [!DNL Workfront]. La suppression d’un utilisateur supprime l’association de cet utilisateur avec des éléments dans [!DNL Workfront]— affectations de travail, notes, heures, documents, objets qu’ils ont créés, etc.
+Dans de rares cas, comme une entrée accidentelle ou un utilisateur ou utilisatrice de test, il peut être nécessaire de supprimer l’identifiant de connexion d’un utilisateur ou d’une utilisatrice dans [!DNL Workfront]. La suppression d’un utilisateur ou d’une utilisatrice supprime son association avec les éléments dans [!DNL Workfront] : affectations, notes, heures, documents, objets créés, etc.
 
-Le **only** time [!DNL Workfront] recommande de supprimer un utilisateur si celui-ci n’a jamais été affecté au travail ou s’il ne possède absolument aucun historique avec les éléments Workfront.
+L’**unique** occasion où [!DNL Workfront] recommande de supprimer un utilisateur ou utilisatrice, c&#39;est lorsque ceux-ci n’ont jamais été affectés à un travail ou qu’ils ne disposent d’absolument aucun historique en lien avec des éléments Workfront.
 
-[!DNL Workfront] **fortement** recommande de désactiver un utilisateur au lieu de le supprimer. La désactivation conserve les informations sur l’utilisateur dans [!DNL Workfront], qui peut être nécessaire pour des rapports précis, la gestion de projet, etc. Si vous avez des questions sur la désactivation ou la suppression d’un utilisateur, contactez votre [!DNL Workfront] consultant ou [!DNL Workfront] assistance clientèle.
+[!DNL Workfront] recommande **fortement** de désactiver un utilisateur ou utilisatrice plutôt que de le ou la supprimer. La désactivation conserve les informations de l’utilisateur ou de l’utilisatrice dans [!DNL Workfront], qui peuvent être nécessaires pour l’exactitude de l’établissement des rapports, la gestion de projets, etc. Si vous avez des questions sur la désactivation ou la suppression d’un utilisateur ou d’une utilisatrice, adressez-vous à votre consultant ou consultante [!DNL Workfront] ou à l’assistance clientèle de [!DNL Workfront].
 
-![Plus de menu affichant les options [!DNL Users] page](assets/admin-fund-adding-users-11.png)
+![Affichage de plus d’options de menu sur la page [!DNL Users]](assets/admin-fund-adding-users-11.png)
 
-### Désactivation ou suppression d’un utilisateur
+### Désactiver ou supprimer un utilisateur ou une utilisatrice
 
-1. Sélectionner **[!UICONTROL Utilisateurs]** de la [!UICONTROL Menu Principal].
-1. Sélectionnez l’utilisateur en cochant la case en regard de son nom.
-1. Cliquez sur le bouton **[!UICONTROL Plus]** menu déroulant.
-1. Sélectionner **[!UICONTROL Désactiver]** ou **[!UICONTROL Supprimer]**.
+1. Sélectionnez **[!UICONTROL Utilisateurs et utilisatrices]** dans le [!UICONTROL Menu Principal].
+1. Sélectionnez l’utilisateur ou utilisatrice en cochant la case à côté de son nom.
+1. Cliquez sur le menu déroulant **[!UICONTROL Plus]**.
+1. Sélectionnez **[!UICONTROL Désactiver]** ou **[!UICONTROL Supprimer]**.
