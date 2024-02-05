@@ -1,5 +1,5 @@
 ---
-title: Présentation des paramètres des rapports
+title: Comprendre les paramètres des rapports
 description: Découvrez comment accéder aux paramètres des rapports Workfront et à quoi servent certains paramètres de rapport courants.
 activity: use
 feature: Reports and Dashboards
@@ -12,17 +12,17 @@ jira: KT-8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des paramètres des rapports
+# Comprendre les paramètres des rapports
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Accès aux paramètres des rapports
-* À quoi servent certains paramètres de rapport courants
+* Comment accéder aux paramètres des rapports
+* L’utilité de certains paramètres de rapport courants
 
 >[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on)
