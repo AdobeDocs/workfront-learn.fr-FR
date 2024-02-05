@@ -12,63 +12,63 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '449'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ajout d’une mise en forme conditionnelle de base à une vue
+# Ajouter une mise en forme conditionnelle de base à une vue
 
-La mise en forme conditionnelle s’effectue en créant des règles de colonne. Les règles de colonne vous permettent de mettre en forme une colonne d’une manière spécifique en fonction des critères que vous avez définis.
+La mise en forme conditionnelle s’effectue en créant des règles de colonne. Celles-ci vous permettent de mettre en forme une colonne selon les critères de votre choix.
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Mise en forme conditionnelle dans une vue
-* Création et modification d’une mise en forme conditionnelle
+* En quoi consiste la mise en forme conditionnelle dans une vue
+* Comment créer et modifier une mise en forme conditionnelle
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 ## Résumé
 
-Pour créer une mise en forme conditionnelle :
+Pour créer une mise en forme conditionnelle :
 
-1. Sélectionnez la colonne dans laquelle vous souhaitez que le formatage s&#39;affiche.
-1. Déterminez les conditions que vous souhaitez modifier dans la mise en forme.
-1. Déterminer quel type de changement de formatage fonctionnera le mieux
+1. Choisissez la colonne dans laquelle vous souhaitez que la mise en forme apparaisse.
+1. Déterminez les conditions dans lesquelles vous souhaitez que la mise en forme soit modifiée.
+1. Décidez quel type de changement de format est le plus approprié :
 
-   * couleur d&#39;arrière-plan
-   * couleur du texte
-   * texte de remplacement
-   * afficher une icône ;
+   * Couleur d’arrière-plan
+   * Couleur du texte
+   * Texte de remplacement
+   * Afficher une icône
 
-## Activité : Ajout d’une mise en forme conditionnelle à une vue
+## Activité : ajouter une mise en forme conditionnelle à une vue
 
-Créez une vue de tâche nommée &quot;Standard + Progression&quot; à l’aide de la vue Standard existante et ajoutez cette mise en forme conditionnelle sur la page [!UICONTROL Nom] colonne .
+Créez une vue de tâches nommée « Standard + Progression » en utilisant la vue Standard existante et en ajoutant cette mise en forme conditionnelle sur la colonne [!UICONTROL Nom].
 
-1. Ajoutez une règle de colonne qui affichera l’arrière-plan du champ en rouge lorsque l’état de progression de la tâche est En retard.
-1. Ajoutez une règle de colonne qui affichera l’arrière-plan du champ en jaune lorsque l’état de progression est En arrière ou En danger.
+1. Ajoutez une règle de colonne qui changera l’arrière-plan du champ en rouge lorsque le statut de progression de la tâche sera Urgent.
+1. Ajoutez une règle de colonne qui changera l’arrière-plan du champ en jaune lorsque le statut de progression sera En retard ou À risque.
 
-Cela vous aidera à repérer les tâches en problème sans inclure la colonne pour l’état d’avancement dans votre vue.
+Cela vous aidera à repérer les tâches en difficulté sans avoir à inclure la colonne du statut de progression dans votre vue.
 
 ## Réponse
 
-![Image de l’écran de création d’une règle de colonne](assets/conditional-formatting-exercise.png)
+![Image de l’écran de création d’une nouvelle règle de colonne](assets/conditional-formatting-exercise.png)
 
-1. Dans un rapport de liste de tâches, accédez au **[!UICONTROL Affichage]** menu déroulant, puis sélectionnez **[!UICONTROL Nouvelle vue]**.
-1. Nommez votre vue &quot;Standard + Progression&quot;.
+1. Dans un rapport de liste de tâches, allez dans le menu déroulant **[!UICONTROL Vue]** et sélectionnez **[!UICONTROL Nouvelle vue]**.
+1. Nommez votre vue « Standard + Progression ».
 1. Utilisez les colonnes par défaut fournies.
-1. Sélectionnez la [!UICONTROL Nom de la tâche] colonne . Il s’agit de la colonne à laquelle vous souhaitez appliquer la mise en forme conditionnelle. Elle apparaît donc en rouge ou en jaune si l’état d’avancement de la tâche n’est pas Activé.
-1. Cliquez sur **[!UICONTROL Options avancées]** dans le coin supérieur droit de la fenêtre du créateur de rapports.
-1. Cliquez sur **[!UICONTROL Ajouter une règle pour cette colonne]**.
-1. Commencez la règle de colonne en modifiant les [!UICONTROL Tâche] > [!UICONTROL Nom] dans la partie supérieure de la fenêtre. [!UICONTROL Tâche] > [!UICONTROL État de progression]. Cliquez simplement sur le bouton **[!UICONTROL X]** en regard de [!UICONTROL Tâche] > [!UICONTROL Nom] pour la supprimer du champ.
-1. Saisissez &quot;progress&quot; dans le champ, puis sélectionnez [!UICONTROL État de progression] sous le [!UICONTROL Tâche] source du champ.
-1. Sélectionner **[!UICONTROL Tard]** dans le champ situé à droite du champ [!UICONTROL Égal] qualificateur.
-1. Sélectionnez une arrière-plan rouge dans la [!UICONTROL Couleur du texte] ligne.
+1. Sélectionnez la colonne [!UICONTROL Nom de tâche]. Il s’agit de la colonne à laquelle vous souhaitez appliquer la mise en forme conditionnelle, afin que cette colonne apparaisse en rouge ou en jaune si le statut de progression de la tâche n’est pas Dans les temps.
+1. Cliquez sur **[!UICONTROL Options avancées]** dans le coin supérieur droit de la fenêtre du générateur de rapports.
+1. Cliquez sur **[!UICONTROL Ajouter une règle à cette colonne]**.
+1. Commencez la règle de la colonne en remplaçant [!UICONTROL Tâche] > [!UICONTROL Nom] en haut de la fenêtre par [!UICONTROL Tâche] > [!UICONTROL Statut de progression]. Il suffit de cliquer sur l’icône **[!UICONTROL X]** à côté de [!UICONTROL Tâche] > [!UICONTROL Nom] pour le supprimer du champ.
+1. Saisissez « progression » dans le champ, puis sélectionnez [!UICONTROL Statut de progression] comme source du champ [!UICONTROL Tâche].
+1. Sélectionnez **[!UICONTROL Urgent]** dans le champ situé à droite du qualificatif [!UICONTROL Égal].
+1. Choisissez un arrière-plan rouge dans la ligne [!UICONTROL Couleur du texte].
 1. Cliquez sur **[!UICONTROL Ajouter une règle]** pour enregistrer la règle de colonne.
-1. Cliquez maintenant sur **[!UICONTROL Ajouter une règle de colonne]** pour ajouter une autre règle.
-1. Comme avant, supprimez [!UICONTROL Tâche] > [!UICONTROL Nom] dans le champ critères . Remplacez-le par [!UICONTROL État de progression] sous le [!UICONTROL Tâche] source du champ.
-1. Sélectionnez les deux [!UICONTROL À risque] et [!UICONTROL Derrière] dans le champ situé à droite du qualificateur Egal .
-1. Sélectionnez une couleur jaune dans la [!UICONTROL Couleur du texte] ligne.
+1. Cliquez à nouveau sur **[!UICONTROL Ajouter une règle de colonne]** pour ajouter une autre règle.
+1. De la même manière que précédemment, supprimez [!UICONTROL Tâche] > [!UICONTROL Nom] du champ des critères. Remplacez-le par [!UICONTROL Statut de la progression] comme source du champ [!UICONTROL Tâche].
+1. Sélectionnez à la fois [!UICONTROL À risque] et [!UICONTROL En retard] dans le champ situé à droite du qualificatif Égal.
+1. Choisissez un arrière-plan jaune dans la ligne [!UICONTROL Couleur du texte].
 1. Cliquez sur **[!UICONTROL Ajouter une règle]** pour enregistrer la règle de colonne.
 1. Cliquez sur **[!UICONTROL Enregistrer la vue]** pour enregistrer la vue.
