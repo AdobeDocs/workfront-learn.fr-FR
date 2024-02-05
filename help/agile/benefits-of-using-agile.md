@@ -1,5 +1,5 @@
 ---
-title: Avantages d’Agile
+title: Avantages de l’utilisation d’Agile
 description: Découvrez les avantages de l’utilisation d’une méthodologie agile.
 feature: Agile
 role: Admin, Leader, User
@@ -10,30 +10,30 @@ hide: true
 hidefromtoc: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Avantages d’Agile
+# Avantages de l’utilisation d’Agile
 
-## Possibilité d’ajuster et de pivoter rapidement
+## Possibilité d’ajuster et de changer rapidement de direction
 
-Comme son nom l&#39;indique, la méthodologie Agile permet aux équipes d&#39;être mieux équipées pour changer rapidement de direction et de concentration. Les sociétés du logiciel et du marketing sont particulièrement conscientes de la tendance des changements de la demande qui se produisent d&#39;une semaine à l&#39;autre. Agile permet aux équipes de réévaluer le travail qu’elles font et de s’ajuster par incréments donnés afin de s’assurer que, à mesure que le travail et le paysage client changent, la cible d’action change également pour l’équipe.
+Comme son nom l’indique, la méthodologie agile permet aux équipes d’être mieux équipées pour changer rapidement de direction et d’orientation. Les entreprises de logiciels et de marketing sont particulièrement conscientes de la tendance à l’évolution de la demande d’une semaine à l’autre. La méthodologie agile permet aux équipes de réévaluer le travail qu’elles font et de s’ajuster par incréments donnés afin de s’assurer que, à mesure que le travail et le paysage client changent, la cible d’action change également pour l’équipe.
 
 ![Flux de travail agile](assets/agile-work-stream.png)
 
 ## Transparence dans le travail d’une équipe
 
-Les équipes agiles utilisent des réunions quotidiennes appelées &quot;stand-up&quot; pour s’assurer que l’équipe reste concentrée sur la liste prioritaire des fonctionnalités ou produits à développer. Ils ne ressentent plus la confusion de ne pas savoir sur quoi travaillent tous les autres membres de leur équipe. Ils gardent régulièrement un oeil sur ce que l&#39;équipe a accompli de la veille, sur les problèmes ou les obstacles qu&#39;ils pourraient avoir à résoudre et sur ce qu&#39;ils prévoient de faire ce jour-là.
+Les équipes agiles organisent des réunions quotidiennes appelées « stand-up » pour s’assurer que l’équipe reste concentrée sur la liste prioritaire des fonctionnalités ou des produits à développer. Elles n’ont plus à subir la confusion de ne pas savoir sur quoi travaillent les autres membres de leur équipe. Elles gardent régulièrement un œil sur ce que l’équipe a accompli la veille, sur les problèmes ou les obstacles qu’elles pourraient avoir à résoudre et sur ce qu’elles prévoient de faire ce jour-là.
 
 
 
-Disposer de cette transparence et d&#39;une direction unifiée permet à chacun d&#39;aller de l&#39;avant, plus vite.
+Disposer de cette transparence et d’une direction unifiée permet à chaque personne d’aller de l’avant, plus vite.
 
 
 
 ## Commentaires fréquents
 
-Le dernier avantage majeur de l’adoption d’Agile serait la boucle de rétroaction qui est incorporée à la fin de chaque itération (n’oubliez pas : une itération est une durée définie pendant laquelle l’équipe doit travailler à l’exécution de livrables spécifiques. La boucle de rétroaction permet à une équipe de regarder en arrière au cours des deux dernières semaines afin de déterminer les problèmes qui se sont posés, comment le plan peut changer à l’avenir, ce dont le client a maintenant besoin si les besoins précédents ont changé et les leçons apprises en tant qu’équipe.
+Le dernier avantage majeur de l’adoption de la méthodologie agile est la boucle de commentaires qui est incorporée à la fin de chaque itération (rappelons qu’une itération est une période de temps déterminée pendant laquelle l’équipe doit travailler à l’achèvement de produits spécifiques). La boucle de commentaires permet à une équipe de regarder en arrière au cours des deux dernières semaines afin de déterminer les problèmes qui se sont posés, comment le plan peut changer à l’avenir, ce dont la clientèle a maintenant besoin si les besoins précédents ont changé et les leçons apprises en tant qu’équipe.
