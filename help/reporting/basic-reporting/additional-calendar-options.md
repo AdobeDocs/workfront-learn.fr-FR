@@ -1,5 +1,5 @@
 ---
-title: Présentation des options de rapport de calendrier supplémentaires
+title: Comprendre les options supplémentaires de rapport de calendrier
 description: Découvrez comment copier, modifier, partager et supprimer un calendrier.
 activity: use
 feature: Reports and Dashboards
@@ -12,27 +12,27 @@ thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Présentation des options de rapport de calendrier supplémentaires
+# Comprendre les options supplémentaires de rapport de calendrier
 
-Un rapport de calendrier est un rapport dynamique qui affiche les heures de travail et de congé dans une vue Calendrier. Vous pouvez afficher des informations sur les dates dans un rapport de calendrier pour les objets suivants :
+Un rapport de calendrier est un rapport dynamique qui affiche le travail et les congés sous forme de calendrier. Vous pouvez afficher les dates dans un rapport de calendrier pour les objets suivants :
 
 * Tâches
 * Projets
 * Problèmes
 * Congés
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous découvrirez comment :
 
 * Copier un calendrier
-* Modification d’un groupement de calendrier
-* Suppression d’un regroupement de calendrier
-* Partage d’un calendrier
-* Suppression d’un calendrier
+* Modifier un regroupement de calendriers
+* Supprimer un regroupement de calendriers
+* Partager un calendrier
+* Supprimer un calendrier
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on)
