@@ -1,6 +1,6 @@
 ---
-title: Comprendre le mode de texte de base pour les regroupements
-description: Découvrez le mode texte, la casse des chameaux et le mode texte de base "plug and play" que vous pouvez utiliser dans vos regroupements dans Workfront.
+title: Comprendre le mode texte de base pour les regroupements
+description: Découvrez le mode texte, le camel case et le mode texte de base « plug and play » que vous pouvez utiliser dans vos regroupements dans Workfront.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,38 +12,38 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendre le mode de texte de base pour les regroupements
+# Comprendre le mode texte de base pour les regroupements
 
 >[!IMPORTANT]
 >
->Conditions préalables :
+>Prérequis :
 >
->* Présentation des éléments de reporting
->* Présentation des composants de création de rapports
->* Créer un groupement de base
+>* Comprendre les éléments de reporting
+>* Comprendre les composants de reporting
+>* Créer un regroupement de base
 
 >[!TIP]
 >
->* Pour mieux comprendre le mode texte, nous vous recommandons de regarder l’événement webinaire enregistré. [Demander à l’expert - Présentation du reporting en mode texte](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), qui dure une heure.
->* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder la [Rapports avancés](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) les tutoriels qui, ensemble, durent cinq heures et demie.
+>* Pour mieux comprendre le mode texte, nous vous recommandons de regarder le webinaire enregistré [Ask the Expert - Présentation de la création de rapports en mode texte](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=fr), d’une durée d’une heure.
+>* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder les tutoriels [Reporting avancé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=fr), qui durent cinq heures et demie en tout.
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Quel mode de texte ?
-* Quelle casse de chameau ?
-* Un mode de texte &quot;plug and play&quot; de base que vous pouvez utiliser dans vos regroupements.
+* En quoi consiste le mode texte
+* En quoi consiste le camel case
+* Un mode texte « plug and play » de base que vous pouvez utiliser dans vos groupements
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Tâche - Groupement 4 parents
+## Tâche - Regroupement de 4 parents
 
-Le mode de texte suivant regroupe les tâches en fonction de quatre niveaux de parents au maximum et laisse les parents qui n’existent pas vides.
+Le mode texte suivant regroupe les tâches en fonction de quatre niveaux de parents au maximum et laisse les parents qui n’existent pas vides.
 
 ```
 textmode=true
@@ -55,18 +55,18 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![Image d’écran montrant les tâches du projet regroupées par 4 parents](assets/4-parents-grouping.png)
+![Image d’écran montrant les tâches du projet regroupées par 4 parents](assets/4-parents-grouping.png)
 
 
 ## Tâche - Regroupement en pourcentage terminé
 
-Le mode de texte suivant regroupe les tâches en fonction de leur pourcentage d’achèvement. Les tâches sont regroupées dans l’une des catégories suivantes :
+Le mode texte suivant regroupe les tâches en fonction de leur pourcentage terminé. Les tâches sont regroupées dans l’une des catégories suivantes :
 
 * 0%
-* 1 % à 25 %
-* 26 % à 50 %
-* 51 à 75 %
-* 76 % à 99 %
+* 1 à 25 %
+* 26 à 50 %
+* 51 à 75 %
+* 76 à 99 %
 * 100%
 
 ```
@@ -77,11 +77,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![Image d’écran montrant les tâches du projet regroupées par pourcentage de réalisation](assets/percent-complete-grouping.png)
+![Image d’écran montrant les tâches du projet regroupées par pourcentage terminé](assets/percent-complete-grouping.png)
 
-## Task - statusEquatesWith, puis status
+## Tâche - statusEquatesWith, puis statut
 
-Le mode de texte suivant regroupe les tâches par statusEquatesWith, puis par status.
+Le mode texte suivant regroupe les tâches par statusEquatesWith, puis par statut.
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -104,7 +104,7 @@ textmode=true
 ![Image d’écran montrant les tâches de projet regroupées par statusEquatesWith](assets/status-equates-with.png)
 
 
-## Approbation de BAT - Groupe par nom de projet
+## Approbation de BAT - Regroupement par nom de projet
 
 ```
 group.0.valueformat=HTML
@@ -112,10 +112,10 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![Image d&#39;écran montrant les validations du BAT regroupées par nom de projet](assets/proof-approvals-grouped-by-project-name.png)
+![Image d’écran montrant les approbations du BAT regroupées par nom de projet](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Approbation de BAT - Regrouper par nom de document
+## Approbation de BAT - Regroupement par nom de document
 
 ```
 group.0.displayname=Document Name
@@ -123,5 +123,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![Image d&#39;écran montrant les validations du BAT regroupées par nom de projet](assets/proof-approvals-grouped-by-doc-name.png)
+![Image d’écran montrant les validations du BAT regroupées par nom de projet](assets/proof-approvals-grouped-by-doc-name.png)
 
