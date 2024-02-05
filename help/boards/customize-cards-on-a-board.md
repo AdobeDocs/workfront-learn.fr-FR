@@ -1,5 +1,5 @@
 ---
-title: Personnalisation des cartes sur un panorama
+title: Personnaliser des cartes sur un panorama
 description: Découvrez comment personnaliser les informations affichées sur une carte d’un panorama, que ce soit en mode complet ou condensé.
 feature: Agile
 role: Admin, Leader, User
@@ -10,13 +10,13 @@ jira: KT-13776
 thumbnail: 3422520.jpeg
 exl-id: ff3ec41f-2a8d-4e09-aa8e-5c57d69cff36
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personnalisation des cartes sur un panorama
+# Personnaliser des cartes sur un panorama
 
 Découvrez comment personnaliser les informations affichées sur une carte d’un panorama, que ce soit en mode complet ou condensé.
 
