@@ -1,6 +1,6 @@
 ---
-title: Comment effectuer une mise à jour dans [!UICONTROL Accueil]
-description: Découvrez comment effectuer des mises à jour sur les affectations de travail et répondre aux mises à jour existantes. Balise [!DNL Workfront] dans les mises à jour afin qu’ils soient informés de la communication.
+title: Exécution d’une mise à jour dans [!UICONTROL Accueil]
+description: Apprenez à faire des mises à jour sur les affectations de travail et à répondre aux mises à jour existantes. Taguer les utilisateurs et utilisatrices de  [!DNL Workfront]  dans les mises à jour afin qu’ils ou elles soient informé(e)s de la communication.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,35 +12,35 @@ jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Communiquer sur le travail avec les mises à jour dans [!DNL Workfront] [!UICONTROL Accueil]
+# Communiquer sur le travail avec des mises à jour dans [!UICONTROL Accueil] de [!DNL Workfront]
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Communication des mises à jour des affectations de travail
-* Balisage des utilisateurs sur [!DNL Workfront] mises à jour
+* Communiquer par le biais de mises à jour sur les affectations de travail
+* Taguer les utilisateurs et utilisatrices sur les mises à jour de [!DNL Workfront]
 * Répondre aux mises à jour existantes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
 
-## Conseils pour mettre à jour le travail dans [!UICONTROL Accueil]
+## Conseils pour la mise à jour des travaux dans [!UICONTROL Accueil]
 
 * Utilisez les mises à jour pour poser des questions, fournir des informations supplémentaires ou partager une mise à jour générale sur le travail en cours.
-* &quot;Baliser&quot; autre [!UICONTROL Workfront] utilisateurs disposant du @name pour s’assurer qu’ils sont informés de la mise à jour. Il s’agit de la meilleure façon de s’assurer que des personnes spécifiques consultent les informations les plus récentes. Vous pouvez &quot;baliser&quot; des utilisateurs individuels ou une équipe dans une mise à jour.
-* Souvenez-vous que l’équivalent de l’e-mail tristement célèbre &quot;Répondez tous&quot; est lorsque vous marquez une équipe ou un groupe et continuez à répondre dans le thread. Tenez compte de ceci pour éviter de causer de l&#39;agacement. Vous pouvez rediriger la balise au-dessus ou au-dessous tout en restant dans le contexte de l’objet .
+* « Taguez» les autres utilisateurs et utilisatrices de [!UICONTROL Workfront] avec le @name pour vous assurer qu’ils ou elles sont au courant de la mise à jour. C’est la meilleure façon de s’assurer que des personnes spécifiques voient les informations les plus récentes. Vous pouvez « taguer » des utilisateurs ou utilisatrices individuel(le)s ou une équipe dans une mise à jour.
+* Rappelez-vous que l&#39;équivalent du fameux e-mail « répondre à tous » est lorsque vous taguez une équipe ou un groupe et que vous continuez à répondre dans le fil de discussion. Faites attention à cela pour éviter de subir des désagréments. Vous pouvez diriger la balise au-dessus ou au-dessous, tout en restant dans le contexte de l’objet.
 
 <!---
 paragraph below needs a hyperlink to an article
 --->
 
-* Si vous n’êtes pas affecté à une tâche, mais que vous souhaitez recevoir des notifications, abonnez-vous à la tâche. En savoir plus dans l’article Abonner aux éléments dans [!UICONTROL Workfront] dans la nouvelle [!UICONTROL Workfront] expérience.
+* Si aucune tâche ne vous a été affectée, mais que vous souhaitez recevoir des notifications, abonnez-vous à la tâche. Pour en savoir plus, consulter l’article S’abonner aux éléments de [!UICONTROL Workfront] dans la nouvelle expérience [!UICONTROL Workfront].
 * Publiez les mises à jour un jour spécifique de la semaine afin que tout le monde sache quand chercher les informations les plus récentes.
-* Utilisez les outils de texte enrichi pour mettre en forme vos mises à jour. Placez les informations en gras ou créez un résumé facile à lire avec des puces.
+* Utilisez les outils de texte enrichi pour formater vos mises à jour. Faites en sorte que les informations apparaissent en gras ou créez un résumé facile à lire avec des puces.
 
 <!---
 learn more URLs
