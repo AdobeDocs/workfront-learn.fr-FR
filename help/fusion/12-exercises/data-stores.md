@@ -1,6 +1,6 @@
 ---
-title: Entrepôts de données
-description: Découvrez comment synchroniser les noms d’entreprise entre deux systèmes. (Doit comporter entre 60 et 160 caractères, mais 59 caractères)
+title: Magasins de données
+description: Découvrez comment synchroniser des noms d’entreprise entre deux systèmes. (Doit comporter entre 60 et 160 caractères, mais comporte 59 caractères)
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,127 +11,127 @@ jira: KT-11055
 thumbnail: KT11055.png
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '878'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entrepôts de données
+# Magasins de données
 
-Découvrez comment synchroniser les noms d’entreprise entre deux systèmes.
+Découvrez comment synchroniser des noms d’entreprise entre deux systèmes.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-Il s’agit de la première partie d’une synchronisation unidirectionnelle des entreprises dans Workfront et d’un autre système. Pour l’instant, il ne se synchronise qu’entre un entrepôt de données Fusion et Workfront. Un tableau d’un entrepôt de données effectue le suivi du Workfront ID (WFID) et de l’ID d’entreprise dans le fichier CSV (CID) pour chaque entreprise. Cela permet une synchronisation bidirectionnelle à un moment ou à un autre.
+Il s’agit de la première partie d’une synchronisation unidirectionnelle d’entreprises dans Workfront avec un autre système. Pour l’instant, la synchronisation ne se fait qu’entre un magasin de données Fusion et Workfront. Une table dans un magasin de données conserve l&#39;identifiant Workfront (WFID) et l’identifiant d’entreprise dans le fichier CSV (CID) pour chaque entreprise. Cela permet une éventuelle synchronisation bidirectionnelle ultérieure.
 
-![Images 1 des entrepôts de données](../12-exercises/assets/data-stores-walkthrough-1.png)
+![Image 1 - Magasins de données](../12-exercises/assets/data-stores-walkthrough-1.png)
 
 ## Étapes à suivre
 
-**Téléchargez le fichier depuis Workfront.**
+**Téléchargez le fichier à partir de Workfront.**
 
-1. Dans le dossier Workfront &quot;Fusion Exercise Files&quot;, sélectionnez &quot;_Entreprises.csv&quot; et cliquez sur Document Details.
-1. Copiez le premier numéro d’identifiant de l’adresse URL.
-1. Dans Fusion, créez un scénario appelé &quot;Utilisation des entrepôts de données pour synchroniser les données&quot;.
-1. Pour le module de déclenchement, sélectionnez le module Document de téléchargement Workfront.
+1. Dans le dossier Workfront « Fusion Exercise Files », sélectionnez « _Entreprises.csv » et cliquez sur Détails du document.
+1. Copiez le premier numéro d’identifiant de l’adresse URL.
+1. Dans Fusion, créez un scénario nommé « Utilisation des magasins de données pour synchroniser les données ».
+1. Pour le module de déclenchement, sélectionnez le module de téléchargement de document Workfront.
 1. Configurez votre connexion Workfront et incluez l’ID de document copié à partir de l’URL Workfront.
-1. Nommez ce module &quot;Get company file&quot; (Obtenir le fichier des entreprises).
-1. Ajoutez maintenant un module CSV Parse.
-1. Pour le champ Nombre de colonnes , saisissez 2.
-1. Mapper les données du module Télécharger le document dans le champ CSV.
-1. Nommez ce module &quot;Fichier d’analyse des entreprises&quot;.
+1. Nommez ce module « Obtenir le fichier des entreprises ».
+1. Ajoutez un module d’analyse CSV.
+1. Dans le champ Nombre de colonnes, saisissez 2.
+1. Mappez les données du module de téléchargement de document dans le champ CSV.
+1. Nommez ce module « Analyse du fichier des entreprises ».
 1. Enregistrez votre scénario et cliquez sur Exécuter une fois.
 
-   **Créez un entrepôt de données et une structure de données.**
+   **Créez un magasin de données et une structure de données.**
 
-1. Ajoutez un module d’enregistrements de recherche de l’entrepôt de données.
-1. Créez un entrepôt de données appelé &quot;Synchronisation des entreprises&quot;.
-1. Dans l’entrepôt de données, créez une structure de données nommée &quot;Synchronisation des entreprises (structure)&quot;.
+1. Ajoutez un module d’enregistrement des recherches d’un magasin de données.
+1. Créez un magasin de données nommé « Synchronisation de l’entreprise ».
+1. Dans le magasin de données, créez une structure de données nommée « Synchronisation de l’entreprise (structure) ».
 1. Créez quatre champs.
 
-   + CID : ID d’entreprise dans le fichier CSV
-   + Nom de la société
-   + WFID - ID de société Workfront
-   + Date de création - Assurez-vous que le type de données est date
+   + CID : ID d’entreprise dans le fichier CSV
+   + Nom de l’entreprise
+   + WFID : Identifiant Workfront de l’entreprise
+   + Date de création : assurez-vous que le type de données est « date »
 
-   ![Images 2 des entrepôts de données](../12-exercises/assets/data-stores-walkthrough-2.png)
+   ![Image 2 - Magasins de données](../12-exercises/assets/data-stores-walkthrough-2.png)
 
-1. Cliquez sur Enregistrer sur la structure de données, puis définissez la taille de stockage des données sur 1 et enregistrez l’entrepôt de données.
-1. Continuez dans le module Data Store , configurez un filtre où l’ID de client est égal à l’ID de la société à partir du module CSV Parse (colonne 1).
-1. Cliquez sur Afficher les paramètres avancés et sélectionnez l’option pour &quot;poursuivre l’exécution du scénario ou de l’itinéraire, même si ce module revient sans résultat&quot;.
+1. Cliquez sur Enregistrer sur la structure de données, puis définissez la taille de stockage des données sur 1 et enregistrez le magasin de données.
+1. Toujours dans le module Magasin de données, configurez un filtre dans lequel le CID est égal à l’ID de l’entreprise à partir du module Analyse CSV (colonne 1).
+1. Cliquez sur Afficher les paramètres avancés et sélectionnez l’option « Poursuivre l’exécution du scénario ou de l’itinéraire, même si ce module ne renvoie aucun résultat ».
 
-   ![Images 3 des entrepôts de données](../12-exercises/assets/data-stores-walkthrough-3.png)
+   ![Image 3 - Magasins de données](../12-exercises/assets/data-stores-walkthrough-3.png)
 
-1. Renommez ce module &quot;Correspondance avec les entreprises&quot;.
-1. Ajoutez un module d’enregistrements de recherche Workfront.
-1. Choisissez Société comme type d’enregistrement.
-1. Les critères de recherche correspondent au nom de la société dans Workfront, égal au nom de la société dans le fichier CSV.
+1. Renommez ce module « Entreprises correspondantes ».
+1. Ajoutez un module d’enregistrements des recherches Workfront.
+1. Choisissez Entreprise comme type d’enregistrement.
+1. Les critères de recherche correspondent au nom de l’entreprise dans Workfront, qui est égal au nom de l’entreprise dans le fichier CSV.
 1. Pour les sorties, sélectionnez le nom de l’entreprise et l’identifiant.
 
-   ![Entrepôts de données Image 4](../12-exercises/assets/data-stores-walkthrough-4.png)
+   ![Image 4 - Magasins de données](../12-exercises/assets/data-stores-walkthrough-4.png)
 
-1. Cliquez sur OK et renommez ce module &quot;Sociétés correspondantes&quot;.
+1. Cliquez sur OK et renommez ce module « Entreprises correspondantes ».
 
-   **Créez des chemins d’accès différents selon que l’entreprise existe dans Workfront ou dans l’entrepôt de données.**
+   **Créez des chemins différents selon que l’entreprise existe dans Workfront ou dans le magasin de données.**
 
-   **Chemin de routage 1 - Créez une société.**
+   **Chemin de routage 1 - Créer une entreprise.**
 
-1. Ajoutez un module de routeur à droite du module Enregistrements de recherche Workfront .
-1. Ajoutez un module Workfront Create Record au chemin supérieur.
-1. Définissez le type d’enregistrement sur Société.
-1. Sélectionnez Nom dans Champs à mapper. Faites correspondre le champ du nom à la sortie du module Parse CSV (Colonne 2).
-1. Renommez ce module &quot;Créer une société&quot;.
+1. Ajoutez un module de routeur à droite du module d’enregistrements des recherches Workfront.
+1. Ajoutez un module de création d’enregistrement Workfront au chemin supérieur.
+1. Définissez le type d’enregistrement sur Entreprise.
+1. Sélectionnez Nom dans Champs à mapper. Mappez le champ du nom à la sortie du module d’analyse CSV (colonne 2).
+1. Renommez ce module « Créer une entreprise ».
 
-   ![Entrepôts de données Image 5](../12-exercises/assets/data-stores-walkthrough-5.png)
+   ![Image 5 - Magasins de données](../12-exercises/assets/data-stores-walkthrough-5.png)
 
-1. Ajoutez un filtre après le routeur pour créer une société uniquement si elle n&#39;est pas déjà dans Workfront. Nommez-le &quot;Not in Workfront&quot; (Pas dans).
-1. Définissez la condition sur l’ID à partir du module de recherche Workfront et n’existe pas.
+1. Ajoutez un filtre après le routeur pour ne créer une entreprise que si elle n’est pas déjà présente dans Workfront. Nommez-le « Pas dans Workfront ».
+1. Définissez la condition sur l’ID issu du module de recherche Workfront, et sur « n’existe pas ».
 
-   ![Entrepôts de données Image 6](../12-exercises/assets/data-stores-walkthrough-6.png)
+   ![Magasins de données - Image 6](../12-exercises/assets/data-stores-walkthrough-6.png)
 
-   **Préparez-vous à mettre à jour l’entrepôt de données dans le chemin suivant.**
+   **Préparez-vous à mettre à jour le magasin de données dans le chemin suivant.**
 
 1. Ajoutez un module Définir la variable à la fin du chemin d’accès supérieur.
-1. Définissez le nom de la variable sur &quot;Workfront ID&quot;.
-1. Définissez la valeur Variable sur l’identifiant à partir du module Créer une société .
-1. Renommez ce module &quot;Set Workfront ID&quot; (Définition de l’ID).
+1. Définissez le nom de la variable sur « Workfront ID ».
+1. Définissez la valeur de la variable sur l’ID issu du module Créer une entreprise.
+1. Renommez ce module « Définir le Workfront ID ».
 
-   **Chemin de routage 2 - Mettez à jour l’entrepôt de données.**
+   **Chemin de routage 2 - Mise à jour du magasin de données.**
 
-1. Créez un filtre sur le chemin de routage 2. Nommez-le &quot;Not in data store&quot; (Pas dans l’entrepôt de données).
+1. Créez un filtre sur le chemin de routage 2. Nommez-le « Pas dans le magasin de données ».
 
-1. Définissez la condition sur la clé du module Data Store et n’existe pas.
+1. Définissez la Condition sur la Clé du module Magasin de données, et sur « n’existe pas ».
 
-   ![Entrepôts de données Image 7](../12-exercises/assets/data-stores-walkthrough-7.png)
+   ![Magasins de données - Image 7](../12-exercises/assets/data-stores-walkthrough-7.png)
 
-1. Le premier module de ce chemin est le module Get variable.
-1. Définissez le nom de la variable sur &quot;Workfront ID&quot;.
-1. Renommez ce module &quot;Get Workfront ID&quot;.
-1. Ajoutez un autre module de l’application Data Store, ajoutez/remplacez un enregistrement.
-1. Dans le champ Entrepôt de données , sélectionnez Synchronisation de l’entreprise. Il s’agit de l’entrepôt de données que vous avez créé précédemment.
+1. Le premier module de ce chemin est le module Obtenir une variable.
+1. Définissez le nom de la variable sur « Workfront ID ».
+1. Renommez ce module « Obtenir le Workfront ID ».
+1. Ajoutez un autre module issu de l’application du Magasin de données : Ajouter/remplacer un enregistrement.
+1. Dans le champ Magasin de données, sélectionnez Synchronisation de l’entreprise. Il s’agit du magasin de données que vous avez créé précédemment.
 1. Laissez le champ Clé vide.
-1. Mappez le champ CID de la colonne 1 dans le module CSV Parse.
-1. Faites correspondre le champ du nom de l’entreprise de la colonne 2 dans le module Parse CSV.
-1. Faites correspondre le champ WFID à partir du module Get Workfront ID.
-1. Pour le champ Date de création , utilisez la fonction formatDate de l’onglet Date et heure afin de formater la date actuelle sous la forme MM/JJ/AAAA.
+1. Mappez le champ CID de la colonne 1 sur le module Analyse CSV.
+1. Mappez le champ du nom de l’entreprise de la colonne 2 sur le module Analyse CSV.
+1. Mappez le champ WFID du module Obtenir le Workfront ID.
+1. Pour le champ Date de création, utilisez la fonction formatDate de l’onglet Date et heure afin de définir le format de la date actuelle sur MM/JJ/AAAA.
 
-   ![Entrepôts de données Image 8](../12-exercises/assets/data-stores-walkthrough-8.png)
+   ![Magasins de données - Image 8](../12-exercises/assets/data-stores-walkthrough-8.png)
 
-1. Cliquez sur OK et renommez ce module &quot;Créer une entrée d’entreprise&quot;.
+1. Cliquez sur OK et renommez ce module « Créer une entrée d’entreprise ».
 
-   **Chemin de routage 3 - Synchroniser l’entrepôt de données entre les systèmes.**
+   **Chemin de routage 3 - Synchronisation du magasin de données entre les systèmes.**
 
-1. Commencez par créer un filtre sur le chemin de routage 3. Nommez-le &quot;La société existe, pas dans l’entrepôt de données&quot;.
-1. Définissez la condition sur la clé à partir du module d’enregistrements de recherche de l’entrepôt de données et n’existe pas.
-1. Cliquez sur le bouton Ajouter la règle AND et indiquez que le nom de la société dans le fichier CSV (Colonne 2) est égal au nom de la société trouvée dans le module de recherche Workfront.
+1. Commencez par créer un filtre sur le chemin de routage 3. Nommez-le « entreprise existante, pas présente dans le magasin de données ».
+1. Définissez la condition sur la clé issue du module de recherche d’enregistrements du magasin de données, et sur « n’existe pas ».
+1. Cliquez sur le bouton Ajouter une règle AND et indiquez que le nom de l’entreprise issu du fichier CSV (Colonne 2) est égal au nom de l’entreprise présent dans le module de recherche Workfront.
 
-   ![Entrepôts de données Image 9](../12-exercises/assets/data-stores-walkthrough-9.png)
+   ![Magasins de données - Image 9](../12-exercises/assets/data-stores-walkthrough-9.png)
 
-1. Ajoutez maintenant un autre module Ajouter/Remplacer un module d’enregistrement en clonant celui à la fin du chemin de routage 2.
-1. Faites glisser le module cloné en place à la fin du chemin de routage 3. Supprimez le module vide qui s’y trouvait.
-1. Cliquez sur le module cloné. Tous les champs doivent rester identiques, à l’exception du champ WFID . Mappez-le à partir du module Recherche des sociétés correspondantes.
+1. Ajoutez maintenant un autre module Ajouter/Remplacer un enregistrement, en clonant celui se trouvant à la fin du chemin de routage 2.
+1. Faites glisser le module cloné jusqu’à la fin du chemin de routage 3. Supprimez le module vide qui s’y trouvait.
+1. Cliquez sur le module cloné. Tous les champs doivent rester inchangés, à l’exception du champ WFID. Mappez-le à partir du module Recherche des entreprises correspondantes.
 
-   ![Image 10 des entrepôts de données](../12-exercises/assets/data-stores-walkthrough-10.png)
+   ![Magasins de données - Image 10](../12-exercises/assets/data-stores-walkthrough-10.png)
 
-1. Cliquez sur OK et renommez ce module &quot;Créer une entrée d’entreprise&quot;.
+1. Cliquez sur OK et renommez ce module « Créer une entrée d’entreprise ».
