@@ -1,17 +1,17 @@
 ---
-title: Tutorials Workfront
-description: Une bibliothèque de vidéos et d’articles de formation conçus pour vous aider à mieux comprendre les fonctionnalités et paramètres de Workfront.  Il comprend un ensemble de bonnes pratiques, d’exercices organisés et d’autres ressources qui vous aideront, ainsi que votre organisation, à réussir avec Workfront.
+title: Tutoriels Workfront
+description: Une bibliothèque de vidéos de formation et d’articles conçus pour vous aider à mieux comprendre les fonctionnalités et les paramètres de Workfront.  Elle comprend un ensemble de bonnes pratiques, d’exercices organisés et d’autres ressources qui vous aideront, ainsi que votre organisation, à réussir avec Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Tutorials Workfront {#overview}
+# Tutoriels Workfront {#overview}
 
-Une bibliothèque de vidéos et d’articles de formation conçus pour vous aider à mieux comprendre les fonctionnalités et paramètres de Workfront.  Il comprend un ensemble de bonnes pratiques, d’exercices organisés et d’autres ressources qui vous aideront, ainsi que votre organisation, à réussir avec Workfront.
+Une bibliothèque de vidéos de formation et d’articles conçus pour vous aider à mieux comprendre les fonctionnalités et les paramètres de Workfront.  Elle comprend un ensemble de bonnes pratiques, d’exercices organisés et d’autres ressources qui vous aideront, ainsi que votre organisation, à réussir avec Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
@@ -24,13 +24,13 @@ See other user landing pages to get ideas.
 
 <div id="whats-new-section">
 
-## Quoi de neuf ?
+## Quelles sont les nouveautés ?
 
-Découvrez les dernières mises à jour apportées aux tutoriels pour chaque version de produit Workfront. Voici ce qui a été mis à jour avec la dernière version :
+Découvrez les dernières mises à jour des tutoriels pour chaque version du produit Workfront. Voici ce qui a été mis à jour avec la dernière version :
 
-* L’icône Favoris et Récents a été séparée dans le volet de navigation supérieur de Workfront. Vous trouverez un bref résumé de chacun d’entre eux dans la section <a href="/help/manage-work/projects/find-projects.md">Recherche de projets</a> tutoriel .
+* Les icônes des favoris et des éléments récents ont été séparées dans la navigation supérieure de Workfront. Vous trouverez un bref résumé de chacun d’entre eux dans le tutoriel <a href="/help/manage-work/projects/find-projects.md">Recherche de projets</a>.
 
-* Configurez un formulaire personnalisé pour qu’il fonctionne avec plusieurs types d’objets. Découvrez comment dans la section <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">création et partage d’un formulaire personnalisé</a> tutoriel .
+* Configurez un formulaire personnalisé pour l’utiliser avec plusieurs types d’objets. Découvrez comment faire dans le tutoriel <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">créer et partager un formulaire personnalisé</a>.
 
 </div>
 
@@ -49,18 +49,18 @@ Découvrez les dernières mises à jour apportées aux tutoriels pour chaque ver
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
-      <img alt="Recherche et création de modèles de mise en page" src="./assets/ltemp_01.png"/>
+      <img alt="Rechercher et créer des modèles de disposition" src="./assets/ltemp_01.png"/>
       </a>
       <div>
-         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Recherche et création de modèles de mise en page</strong></a>
+         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Rechercher et créer des modèles de disposition</strong></a>
       </div>
       <p>
-         <em>Découvrez comment créer un modèle de mise en page de base.</em>
+         <em>Découvrez comment créer un modèle de disposition de base.</em>
       </p>
     </td>
    <td>
       <a href="/help/manage-work/issues-requests/make-a-request.md">
-      <img alt="Effectuer une requête" src="./assets/nrequest_01.png"/>
+      <img alt="Effectuer une demande" src="./assets/nrequest_01.png"/>
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Effectuer une requête</strong></a>
