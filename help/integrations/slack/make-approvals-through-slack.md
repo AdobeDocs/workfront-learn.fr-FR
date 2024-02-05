@@ -1,5 +1,5 @@
 ---
-title: Effectuez les approbations via [!DNL Slack]
+title: Effectuez les approbations via  [!DNL Slack]
 description: Découvrez comment effectuer des approbations via Slack
 activity: use
 feature: Workfront Integrations and Apps
@@ -11,15 +11,15 @@ jira: KT-8819
 exl-id: abe86ef4-8090-44ca-bf4b-115c14e95515
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Effectuez les approbations via [!DNL Slack]
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Effectuez les approbations via [!DNL Slack]
 
