@@ -1,6 +1,6 @@
 ---
-title: Exploration des exécutions, des cycles et des lots
-description: Comprendre le comportement des exécutions, des cycles et des lots à l’aide de l’historique d’exécution d’un scénario.
+title: Explorer des exécutions, des cycles et des bundles
+description: Découvrez comment les exécutions, les cycles et les bundles se comportent en utilisant l’historique d’exécution d’un scénario.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,58 +11,58 @@ jira: KT-11050
 thumbnail: KT1101.png
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Exploration des exécutions, des cycles et des lots
+# Explorer des exécutions, des cycles et des bundles
 
-Comprendre le comportement des exécutions, des cycles et des lots à l’aide de l’historique d’exécution d’un scénario.
+Découvrez comment les exécutions, les cycles et les bundles se comportent en utilisant l’historique d’exécution d’un scénario.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-Effectuez des exercices avec différentes configurations de scénario pour explorer l’utilisation d’exécutions et de cycles.
+Effectuez des exercices avec différentes configurations de scénario pour explorer l’utilisation des exécutions et des cycles.
 
-![Exploration des cycles et des lots Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+![Découvrir les cycles d’exécution et les bundles Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
 ## Étapes à suivre
 
-1. Cloner le scénario nommé &quot;Partage de variables entre les chemins de routage&quot;. Nommez le nouveau scénario &quot;Partage de variables entre les chemins de routage - Test Cycles&quot;.
-1. Supprimez le module Envoyer un email , car il n’est pas nécessaire pour ce test.
+1. Clonez le scénario nommé « Partage de variables entre les chemins de routage ». Nommez le nouveau scénario « Partage de variables entre chemins de routage - Test de cycles ».
+1. Supprimez le module Envoyer un e-mail, puisqu’il est inutile pour ce test.
 
-   **Configurez votre scénario pour traiter 3 cycles par exécution. Traitez 5 projets dans chaque cycle.**
+   **Configurez votre scénario pour qu’il traite 3 cycles par exécution. Traitez 5 projets dans chaque cycle.**
 
-1. Cliquez sur le module de déclenchement et définissez le champ Maximal sur 5, de sorte que seuls 5 projets sont traités dans chaque cycle.
+1. Cliquez sur le module de déclenchement et définissez le champ Maximal sur 5, de sorte que seuls 5 projets soient traités dans chaque cycle.
 1. Dans les critères de recherche, supprimez le second filtre qui limite la recherche à un seul projet.
-1. Cliquez sur OK.
+1. Cliquez sur OK.
 
-1. Dans la barre d’outils Fusion, ouvrez les paramètres du scénario et modifiez le champ Nombre max. de cycles de 1 à 3.
-1. Cliquez sur OK.
+1. Dans la barre d’outils Fusion, ouvrez les paramètres du scénario et faites passer le champ Nombre max. de cycles de 1 à 3.
+1. Cliquez sur OK.
 
-   ![Exploration des cycles et des lots Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+   ![Explorer les cycles d’exécution et les bundles Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
 
    **Planifiez l’exécution du scénario toutes les minutes.**
 
-1. Cliquez sur l’icône de l’horloge en regard du module de déclenchement et définissez le champ Minutes sur 1 minute.
+1. Cliquez sur l’icône de l’horloge en regard du module de déclenchement et définissez le champ Minutes sur 1 minute.
 
-   ![Exploration des cycles et des lots Image 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
+   ![Découvrir les cycles d’exécution et les bundles Image 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
 
-1. Ensuite, basculez la bascule Planification sur Activé sous le bouton Exécuter une fois . Enregistrez votre scénario.
+1. Ensuite, activez le bouton Planification situé sous le bouton Exécuter une fois. Enregistrez votre scénario.
 
-   ![Exploration des cycles et des lots Image 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
+   ![Découvrir les cycles d’exécution et les bundles Image 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 
-1. Accédez à Historique d’exécution pour le scénario et observez un nouvel enregistrement d’historique s’afficher dans la minute suivante. Vous devrez peut-être actualiser la page.
+1. Accédez à l’historique d’exécution du scénario et observez l’apparition d’un nouvel enregistrement dans la minute qui suit. Vous devrez peut-être actualiser la page.
 
-   ![Exploration des cycles et des lots Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
+   ![Découvrir les cycles d’exécution et les bundles Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
 
-1. Cliquez sur le bouton Détails d’une exécution. Cliquez sur le lien Connexion simple dans le panneau de droite, comme vous l’avez fait dans la partie Historique d’exécution de la formation Workfront Fusion.
+1. Cliquez sur le bouton Détails d’une exécution. Cliquez sur le lien de connexion simple dans le panneau de droite, comme vous l’avez fait dans la partie Historique d’exécution de la formation Workfront Fusion.
 1. Les enregistrements des opérations traitées sont divisés en cycles.
 
-   ![Exploration des cycles et des lots Image 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
+   ![Découvrir les cycles d’exécution et les bundles Image 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
 
-1. Un menu déroulant en haut à droite de la fenêtre vous permet de sélectionner l’un des trois cycles que vous configurez pour qu’il s’exécute à chaque fois.
+1. Un menu déroulant en haut à droite de la fenêtre vous permet de sélectionner l’un des trois cycles que vous avez configurés pour qu’il s’exécute à chaque fois.
 
-   ![Exploration des cycles et des lots Image 6](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
+   ![Découvrir les cycles d’exécution et les bundles Image 6](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
