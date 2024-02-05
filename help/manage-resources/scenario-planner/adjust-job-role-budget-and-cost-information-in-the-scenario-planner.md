@@ -1,6 +1,6 @@
 ---
-title: Mise à jour des informations sur le plan dans [!DNL Scenario Planner]
-description: Découvrez comment modifier ou mettre à jour les informations sur le rôle, le budget ou les coûts d’une tâche après la création d’un plan ou d’une initiative dans la section [!DNL Scenario Planner].
+title: Mise à jour des informations sur le plan dans le  [!DNL Scenario Planner]
+description: Découvrez comment modifier ou mettre à jour les informations relatives aux fonctions, budgets ou aux coûts après la création d’un plan ou d’une initiative dans le  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ajustez les informations sur les rôles, le budget et les coûts de la tâche dans la variable [!DNL Scenario Planner]
+# Ajuster les informations relatives aux fonctions, aux budgets et aux coûts dans le [!DNL Scenario Planner]
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Ajout ou suppression de rôles de tâche dans un plan ou une initiative
+* Ajouter ou supprimer des fonctions dans un plan ou une initiative
 * Ajuster les informations sur le budget
-* Ajuster les informations de coût
+* Ajuster les informations sur les coûts
 
 >[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on)
