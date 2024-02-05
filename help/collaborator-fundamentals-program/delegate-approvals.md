@@ -1,25 +1,25 @@
 ---
-title: Délégation des approbations de travail
-description: Découvrez comment déléguer à un autre utilisateur les approbations pour les projets, les tâches, les problèmes et les Fiches d’évaluation.
+title: Déléguer les approbations de travail
+description: Découvrez comment déléguer des approbations pour des projets, des tâches, des problèmes et des cartes de pointage à un autre utilisateur ou une autre utilisatrice.
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8810
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Déléguer les approbations à partir de [!DNL Home]
+# Déléguer les approbations dans [!DNL Home]
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Attribuer des approbations à quelqu’un d’autre
-* Fin de la période de délégation
-* Recherche des validations déléguées
+* Affecter des approbations à une autre personne
+* Terminer la période de délégation
+* Trouver des approbations déléguées
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
