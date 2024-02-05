@@ -1,6 +1,6 @@
 ---
-title: Utilisation de JSON
-description: Découvrez comment créer et analyser JSON dans un scénario pour prendre en charge vos besoins en matière de conception.
+title: Travailler avec JSON
+description: Découvrez comment créer et analyser JSON dans un scénario pour répondre à vos besoins en matière de conception.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,77 +11,77 @@ jira: KT-11056
 thumbnail: KT11056.png
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '485'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Utilisation de JSON
+# Travailler avec JSON
 
-Découvrez comment créer et analyser JSON dans un scénario pour prendre en charge vos besoins en matière de conception.
+Découvrez comment créer et analyser JSON dans un scénario pour répondre à vos besoins en matière de conception.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-L’objectif de cet exercice est d’expliquer comment utiliser les informations envoyées dans un scénario au format JSON, en les analysant dans des champs et des éléments que vous pouvez mapper tout au long de votre scénario. Vous pouvez ensuite extraire des informations de ces tableaux mappés ou les regrouper dans JSON pour les envoyer ensuite à un autre système qui attend JSON comme entrée de réception.
+L&#39;objectif de cet exercice est de montrer de manière conceptuelle comment utiliser les informations envoyées dans un scénario au format JSON, en les analysant dans des champs et des éléments que vous pouvez mapper dans votre scénario. Vous pouvez ensuite extraire des informations de ces tableaux mappés ou les agréger en JSON pour les envoyer à un autre système qui est paramétré pour recevoir du JSON en entrée.
 
-![Utilisation de json Image 1](../12-exercises/assets/working-with-json-walkthrough-1.png)
+![Image 1 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-1.png)
 
 ## Étapes à suivre
 
-**Créez une structure de données et analysez JSON.**
+**Créez une structure de données et d’analyse JSON.**
 
-1. Créez un scénario et nommez-le &quot;Utilisation des données JSON en anneau&quot;.
-1. Pour le module déclencheur, utilisez le module Définir la variable .
-1. Pour le nom de la variable, saisissez &quot;Données en anneau&quot;.
-1. Pour la valeur Variable , copiez et collez le contenu du document &quot;_Donut Data - Sample JSON.rtf&quot; figurant dans le dossier Fusion Exercise Files de votre lecteur de test.
+1. Créez un nouveau scénario et nommez-le « Travailler sur des données JSON de type Donut ».
+1. Pour le module déclencheur, utilisez le module Définir une variable.
+1. Pour le nom de la variable, saisissez « Données Donut ».
+1. Pour la valeur de la variable, copiez et collez le contenu du document « _Donut Data - Sample JSON.rtf » qui se trouve dans le dossier « Fusion Exercise Files » de votre disque dur de test.
 
-   ![Utilisation de json Image 2](../12-exercises/assets/working-with-json-walkthrough-2.png)
+   ![Image 2 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-2.png)
 
-1. Renommez ce module &quot;JSON à partir d’un autre connecteur&quot;.
-1. Ajoutez un module JSON d’analyse.
-1. Cliquez sur Ajouter pour le champ Structure de données .
-1. Sélectionnez le générateur et collez les données Anneau - Exemple de données JSON copiées dans le champ Exemple de données .
+1. Renommez ce module « JSON depuis un autre connecteur ».
+1. Ajoutez un module d’analyse JSON.
+1. Cliquez sur Ajouter pour le champ Structure des données.
+1. Sélectionnez le Générateur et collez dans le champ d’exemple de données les données « Donut Data - Sample JSON » que vous avez copiées.
 
-   ![Utilisation de json Image 3](../12-exercises/assets/working-with-json-walkthrough-3.png)
+   ![Image 3 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-3.png)
 
-1. Cliquez sur Enregistrer, en nommant la structure de données &quot;Données en anneau&quot;. Cliquez ensuite sur Enregistrer.
-1. Faites correspondre les données Anneau du module Définir la variable au champ de chaîne JSON.
+1. Cliquez sur Enregistrer, et nommer la structure de données « Données Donut ». Cliquez ensuite sur Enregistrer.
+1. Mappez les données Donut issues du module Définir une variable dans le champ de chaîne JSON.
 
-   ![Utilisation de json Image 4](../12-exercises/assets/working-with-json-walkthrough-4.png)
+   ![Image 4 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-4.png)
 
 1. Enregistrez votre scénario, puis cliquez sur Exécuter une fois pour afficher la sortie.
 
-   **La sortie du module JSON d’analyse doit se présenter comme suit :**
+   **La sortie du module d’analyse JSON doit ressembler à celle-ci : **
 
-   ![Utilisation de json Image 5](../12-exercises/assets/working-with-json-walkthrough-5.png)
+   ![Image 5 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-5.png)
 
-   **Associer à des variables de tableau spécifiques.**
+   **Mapper vers des variables de tableau spécifiques.**
 
-1. Ajoutez un routeur après le module JSON d’analyse.
-1. Dans le chemin supérieur, ajoutez un module Définir la variable .
-1. Pour le nom de la variable, saisissez &quot;Types de lot par beignet&quot;.
-1. Pour la valeur Variable , utilisez la fonction map pour obtenir les types de lots du tableau batters .
+1. Ajoutez un routeur après le module d’analyse JSON.
+1. Dans le chemin supérieur, ajoutez un module Définir une variable.
+1. Pour le nom de la variable, saisissez « Types de pâtes par donut ».
+1. Pour la valeur de la variable, utilisez la fonction de mappage pour obtenir les types de pâtes à partir du tableau des pâtes.
 
-   ![Utilisation de json Image 6](../12-exercises/assets/working-with-json-walkthrough-6.png)
+   ![Image 6 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-6.png)
 
-1. Cliquez sur OK, puis Exécuter une fois.
-1. Ouvrez l’Inspecteur d’exécution pour afficher le lot de sortie pour chacune des trois opérations, en indiquant les types de batteur pour chacune d’elles.
+1. Cliquez sur OK, puis sur Exécuter une fois.
+1. Ouvrez l’inspecteur d’exécution pour voir les ensembles de sortie pour chacune des trois opérations, celui-ci indiquant les types de pâtes pour chacune d’entre elles.
 
-   ![Utilisation de json Image 7](../12-exercises/assets/working-with-json-walkthrough-7.png)
+   ![Image 7 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-7.png)
 
-   **Agrégez les données de scénario avec JSON.**
+   **Agréger des données de scénario avec JSON.**
 
 1. Sur le chemin de routage inférieur, ajoutez un agrégat au module JSON.
-1. Pour le module source, sélectionnez l’itérateur : module Parse JSON.
-1. Pour la structure de données, créez ou sélectionnez une structure de données. Pour cet exemple, utilisez Données en anneau .
-1. Faites une mise en correspondance directe des champs pour cet exemple, comme illustré ci-dessous.
-1. Lorsque vous accédez au traitement par lot et au recadrage, notez qu’il s’agit de tableaux. Vous devez donc cliquer sur Ajouter un élément pour les mapper.
+1. Pour le module source, choisissez l’itérateur : le module d’analyse JSON.
+1. Pour la structure de données, créez ou choisissez n’importe quelle structure de données. Pour cet exemple, nous utiliserons les données Donut.
+1. Dans le cadre de cet exemple, mappez les champs directement comme indiqué ci-dessous.
+1. Lorsque vous arrivez à la pâte et à la garniture, vous remarquez qu’il s&#39;agit de tableaux et que vous devez donc cliquer sur Ajouter un élément pour les mapper.
 
-   ![Utilisation de json Image 8](../12-exercises/assets/working-with-json-walkthrough-8.png)
+   ![Image 8 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-8.png)
 
 1. Enregistrez le scénario et cliquez sur Exécuter une fois.
 
-Examinez l’Inspecteur d’exécution pour le module Agrégat vers JSON et observez comment vous avez pu regrouper trois lots en une seule chaîne JSON. Vous pouvez ensuite envoyer cette chaîne à d’autres systèmes qui attendent JSON.
+Consultez l’inspecteur d’exécution pour le module d’agrégat avec JSON : vous remarquerez que vous avez pu agréger trois ensembles dans une seule chaîne JSON. Vous pouvez ensuite envoyer cette chaîne à d’autres systèmes disposés à recevoir du JSON.
 
-![Utilisation de json Image 9](../12-exercises/assets/working-with-json-walkthrough-9.png)
+![Image 9 - Utilisation de JSON](../12-exercises/assets/working-with-json-walkthrough-9.png)
