@@ -1,6 +1,6 @@
 ---
-title: Partie 2 des rapports avancés
-description: Comprendre une étude approfondie des vues en mode texte, des détails supplémentaires sur la structure du mode texte, des données personnalisées calculées et des colonnes calculées.
+title: Reporting avancé Partie 2
+description: Découvrez en détails des vues du mode texte, ainsi que des informations supplémentaires sur la structure du mode texte, les données personnalisées calculées et les colonnes calculées.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -12,19 +12,19 @@ jira: KT-11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Partie 2 des rapports avancés
+# Reporting avancé Partie 2
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Étude approfondie des vues en mode texte
+* Présentation approfondie des vues du mode texte
 * Informations supplémentaires sur la structure du mode texte
-* Comment créer des champs de données personnalisées calculées et des colonnes calculées
+* Création de champs de données personnalisées calculées et de colonnes calculées
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on)
 
@@ -32,4 +32,4 @@ Dans cette vidéo, vous apprendrez :
 
 [[!UICONTROL Explorateur d’API]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manuel des rapports avancés](/help/assets/advanced-reporting-manual.pdf)
+[Manuel de création de rapports avancés](/help/assets/advanced-reporting-manual.pdf)
