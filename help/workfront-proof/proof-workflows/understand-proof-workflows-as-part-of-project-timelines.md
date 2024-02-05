@@ -1,6 +1,6 @@
 ---
-title: Workflows de BAT dans les chronologies du projet
-description: Découvrez les recommandations pour fusionner un processus de révision et d’approbation avec une chronologie de projet dans [!DNL  Workfront].
+title: Des workflows de BAT dans le cadre de chronologies de projet
+description: Découvrez les recommandations pour combiner un processus de révision et d’approbation avec une chronologie de projet dans  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8825
 exl-id: 51cc65eb-2ac8-4de5-88d1-67c1556432ba
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workflows de BAT dans le cadre des calendriers du projet
+# Des workflows de BAT dans le cadre de chronologies de projet
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Recommendations pour fusionner un processus de révision et d’approbation avec un calendrier de projet
+* Recommandations pour fusionner un processus de révision et d’approbation avec une chronologie de projet
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
 
