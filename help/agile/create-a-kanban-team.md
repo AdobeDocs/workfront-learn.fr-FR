@@ -8,41 +8,41 @@ jira: KT-10881
 thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Créer une équipe Kanban
 
-L’équipe de marketing créatif utilise Scrum depuis un certain temps déjà. Ils apprécient l’environnement flexible d’une équipe agile, mais ils ont du mal à engager des articles dans un délai spécifique en raison de la fréquence à laquelle les priorités changent pour leur équipe.
+L’équipe de marketing créatif utilise Scrum depuis un certain temps. Les personnes membres de l’équipe apprécient l’environnement flexible d’une équipe agile, mais elles ont du mal à soumettre des stories dans un délai spécifique en raison de la fréquence à laquelle les priorités changent pour leur équipe.
 
-Ils ont une alternative au Scrum. Ça s&#39;appelle Kanban.
+Il existe une alternative à Scrum. Elle s’appelle Kanban.
 
-Kanban travaille pour des équipes qui ne souhaitent pas définir ce sur quoi elles travaillent dans le délai requis par une itération basée sur Scrum. Kanban permet plutôt aux équipes de travailler en continu sur leur arriéré.
+Kanban fonctionne pour les équipes qui ne veulent pas définir ce sur quoi elles travaillent dans les délais requis par une itération basée sur Scrum. Kanban permet plutôt aux équipes de travailler en continu sur leur liste d’attente.
 
-Basculons l’équipe de marketing créatif d’une équipe Scrum vers une équipe Kanban [1]. Apportez cette modification dans la section Agile des paramètres de l’équipe.
+Faisons passer l’équipe de marketing créatif d’une équipe Scrum à une équipe Kanban [1]. Apportez cette modification dans la section Agile des paramètres de l’équipe.
 
-Après avoir modifié la méthodologie, vous devez spécifier le nombre d’articles qu’une équipe de Kanban peut avoir à la fois dans chaque colonne en ajustant la &quot;limite de travaux en cours&quot;. [2]. WIP signifie travail en cours. Le nombre que vous choisissez de placer ici dépend du nombre d’éléments principaux que l’équipe peut traiter. Il s’affichera sur le storyboard de l’équipe pour vous aider à leur rappeler s’ils sont surattribués ou non. Vous (et tout membre de l’équipe disposant de droits d’édition) pouvez également modifier la limite de travail en cours directement depuis le storyboard.
+Après avoir modifié la méthodologie, vous devez spécifier le nombre de stories qu’une équipe Kanban peut avoir à la fois dans chaque colonne en ajustant la « limite de travaux en cours ». [2]. WIP est l’abréviation de Work in Progress (travail en cours). Le nombre que vous choisissez d’indiquer ici dépend du nombre d’éléments actifs que l’équipe peut gérer. Il s’affichera sur le storyboard de l’équipe pour lui rappeler s’il y a suraffectation ou non. Vous (et toute personne membre de l’équipe disposant de droits de modification) pouvez également modifier la limite de travaux en cours directement depuis le storyboard.
 
 ![Page des paramètres de l’équipe](assets/teamspage-01.png)
 
-Vous pouvez faire glisser et déposer des colonnes d’état pour les placer dans l’ordre dans lequel vous souhaitez qu’elles se trouvent.
+Vous pouvez faire glisser et déposer des colonnes de statut pour les placer dans l’ordre dans lequel vous souhaitez qu’elles se trouvent.
 
 ![Page des paramètres de l’équipe](assets/teamspage-02.png)
 
-Les équipes de Kanban peuvent également choisir de faire en sorte que l’article suivant apparaisse automatiquement sur le storyboard à la fin d’un article. [voir numéro 3 dans l’image supérieure]. Cela aidera les équipes qui préfèrent un cycle de travail continu.
+Les équipes Kanban peuvent également choisir de faire apparaître automatiquement sur le storyboard la story suivante de la file d’attente lorsqu’une story est terminée [voir le numéro 3 dans l’image du haut]. Cela aidera les équipes qui préfèrent un cycle de travail continu.
 
 
-L’image ci-dessous montre à quoi ressemble une nouvelle histoire lorsqu’elle apparaît automatiquement sur le storyboard à la fin d’une histoire.
+L’image ci-dessous montre à quoi ressemble une nouvelle story lorsqu’elle apparaît automatiquement sur le storyboard à la fin d’une story.
 
 ![Page des paramètres de l’équipe](assets/teamspage-03.png)
 
-Pour une gestion plus efficace de votre travail terminé, les articles restent 14 jours à l’assemblée par défaut.
+Pour une gestion plus efficace de votre travail terminé, les articles restent sur le storyboard pendant 14 jours par défaut.
 
 ![Page des paramètres de l’équipe](assets/teampage-04.png)
 
-Si nécessaire, ce paramètre peut être ajusté à 1 ou 30 jours dans la fenêtre des paramètres de l’équipe.
+Si nécessaire, ce paramètre peut être ajusté entre 1 ou 30 jours dans la fenêtre des paramètres de l’équipe.
 
-Gardez à l’esprit que, même s’il s’agit d’une méthodologie différente, il est toujours important, lorsque vous travaillez dans un environnement agile, de constamment rattraper le retard en discutant des exigences de l’article et en ajustant la priorité de l’article. Chaque fois que vous souhaitez reclasser le journal par priorité, vous devez déplacer un onglet vers l’onglet Journal pour le réorganiser.
+Gardez à l’esprit que même s’il s’agit d’une méthodologie différente, il est toujours important, lorsque vous travaillez dans un environnement agile, de maintenir continuellement la file d’attente en discutant des exigences des stories et en ajustant leur priorité. Chaque fois que vous souhaitez reclasser la file d’attente par priorité, vous devez déplacer un onglet vers l’onglet File d’attente pour le réorganiser.
