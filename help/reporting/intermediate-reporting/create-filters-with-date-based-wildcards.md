@@ -1,6 +1,6 @@
 ---
-title: Création de filtres avec des caractères génériques basés sur la date
-description: Découvrez comment et à quel moment utiliser des caractères génériques basés sur des dates et comment créer un filtre basé sur la date actuelle.
+title: Créer des filtres avec des caractères génériques basés sur la date
+description: Découvrez comment et à quel moment utiliser des caractères génériques basés sur la date et comment créer un filtre basé sur la date actuelle.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336812.png
@@ -12,34 +12,34 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '231'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création de filtres avec des caractères génériques basés sur la date
+# Créer des filtres avec des caractères génériques basés sur la date
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Savoir quand utiliser des caractères génériques basés sur des dates
-* Comprendre la différence entre les deux caractères génériques Workfront basés sur des dates
-* Ajout d’un caractère générique basé sur les dates à un filtre
-* Création d’une date personnalisée à l’aide de caractères génériques, d’attributs, d’opérateurs et de modificateurs
-* Création d’une période personnalisée à l’aide de caractères génériques
+* Présentation des caractères génériques basés sur la date
+* Comprendre la différence entre les deux caractères génériques Workfront basés sur la date
+* Ajouter un caractère générique basé sur la date à un filtre
+* Créer une date personnalisée à l’aide de caractères génériques, d’attributs, d’opérateurs et de modificateurs
+* Créer une période personnalisée à l’aide de caractères génériques
 
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 ## Questions d’activité
 
-1. Comment créer la règle de filtrage si vous souhaitez des problèmes dont la date d’hier ou d’aujourd’hui est échue ?
-1. Comment créeriez-vous la règle de filtrage pour trouver les projets qui devaient être réalisés la semaine dernière ?
-1. Les règles de filtrage suivantes font partie d’un rapport de tâche que vous utilisez régulièrement. Quel type de résultats obtiendriez-vous de ce rapport ?
+1. Quelle serait la règle de filtrage pour que les problèmes aient une échéance à la date d’hier ou d’aujourd’hui ?
+1. Quelle serait la règle de filtrage pour trouver les projets arrivés à échéance la semaine dernière ?
+1. Les règles de filtrage suivantes font partie d’un rapport de tâches que vous utilisez régulièrement. Quel type de résultats obtiendriez-vous de ce rapport ?
 
-![Image de l’écran de création d’un filtre de tâche avec un caractère générique (date)](assets/date-wildcard-answer-1.png)
+![Une image de l’écran de création d’un filtre de tâche avec un caractère générique basé sur la date](assets/date-wildcard-answer-1.png)
 
 ## Réponses
 
-1. Filtrage de la date d’achèvement prévue du problème entre [!UICONTROL $$TODAY-1d] et [!UICONTROL $$AUJOURD’HUI].
+1. Filtrage de la date d’achèvement prévue du problème entre [!UICONTROL $$TODAY-1d] et [!UICONTROL $$TODAY].
 1. Filtrage de la date de fin prévue du projet entre [!UICONTROL $$TODAYb-1w] et [!UICONTROL $$TODAYe-1w].
-1. Ce rapport répertorie les tâches qui vous ont été affectées et qui ne sont pas encore terminées (c’est-à-dire dont le pourcentage est inférieur à 100), et qui sont en retard ou qui doivent être exécutées aujourd’hui. La règle de filtrage de la date d’achèvement prévue des tâches indique d’examiner les tâches dont la date d’échéance est égale ou antérieure à la date d’aujourd’hui.
+1. Ce rapport recherche les tâches qui vous ont été affectées et qui ne sont pas encore terminées (en d’autres termes, dont le pourcentage de réalisation est inférieur à 100), et qui sont en retard ou qui doivent être terminées aujourd’hui. La règle de filtrage de la date d’achèvement prévue des tâches indique d’examiner les tâches dont la date d’échéance est égale ou antérieure à la date du jour.
