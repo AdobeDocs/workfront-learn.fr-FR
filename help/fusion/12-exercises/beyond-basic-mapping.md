@@ -11,9 +11,9 @@ jira: KT-11039
 thumbnail: KT11039.png
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,35 +21,35 @@ ht-degree: 0%
 
 Découvrez comment utiliser les formules du panneau de mappage pour manipuler ou convertir le ou les champs envoyés à un module.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-Modifiez le nom du projet, la date de début planifiée et la priorité des exercices de présentation Beyond Basic Mapping à l’aide des formules du panneau de mappage.
+Modifiez le nom du projet, la date de début prévue et la priorité à partir des exercices « Au-delà du mappage de base » en utilisant les formules du panneau de mappage.
 
-![Au-delà de l’image de mappage de base 1](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
+![Image 1 - Au-delà du mappage de base.](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
 
 ## Étapes à suivre
 
-**Effectuez un clone de votre scénario de conception de scénario initial .**
+**Faites un clone de votre conception initiale du scénario.**
 
-1. Sélectionnez l’option Cloner à droite de la conception du scénario initial dans la section du scénario, comme illustré ci-dessous. Nommez-le &quot;Au-delà du mappage de base&quot;.
+1. Sélectionnez l’option Cloner à droite de la conception initiale du scénario dans la section des scénarios, comme indiqué ci-dessous. Nommez-le « Au-delà du mapping de base ».
 
-   ![Au-delà de l’image de mappage de base 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
+   ![Image 2 - Au-delà du mappage de base](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
-   **Nous allons maintenant utiliser le panneau de mappage dans le module Créer des projets Workfront pour configurer le nom du projet, la date de début prévue et les champs de priorité.**
+   **Nous allons maintenant utiliser le panneau de mappage du module Créer des projets Workfront pour configurer le nom du projet, la date de début prévue et les champs de priorité.**
 
-1. Cliquez sur le module Créer des projets Workfront pour modifier les paramètres. À l’aide du panneau de mappage, modifiez le champ Nom pour qu’il soit &quot;[Mon nom de projet] par [Sponsor].&quot;
+1. Cliquez sur le module Créer des projets Workfront pour modifier les paramètres. À l’aide du panneau de mappage, remplacez le champ Nom « [Nom de mon projet] par [Sponsor] ».
 
-   + Le [Mon nom de projet] est la colonne 1 du module CSV Parse et [Sponsor] correspond à la colonne 6. Le mot &quot;by&quot; est simplement tapé entre les deux.
+   + Le [Nom de mon projet] correspond à la colonne 1 du module Analyse CSV et le [Sponsor] à la colonne 6. Le mot « par » est simplement tapé entre les deux.
 
-1. Accédez ensuite à la Date de début planifiée et utilisez la formule addDays pour ajouter 15 jours au champ, comme décrit dans la vidéo Présentation du mappage de base Beyond .
-1. Recherchez le champ Priorité et faites basculer le bouton Mapper en haut à droite du champ. Le menu de liste de sélection prend la forme d’un nombre. Créez une instruction if pour étiqueter un projet comme priorité Haute(4) si la note de confiance du fichier CSV est inférieure à 100, sinon elle peut être Normale(2).
+1. Passez ensuite à la date de début prévue et utilisez la formule addDays pour ajouter 15 jours au champ, comme décrit dans la vidéo de présentation Au-delà du mappage de base.
+1. Recherchez le champ Priorité et activez le bouton Mapper en haut à droite du champ. Le menu de la liste de sélection se transforme en numéro. Créez une instruction If pour qualifier un projet de priorité élevée (4) si l’indice de confiance du fichier CSV est inférieur à 100, sinon il peut être considéré comme normal (2).
 
-   + La note de confiance est indiquée dans la colonne 4.
+   + La cote de confiance figure dans la colonne 4.
 
-   **À ce stade, le panneau de mappage doit ressembler à ceci :**
+   **À ce stade, votre panneau de mappage doit ressembler à celui-ci :**
 
-   ![Au-delà de l’image de mappage de base 3](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
+   ![Image 3 - Au-delà du mappage de base](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
 
 1. Cliquez sur OK, puis sur Exécuter une fois.
-1. Recherchez le projet dans votre instance Workfront pour vous assurer que tout a été correctement mappé.
+1. Recherchez le projet dans votre instance Workfront pour vérifier que tout a été correctement mappé.
 1. Enregistrez votre scénario.
