@@ -1,6 +1,6 @@
 ---
-title: Accès à un forfait dans [!UICONTROL Planification du scénario]
-description: En savoir plus [!DNL  Workfront] des autorisations sont nécessaires pour que les utilisateurs puissent accéder aux plans de la variable [!UICONTROL Planification du scénario].
+title: Accéder à un plan dans le [!UICONTROL Planificateur de scénarios]
+description: Découvrez quelles autorisations  [!DNL  Workfront]  sont nécessaires pour que les personnes puissent accéder aux plans du [!UICONTROL Planificateur de scénarios].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,14 +11,14 @@ thumbnail: access-a-plan.png
 jira: KT-10190
 exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Accédez à un plan dans la [!DNL Scenario Planner]
+# Accéder à un plan dans le [!DNL Scenario Planner]
 
-Comme avec les projets dans [!DNL Workfront], même si un utilisateur a reçu une autorisation au niveau de l’accès pour afficher ou gérer un plan dans [!DNL Workfront] [!UICONTROL Planification du scénario], cela ne signifie pas qu’ils peuvent afficher ou gérer chaque plan intégré au système. Cette capacité repose sur le fait que l&#39;auteur du plan ait partagé le plan avec lui et lui ait donné l&#39;autorisation d&#39;afficher ou de gérer le plan en question.
+Tout comme pour les projets dans [!DNL Workfront], même si une personne a reçu l’autorisation à un niveau d’accès d’afficher ou de gérer un plan dans le [!UICONTROL Planificateur de scénarios] de [!DNL Workfront], cela ne signifie pas qu’elle peut afficher ou gérer tous les plans construits dans le système. Cette capacité repose sur le fait que la personne à l’origine du plan ait partagé le plan avec elle et lui ait donné l’autorisation d’afficher ou de gérer le plan en question.
 
-La grande différence avec les plans est que les administrateurs système n’ont pas la possibilité de voir tous les plans créés dans Workfront. Ils devront aussi être partagés avec eux.
+La grande différence avec les plans est que les administrateurs et les administratrices système n’ont pas la possibilité de voir tous les plans créés dans Workfront. Ils devront aussi être partagés avec eux.
