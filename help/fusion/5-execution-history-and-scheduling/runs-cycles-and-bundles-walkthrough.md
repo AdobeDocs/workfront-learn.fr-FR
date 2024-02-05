@@ -1,6 +1,6 @@
 ---
-title: Présentation des exécutions, des cycles et des lots
-description: Découvrez comment utiliser différentes configurations de scénario pour explorer l’utilisation d’exécutions et de cycles dans [!DNL Adobe Workfront Fusion].
+title: Présentation des exécutions, des cycles et des bundles
+description: Découvrez différentes configurations de scénarios pour explorer l’utilisation des exécutions et des cycles dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des exécutions, des cycles et des lots
+# Présentation des exécutions, des cycles et des bundles
 
-Effectuez des exercices avec différentes configurations de scénario pour explorer l’utilisation d’exécutions et de cycles.
+Effectuez des exercices avec différentes configurations de scénario pour explorer l’utilisation des exécutions et des cycles.
 
-![Image des paramètres d’exécution et de cycle](assets/execution-history-and-scheduling-6.png)
+![Une image des paramètres des exécutions et des cycles](assets/execution-history-and-scheduling-6.png)
 
-## Présentation des exécutions, des cycles et des lots
+## Présentation des exécutions, des cycles et des bundles
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
@@ -31,9 +31,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation des exécutions, des cycles et des lots](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=en) exercice.
+>Pour obtenir des instructions pas à pas sur la présentation, consultez l’exercice [Exploration de la présentation des exécutions, des cycles et des bundles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=en).
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
