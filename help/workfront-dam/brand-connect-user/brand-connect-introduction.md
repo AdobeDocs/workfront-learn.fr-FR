@@ -1,6 +1,6 @@
 ---
-title: Présentation de Brand Connect en tant qu’utilisateur
-description: En savoir plus sur les [!UICONTROL Gestion des actifs numériques Workfront] et Brand Connect sont et comment ils sont utilisés.
+title: Comprendre Brand Connect en tant qu’utilisateur ou utilisatrice
+description: Découvez [!UICONTROL Workfront DAM] et Brand Connect et comment les utiliser.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
 source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Brand Connect : Présentation de Brand Connect en tant qu’utilisateur
+# Brand Connect : comprendre Brand Connect en tant qu’utilisateur ou utilisatrice
 
-[!UICONTROL Brand Connect] fait partie de [!UICONTROL Gestion des actifs numériques Workfront], une solution de gestion des ressources numériques (DAM) permettant de gérer, de contrôler et de publier vos ressources marketing, créatives, professionnelles et autres. Utilisation [!DNL Workfront] pour créer des requêtes de ressources, puis gérer la production et la révision des ressources. Traitez, stockez et distribuez les ressources terminées et approuvées à l’aide de [!UICONTROL Gestion des actifs numériques Workfront]. Publication de ressources sur [!UICONTROL Brand Connect] pour s’assurer que le message approprié est disponible pour la bonne audience, où et comment elle le doit.
+[!UICONTROL Brand Connect] fait partie de [!UICONTROL Workfront DAM], une solution de gestion des ressources numériques (DAM) conçue pour gérer, contrôler et publier vos actifs marketing, créatifs, professionnels et autres. Utilisez [!DNL Workfront] pour créer des demandes de ressources, puis gérer la production et l’examen de celles-ci. Conservez, stockez et distribuez les ressources complètes et approuvées à l&#39;aide de [!UICONTROL Workfront DAM]. Publiez les ressources sur [!UICONTROL Brand Connect] pour vous assurer que le bon message est disponible pour le bon public, à l’endroit et de la manière dont il en a besoin.
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Présentation [!UICONTROL Gestion des actifs numériques Workfront] et Brand Connect
-* Comment [!UICONTROL Brand Connect] est utilisé
+* Présentation de [!UICONTROL Workfront DAM] et Brand Connect
+* Utilisation de [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on)
