@@ -1,6 +1,6 @@
 ---
-title: Collaboration au travail avec mes mises à jour
-description: Accédez aux tâches qui vous sont affectées à l’aide de la page Mes mises à jour .
+title: Collaborer au travail avec Mes mises à jour
+description: Accédez aux éléments de travail qui vous sont affectés à l’aide de la page Mes mises à jour.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,19 +12,19 @@ jira: KT-9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Collaboration au travail avec mes mises à jour
+# Collaborer au travail avec Mes mises à jour
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Accédez aux tâches qu’il vous a été demandé de réviser à l’aide de la page Mes mises à jour .
-* Révision des demandes d’approbation
-* Utilisez la section Mentions pour afficher les mises à jour qui vous ont été incluses dans
+* Accédez aux éléments de travail qu’il vous a été demandé de réviser à l’aide de la page Mes mises à jour.
+* Réviser les demandes d’approbation
+* Utiliser la section Mentions pour afficher les mises à jour où vous figurez
 * Répondre aux mises à jour
 
 >[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on)
