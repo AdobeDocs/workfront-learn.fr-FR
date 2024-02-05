@@ -1,6 +1,6 @@
 ---
-title: Créer un groupement de base
-description: Découvrez ce qu’est un groupement, comment créer un groupement et comment partager un groupement avec d’autres utilisateurs dans Workfront.
+title: Créer un regroupement de base
+description: Découvrez ce qu’est un regroupement, comment en créer un et comment en partager un avec d’autres utilisateurs et utilisatrices dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -12,42 +12,42 @@ jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Créer un groupement de base
+# Créer un regroupement de base
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Présentation d’un groupement dans Workfront
-* Comment créer un groupement
-* Comment partager un groupe avec d’autres utilisateurs Workfront
+* Définition d’un regroupement dans Workfront
+* Création d’un regroupement
+* Et partage d’un regroupement avec d’autres utilisateurs et utilisatrices de Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Activité : Créer un groupement de base
+## Activité : créer un regroupement de base
 
-Créez un groupe de problèmes qui sera utilisé dans un rapport pour effectuer le suivi des demandes qui passent par une file d’attente de demandes. Ce regroupement permet de voir facilement des types similaires de problèmes/requêtes regroupés par priorité. Nommez le groupe &quot;File d’attente des demandes, rubrique de la file d’attente, priorité&quot;.
+Créez un regroupement de problèmes qui sera utilisé dans un rapport pour suivre les demandes passant par une file d’attente des demandes. Ce regroupement permet de visualiser facilement les types de problèmes/demandes similaires regroupés par priorité. Nommez le regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
 
-Regroupez le rapport sur les problèmes en fonction des éléments suivants :
+Regroupez le rapport des problèmes en fonction des éléments suivants :
 
-1. Nom de la file d’attente des demandes (il s’agit du nom du projet).
+1. Nom de la file d’attente des demandes (il s’agira du nom du projet).
 1. Rubrique de la file d’attente
-1. Priorité de la requête
+1. Priorité de la demande
 
 ## Réponse
 
-![Image de l&#39;écran pour créer un nouveau groupement](assets/grouping-exercise.png)
+![Une image de l’écran de création d’un nouveau regroupement](assets/grouping-exercise.png)
 
-1. Dans un rapport de liste de problèmes, accédez au **[!UICONTROL Regroupement]** et sélectionnez **[!UICONTROL Nouveau groupement]**.
-1. Nommez votre groupe &quot;File d’attente des demandes, Rubrique de la file d’attente, Priorité&quot;.
-1. Cliquez sur **[!UICONTROL Ajouter un groupement]**.
-1. Dans le [!UICONTROL First By] champ . saisissez &quot;nom du projet&quot;, puis sélectionnez **[!UICONTROL Nom]** sous la source du champ Projet .
-1. Cliquez sur **[!UICONTROL Ajouter un autre groupement]**.
-1. Dans le [!UICONTROL Et puis par] champ, tapez &quot;queue&quot;, puis sélectionnez **[!UICONTROL Nom]** sous le [!UICONTROL Rubrique de la file d’attente] source du champ.
-1. Cliquez sur **[!UICONTROL Ajouter un autre groupement]**.
-1. Dans le [!UICONTROL Et puis par] champ, tapez &quot;priorité&quot;, puis sélectionnez **[!UICONTROL Priorité]** sous le [!UICONTROL Problème] source du champ.
-1. Cliquez sur **[!UICONTROL Enregistrer le groupement]**
+1. Dans un rapport de liste de problèmes, allez dans le menu **[!UICONTROL Regroupement]** et sélectionnez **[!UICONTROL Nouveau regroupement]**.
+1. Nommez votre regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
+1. Cliquez sur **[!UICONTROL Ajouter un regroupement]**.
+1. Dans le champ [!UICONTROL D’abord par], tapez « nom du projet », puis sélectionnez **[!UICONTROL Nom]** dans la source du champ Projet.
+1. Cliquez sur **[!UICONTROL Ajouter un autre regroupement]**.
+1. Dans le champ [!UICONTROL Puis par], tapez « file d’attente », puis sélectionnez **[!UICONTROL Nom]** dans la source du champ [!UICONTROL Rubrique de file d’attente].
+1. Cliquez sur **[!UICONTROL Ajouter un autre regroupement]**.
+1. Dans le champ [!UICONTROL Puis par], tapez « priorité », puis sélectionnez **[!UICONTROL Priorité]** dans la source du champ [!UICONTROL Problème].
+1. Cliquez sur **[!UICONTROL Enregistrer le regroupement]**.
