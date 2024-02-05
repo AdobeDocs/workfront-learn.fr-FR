@@ -1,6 +1,6 @@
 ---
 title: Créer des entreprises
-description: Découvrez comment utiliser des sociétés dans le cadre de son organisation utilisateur et de sa structure d’autorisations d’élément. Créez ensuite des entreprises pour votre organisation.
+description: Apprenez à utiliser les entreprises dans le cadre de l’organisation des utilisateurs et utilisatrices et de la structure des autorisations des éléments. Créez ensuite des entreprises pour votre organisation.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,15 +12,15 @@ jira: KT-8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Créer des entreprises
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
 * Définition Workfront des entreprises
 * Création d’entreprises et d’associations
