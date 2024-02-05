@@ -1,6 +1,6 @@
 ---
-title: Comment consigner les heures de travail dans [!UICONTROL Accueil]
-description: Découvrez comment journaliser le temps de travail des affectations dans [!DNL  Workfront]. Comprenez pourquoi le temps de journalisation peut être nécessaire dans votre entreprise.
+title: Consignation des heures de travail dans l’[!UICONTROL Accueil]
+description: Découvrez comment consigner le temps passé sur les affectations de travail dans  [!DNL  Workfront]. Découvrez pourquoi votre organisation peut exiger la consignation du temps de travail.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,27 +12,27 @@ jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Heures de connexion du travail dans [!DNL Workfront] [!UICONTROL Accueil]
+# Consignez vos heures de travail dans l’[!UICONTROL accueil] de [!DNL Workfront].
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* La valeur du temps de journalisation
-* Comment se connecter aux affectations de travail
+* La valeur de la consignation du temps
+* Consignation du temps passé sur les affectations de travail
 
 >[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
 
-## Conseils pour les heures de connexion au travail [!DNL Home]
+## Conseils pour consigner ses heures de travail dans [!DNL Home]
 
-Certaines options relatives à la durée de journalisation dépendent de la manière dont votre administrateur système a configuré Workfront.
+Certaines options relatives à la consignation de la durée dépendent de la manière dont votre administrateur ou administratrice système a configuré Workfront.
 
-* Vous pourrez peut-être ne pas être en mesure de consigner l’heure les jours suivants.
-* Vous devrez peut-être sélectionner un type d’heure dans le menu déroulant afin d’être plus précis sur la manière dont vous avez passé votre temps. Ce type d’heure peut également indiquer si votre heure a été facturable ou non facturable. Veillez à sélectionner le type d’heure avant de saisir l’heure en cliquant sur l’icône [!UICONTROL Temps journal] bouton .
+* Vous risquez peut-être de ne pas pouvoir consigner la durée les jours suivants.
+* Il se peut que vous deviez sélectionner un type d’heure dans le menu déroulant afin de préciser davantage la façon dont vous avez utilisé votre temps. Ce type d’heure peut également indiquer si votre temps était facturable ou non facturable. Veillez à sélectionner le type d’heure avant de saisir la durée en cliquant sur le bouton [!UICONTROL Consigner la durée].
 
 <!---
 learn more URLs
