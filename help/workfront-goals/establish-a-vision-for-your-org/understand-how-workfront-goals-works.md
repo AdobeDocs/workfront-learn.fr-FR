@@ -1,6 +1,6 @@
 ---
-title: Comprendre comment [!DNL Workfront Goals] work
-description: Apprenez-en plus sur la formulation du " quoi " et du " pourquoi " pendant la phase de planification, sur les objectifs à suivre et sur l'étendue de l'influence.
+title: Comprendre le fonctionnement de  [!DNL Workfront Goals]
+description: Apprenez à articuler le « quoi » et le « pourquoi » pendant la phase de planification, des exemples d’objectifs et le champ d’influence.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendre comment [!DNL Workfront Goals] work
+# Comprendre le fonctionnement de [!DNL Workfront Goals]
 
-Dans cette vidéo, vous découvrirez :
+Dans cette vidéo, vous découvrirez :
 
-* l&#39;élaboration du &quot; quoi &quot; et du &quot; pourquoi &quot; pendant la phase de planification;
-* Exemples d’objectifs
-* Portée de l’influence
+* À formuler le « quoi » et le « pourquoi » pendant la phase de planification.
+* Des exemples d’objectifs
+* Le champ d’influence
 
 >[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on)
 
-## Désigner des individus responsables
+## Désigner des personnes responsables
 
-Avant de commencer la configuration [!DNL Workfront Goals], vous devez identifier les personnes de votre organisation qui seront responsables de la réalisation de chaque objectif.
+Avant de commencer à configurer [!DNL Workfront Goals], vous devez identifier les personnes de votre organisation qui seront responsables de la réalisation de chaque objectif.
 
-Il y a plusieurs façons de le faire. [!DNL Workfront] recommande d’esquisser l’organigramme. Il y aura probablement plusieurs couches de propriétaires d&#39;objectifs. Commencez par un leadership de haut niveau, puis identifiez les équipes et les membres de l’équipe responsables de l’exécution du travail requis pour obtenir les résultats souhaités. Ils ont besoin de contexte sur les objectifs qu&#39;ils visent pour produire leur meilleur travail.
+Il y a plusieurs façons de procéder. [!DNL Workfront] recommande de dessiner votre organigramme. Il y aura probablement plusieurs niveaux de propriétaires d’objectifs. Commencez par la direction au plus haut niveau, puis identifiez les équipes et les membres de l’équipe responsables de l’exécution du travail nécessaire pour obtenir les résultats souhaités. Il est nécessaire de savoir quels sont les objectifs à poursuivre afin d’optimiser la productivité.
 
-Ensuite, prenez un peu de recul et regardez votre peuple. Déterminez qui a besoin d’un accès complet à la gestion/modification, d’afficher uniquement l’accès et de ne pas avoir d’accès du tout. Le nombre de personnes sans accès devrait être relativement faible, car la plupart d&#39;entre elles devront au moins se pencher sur les objectifs du contexte stratégique.
+Ensuite, prenez du recul et observez vos collaborateurs et collaboratrices. Déterminez qui a besoin d’un accès complet à la gestion/modification, d’un accès en lecture seule uniquement ou d’aucun accès. Le nombre de personnes sans accès devrait être relativement faible, car la plupart d’entre elles auront au moins besoin de voir les objectifs dans un contexte stratégique.
 
 >[!NOTE]
 >
->Lorsque vous identifiez les propriétaires d’objectifs Principaux, tenez compte du fait que vous définissez des objectifs stratégiques pour les résultats de l’entreprise, et non des objectifs de développement personnel. Workfront vous recommande de n’ajouter que des objectifs de développement qui contribuent directement aux objectifs de l’entreprise ou qui les stimulent.
+>Lorsque vous identifiez les principaux responsables de l’objectif, tenez compte du fait que vous fixez des objectifs stratégiques pour les résultats de l’entreprise, et non des objectifs de développement personnel. Workfront vous recommande d’ajouter uniquement des objectifs de développement qui contribuent directement aux objectifs de l’entreprise ou qui les stimulent.
 
-![Graphique d’organisation vierge](assets/01-workfront-goals-blank-org-chart.png)
+![Organigramme vide](assets/01-workfront-goals-blank-org-chart.png)
 
-Nous vous montrerons comment configurer et configurer vos paramètres dans [!DNL Workfront Goals], Partie 2 : Créez et gérez vos objectifs.
+Nous vous montrerons comment mettre en place et configurer vos paramètres dans [!DNL Workfront Goals], Partie 2 : créez et gérez vos objectifs.
 
 <!--
 URL for part 2 reference above
