@@ -1,6 +1,6 @@
 ---
 title: Filtres
-description: Découvrez comment utiliser le filtre entre les modules pour n’autoriser que certains types de lots par le biais de .
+description: Découvrez comment utiliser le filtre entre les modules pour n’autoriser que certains types de bundles.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,42 +11,42 @@ jira: KT-11040
 thumbnail: KT1101.png
 exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Filtres
 
-Découvrez comment utiliser le filtre entre les modules pour n’autoriser que certains types de lots par le biais de .
+Découvrez comment utiliser le filtre entre les modules pour n’autoriser que certains types de bundles.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-Ajoutez un filtre entre les deux modules dans le scénario de mappage de base Beyond , afin de créer uniquement les projets dont la couleur de projet &quot;Rouge&quot; figure dans le fichier CSV.
+Ajoutez un filtre entre les deux modules dans le scénario Au-delà du mappage de base pour créer uniquement des projets dont la couleur de projet est « Rouge » dans le fichier CSV.
 
-![Filtres Image 1](../12-exercises/assets/filters-walkthrough-1.png)
+![Image de Filtres 1](../12-exercises/assets/filters-walkthrough-1.png)
 
 ## Étapes à suivre
 
-1. Créez un clone du scénario &quot;Beyond basic mapping&quot; et nommez-le &quot;Utilisation du puissant filtre&quot;.
+1. Créez un clone du scénario « Au-delà du mappage de base » et nommez-le « Utilisation du filtre puissant ».
 
-   **Ajoutez un filtre avant le module Créer des projets Workfront afin de n’autoriser la création que des projets rouges.**
+   **Ajoutez un filtre avant le module Créer des projets Workfront afin de n’autoriser la création que de projets rouges.**
 
-   ![Filtres Image 2](../12-exercises/assets/filters-walkthrough-2.png)
+   ![Image de Filtres 2](../12-exercises/assets/filters-walkthrough-2.png)
 
 1. Ajoutez un filtre en cliquant sur la ligne pointillée reliant les modules ou en cliquant sur la clé à molette et en sélectionnant Configurer un filtre.
-1. Utilisez le champ Libellé pour nommer le filtre &quot;Projets rouges uniquement&quot;.
-1. Dans le champ Condition , mappez le champ Couleur du projet (Colonne 3 dans le fichier CSV). Sélectionnez l’opérateur Egal à (non-respect de la casse), puis saisissez &quot;rouge&quot;.
-1. Cliquez sur OK.
+1. Utilisez le champ Libellé pour nommer le filtre « Projets rouges uniquement ».
+1. Dans le champ Condition, mappez le champ Couleur du projet (colonne 3 dans le fichier CSV). Sélectionnez l’opérateur Égal à (non sensible à la casse), puis saisissez « rouge ».
+1. Cliquez sur OK.
 
-   ![Filtres Image 3](../12-exercises/assets/filters-walkthrough-3.png)
+   ![Image de Filtres 3](../12-exercises/assets/filters-walkthrough-3.png)
 
    **Testez le filtre et vérifiez les résultats.**
 
 1. Cliquez sur Enregistrer pour enregistrer le scénario, puis sur Exécuter une fois.
-1. Cliquez sur l’Inspecteur d’exécution pour le filtre afin de voir comment chaque lot a été examiné par le filtre et transmis ou n’a pas pu passer au module Créer des projets Workfront .
+1. Cliquez sur l’Inspecteur d’exécution relatif au filtre afin de voir comment chaque bundle a été traité par le filtre et s’il a pu être déplacé ou non vers le module Créer des projets Workfront.
 
-   ![Filtres Image 4](../12-exercises/assets/filters-walkthrough-4.png)
+   ![Image de Filtres 4](../12-exercises/assets/filters-walkthrough-4.png)
 
 1. Recherchez les projets créés dans votre instance Workfront.
