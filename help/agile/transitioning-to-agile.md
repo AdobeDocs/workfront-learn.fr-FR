@@ -1,6 +1,6 @@
 ---
 title: Transition vers Agile
-description: Avant de passer à une méthodologie agile, consultez quelques conseils et questions à poser.
+description: Avant de passer à une méthodologie Agile, voici quelques conseils et questions à se poser.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -10,53 +10,53 @@ hide: true
 hidefromtoc: true
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '554'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Transition vers Agile
 
-## Questions à poser avant de passer à l’autre mode
+## Questions à se poser avant d’effectuer la transition
 
-Avant d’adopter Agile, examinons quelques questions qui vous aideront à déterminer s’il convient de l’adopter.
+Avant de vous lancer dans l’adoption de la méthode Agile, répondons à quelques questions qui vous aideront à déterminer si elle vous convient ou non.
 
-La première question à poser est la suivante : La diffusion d’incréments de produit ou de fonctionnalité sera-t-elle autorisée dans votre entreprise ? Avez-vous besoin de pouvoir changer la cible ou la direction de ce produit au milieu du processus ? En d&#39;autres termes, démarrez-vous un projet sans connaître tous les détails de ce à quoi ressemblera le produit final en fonction de l&#39;environnement, des avancées technologiques futures, ou des besoins/besoins futurs qui ne sont pas visibles en ce moment ?
+La première question à se poser est la suivante : la livraison progressive de produits ou de fonctionnalités est-elle autorisée dans votre entreprise ? Avez-vous besoin de pouvoir changer l’orientation ou la direction de ce produit en cours de processus ? En d’autres termes, démarrez-vous un projet sans savoir précisément à quoi ressemblera le produit final en fonction de l’environnement, des avancées technologiques futures ou des souhaits/besoins futurs qui ne sont pas évidents pour le moment ?
 
-Si vous pouvez répondre oui aux questions ci-dessus, une transition vers Agile semble bonne. Voici la deuxième série de questions, axées sur l’infrastructure de votre équipe :
+Si vous pouvez répondre par l’affirmative aux questions ci-dessus, le passage à la méthode Agile se présente bien. Voici la deuxième série de questions, axée sur l’infrastructure de votre équipe :
 
-* Sont-elles situées près les unes des autres ?
+* Les membres sont-ils situés à proximité les uns des autres ?
 
-* Peuvent-ils avoir des prises de position quotidiennes en personne ?
+* Peuvent-ils avoir des réunions quotidiennes en personne ?
 
-* Si l&#39;équipe n&#39;est pas géographiquement proche, avez-vous une technologie qui leur permet de collaborer rapidement ?
+* Si l’équipe n&#39;est pas géographiquement proche, avez-vous mis en place une technologie qui lui permette de collaborer rapidement ?
 
-* Pouvez-vous faire en sorte que tout le monde ait le même programme de veille quotidienne ?
+* Pouvez-vous faire en sorte que tout le monde se tienne à un horaire quotidien similaire ?
 
-* Seront-ils capables de travailler par itérations ?
+* Seront-ils capables de travailler par itérations ?
 
-* Est-ce qu&#39;ils reçoivent généralement un travail d&#39;équipe ou est-ce que tout le monde se voit assigner un travail à partir de lieux aléatoires ?
+* L’équipe se voit-elle généralement confier du travail en tant que groupe ou chacun se voit-il confier du travail de manière aléatoire ?
 
-* Les membres de votre groupe sont-ils ouverts au changement ?
+* Les membres de votre groupe sont-ils ouverts au changement ?
 
-* Sont-ils désireux et capables de collaborer et de discuter de manière constructive des questions au fur et à mesure qu&#39;elles se présentent ?
+* Ont-ils la volonté et la capacité de collaborer et de discuter de manière constructive des questions qui se posent ?
 
-* Avez-vous des personnes qui peuvent assumer le rôle de chef de produit ou de maître de Scrum si vous utilisez ce style Agile ?
+* Y a-t-il des personnes qui peuvent assumer le rôle de chef de produit ou de Scrum master si vous adoptez la méthode Agile ?
 
 
-Ces types de questions doivent être posées et résolues si vous pensez que certains aspects d&#39;une équipe peuvent soulever des drapeaux rouges en tant qu&#39;obstacles à l&#39;adoption agile. Même si tout n&#39;est pas englobant, la conversation devrait se poursuivre avant de plonger.
+Ce type de questions doit être abordé si vous avez l’impression que certains aspects d’une équipe peuvent constituer des obstacles à l’adoption de la méthode Agile. Bien que la liste de questions ne soit pas exhaustive, elle devrait permettre d’engager la conversation avant d’entrer dans le vif du sujet.
 
 
 ## Éduquer votre équipe
 
-Une fois que vous vous sentirez à l’aise avec Agile, vous souhaiterez commencer par former vos équipes Agile sur la façon dont elles vont passer à leurs nouveaux rôles, quand elles vont commencer à avoir des stand-up quotidiens, et comment elles vont intégrer leur travail actuel dans leur nouvelle configuration de storyboard.
+Une fois que vous décidé d’adopter la méthode Agile, vous devez commencer par informer vos équipes Agile sur la façon dont elles vont s’adapter à leurs nouveaux rôles, sur le moment où elles commenceront à tenir des réunions quotidiennes et sur la façon dont elles vont transférer leur travail actuel dans leur nouvelle configuration de storyboard.
 
 
-## Que surveiller une fois que vous commencez Agile
+## Les choses à surveiller une fois que l’on a commencé à utiliser la méthode Agile
 
-Une fois que vous avez établi les étapes de transition et que vous êtes certain que tout le monde est à l’aise avec le nouveau style de travail, vous souhaiterez vous assurer de surveiller et de suivre leur progression et leur succès. S&#39;ils ont du mal à courir à la même vitesse qu&#39;avant, qu&#39;est-ce qui peut causer ces problèmes ? Si l’équipe ne met pas à jour les articles avec leur état actuel, ces statuts ont-ils été clairement définis ?
+Après avoir défini les étapes de la transition et vous être assuré que tout le monde est familiarisé avec le nouveau style de travail, vous devrez veiller à surveiller et à suivre les progrès et les succès de chacun. S’ils ont du mal à travailler à la même vitesse qu’avant, quelle peut être la cause de ces problèmes ? Si l’équipe ne met pas à jour les stories avec leur statut actuel, ces statuts ont-ils été clairement définis ?
 
-Le suivi des progrès ou du succès d’une nouvelle équipe Agile sera très bénéfique pour donner confiance à l’équipe dans les changements qu’elle incorpore. En outre, le fait d’avoir ces mesures permet de justifier les avantages de la transition d’une équipe vers Agile lors de réunions de niveau supérieur.
+Le suivi des progrès ou des succès d’une nouvelle équipe Agile est très utile pour lui donner confiance dans les changements qui se mettent en place. En outre, le fait d’avoir ces mesures permet de justifier les avantages de la transition d’une équipe vers Agile lors de réunions avec la hiérarchie.
 
-Enfin, il est important de fournir à votre équipe et aux nouveaux gabarits de scrum un formulaire qui présente des questions utiles à poser lors des redressements quotidiens et des rétrospectives d’itération. Cette section fournit une excellente documentation pour les futures révisions du processus. Il permet également à l’équipe d’identifier les domaines qui ont besoin d’améliorations et de les aider à répondre aux questions dont ils ne pensent pas parler s’ils sont nouveaux dans Agile.
+Enfin, il est important de fournir à votre équipe et aux nouveaux scrum masters un formulaire décrivant les questions à poser lors des réunions quotidiennes et des rétrospectives d’itération. Cela fournit une excellente documentation pour les futurs examens du processus. Cela permet également à l’équipe d’identifier les domaines à améliorer et l’aide à répondre à des questions auxquelles elle n’aurait peut-être pas pensé si elle débute avec Agile.
