@@ -1,6 +1,6 @@
 ---
-title: Délégation de tâches, de problèmes et de validations
-description: Découvrez comment déléguer les approbations pour les projets, les tâches, les problèmes et les Fiches d’évaluation à un autre utilisateur de Workfront. Découvrez également comment déléguer des tâches et des affectations de problèmes.
+title: Déléguer des tâches, des problèmes et des approbations
+description: Découvrez comment déléguer des approbations pour des projets, des tâches, des problèmes et des cartes de pointage à un autre utilisateur ou une autre utilisatrice de Workfront. Apprenez également à déléguer des affectations de tâches et de problèmes.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -12,25 +12,25 @@ jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Délégation de tâches, de problèmes et de validations
+# Déléguer des tâches, des problèmes et des approbations
 
-Découvrez comment déléguer les approbations pour les projets, les tâches, les problèmes et les Fiches d’évaluation à un autre utilisateur de Workfront. Découvrez également comment déléguer des tâches et des affectations de problèmes.
+Découvrez comment déléguer des approbations pour des projets, des tâches, des problèmes et des cartes de pointage à un autre utilisateur ou une autre utilisatrice de Workfront. Apprenez également à déléguer des affectations de tâches et de problèmes.
 
 ## Approbations des délégués
 
-Découvrez comment déléguer à un autre utilisateur les approbations pour les projets, les tâches, les problèmes et les Fiches d’évaluation.
+Découvrez comment déléguer des approbations pour des projets, des tâches, des problèmes et des cartes de pointage à un autre utilisateur ou une autre utilisatrice.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Attribuer des approbations à quelqu’un d’autre
-* Fin de la période de délégation
-* Recherche des validations déléguées
+* Affecter des approbations à une autre personne
+* Terminer la période de délégation
+* Trouver des approbations déléguées
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
@@ -39,32 +39,32 @@ learn more URLS
 Delegate approval request
 --->
 
-## Délégation de tâches et d’affectations de problèmes
+## Déléguer des affectations de tâches et de problèmes
 
-Vous pouvez déléguer les tâches et les problèmes qui vous sont affectés à d’autres utilisateurs lorsque vous envisagez de quitter le bureau.
+Vous pouvez déléguer les tâches et les problèmes qui vous sont affectés à d’autres utilisateurs et utilisatrices lorsque vous prévoyez de vous absenter du bureau.
 
-### Comment activer la délégation des tâches et des affectations de problèmes
+### Activation de la délégation de l’affectation des tâches et des problèmes
 
-Avant de pouvoir être utilisé, la délégation de tâche et de problème doit être activée par un administrateur système ou un groupe. Cela se fait dans [!UICONTROL Configuration > Préférences de projet > Tâches et problèmes > Délégation]. L’activation de cette option permet à tous les utilisateurs disposant d’une licence de révision ou supérieure de déléguer les tâches et les problèmes qui leur sont assignés.
+Avant de pouvoir être utilisée, la délégation des tâches et des problèmes doit être activée par un administrateur ou une administratrice de système ou de groupe. Pour cela, accédez à [!UICONTROL Configuration > Préférences du projet > Tâches et problèmes > Délégation]. L’activation de cette option permet à toutes les personnes disposant d’une licence en Révision ou supérieure de déléguer les tâches et problèmes qui leur sont affectés.
 
-![Capture d&#39;écran montrant [!UICONTROL Configuration] préférences de délégation](assets/delegation-1.png)
+![Capture d’écran montrant les préférences de [!UICONTROL configuration] pour la délégation](assets/delegation-1.png)
 
-### Comment déléguer des tâches et des affectations de problèmes
+### Délégation des affectations de tâches et de problèmes
 
-Accédez à [!UICONTROL Accueil] et cliquez sur [!UICONTROL Déléguer], puis spécifiez l’utilisateur auquel vous déléguez toutes les tâches qui vous sont assignées et la période. Vous pouvez désigner n’importe quel utilisateur disposant d’une licence de révision ou d’une licence supérieure.
+Naviguez jusqu’à la page d’[!UICONTROL accueil] et cliquez sur [!UICONTROL Déléguer], puis indiquez l’utilisateur ou l’utilisatrice à qui vous déléguez toutes les tâches qui vous ont été affectées et la période. Vous pouvez désigner n’importe quelle personne disposant d’une licence en Révision ou supérieure.
 
-![Capture d’écran de l’onglet délégation dans [!UICONTROL Accueil]](assets/delegation-2.png)
+![Capture d’écran montrant l’onglet de délégation dans la page d’[!UICONTROL accueil]](assets/delegation-2.png)
 
-### Comment déterminer si une tâche ou un problème a été délégué
+### Déterminer si une tâche ou un problème a été délégué
 
-Vous pouvez savoir quand des tâches ou des problèmes ont été délégués dans [!UICONTROL Accueil] ou dans la vue de la tâche ou du problème.
+Vous déterminerez les cas où des tâches ou des problèmes ont été délégués dans la page d’[!UICONTROL accueil] ou dans la vue des tâches ou des problèmes.
 
-![Capture d’écran montrant l’affectation de tâche déléguée dans [!UICONTROL Accueil]](assets/delegation-4.png)
-![Capture d’écran montrant l’affectation de tâche déléguée dans la vue de tâche](assets/delegation-3.png)
+![Capture d’écran montrant l’affectation de tâches déléguées dans la page d’[!UICONTROL accueil]](assets/delegation-4.png)
+![Capture d’écran montrant l’affectation de tâches déléguées dans la vue des tâches](assets/delegation-3.png)
 
-### Notifications électroniques s’appliquant au travail délégué
+### Notifications par e-mail applicables au travail délégué
 
-Votre administrateur de groupe ou système peut activer les notifications par e-mail qui vous avertiront lorsque vous avez délégué vos tâches et problèmes et lorsque les tâches et problèmes d’une personne vous ont été délégués.
+L’administrateur ou l’administratrice de votre groupe ou de votre système peut activer les notifications par e-mail qui vous informeront lorsque vous aurez délégué vos tâches et vos problèmes et lorsque les tâches et les problèmes d’une autre personne vous auront été délégués.
 
-![Capture d&#39;écran montrant [!UICONTROL Configuration] options de notification électronique pour la délégation](assets/delegation-5.png)
-![Capture d’écran montrant un email de délégation de travail](assets/delegation-6.png)
+![Capture d’écran montrant les options de notification par e-mail dans [!UICONTROL Configuration] pour la délégation](assets/delegation-5.png)
+![Capture d’écran montrant un e-mail de délégation de travail](assets/delegation-6.png)
