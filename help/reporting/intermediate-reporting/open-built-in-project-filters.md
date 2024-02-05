@@ -1,6 +1,6 @@
 ---
-title: Présentation des filtres de projet intégrés
-description: Découvrez comment passer en revue les filtres de projet intégrés pour voir comment ils sont créés et créer votre propre filtre de projet dans Workfront.
+title: Comprendre les filtres de projet intégrés
+description: Découvrez comment passer en revue les filtres de projet intégrés pour voir comment ils sont conçus et comment créer votre propre filtre de projet dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336817.png
@@ -13,30 +13,30 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des filtres de projet intégrés
+# Comprendre les filtres de projet intégrés
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Examinez les filtres de projet intégrés pour voir comment ils sont créés.
-* Créez votre propre filtre de projet à l’aide de ce que vous avez appris.
+* Examiner les filtres de projet intégrés pour voir comment ils sont créés
+* Créer votre propre filtre de projet en utilisant ce que vous avez appris
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 
-## Activité : Création d’un filtre de projet
+## Activité : créer un filtre de projet
 
-Vous souhaitez voir tous les principaux projets que vous possédez, où &quot;principal&quot; signifie que l’état du projet correspond à Planification ou Actuel. Dans la zone Projets , créez un filtre de projet nommé &quot;Projets Principaux que je possède&quot;.
+Vous voulez voir tous les projets actifs que vous possédez, où « actif » signifie que le statut du projet équivaut à Planification ou En cours. Dans la zone Projets, créez un filtre de projet intitulé « Projets actifs dont je suis propriétaire ».
 
 ## Réponse
 
-Votre filtre doit se présenter comme suit :
+Votre filtre devrait ressembler à ceci :
 
-![Image de l’écran de création d’un filtre de projet](assets/opening-built-in-project-filters-1.png)
+![Image de l’écran pour créer un filtre de projet](assets/opening-built-in-project-filters-1.png)
 
-Vous pouvez inclure des règles de filtrage supplémentaires, telles que la recherche de projets dans un programme ou un portefeuille spécifique. Pour ce faire, Workfront vous recommande de renommer le filtre en un élément suffisamment descriptif, comme &quot;Projets Principaux que je possède dans le Portfolio marketing&quot;.
+Vous pouvez inclure des règles de filtrage supplémentaires, telles que la recherche de projets dans un certain programme ou portfolio. Lorsque vous faites cela, Workfront vous recommande de renommer le filtre en quelque chose de suffisamment descriptif, comme « Projets actifs dont je suis propriétaire dans le portfolio marketing ».
