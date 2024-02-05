@@ -1,5 +1,5 @@
 ---
-title: Réponses aux questions sur Forms personnalisé
+title: Réponses aux questions à propos des formulaires personnalisés
 description: Obtenez des réponses aux questions courantes sur les formulaires personnalisés.
 feature: Custom Forms
 type: Tutorial
@@ -9,39 +9,39 @@ activity: use
 team: Technical Marketing
 jira: KT-10058
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '317'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Questions courantes à propos des formulaires personnalisés
+# Questions courantes sur les formulaires personnalisés
 
-**Puis-je changer le type d&#39;affichage d&#39;un champ après l&#39;avoir créé ? Par exemple, puis-je passer d’un menu déroulant à des cases à cocher ?**
+**Puis-je modifier le type d’affichage d’un champ après l’avoir créé ? Par exemple, puis-je passer d’un menu déroulant à des cases à cocher ?**
 
-Oui. Le type d’affichage peut être basculé vers un autre type d’affichage similaire : texte au paragraphe, menu déroulant vers des cases à cocher ou des boutons radio, etc. Pour plus d’informations sur le changement de type d’affichage, voir l’article Créer un formulaire personnalisé .
-
-
-**Puis-je utiliser le même formulaire personnalisé pour plusieurs objets ? Par exemple, un formulaire que j’ai créé pour une tâche à un projet ?**
-
-Non. Les formulaires personnalisés ont une relation un-à-un avec un objet. Vous pouvez toutefois copier le formulaire personnalisé et remplacer l’objet par celui qui est nécessaire.
+Oui. Le type d’affichage peut être remplacé par un autre type d’affichage similaire : de texte à paragraphe, de liste déroulante aux cases à cocher ou boutons radio, etc.  Pour plus d’informations sur le changement de type d’affichage, reportez-vous à l’article Créer un formulaire personnalisé.
 
 
-**Un formulaire personnalisé peut-il être joint à un modèle de projet ?**
+**Puis-je utiliser le même formulaire personnalisé pour plusieurs objets ? Par exemple, un formulaire que j’ai créé pour une tâche, sur un projet ?**
 
-Oui. Ainsi, tout projet créé à partir de ce modèle sera déjà associé au formulaire personnalisé.
-
-
-**Le nombre de champs que je peux avoir sur un formulaire personnalisé est-il limité ?**
-
-Vous pouvez ajouter jusqu’à 500 champs sur un seul formulaire personnalisé. Cependant, une dégradation des performances peut se produire lorsque plus de 100 champs existent sur un formulaire, selon la complexité de votre formulaire personnalisé. Parmi les exemples de formulaires complexes, citons les formulaires avec des paramètres en cascade, des champs de données personnalisés calculés et plusieurs options de valeur dans un champ donné.
+Non. Les formulaires personnalisés possèdent une relation de un-à-un avec un objet. Vous pouvez toutefois copier le formulaire personnalisé puis remplacer l’objet par l’objet souhaité.
 
 
-**Existe-t-il une limite au nombre de formulaires personnalisés que je peux joindre à un projet ?**
+**Un formulaire personnalisé peut-il être associé à un modèle de projet ?**
 
-Oui. Vous pouvez joindre jusqu’à 10 formulaires personnalisés à un objet. Pour plus d’informations, reportez-vous à cet article, Application d’un Forms personnalisé à des objets.
+Oui. Ainsi, le formulaire personnalisé sera déjà associé à tout projet créé à partir de ce modèle.
 
 
-**Puis-je désactiver un formulaire personnalisé ?**
+**Le nombre de champs dont je peux disposer sur un formulaire personnalisé est-il limité ?**
 
-Oui. Dans l’onglet Paramètres de formulaire du formulaire personnalisé, décochez la case Est Principal . Cela supprime le formulaire personnalisé de tous les menus déroulants dans Workfront. Cependant, si le formulaire personnalisé est déjà joint à un projet, il reste et conserve toutes les données déjà saisies.
+Vous pouvez ajouter jusqu’à 500 champs sur un seul formulaire personnalisé. Cependant, une dégradation des performances peut se produire lorsque le formulaire comporte plus de 100 champs, en fonction de la complexité de votre formulaire personnalisé. Parmi les exemples de formulaires complexes, citons les formulaires avec des paramètres en cascade, des champs de données personnalisés calculés et plusieurs options de valeur dans un champ donné.
+
+
+**Le nombre de formulaires personnalisés que je peux associer à un projet est-il limité ?**
+
+Oui. Vous pouvez associer jusqu’à 10 formulaires personnalisés à un objet. Pour plus d’informations, reportez-vous à l’article Appliquer des formulaires personnalisés à des objets.
+
+
+**Puis-je désactiver un formulaire personnalisé ?**
+
+Oui. Dans l’onglet Paramètres du formulaire personnalisé, décochez la case Actif. Cette opération supprime le formulaire personnalisé de tous les menus déroulants de Workfront. Cependant, si le formulaire personnalisé est déjà associé à un projet, il reste présent et conserve toutes les données déjà saisies.
