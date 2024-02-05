@@ -1,72 +1,72 @@
 ---
 title: Bonne pratique - Licences et niveaux d’accès
-description: Découvrez les recommandations de bonnes pratiques des experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation des licences et des niveaux d’accès Workfront.
+description: Découvrez les recommandations de bonnes pratiques des expertes et experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation des licences et des niveaux d’accès Workfront.
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10914
 exl-id: 6be3fab9-16a1-4ab9-89ce-8c53f8358e62
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1253'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Bonne pratique - Licences et niveaux d’accès
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
 ## Bonnes pratiques relatives aux licences et aux niveaux d’accès
 
-* Commencez par un accès moindre pour les utilisateurs lors de la configuration des niveaux d’accès.
+* Commencez par un accès moindre pour les utilisateurs et utilisatrices lors de la configuration des niveaux d’accès.
 
-* Lors de l’attribution de licences de révision et de demande, la fonction Réviser est généralement activée par défaut, car elle accorde à l’utilisateur davantage d’autorisations dans Adobe Workfront.
+* Lors de l’affectation de licences de révision et de demande, la fonction Réviser est généralement activée par défaut, car elle accorde à l’utilisateur ou l’utilisatrice davantage d’autorisations dans Adobe Workfront.
 
-* Décochez la case &quot;Partager à l’échelle du système&quot; sur chaque objet à tous les niveaux d’accès, sauf si vous souhaitez que ces utilisateurs puissent le faire spécifiquement.
+* Décochez la case « Partager à l’échelle du système » sur chaque objet à tous les niveaux d’accès, sauf si vous souhaitez précisément que ces utilisateurs et utilisatrices puissent le faire.
 
-* Envisagez d’activer le paramètre &quot;Ne jamais autoriser les utilisateurs à supprimer les commentaires&quot; sous Définir des restrictions supplémentaires dans un niveau d’accès.
+* Envisagez d’activer le paramètre « Ne jamais autoriser les utilisateurs et utilisatrices à supprimer les commentaires » sous Définir des restrictions supplémentaires dans un niveau d’accès.
 
-* Limitez le nombre d’administrateurs système en faveur des administrateurs de groupe.
+* Limitez le nombre d’administrateurs et administratrices système en faveur des administrateurs et administratrices de groupe.
 
 * Copiez un niveau d’accès existant et apportez des modifications, plutôt que de créer un nouveau niveau d’accès à partir de zéro.
 
-* Documentez ce que chaque niveau d’accès peut faire dans la zone Description.
+* Décrivez ce que chaque niveau d’accès peut faire dans la zone Description.
 
-* Limitez-vous uniquement aux niveaux d’accès nécessaires pour atteindre vos objectifs de travail, idéalement quatre ou cinq qui répondent aux besoins de la plupart des utilisateurs du système.
+* Limitez-vous aux niveaux d’accès nécessaires pour atteindre vos objectifs de travail, idéalement quatre ou cinq, qui répondent aux besoins de la plupart des utilisateurs et utilisatrices du système.
 
-* Attribuez au moins deux utilisateurs au niveau d’accès administrateur du système global.
+* Affectez au moins deux utilisateurs ou utilisatrices au niveau d’accès d’administration globale du système.
 
-* Limitez ce que les utilisateurs peuvent faire des éléments Workfront par le partage, plutôt que de supprimer une fonctionnalité d’un niveau d’accès.
+* Limitez ce que les utilisateurs et utilisatrices peuvent faire des éléments Workfront en réalisant un partage, plutôt qu’en supprimant une fonctionnalité d’un niveau d’accès.
 
 </br>
 </br>
 
 
-## Pourquoi ces bonnes pratiques ?
+## Pourquoi s’agit-il des bonnes pratiques ?
 
-**Bonne pratique**
+**Bonnes pratiques**
 
-Commencez par un accès moindre pour les utilisateurs lors de la configuration des niveaux d’accès.
+Commencez par un accès moindre pour les utilisateurs et utilisatrices lors de la configuration des niveaux d’accès.
 
 
 
 **Voici pourquoi**
 
-Démarrez les utilisateurs avec l’accès minimal dont ils auront besoin pour effectuer leur travail. S’ils ne peuvent pas effectuer leurs tâches en raison de droits d’accès insuffisants, ils demanderont généralement un accès supplémentaire. L’octroi immédiat d’un trop grand accès aux utilisateurs peut entraîner des problèmes de sécurité. De plus, il est toujours préférable de donner aux utilisateurs plus d’accès que de supprimer l’accès.
+Commencez par donner aux utilisateurs et utilisatrices l’accès minimum dont ils auront besoin pour faire leur travail. S’ils ne peuvent pas faire leur travail en raison de droits d’accès insuffisants, ils demanderont généralement un accès supplémentaire. L’octroi immédiat d’un accès trop important aux utilisateurs et utilisatrices peut entraîner des problèmes de sécurité. De plus, il est toujours préférable d’élargir l’accès pour les utilisateurs et utilisatrices plutôt que d’en supprimer.
 
 </br>
 </br>
@@ -75,64 +75,64 @@ Démarrez les utilisateurs avec l’accès minimal dont ils auront besoin pour e
 
 **Bonne pratique**
 
-Lors de l’attribution de licences de révision et de demande, la fonction Réviser est généralement activée par défaut, car elle accorde à l’utilisateur davantage d’autorisations dans Adobe Workfront.
+Lors de l’affectation de licences de révision et de demande, la fonction Réviser est généralement activée par défaut, car elle accorde à l’utilisateur ou l’utilisatrice davantage d’autorisations dans Adobe Workfront.
 
 
 
 **Voici pourquoi**
 
-Bien que les licences de révision et de demande puissent être attribuées à un nombre illimité d’utilisateurs dans Workfront, les licences de demande se limitent à effectuer et mettre à jour des demandes. Une licence Révision offre plus d’accès aux projets et aux tâches qu’une licence Demander, ainsi que la possibilité d’afficher des portefeuilles et des programmes, de modifier des documents et d’accéder aux outils de gestion des ressources.
-
-</br>
-</br>
-
-**Bonne pratique**
-
-Décochez la case &quot;Partager à l’échelle du système&quot; sur chaque objet à tous les niveaux d’accès, sauf s’il existe une raison spécifique pour laquelle les utilisateurs doivent pouvoir partager à l’échelle du système.
-
-
-
-**Voici pourquoi**
-
-Le partage d’un objet à l’échelle du système est souvent utilisé comme une béquille pour permettre à certains utilisateurs de voir des éléments dans Workfront. Cela se produit lorsque la structure de groupe Workfront est manquante ou lorsque les autorisations de partage ne sont pas entièrement comprises. Lorsque des éléments sont partagés à l’échelle du système, cela signifie que tout le monde peut voir l’élément partagé. Selon le type d’informations conservées dans le système, cela peut entraîner des problèmes de confidentialité.
-
-
-
-Par exemple, vous pouvez collaborer avec plusieurs fournisseurs dans Workfront pour vérifier l’avancement, fournir les approbations, etc. Si la case à cocher &quot;Partager à l’échelle du système&quot; est une option, elle peut être sélectionnée ou définie comme valeur par défaut, ce qui rend les informations disponibles pour tous les fournisseurs.
-
-
-
-En décochant complètement l’option, vous faites en sorte qu’un utilisateur, avec l’autorisation de partager, détermine la ou les personnes spécifiques — par l’intermédiaire d’une société, d’un groupe ou d’une équipe — avec lesquelles il souhaite partager l’objet.
+Bien que les licences Révision et Demande puissent être affectées à un nombre illimité de personnes dans Workfront, les licences Demande se limitent globalement à l’élaboration et à la mise à jour de demandes. Une licence Révision offre un accès plus large aux projets et aux tâches qu’une licence Demande, ainsi que la possibilité d’afficher des portfolios et des programmes, de modifier des documents et d’accéder aux outils de gestion des ressources.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Envisagez d’activer le paramètre &quot;Ne jamais autoriser les utilisateurs à supprimer les commentaires&quot; sous Définir des restrictions supplémentaires dans un niveau d’accès.
+Décochez la case « Partager à l’échelle du système » sur chaque objet à tous les niveaux d’accès, sauf s’il existe une raison spécifique pour laquelle les utilisateurs et utilisatrices doivent pouvoir effectuer des partages à l’échelle du système.
 
 
 
 **Voici pourquoi**
 
-L’activation de cette option garantit que les communications antérieures ne sont pas supprimées de Workfront. Certaines organisations exigent que l’historique complet des commentaires soit conservé à des fins de contrôle.
+Le partage d’un objet à l’échelle du système est souvent utilisé comme un contournement pour permettre à certaines personnes de voir des éléments dans Workfront. Cela se produit lorsque la structure du groupe Workfront est insuffisante ou lorsque les autorisations de partage ne sont pas bien comprises. Lorsque des éléments sont partagés à l’échelle du système, cela signifie que tout le monde peut voir l’élément partagé. Selon le type d’informations conservées dans le système, cela peut entraîner des problèmes de confidentialité.
+
+
+
+Par exemple, vous pourriez travailler avec plusieurs fournisseurs et fournisseuses au sein de Workfront pour vérifier l’état d’avancement, fournir des approbations, etc. Si la case à cocher « Partager à l’échelle du système » est une option, elle peut être sélectionnée ou définie comme valeur par défaut, ce qui rend les informations disponibles pour tous les fournisseurs et fournisseuses.
+
+
+
+Si vous décochez complètement l’option, un utilisateur ou une utilisatrice ayant l’autorisation de partager devra déterminer la ou les personnes spécifiques - par l’intermédiaire d’une entreprise, d’un groupe ou d’une équipe - avec lesquelles il ou elle souhaite partager l’objet.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Limitez le nombre d’administrateurs système en faveur des administrateurs de groupe.
+Envisagez d’activer le paramètre « Ne jamais autoriser les utilisateurs et utilisatrices à supprimer les commentaires » sous Définir des restrictions supplémentaires dans un niveau d’accès.
 
 
 
 **Voici pourquoi**
 
-Les administrateurs système ont accès à tous les éléments de Workfront, y compris les paramètres système globaux. Les administrateurs de groupe de paramètres peuvent accéder à sont contrôlés par l’administrateur système et s’appliquent uniquement à ce groupe spécifique.
+L’activation de cette option permet de s’assurer que les communications passées ne sont pas supprimées de Workfront. Certaines organisations exigent que l’historique complet des commentaires soit conservé à des fins d’audit.
+
+</br>
+</br>
+
+**Bonne pratique**
+
+Limitez le nombre d’administrateurs et administratrices système en faveur des administrateurs et administratrices de groupe.
 
 
 
-Le fait d’avoir des administrateurs de groupe permet aux administrateurs système de déléguer de nombreuses responsabilités, ce qui leur permet de se concentrer sur des éléments d’image plus importants, plutôt que sur la maintenance quotidienne de Workfront. Les administrateurs de groupe peuvent plus facilement rester en contact avec les besoins de leurs groupes, ce qui offre un meilleur service aux utilisateurs.
+**Voici pourquoi**
+
+Les équipes d’administration système ont accès à tout Workfront, y compris aux paramètres globaux du système. Les paramètres auxquels les équipes d’administration du groupe peuvent accéder sont contrôlés par l’administrateur ou l’administratrice système et s’appliquent uniquement à ce groupe spécifique.
+
+
+
+Le fait d’avoir des équipes d’administration de groupe permet aux administrateurs et administratrices système de déléguer de nombreuses responsabilités, ce qui leur permet de se concentrer sur des éléments plus importants, plutôt que sur la maintenance quotidienne de Workfront. Les équipes d’administration de groupe peuvent plus facilement rester en contact avec les besoins de leurs groupes, ce qui offre un meilleur service aux utilisateurs et utilisatrices.
 
 </br>
 </br>
@@ -146,59 +146,59 @@ Copiez un niveau d’accès existant et apportez des modifications, plutôt que 
 
 **Voici pourquoi**
 
-La copie d’un niveau d’accès existant fournit une base cohérente pour les nouveaux niveaux d’accès, en s’assurant que les paramètres initiaux sont identiques. Cela permet également d’économiser du temps, car les administrateurs système n’auront pas à configurer entièrement un niveau d’accès à partir de zéro.
+La copie d’un niveau d’accès existant assure une base cohérente pour les nouveaux niveaux d’accès, garantissant la similitude des paramètres initiaux. Cela permet également de gagner du temps, car les équipes d’administration système n’auront pas à configurer le niveau d’accès dans son intégralité.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Documentez ce que chaque niveau d’accès peut faire dans la zone Description.
+Décrivez ce que chaque niveau d’accès peut faire dans la zone Description.
 
 
 
 **Voici pourquoi**
 
-Soyez détaillé avec la description, en indiquant les paramètres de chaque type d’objet. Cela permet aux administrateurs système, actuels et futurs, de savoir exactement ce que fait chaque niveau d’accès sans avoir à passer au niveau d’accès lui-même pour vérifier les paramètres.
+La description doit être détaillée et préciser les paramètres de chaque type d’objet. Cela permet aux administrateurs et administratrices système, actuels et futurs, de savoir exactement ce que fait chaque niveau d’accès sans avoir à explorer en détails le niveau d’accès lui-même pour vérifier les paramètres.
 
 
 
-Cela peut également faciliter la comparaison des niveaux d’accès lors de leur consultation dans un rapport. Le champ de description peut être rapidement ajouté à la vue pour voir rapidement en quoi ils diffèrent et, éventuellement, pourquoi un niveau d’accès différent a été créé.
+Cela peut également faciliter la comparaison des niveaux d’accès dans un rapport. Le champ de description peut être rapidement ajouté à la vue pour découvrir sans tarder quelles sont les différences et, éventuellement, les raisons pour lesquelles un niveau d’accès différent a été créé.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Limitez-vous uniquement aux niveaux d’accès nécessaires pour atteindre vos objectifs de travail, idéalement quatre ou cinq qui répondent aux besoins de la plupart des utilisateurs du système.
+Limitez-vous aux niveaux d’accès nécessaires pour atteindre vos objectifs de travail, idéalement quatre ou cinq, qui répondent aux besoins de la plupart des utilisateurs et utilisatrices du système.
 
 
 **Voici pourquoi**
 
-Le niveau d’accès garantit que lorsqu’un objet Workfront est partagé avec un utilisateur, celui-ci dispose des droits dont il a besoin pour le modifier, le supprimer, etc. Vous pouvez rendre les niveaux d’accès plus généraux, car le partage sur des éléments individuels peut être configuré pour être plus spécifique.
+Le niveau d’accès garantit que lorsqu’un objet Workfront est partagé avec une personne, celle-ci dispose des droits nécessaires pour le modifier, le supprimer, etc. Vous pouvez rendre les niveaux d’accès plus généraux, car il est possible de configurer le partage d’éléments individuels afin qu’il soit plus spécifique.
 
 
-En outre, le fait d’avoir moins de niveaux d’accès peut faciliter la maintenance d’un système plus encombrant et la mise en oeuvre d’une stratégie, ce qui peut également accélérer l’intégration lorsque des personnes rejoignent l’entreprise ou changent de département.
+En outre, le fait d’avoir moins de niveaux d’accès peut faciliter la maintenance d’un système et la mise en œuvre d’une stratégie, ce qui peut également accélérer l’intégration lorsque des personnes rejoignent l’entreprise ou changent de service.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Attribuez au moins deux utilisateurs au niveau d’accès administrateur du système global.
+Affectez au moins deux utilisateurs ou utilisatrices au niveau d’accès d’administration globale du système.
 
 **Voici pourquoi**
 
-Plus d’une personne doit comprendre pourquoi Workfront a été configuré comme il l’était, comment le gérer/le gérer et comment prendre en charge les utilisateurs. Si une personne est absente du bureau, quitte l’organisation, est occupée, etc., cela garantit qu’une autre personne dispose des informations et des connaissances pour gérer le système avec succès.
+Il est important que plusieurs personnes comprennent pourquoi Workfront a été configuré de la sorte, comment le gérer/maintenir et comment aider les utilisateurs et utilisatrices. Si une personne est absente du bureau, quitte l’organisation, est occupée, etc., cela permet de s’assurer qu’une autre personne dispose des informations et des connaissances pour gérer le système.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Limitez ce que les utilisateurs peuvent faire des éléments Workfront par le partage, plutôt que de supprimer une fonctionnalité d’un niveau d’accès.
+Limitez ce que les utilisateurs et utilisatrices peuvent faire des éléments Workfront en réalisant un partage, plutôt qu’en supprimant une fonctionnalité d’un niveau d’accès.
 
 
 **Voici pourquoi**
 
-Les niveaux d’accès contrôlent ce que les utilisateurs peuvent faire avec des éléments spécifiques à un niveau global. Les autorisations de partage sur chaque projet, tâche, portfolio, document, etc., contrôlent ce qu’un utilisateur peut faire de cet élément spécifique. Plutôt que de supprimer une fonctionnalité pour toutes les personnes disposant d’un niveau d’accès spécifique, affinez les autorisations de partage sur des éléments spécifiques afin que les utilisateurs disposent de contrôles limités.
+Les niveaux d’accès contrôlent ce que les utilisateurs et les utilisatrices peuvent faire avec des éléments spécifiques au niveau global. Les autorisations de partage de chaque projet, tâche, portfolio, document, etc. contrôlent ce qu’une personne individuelle peut faire avec cet élément spécifique. Plutôt que de supprimer une fonctionnalité pour toutes les personnes disposant d’un niveau d’accès spécifique, affinez les autorisations de partage sur des éléments spécifiques afin que les utilisateurs et utilisatrices disposent de contrôles limités.
