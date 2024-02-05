@@ -1,60 +1,60 @@
 ---
 title: Bonne pratique - Agile
-description: Découvrez les recommandations de bonnes pratiques des experts d’Adobe Workfront concernant Agile.
+description: Découvrez les recommandations des expertes et experts d’Adobe Workfront sur les bonnes pratiques en matière d’agilité.
 feature: Agile
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10901
 exl-id: c0c05fb4-a61b-41bd-b994-b23571c78788
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '609'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Bonne pratique - Agile
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
-## Bonnes pratiques rapides
+## Bonnes pratiques en matière d’agilité
 
-* Si vous débutez avec Agile, commencez avec un simple panorama.
+* Si vous débutez avec Agile, commencez avec un panorama simple.
 
-* Parlez de votre workflow en équipe, avant de créer des colonnes sur le panorama — mais restez simple !
+* Discutez de votre workflow en équipe, avant de créer des colonnes sur le panorama - mais restez simple !
 * Effectuez vos opérations à l’aide du mode Panorama.
 
-* Créez un rapport Vitesse moyenne (articles déplacés pour se terminer au cours d’une itération ou d’un délai) et utilisez-le pour rendre la planification de votre équipe plus précise.
+* Créez un rapport sur la vitesse moyenne (stories déplacées vers le statut Terminé au cours d’une itération ou d’un délai), et utilisez-le pour préciser la planification de votre équipe.
 
-* Générez votre journal dans la vue &quot;Projet&quot; : vous pouvez y faire référence sous la forme d’une épopée, d’une fonctionnalité, d’une campagne ou d’une autre. Si vous disposez de plusieurs projets, utilisez la vue Programme et activez le groupe par projet. Pour afficher la priorité globale de votre équipe, désactivez le regroupement.
+* Générez votre liste d’attente dans la vue « Projet » - vous pouvez y faire référence sous la forme d’une épopée, d’une fonctionnalité, d’une campagne, ou autre. Si vous avez plusieurs projets, utilisez la vue Programme et activez le regroupement par projet. Pour afficher la priorité globale de votre équipe, désactivez le regroupement.
 
-* Epinglez et mettez en signet le panorama de votre équipe.
+* Épinglez le panorama de votre équipe et placez-y un signet.
 
 </br>
 </br>
 
-## Pourquoi ces bonnes pratiques ?
+## Pourquoi s’agit-il des bonnes pratiques ?
 
-**Bonne pratique**
+**Bonnes pratiques**
 
-Si vous débutez avec Agile, commencez avec un simple panorama.
+Si vous débutez avec Agile, commencez avec un panorama simple.
 
 **Voici pourquoi**
 
-Commencer par intégrer votre travail à un panorama et faire passer des tâches vous aidera à vous exercer et à vous donner plus de structure ultérieurement au fur et à mesure que vous commencez à organiser et évaluer la priorité des tâches
+Commencer par inscrire votre travail sur un panorama et par en tirer des éléments vous aidera à vous entraîner et vous donnera plus de structure par la suite lorsque vous commencerez à organiser et à évaluer la priorité des éléments.
 
 </br>
 </br>
@@ -62,12 +62,12 @@ Commencer par intégrer votre travail à un panorama et faire passer des tâches
 
 **Bonne pratique**
 
-Parcourez votre workflow en équipe, avant de créer des colonnes sur le panorama, mais restez simple !
+Discutez de votre workflow en équipe, avant de créer des colonnes sur le panorama - mais restez simple !
 
 
 **Voici pourquoi**
 
-Souvent, les équipes créent trop de complexité sur le panorama, ce qui crée un travail supplémentaire qui n&#39;ajoute pas vraiment de valeur. Commencez par quelques colonnes, puis ajustez-les au fur et à mesure.
+Souvent, les équipes ajoutent trop de complexité à ce niveau-là, ce qui entraîne un surcroît de travail, sans réelle valeur ajoutée. Commencez par quelques colonnes, puis ajustez-les au fur et à mesure.
 
 </br>
 </br>
@@ -78,26 +78,26 @@ Effectuez vos opérations à l’aide du mode Panorama.
 
 **Voici pourquoi**
 
-Il est facile d&#39;oublier quel travail est en fait la priorité la plus élevée, parce que les perturbations quotidiennes peuvent se sentir plus urgentes. Gardez un oeil sur vos engagements initiaux en regardant le tableau.
+Il est facile d’oublier quelles sont les tâches effectivement prioritaires, car les perturbations quotidiennes peuvent sembler plus urgentes. Rappelez-vous vos engagements initiaux en regardant le panorama.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Créez un rapport Vitesse moyenne (articles déplacés pour se terminer au cours d’une itération ou d’un délai) et utilisez-le pour rendre la planification de votre équipe plus précise.
+Créez un rapport sur la vitesse moyenne (stories déplacées vers le statut Terminé au cours d’une itération ou d’un délai), et utilisez-le pour préciser la planification de votre équipe.
 
 **Voici pourquoi**
 
-Il est facile d&#39;être trop optimiste sur ce que nous pouvons faire à tout moment. Regarder régulièrement la vitesse et être plus réaliste au sujet de nos engagements aide à construire une réelle prévisibilité et nous protège contre la surcharge de travail
+On est facilement trop optimiste quant à la quantité de choses que l’on peut faire à un moment donné. Examiner régulièrement la vitesse d’exécution et se montrer plus réaliste quant à nos engagements permet de créer une véritable prévisibilité et nous protège de la surcharge de travail.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Générez votre journal dans la vue &quot;Projet&quot; : vous pouvez y faire référence sous la forme d’une épopée, d’une fonctionnalité, d’une campagne ou d’une autre. Si vous disposez de plusieurs projets, utilisez la vue Programme et activez le groupe par projet. Pour afficher la priorité globale de votre équipe, désactivez le regroupement.
+Générez votre liste d’attente dans la vue « Projet » - vous pouvez y faire référence sous la forme d’une épopée, d’une fonctionnalité, d’une campagne ou autre. Si vous avez plusieurs projets, utilisez la vue Programme et activez le regroupement par projet. Pour afficher la priorité globale de votre équipe, désactivez le regroupement.
 
 **Voici pourquoi**
 
-Un retard sur un panorama peut ne pas représenter tout le travail nécessaire pour créer une plus grande valeur. L’examen du projet peut aider l’équipe à déterminer la valeur supérieure que vous essayez de fournir à votre client. À partir de là, vous pouvez affiner et prioriser le travail et l’extraire sur un panorama.
+Une liste d’attente sur un panorama peut ne pas refléter tout le travail nécessaire à la création d’une valeur supérieure. L’examen du projet peut aider l’équipe à se concentrer sur la valeur ajoutée que vous essayez d’apporter à votre client ou cliente. À partir de là, vous pouvez affiner et hiérarchiser le travail et l’inscrire sur un panorama.
