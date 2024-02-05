@@ -1,6 +1,6 @@
 ---
 title: Convertir un document en BAT
-description: Découvrez comment générer un bon à tirer d’un document qui existe déjà dans [!DNL  Workfront], ajoutez un workflow à un BAT, puis ajoutez ou modifiez un workflow après la création du BAT.
+description: Découvrez comment générer un BAT d’un document qui existe déjà dans  [!DNL  Workfront], comment ajouter un flux de travail à un BAT et comment ajouter ou modifier un flux de travail après la création d’un BAT.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,39 +12,39 @@ jira: KT-8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Convertir un document en BAT
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Générer un BAT d’un document déjà présent dans [!DNL Workfront]
+* Générer un BAT d’un document déjà existant dans [!DNL Workfront].
 * Ajouter un workflow lors de la génération du BAT
 * Ajouter ou modifier un workflow une fois le BAT créé
 
 >[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on)
 
 
-## Qui peut télécharger des documents ?
+## Qui peut charger des documents ?
 
-Votre administrateur système détermine dans quel format (document ou BAT) vous pouvez charger des fichiers dans [!DNL Workfront]. Certains utilisateurs peuvent ne charger que des documents, d’autres ne charger que des bons à tirer ou encore d’autres charger les deux. Vos autorisations sont basées sur votre rôle dans le workflow de vérification.
+Votre administrateur ou administratrice système détermine dans quel format - document ou BAT - vous pouvez charger des fichiers sur [!DNL Workfront]. Certains utilisateurs et certaines utilisatrices peuvent télécharger uniquement des documents, d’autres uniquement des BAT, d’autres encore les deux. Vos autorisations dépendent de votre rôle dans le workflow de vérification.
 
-Si vous estimez que ces paramètres doivent être ajustés, contactez votre administrateur système.
+Si vous constatez que ces paramètres doivent être ajustés, parlez-en à votre administrateur ou administratrice système.
 
-## Votre tour
+## À vous
 
 >[!IMPORTANT]
 >
->N’oubliez pas de rappeler à vos collègues que vous leur envoyez un bon à tirer dans le cadre de votre formation Workfront.
+>Penser à rappeler à vos collaborateurs et collaboratrices que vous leur envoyez un BAT dans le cadre de votre formation Workfront.
 
-1. Ouvrez un projet, une tâche ou une publication et accédez à la section Documents . Chargez deux ou trois documents.
+1. Ouvrez un projet, une tâche ou un problème et accédez à la section Documents. Téléchargez deux ou trois documents.
 1. Convertissez maintenant l’un des documents en BAT, mais n’ajoutez pas encore de workflow de vérification.
-1. Convertissez le deuxième document en BAT, en ajoutant un workflow de base avec une échéance de 16h00 aujourd&#39;hui.
-1. Revenez au BAT que vous avez créé à l&#39;étape 2 de cet exercice et ajoutez un modèle de workflow de BAT. Si votre entreprise n’en a pas encore, configurez entièrement un workflow de BAT en 2 étapes.
+1. Convertissez le deuxième document en BAT, en ajoutant un flux de travail de base avec une échéance fixée à 16 heures aujourd’hui.
+1. Revenez au BAT que vous avez créé à l’étape 2 de cet exercice et ajoutez un modèle de flux de travail pour le BAT. Si votre organisation n’en a pas encore, mettez en place un processus de vérification de workflow en 2 étapes.
 
 
 <!--
