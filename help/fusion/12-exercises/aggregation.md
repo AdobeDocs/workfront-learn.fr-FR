@@ -1,6 +1,6 @@
 ---
 title: Agrégation
-description: Découvrez comment regrouper plusieurs lots d’informations en une seule valeur.
+description: Découvrez comment agréger plusieurs bundles d’informations en une seule valeur.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,53 +11,53 @@ jira: KT-11047
 thumbnail: KT11047.png
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Agrégation
 
-Découvrez comment regrouper plusieurs lots d’informations en une seule valeur.
+Découvrez comment agréger plusieurs bundles d’informations en une seule valeur.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-En utilisant le scénario &quot;Introduction à l’itération&quot; que vous avez créé lors du dernier exercice, agrégez les heures planifiées sur chaque tâche opérationnelle du projet et envoyez-vous un email contenant ces informations.
+En utilisant le scénario « Introduction à l’itération » que vous avez créé lors de l’exercice précédent, agrégez le nombre d’heures prévues sur chaque tâche opérationnelle du projet et envoyez-vous un e-mail contenant ces informations.
 
-![Image d’agrégation 1](../12-exercises/assets/aggregation-walkthrough-1.png)
+![Image d’agrégation 1](../12-exercises/assets/aggregation-walkthrough-1.png)
 
 ## Étapes à suivre
 
-**Ajoutez un filtre et conservez les heures prévues.**
+**Ajoutez un filtre et faites la SOMME du nombre d’heures prévues.**
 
-1. Cloner le scénario &quot;Introduction à l’itération&quot; que vous avez créé lors de l’exercice précédent et nommer-le &quot;Introduction à l’agrégation&quot;.
-1. Ajoutez un filtre entre le module Lecture des tâches du projet et le module Comptage du nombre de tâches. Nommez le filtre &quot;Uniquement les tâches opérationnelles&quot;.
-1. Définissez la condition sur Nombre d’enfants [Opérateur numérique : Égal à] 0.
+1. Clonez le scénario « Introduction à l’itération » que vous avez créé lors de l’exercice précédent et nommez-le « Introduction à l’agrégation ».
+1. Ajoutez un filtre entre le module Lire les tâches du projet et le module Compter le nombre de tâches. Nommez le filtre « Uniquement les tâches opérationnelles ».
+1. Définissez la condition sur Nombre d’enfants [Opérateur numérique : égal à] 0.
 
-   ![Image d’agrégation 2](../12-exercises/assets/aggregation-walkthrough-2.png)
+   ![Image d’agrégation 2](../12-exercises/assets/aggregation-walkthrough-2.png)
 
-1. Après le module Math aléatoire, ajoutez un module d’outil Agrégateur numérique .
+1. Après le module Math aléatoire, ajoutez un module d’outil Agrégateur numérique.
 1. Définissez le module source sur Lire les tâches du projet.
-1. Définissez la fonction Agrégat sur SUM.
-1. Définissez la Valeur sur le champ Travail à partir du module Lecture des tâches du projet .
-1. Renommez ce module &quot;SOMME de toutes les heures de planification de la tâche&quot;.
+1. Définissez la fonction Agrégat sur SOMME.
+1. Définissez la Valeur sur le champ Travail à partir du module Lire les tâches du projet.
+1. Renommez ce module « SOMME de toutes les heures de planification de la tâche ».
 
-   ![Image d’agrégation 3](../12-exercises/assets/aggregation-walkthrough-3.png)
+   ![Image d’agrégation 3](../12-exercises/assets/aggregation-walkthrough-3.png)
 
    **Notez l’ombre qui indique que l’agrégation termine l’itération.**
 
-   ![Image d’agrégation 4](../12-exercises/assets/aggregation-walkthrough-4.png)
+   ![Image d’agrégation 4](../12-exercises/assets/aggregation-walkthrough-4.png)
 
-   **Envoyez un email avec des heures agrégées.**
+   **Envoyez un e-mail avec les heures agrégées.**
 
-1. Ajoutez un module Envoyer un email à partir de l’application de messagerie, après l’agrégateur numérique.
-1. Envoyez-vous l&#39;email.
-1. L’objet est &quot;Détails du projet&quot;.
-1. Dans le champ Contenu, indiquez &quot;Il existe un projet appelé [nom du projet] qui a un nombre total de [result] les heures prévues.&quot; Le &quot;[nom du projet]&quot; provient du module Lecture d’un enregistrement et &quot;[result]&quot; provient du module d’agrégation.
+1. Ajoutez un module Envoyer un e-mail à partir de l’application de messagerie, après l’agrégateur numérique.
+1. Envoyez-vous l’e-mail.
+1. L’objet est « Détails du projet ».
+1. Dans le champ Contenu, indiquez « Il existe un projet appelé [nom du projet] qui a un nombre total du [résultat] d’heures prévues ». Le « [nom du projet] » provient du module Lecture d’un enregistrement et « [résultat] » provient du module d’agrégation.
 
-   ![Image d’agrégation 5](../12-exercises/assets/aggregation-walkthrough-5.png)
+   ![Image d’agrégation 5](../12-exercises/assets/aggregation-walkthrough-5.png)
 
-1. Enregistrez et exécutez une fois. Recherchez l’adresse électronique dans votre boîte de réception.
+1. Enregistrez et exécutez une fois. Recherchez l’e-mail dans votre boîte de réception.
 
-Dans l’itération, les lots individuels sont accessibles. En dehors de l’itération, dans le module Envoyer un email , seuls les champs agrégés sont accessibles.
+Au sein de l’itération, il est possible d’accéder aux différents paquets. En dehors de l’itération, dans le module Envoyer un e-mail, seuls les champs agrégés sont accessibles.
