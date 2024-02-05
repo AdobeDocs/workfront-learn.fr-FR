@@ -1,6 +1,6 @@
 ---
 title: Présentation de la planification d’un scénario
-description: Découvrez les scénarios de planification, de cycles et d’exécutions. [!DNL Adobe Workfront Fusion].
+description: Découvrez les planifications de scénarios, les cycles et les exécutions dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,16 +12,16 @@ last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
 doc-type: video
 source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Présentation de la planification d’un scénario
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Quels scénarios de planification, de cycles et d’exécutions se trouvent dans Workfront Fusion ?
+* Quels planifications de scénarios, cycles et exécutions se trouvent dans Workfront Fusion ?
 
 >[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12&learn=on)
