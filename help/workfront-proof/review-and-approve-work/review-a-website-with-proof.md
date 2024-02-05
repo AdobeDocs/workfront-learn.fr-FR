@@ -1,6 +1,6 @@
 ---
-title: Consulter un site web avec un BAT
-description: Découvrez comment ouvrir un BAT de site web statique ou interactif dans [!DNL  Workfront] et de faire des commentaires.
+title: Vérifier un site Web avec un BAT
+description: Découvrez comment ouvrir une épreuve de site web statique ou interactive dans  [!DNL  Workfront]  et faire des commentaires.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,19 +12,19 @@ jira: KT-8846
 exl-id: dcc8c441-3c5c-41e9-8cf2-031d3814a1ae
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Consulter un site web avec un BAT
+# Vérifier un site Web avec un BAT
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Ouvrir un BAT de site web
-* Faire des commentaires sur un BAT statique de site web
-* Ajout de commentaires à un BAT de site web interactif
+* Ouvrir une épreuve de site web
+* Faire des commentaires sur une épreuve de site web statique
+* Faire des commentaires sur une épreuve de site web interactive
 
 >[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on)
 
