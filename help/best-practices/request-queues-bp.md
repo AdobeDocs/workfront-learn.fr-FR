@@ -1,171 +1,132 @@
 ---
-title: Bonne pratique - Files d’attente des demandes
-description: Examinez les recommandations relatives aux bonnes pratiques des experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation des files d’attente de demandes Workfront.
+title: Bonne pratique - Files d’attente de demandes
+description: Découvrez les recommandations relatives aux bonnes pratiques des expertes et experts Adobe Workfront concernant la configuration, la gestion et l’utilisation des files d’attente des demandes Workfront.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1480'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bonne pratique - Files d’attente des demandes
+# Bonne pratique - Files d’attente de demandes
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
-
-</br>
-</br>
-
-## Bonnes pratiques relatives aux requêtes de file d’attente
-
-* Incluez une description pour chaque élément d’une file d’attente de demandes : le projet de file d’attente de demandes, les groupes de rubriques, les rubriques de file d’attente et les règles de routage.
-
-* Créez un état de projet appelé &quot;File d’attente des demandes&quot; ou &quot;Opérationnel&quot; qui correspond à &quot;Actuel&quot; pour distinguer les projets de la file d’attente des demandes des autres projets.
-
-* Si vous prévoyez d’utiliser les approbations de problèmes avec les demandes envoyées via une file d’attente, créez un état de problème appelé Refusé.
-
-* Attribuez des formulaires personnalisés &quot;universels&quot; pour demander des files d’attente afin de capturer autant de données homogènes à l’échelle de l’entreprise que possible.
-
-* Évitez de partager les files d’attente de requête avec &quot;tout le monde&quot;. Configurez les paramètres de détails de la file d’attente afin que les utilisateurs ne voient que les files d’attente correspondant à leurs besoins.
-
-* Créez et affectez un tableau de bord contenant les rapports de file d’attente des demandes afin que les gestionnaires de trafic, les administrateurs système ou les utilisateurs affectés puissent travailler directement sur les problèmes.
-
-* Utilisez les modèles de mise en page pour supprimer les options de configuration de la file d’attente des demandes du menu du panneau de gauche des projets pour les utilisateurs qui n’ont pas besoin de créer des files d’attente.
-
-* Créez une file d’attente de requêtes de l’administrateur système pour que les utilisateurs puissent poser des questions liées à Workfront, effectuer des requêtes concernant les configurations système, planifier une nouvelle formation des utilisateurs, etc.
-
-* Les files d’attente de demande d’audit de manière régulière afin d’identifier et d’annuler le partage des files d’attente qui ne sont pas utilisées.
-
-* Utilisez les groupes de rubriques pour organiser plus de 10 rubriques de file d’attente dans une file d’attente de requêtes afin de créer des listes plus courtes et plus faciles à gérer.
-
-* Contrôlez le nombre total de files d’attente de demandes disponibles pour les utilisateurs en ventilant une file d’attente de demandes à l’aide de groupes de rubriques et de rubriques de file d’attente, plutôt que de créer plusieurs files d’attente.
-
-* Configurez les règles de routage pour chaque rubrique de file d’attente. Configurez au minimum une règle de routage par défaut.
-
-* Tirez parti des groupes de rubriques et des rubriques de file d’attente lorsque le routage sélectif est nécessaire.
-
-* Itinéraires les demandes à une équipe, plutôt qu’à un individu.
-
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
+## Bonnes pratiques en matière de files d’attente
 
-## Pourquoi ces bonnes pratiques ?
+* Incluez une description de chaque élément d’une file d’attente de demandes : le projet de file d’attente de demandes, les groupes de rubriques, les rubriques de file d’attente et les règles de routage.
+
+* Créez un statut de projet nommé « File d’attente » ou « Opérationnel » qui équivaut à « En cours » pour distinguer les projets de la file d’attente de demandes des autres projets.
+
+* Si vous prévoyez d’utiliser les approbations de problèmes avec des demandes soumises via une file d’attente, créez un statut de problème nommé Rejeté.
+
+* Attribuez des formulaires personnalisés « universels » aux files d’attente de demandes afin de capturer autant de données pertinentes que possible dans toute l’entreprise.
+
+* Évitez de partager les files d’attente de demandes avec « tout le monde ». Paramétrez les détails de la file d’attente pour que les utilisateurs et les utilisatrices ne voient que les files d’attente correspondant à leurs besoins.
+
+* Créez et affectez un tableau de bord contenant des rapports sur la file d’attente des demandes afin que les responsables du trafic, les administrateurs et administratrices système ou les utilisateurs et utilisatrices affectés puissent travailler directement sur les problèmes.
+
+* Utilisez les modèles de disposition pour supprimer les options de configuration de la file d’attente des demandes dans le menu du panneau de gauche des projets pour les utilisateurs et utilisatrices qui n’ont pas besoin de créer des files d’attente.
+
+* Créez une file d’attente des demandes de l’équipe d’administration système afin que les utilisateurs et utilisatrices puissent poser des questions relatives à Workfront, faire des demandes concernant la configuration du système, planifier la formation des nouveaux arrivants, etc.
+
+* Auditez régulièrement les files d’attente de demandes afin d’identifier et d’annuler le partage des files d’attente qui ne sont pas utilisées.
+
+* Utilisez les groupes de sujets pour organiser plus de 10 sujets dans une file d’attente de demandes afin de créer des listes plus courtes et plus faciles à gérer.
+
+* Contrôlez le nombre total de files d’attente de demandes disponibles pour les utilisateurs et utilisatrices en décomposant une file d’attente à l’aide de groupes thématiques et de sujets de file d’attente, plutôt que de créer plusieurs files d’attente.
+
+* Définissez des règles de routage pour chaque rubrique de file d’attente. Configurez au minimum une règle de routage par défaut.
+
+* Tirez parti des groupes thématiques et des rubriques de file d’attente lorsqu’un routage sélectif est nécessaire.
+
+* Routez les demandes vers une équipe plutôt qu’une personne.
 
 
-**Bonne pratique**
+</br>
+</br>
 
-Incluez une description pour chaque élément d’une file d’attente de demandes : le projet de file d’attente de demandes, les groupes de rubriques, les rubriques de file d’attente et les règles de routage.
+
+## Pourquoi s’agit-il des bonnes pratiques ?
+
+
+**Bonnes pratiques**
+
+Incluez une description de chaque élément d’une file d’attente de demandes : le projet de file d’attente de demandes, les groupes de rubriques, les rubriques de file d’attente et les règles de routage.
 
 **Voici pourquoi**
 
-Les descriptions permettent aux administrateurs de groupe, aux futurs administrateurs système ou à d’autres personnes qui gèrent des files d’attente de savoir exactement ce que fait chaque élément de la file d’attente de requêtes.
+Les descriptions permettent aux administrateurs et administratrices de groupe, aux futurs administrateurs et administratrices système et aux autres personnes qui gèrent les files d’attente de savoir exactement ce que fait chaque élément de la file d’attente.
 
-Les informations de description s’affichent également lorsque vous placez le pointeur de la souris sur l’icône d’informations du champ dans la nouvelle fenêtre de requête.
+Les informations de description s’affichent également lorsque vous placez le curseur de la souris sur l’icône d’informations du champ dans la nouvelle fenêtre de demande.
 
-La description n’a pas besoin d’être longue, mais d’un bref commentaire sur l’objectif ou l’utilisation de l’élément.
-
-</br>
-</br>
-
-**Bonne pratique**
-
-Créez un état de projet appelé &quot;File d’attente des demandes&quot; ou &quot;Opérationnel&quot; qui correspond à &quot;Actuel&quot; pour distinguer les projets de la file d’attente des demandes des autres projets.
-
-**Voici pourquoi**
-
-Une file d’attente de requêtes &quot;réside&quot; dans un projet et doit être dans un état égal à Actuel pour que la file d’attente soit principale.
-
-Afin de distinguer une requête des projets de travail réels avec un état &quot;Actuel&quot;, créez un état à utiliser uniquement sur les files d’attente de requête appelées &quot;File d’attente de requête&quot; ou &quot;Opérationnelle&quot;. Vous pouvez ensuite utiliser cet état pour exclure ou inclure des projets de file d’attente de demandes lors de l’écriture de rapports.
+La description ne doit pas être nécessairement longue, il s’agit simplement d’un bref commentaire sur la fonction ou l’utilisation de l’élément.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Créez un état de problème appelé &quot;Refusé&quot; lors de l’utilisation des approbations de problèmes et définissez l’option Si Refusé sur le statut &quot;Refusé&quot;.
+Créez un statut de projet nommé « File d’attente » ou « Opérationnel » qui équivaut à « En cours » pour distinguer les projets de la file d’attente de demandes des autres projets.
 
 **Voici pourquoi**
 
-En utilisant le statut &quot;Refusé&quot;, il est clair que la demande a été révisée et rejetée.
+Une file d’attente de demandes est déjà présente dans un projet et doit avoir un statut correspondant à « en cours » pour être active.
+
+Afin de faire la différence entre une demande et des projets de travail réels dont le statut est « En cours », créez un statut qui ne sera utilisé que pour les files d’attente de demandes, nommé « File d&#39;attente de demandes » ou « Opérationnel ». Vous pouvez ensuite utiliser ce statut pour exclure ou inclure des projets de la file d’attente des demandes lors de la rédaction des rapports.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Attribuez des formulaires personnalisés &quot;universels&quot; pour demander des files d’attente afin de capturer autant de données homogènes à l’échelle de l’entreprise que possible.
+Créez un statut de problème nommé « Rejeté » lorsque vous utilisez les approbations de problème et activez l’option Si rejeté sur le statut « Rejeté ».
 
 **Voici pourquoi**
 
-Un formulaire personnalisé &quot;universel&quot; rassemble les informations standard nécessaires à la demande, quel que soit le type de demande en cours d’envoi.
-
-La présence d’un formulaire personnalisé &quot;universel&quot; permet de réduire le nombre de formulaires personnalisés que vous devez créer et gérer. Elle garantit également que toutes les demandes collectent les mêmes informations de la même manière, ce qui permet d’obtenir des rapports et une analyse des données cohérents.
+L’utilisation d’un statut « Rejeté » permet de clairement indiquer que la demande a été examinée et rejetée.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Évitez de partager les files d’attente de requête avec &quot;tout le monde&quot;.  Configurez les paramètres de détails de la file d’attente afin que les utilisateurs ne voient que les files d’attente correspondant à leurs besoins.
+Attribuez des formulaires personnalisés « universels » aux files d’attente de demandes afin de capturer autant de données pertinentes que possible dans toute l’entreprise.
 
 **Voici pourquoi**
 
-Dans la plupart des cas, une file d’attente de demandes ne doit être partagée qu’avec un certain groupe de personnes, comme une équipe, un fournisseur, des clients, etc. Lorsque les demandeurs ne voient que ce dont ils ont besoin dans la liste de file d’attente des demandes, cela facilite la recherche et la navigation.
+Un formulaire personnalisé « universel » rassemble les informations standard nécessaires à la demande, quel que soit le type de demande soumise.
 
-</br>
-</br>
-
-
-**Bonne pratique**
-
-Créez et affectez un tableau de bord contenant les rapports de file d’attente des demandes afin que les gestionnaires de trafic, les administrateurs système ou les utilisateurs affectés puissent travailler directement sur les problèmes.
-
-**Voici pourquoi**
-
-L’accès rapide et facile aux utilisateurs aux requêtes entrantes signifie que le travail ne se perd pas dans le mélange.
+L’existence d’un formulaire personnalisé « universel » permet de réduire le nombre de formulaires personnalisés à créer et à maintenir à jour. Il garantit également que toutes les demandes collectent les mêmes informations de la même manière, ce qui permet d’obtenir des rapports et des analyses de données cohérents.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Utilisez les modèles de mise en page pour supprimer les options de configuration de la file d’attente des demandes du menu du panneau de gauche des projets pour les utilisateurs qui n’ont pas besoin de créer des files d’attente.
-
-
-**Voici pourquoi**
-
-Cela permet de s’assurer que toutes les files d’attente de demande suivent le processus approprié pour leur création (tel qu’elles ont été examinées par un comité de gouvernance) et sont correctement configurées par un administrateur système ou de groupe.
-
-En outre, cela permet de conserver la liste des files d’attente organisée et de se concentrer sur les types de requêtes dont votre organisation a besoin.
-
-</br>
-</br>
-
-**Bonne pratique**
-
-Créez une file d’attente de requêtes de l’administrateur système pour que les utilisateurs puissent poser des questions liées à Workfront, effectuer des requêtes concernant les configurations système, planifier une nouvelle formation des utilisateurs, etc.
+Évitez de partager les files d’attente de demandes avec « tout le monde ».  Paramétrez les détails de la file d’attente pour que les utilisateurs et les utilisatrices ne voient que les files d’attente correspondant à leurs besoins.
 
 **Voici pourquoi**
 
-Cet emplacement centralisé permet aux utilisateurs d’envoyer des questions et aux administrateurs de rassembler, surveiller et répondre aux problèmes liés à Workfront.
-
-En outre, ces informations peuvent servir à montrer l’autorité en ce qui concerne le temps, les efforts et la valeur du rôle d’administrateur du système et à justifier l’existence d’un administrateur système supplémentaire.
+Dans la plupart des cas, une file d’attente de demandes ne doit être partagée qu’avec un certain nombre de personnes, comme une équipe, un fournisseur, des clients, etc. Lorsque les demandeurs et les demandeuses ne voient que ce dont ils ont besoin dans la liste d’attente des demandes, ils auront plus de facilité à trouver des éléments et à naviguer parmi eux.
 
 </br>
 </br>
@@ -173,11 +134,38 @@ En outre, ces informations peuvent servir à montrer l’autorité en ce qui con
 
 **Bonne pratique**
 
-Les files d’attente de demande d’audit de manière régulière afin d’identifier et d’annuler le partage des files d’attente qui ne sont pas utilisées.
+Créez et affectez un tableau de bord contenant des rapports sur la file d’attente des demandes afin que les responsables du trafic, les administrateurs et administratrices système ou les utilisateurs et utilisatrices affectés puissent travailler directement sur les problèmes.
 
 **Voici pourquoi**
 
-Un audit régulier des configurations et des éléments de votre système Adobe Workfront vous permet de le garder dénué de tout encombrement et d’éléments inutiles. Si une file d’attente n’est plus utilisée ou surveillée, assurez-vous que les utilisateurs ne peuvent plus y accéder afin que les demandes de travail ne tombent pas dans un vide.
+En permettant aux personnes d’accéder rapidement et facilement aux demandes entrantes, on évite que le travail ne se perde dans les méandres du système.
+
+</br>
+</br>
+
+**Bonne pratique**
+
+Utilisez les modèles de disposition pour supprimer les options de configuration de la file d’attente des demandes dans le menu du panneau de gauche des projets pour les utilisateurs et utilisatrices qui n’ont pas besoin de créer des files d’attente.
+
+
+**Voici pourquoi**
+
+Cela permet de s’assurer que toutes les files d’attente de demandes passent par le processus de création approprié (comme l’examen par un comité de gouvernance) et qu’elles sont configurées correctement par l’équipe d’administration du système ou du groupe.
+
+En outre, cela permet de maintenir une liste des files d’attente organisée et de se concentrer sur les types de demandes dont votre organisation a besoin.
+
+</br>
+</br>
+
+**Bonne pratique**
+
+Créez une file d’attente des demandes de l’équipe d’administration système afin que les utilisateurs et utilisatrices puissent poser des questions relatives à Workfront, faire des demandes concernant la configuration du système, planifier la formation des nouveaux arrivants, etc.
+
+**Voici pourquoi**
+
+Elle représente un emplacement centralisé où les utilisateurs et utilisatrices peuvent envoyer leurs questions et où les équipes d’administration peuvent recueillir et surveiller les problèmes liés à Workfront et y répondre.
+
+En outre, ces informations peuvent être utilisées pour montrer à la direction le temps, les efforts et la valeur du rôle d’administration système et pour justifier l’embauche d’un administrateur ou d’une administratrice système supplémentaire.
 
 </br>
 </br>
@@ -185,60 +173,72 @@ Un audit régulier des configurations et des éléments de votre système Adobe 
 
 **Bonne pratique**
 
-Utilisez les groupes de rubriques pour organiser plus de 10 rubriques de file d’attente dans une file d’attente de requêtes afin de créer des listes plus courtes et plus faciles à gérer.
+Auditez régulièrement les files d’attente de demandes afin d’identifier et d’annuler le partage des files d’attente qui ne sont pas utilisées.
 
 **Voici pourquoi**
 
-Les groupes de rubriques augmentent l’adoption par les utilisateurs et créent moins de confusion en réduisant la liste initiale des options à sélectionner. Cela permet aux utilisateurs de trouver facilement ce qu’ils recherchent sans les écraser lorsqu’ils tentent d’envoyer une requête.
+Un audit régulier des configurations et des éléments de votre système Adobe Workfront permet de l’alléger et de le débarrasser des éléments inutiles. Si une file d’attente n’est plus utilisée ou surveillée, assurez-vous que les utilisateurs et utilisatrices ne puissent plus y accéder afin que les demandes de travail ne soient pas perdues.
 
-En outre, elle permet aux administrateurs système et/ou aux gestionnaires de file d’attente de demander une opportunité de créer un chemin de navigation fluide pour les utilisateurs et une meilleure manière d’organiser et de générer des rapports sur les types de requêtes en cours d’envoi.
+</br>
+</br>
+
+
+**Bonne pratique**
+
+Utilisez les groupes de sujets pour organiser plus de 10 sujets dans une file d’attente de demandes afin de créer des listes plus courtes et plus faciles à gérer.
+
+**Voici pourquoi**
+
+Les groupes thématiques favorisent l’adoption par les utilisateurs et utilisatrices et réduisent la confusion en diminuant la liste initiale d’options à sélectionner. Cela permet aux personnes de trouver facilement ce qu’elles recherchent sans être submergées lorsqu’elles essaient de soumettre une demande.
+
+En outre, cela permet à l’équipe d’administration système et/ou aux gestionnaires de files d’attente de créer un parcours de navigation fluide pour les utilisateurs et utilisatrices et une meilleure façon d’organiser et de rendre compte des types de demandes soumises.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Contrôlez le nombre total de files d’attente de demandes disponibles pour les utilisateurs en ventilant une file d’attente de demandes à l’aide de groupes de rubriques et de rubriques de file d’attente, plutôt que de créer plusieurs files d’attente.
+Contrôlez le nombre total de files d’attente de demandes disponibles pour les utilisateurs et utilisatrices en décomposant une file d’attente à l’aide de groupes thématiques et de sujets de file d’attente, plutôt que de créer plusieurs files d’attente.
 
 **Voici pourquoi**
 
-Trop de files d’attente de requêtes rend difficile pour les utilisateurs de trouver ce dont ils ont besoin.
+Si les files d’attente de demandes sont trop nombreuses, les utilisateurs et utilisatrices ont du mal à trouver ce dont ils ont besoin.
 
-Moins de files d’attente aident également les coordinateurs de trafic, les administrateurs système ou d’autres personnes à gérer les files d’attente, ce qui leur permet de trouver plus rapidement les informations dont ils ont besoin, sans avoir à accéder à plusieurs projets de file d’attente de demandes.
+La réduction du nombre de files d’attente aide également les équipes de coordination de trafic, d’administration système ou les autres personnes qui gèrent les files d’attente, en leur permettant de trouver plus rapidement les informations dont elles ont besoin, sans avoir à naviguer dans de multiples projets de files d’attente de demandes.
 
-Créez plusieurs files d’attente si un accès différent est nécessaire pour différentes files d’attente de requête ou si la consolidation des files d’attente peut dérouter les utilisateurs.
+Créez plusieurs files d’attente de demandes s’il vous faut un accès différent pour les différentes files d’attente ou si la consolidation des files d’attente risque d’être source de confusion pour les utilisateurs et utilisatrices.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Configurez les règles de routage pour chaque rubrique de file d’attente. Configurez au minimum une règle de routage par défaut.
+Définissez des règles de routage pour chaque rubrique de file d’attente. Configurez au minimum une règle de routage par défaut.
 
 **Voici pourquoi**
 
-Les règles de routage garantissent qu’une personne se verra toujours attribuer la requête entrante afin que le travail ne tombe pas dans les mailles du filet.
+Les règles de routage garantissent qu’une personne sera toujours affectée à la demande entrante afin que le travail ne passe pas entre les mailles du filet.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Tirez parti des groupes de rubriques et des rubriques de file d’attente lorsque le routage sélectif est nécessaire.
+Tirez parti des groupes thématiques et des rubriques de file d’attente lorsqu’un routage sélectif est nécessaire.
 
 **Voici pourquoi**
 
-Les règles de routage ne peuvent pas être appliquées aux champs d’un formulaire personnalisé. Ainsi, si différents types de requêtes doivent être acheminés vers différentes équipes/individus, faites de chaque type de requête son propre groupe de rubriques/rubrique de file d’attente afin que le travail puisse être correctement acheminé.
+Les règles de routage ne peuvent pas être appliquées aux champs d’un formulaire personnalisé. Ainsi, si différents types de demandes doivent être routés vers différentes équipes/personnes, chaque type de demande doit avoir son propre groupe thématique/sujet de file d’attente afin que le travail puisse être routé correctement.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Itinéraires les demandes à une équipe, plutôt qu’à un individu.
+Routez les demandes vers une équipe plutôt qu’une personne.
 
 **Voici pourquoi**
 
-Lorsque des demandes sont envoyées à l’équipe, elles donnent une visibilité à l’ensemble de l’équipe sur les demandes en cours et sur les tâches à venir qui pourraient entraîner. Tout le monde peut consulter la page Équipe pour connaître les nouveaux éléments ou suivre les nouveautés d’un rapport sur un tableau de bord.
+Lorsque des demandes sont envoyées à l’équipe, cela permet à l’ensemble de l’équipe d’avoir une visibilité sur les demandes formulées et sur un travail éventuel à venir. Tout le monde peut consulter la page Équipe pour connaître les nouveaux éléments ou suivre les nouveautés d’un rapport sur un tableau de bord.
 
-Elle garantit également que lorsque le gestionnaire de trafic ou toute autre personne chargée de contrôler ou d’affecter les requêtes entrantes n’est pas disponible, une sauvegarde est automatiquement disponible et a accès aux informations de la requête.
+Cela garantit également que, lorsque le gestionnaire de trafic ou toute autre personne chargée d’examiner ou d’affecter les demandes entrantes n’est pas disponible, un remplaçant ou une remplaçante est automatiquement disponible et a accès aux informations relatives à la demande.
