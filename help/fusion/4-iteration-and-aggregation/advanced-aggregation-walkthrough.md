@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’agrégation avancée
-description: Découvrez comment appeler un service Web pour renvoyer des détails sur plusieurs pays et identifier la population, regroupée par sous-région, le tout dans [!DNL Adobe Workfront Fusion].
+title: Présentation des agrégations avancées
+description: Découvrez comment appeler un service web pour obtenir des informations sur plusieurs pays et identifier la population, regroupés par sous-région, le tout dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation de l’agrégation avancée
+# Présentation des agrégations avancées
 
-Appelez un service Web pour renvoyer les détails sur plusieurs pays et identifier la population totale de tous les pays, regroupée par sous-région.
+Appelez un service web pour obtenir des informations sur plusieurs pays et identifiez la population totale de tous les pays, regroupés par sous-région.
 
-![Une image du scénario Fusion](assets/iteration-and-aggregation-3.png)
+![Image du scénario Fusion](assets/iteration-and-aggregation-3.png)
 
-## Présentation de l’agrégation avancée
+## Présentation des agrégations avancées
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
@@ -36,17 +36,17 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation de l’agrégation avancée](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=en) exercice.
+>Pour obtenir des instructions étape par étape sur la réalisation, consultez l’exercice [Présentation de l’agrégation avancée](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=fr).
 
-## Renforcement du principe d&#39;agrégation
+## Renforcement du principe d’agrégation
 
-Chaque fois qu’un module génère plusieurs lots, chaque module qui suit exécute chaque lot.
+Chaque fois qu’un module génère plusieurs bundles, chaque module qui suit exécute chaque bundle.
 
-Pour éviter cela, ajoutez un agrégateur après un module qui produit potentiellement plusieurs lots.
+Pour éviter cela, ajoutez un agrégateur après un module qui produit potentiellement plusieurs bundles.
 
-Vous verrez une ombre entourant un segment dans votre scénario à partir d’un **start-iterator** au **ending-aggator**. Cela permet de repérer facilement ces segments dans votre scénario Workfront Fusion.
+Vous verrez une ombre entourer les segments de votre scénario, de l’**itérateur de début** à l’**agrégateur de fin**. Cela permet de repérer facilement ces segments dans votre scénario Workfront Fusion.
 
-## Votre tour
+## À vous
 
 >[!NOTE]
 >
@@ -54,10 +54,10 @@ Vous verrez une ombre entourant un segment dans votre scénario à partir d’un
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 
-Créez un nouveau scénario pour additionner toutes les heures consignées dans les tâches des projets du portefeuille marketing. Ensuite, envoyez un e-mail indiquant que &quot;votre équipe de projet {Project Name} a enregistré {summed hours} du total {scheduled hours} heures, ce qui vous place à {percentage} du plan.&quot;
+Créez un nouveau scénario pour additionner toutes les heures enregistrées sur les tâches des projets du porfolio marketing. Envoyez ensuite un e-mail disant : « Votre équipe de projet {Project Name} a enregistré {summed hours} du total des {planned hours} heures prévues, ce qui vous place à {percentage} du plan ».
 
-**Défi :** Voyez si vous pouvez faire la même chose, sauf pour les heures enregistrées cette année uniquement.
+**Défi :** voyez si vous pouvez faire la même chose mais pour les heures enregistrées cette année seulement.
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
