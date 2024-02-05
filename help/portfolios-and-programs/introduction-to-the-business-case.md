@@ -1,6 +1,6 @@
 ---
-title: Comprendre le [!UICONTROL Analyse de cas]
-description: Découvrez comment utiliser le [!UICONTROL Analyse de cas] dans Workfront pour évaluer les projets demandés et les comparer à d’autres projets de votre portefeuille.
+title: Comprendre l’[!UICONTROL analyse de rentabilité]
+description: Découvrez comment utiliser l’[!UICONTROL analyse de rentabilité] dans Workfront pour évaluer les projets demandés et les comparer aux autres projets de votre portfolio.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,85 +12,85 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '779'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendre le [!UICONTROL Analyse de cas]
+# Comprendre l’[!UICONTROL analyse de rentabilité]
 
-En tant que responsable, vous avez pour objectif de vous assurer que les projets contribuent de manière positive aux objectifs et aux initiatives de l’entreprise. Pour prendre des décisions éclairées, vous avez besoin d’informations de la part des chefs de projet sur ce dont ils auront besoin pour que leurs projets avancent. Pour ce faire, utilisez la méthode [!UICONTROL Analyse de cas].
+En tant que responsable, vous devez veiller à ce que les projets contribuent de manière positive aux objectifs généraux et aux initiatives de l’entreprise. Pour prendre des décisions éclairées, vous avez besoin d’informations provenant de votre responsable de projet, concernant ses besoins pour l’avancement des projets. Pour ce faire, utilisez l’[!UICONTROL analyse de rentabilité].
 
-## Qu’est-ce qu’une [!UICONTROL Analyse de cas]?
+## Qu’est-ce qu’une [!UICONTROL analyse de rentabilité] ?
 
-Pensez à une [!UICONTROL Analyse de cas] comme un plan directeur ou une proposition pour le travail qui doit être fait. Il capture des estimations préliminaires de haut niveau qui vous aident à planifier et gérer des portefeuilles. C&#39;est là que les dépenses, les ressources et les risques potentiels sont saisis pour établir un &quot;cas&quot; pour expliquer pourquoi ce projet profiterait à l&#39;entreprise.
+Considérez l’[!UICONTROL analyse de rentabilité] comme un plan directeur ou une proposition pour le travail à effectuer. Elle permet d’obtenir des estimations préliminaires de haut niveau qui vous aident à planifier et à gérer les portfolios. C’est là que les dépenses, les ressources et les risques potentiels sont saisis afin d’établir une « analyse » expliquant les raisons pour lesquelles ce projet serait bénéfique pour l’entreprise.
 
-## [!UICONTROL Analyse de cas] champs recommandés pour la hiérarchisation des projets
+## Les champs de l’[!UICONTROL analyse de rentabilité] recommandés pour la hiérarchisation des projets
 
-Chaque section de la [!UICONTROL Analyse de cas] fournit des informations uniques et importantes sur le projet. Examinons les sections qui alimentent les informations sur la variable [!UICONTROL Portfolio Optimizer] qui vous aidera à classer les projets de votre portefeuille par priorité.
+Chaque section de l’[!UICONTROL analyse de rentabilité ] apporte des informations uniques et importantes sur le projet. Examinons les sections qui fournissent des informations à l’outil [!UICONTROL Optimisateur de portfolio], qui vous aidera à classer les projets de votre portfolio par ordre de priorité.
 
 ## [!UICONTROL Informations sur le projet]
 
-La plupart des informations saisies dans la variable [!UICONTROL Informations sur le projet] implique des détails généraux sur le projet, tels que le responsable du projet et le programme auquel appartient le projet.
+La plupart des informations saisies dans la section [!UICONTROL Informations sur le projet] impliquent des détails généraux sur le projet, tels que le sponsor et le programme auquel appartient le projet.
 
-Cependant, il y a un élément d&#39;information qui pourrait affecter la priorisation du projet...[!UICONTROL Avantage planifié].
+Cependant, il existe une information qui pourrait affecter la hiérarchisation du projet : le [!UICONTROL bénéfice prévu].
 
-![Une image de la [!UICONTROL Avantage planifié] dans la zone [!UICONTROL Informations sur le projet] de la [!UICONTROL Analyse de cas]](assets/05-portfolio-management4.png)
+![Une image de la zone [!UICONTROL Bénéfice prévu] dans la section [!UICONTROL Informations sur le projet] de l’[!UICONTROL analyse de rentabilité]](assets/05-portfolio-management4.png)
 
-La variable [!UICONTROL Avantage planifié] représente le montant estimé dont votre entreprise pourrait bénéficier si le projet est terminé.
+Le [!UICONTROL bénéfice prévu] représente le montant estimé dont votre entreprise pourrait bénéficier si le projet arrive à son terme.
 
-Il s’agit de l’une des sections qui pourrait être un point de basculement pour que votre entreprise puisse poursuivre ce projet. Si vous pouvez montrer que le projet contribuera de manière significative aux résultats de votre entreprise, alors il y a plus de chances qu’il puisse être transmis plus rapidement.
+Cette section est l’une de celles qui pourraient constituer un point de basculement permettant à votre entreprise d’avancer sur son projet. Si vous pouvez démontrer que le projet contribuera de manière significative aux résultats de votre entreprise, il y a de fortes chances qu’il soit adopté plus rapidement.
 
 ## [!UICONTROL Frais]
 
-[!UICONTROL Dépenses] représentent les coûts non liés à la main-d’oeuvre qui peuvent être engagés pendant la durée de vie d’un projet.
+Les [!UICONTROL dépenses] représentent les coûts non liés à la main-d’œuvre qui peuvent être engagés pendant la durée de vie d’un projet.
 
-![Une image de la [!UICONTROL Dépenses] dans la section [!UICONTROL Analyse de cas]](assets/06-portfolio-management5.png)
+![Une image de la section [!UICONTROL Dépenses] de l’[!UICONTROL analyse de rentabilité]](assets/06-portfolio-management5.png)
 
-Par exemple, les dépenses d’une conférence d’utilisateurs peuvent inclure le paiement du lieu, des articles pour les sacs-cadeaux ou des panneaux pour le hall d’entrée.
+Par exemple, les dépenses liées à une conférence pour les utilisateurs et utilisatrices peuvent inclure le paiement du lieu, des articles pour les sacs-cadeaux ou des panneaux pour le hall d’entrée.
 
 ## [!UICONTROL Établissement du budget de ressources]
 
-La variable [!UICONTROL Budget des ressources] vous permet d’estimer la main-d’oeuvre qui, selon vous, sera nécessaire pour que le projet puisse progresser. Les informations proviennent de [!DNL Workfront's] [!UICONTROL Resource Planner].
+La section [!UICONTROL Budgétisation des ressources] vous permet d’estimer la main-d’œuvre que vous jugez nécessaire pour faire avancer le projet. Les informations proviennent du [!UICONTROL Planificateur de ressources] de [!DNL Workfront's].
 
-![Une image de la [!UICONTROL Budget des ressources] dans la section [!UICONTROL Analyse de cas]](assets/07-portfolio-management6.png)
+![Une image de la section [!UICONTROL Budgétisation des ressources] dans l’[!UICONTROL analyse de rentabilité]](assets/07-portfolio-management6.png)
 
-En renseignant les besoins estimés pour chaque rôle d’emploi, vous obtenez un budget possible nécessaire au projet et vous savez dans quelle mesure le budget du portefeuille peut être utilisé pour le projet.
+En saisissant les besoins estimés pour chaque fonction, on obtient un budget possible pour le projet et une idée de la part du budget du portfolio qui peut être utilisée pour le projet.
 
 >[!NOTE]
 >
->Les pools de ressources doivent être configurés dans [!DNL Workfront] pour utiliser cette section de la fonction [!UICONTROL Analyse de cas].
+>Les groupes de ressources doivent être configurés dans [!DNL Workfront] pour pouvoir utiliser cette section de l’[!UICONTROL analyse de rentabilité].
 
 ## [!UICONTROL Risques]
 
-Vous avez toujours le plus grand espoir que votre projet se déroulera sans problème. Mais il est important d&#39;identifier les risques et de les planifier en conséquence. C&#39;est là que le [!UICONTROL Risques] dans la section [!UICONTROL Analyse de cas] peut vous aider.
+Votre objectif est toujours que votre projet se déroule sans encombre. Mais il est important d’identifier les risques et de prévoir en conséquence. C’est là que la section [!UICONTROL Risques] de l’[!UICONTROL analyse de rentabilité] peut vous aider.
 
-![Une image de la [!UICONTROL Risques] dans la section [!UICONTROL Analyse de cas]](assets/08-portfolio-management7.png)
+![Une image de la section [!UICONTROL Risques] dans l’[!UICONTROL analyse de rentabilité]](assets/08-portfolio-management7.png)
 
-Vous devriez discuter avec votre équipe et identifier les risques éventuels pour le projet. Pour les risques où vous pouvez estimer le coût si le risque se produit et la probabilité qu’il se produit, veillez à saisir ces valeurs. Workfront multipliera le coût potentiel par la probabilité et le placera dans une [!UICONTROL Risque potentiel] fonds qui seront soustraits du projet [!UICONTROL Avantage planifié] lors du calcul de [!UICONTROL Valeur nette].
+Vous devez travailler avec votre équipe pour identifier les risques éventuels pour le projet. Pour les risques pour lesquels vous pouvez estimer le coût et la probabilité qu’ils se produisent, veillez à saisir ces valeurs. Workfront multipliera le coût potentiel par la probabilité et placera le résultat dans un fonds de [!UICONTROL risque potentiel] qui sera soustrait des [!UICONTROL bénéfices prévus] du projet lors du calcul de sa [!UICONTROL valeur nette].
 
 ## [!UICONTROL Cartes de score]
 
-[!UICONTROL Fiches d’évaluation] vous aide à déterminer dans quelle mesure un projet proposé s’aligne sur les objectifs et les initiatives globaux définis pour le portefeuille ou l’entreprise.
+Les [!UICONTROL cartes de performances] vous aident à déterminer dans quelle mesure un projet proposé s’aligne sur les objectifs et les initiatives globaux définis pour le portfolio ou l’entreprise.
 
-Chaque fiche d’évaluation comporte une liste de questions et de réponses auxquelles sont associées des valeurs. Lorsque la fiche d’évaluation est remplie, [!DNL Workfront] peut calculer l’alignement du projet avec les objectifs prédéterminés de votre entreprise.
+Chaque carte de performance comporte une liste de questions et de réponses auxquelles sont attachées des valeurs. Lorsque la carte de performance est remplie, [!DNL Workfront] peut calculer le degré d’alignement du projet sur les objectifs prédéterminés de votre organisation.
 
-![Une image de la [!UICONTROL Fiches d’évaluation] dans la section [!UICONTROL Analyse de cas]](assets/09-portfolio-management8.png)
-
->[!NOTE]
->
->Les chefs de projet ne pourront pas voir les valeurs attribuées à chaque réponse. Seuls les utilisateurs qui créent les fiches d’évaluation peuvent voir les valeurs.
-
-## [!UICONTROL Analyse de cas] non requis
-
-La variable [!UICONTROL Analyse de cas] est flexible. Vous ne pouvez remplir que quelques sections ou aucune du tout. Aucun des champs n’est requis. Toutefois, plus vous renseignez d’informations, plus il est facile d’analyser et de hiérarchiser les projets pour le même budget ou les mêmes ressources.
-
-Une fois que la variable [!UICONTROL Analyse de cas] est renseigné, cliquez sur le bouton **[!UICONTROL Envoyer]** dans le panneau récapitulatif situé sur le côté droit de la fenêtre. Le statut du projet passe alors à [!UICONTROL Demandé]. Vous êtes maintenant prêt à utiliser [!UICONTROL Optimisation des Portfolios] pour hiérarchiser les projets du même portefeuille.
+![Une image de la section [!UICONTROL Cartes de performance] dans l’[!UICONTROL analyse de rentabilité]](assets/09-portfolio-management8.png)
 
 >[!NOTE]
 >
->Le score d’alignement dans la variable [!UICONTROL Analyse de cas] le panneau récapitulatif est généré lorsque vous remplissez la fiche d’évaluation. Le score d&#39;alignement est l&#39;une des valeurs utilisées dans le calcul du [!UICONTROL Portfolio Optimizer] note.
+>Les chefs et cheffes de projet ne pourront pas voir les valeurs affectées à chaque réponse. Seuls les utilisateurs et les utilisatrices qui créent les cartes de performance peuvent voir les valeurs.
+
+## [!UICONTROL Analyse de rentabilité] non requise
+
+L’[!UICONTROL analyse de rentabilité] est flexible. Vous pouvez ne remplir que quelques sections ou même n’en remplir aucune. Aucun des champs n’est obligatoire. Toutefois, plus vous renseignez d’informations, plus il est facile d’analyser et de hiérarchiser les projets qui sont en compétition pour le même budget ou les mêmes ressources.
+
+Une fois que l’[!UICONTROL Analyse de rentabilité] est remplie, cliquez sur le bouton **[!UICONTROL Soumettre]** dans le panneau récapitulatif situé à droite de la fenêtre. Le statut du projet devient alors [!UICONTROL Demandé]. Vous êtes maintenant prêt à utiliser l’[!UICONTROL optimisation du portfolio] pour hiérarchiser les projets d’un même portfolio.
+
+>[!NOTE]
+>
+>Le score d’alignement dans le panneau récapitulatif [!UICONTROL Analyse de rentabilité] est généré lorsque vous remplissez la carte de performance. Le score d’alignement est l’une des valeurs utilisées dans le calcul de la note de l’[!UICONTROL Optimisateur de portfolio].
 
 <!-- 
 Learn more graphic and links to documentation articles
