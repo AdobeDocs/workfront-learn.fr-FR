@@ -1,6 +1,6 @@
 ---
-title: Présentation des workflows de BAT dans les calendriers du projet
-description: Découvrez les informations à rassembler pour créer un workflow de BAT et la différence entre les workflows de base et les workflows avancés dans [!DNL  Workfront].
+title: Comprendre les workflows de BAT dans les calendriers du projet
+description: Découvrez les informations à rassembler pour créer un workflow de BAT et la différence entre les workflows de base et avancés dans  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8824
 exl-id: 8e8871a8-866e-4c9a-9f30-578d3b5639c5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des workflows de BAT dans les calendriers du projet
+# Comprendre les workflows de BAT dans les calendriers du projet
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Informations à collecter pour créer un workflow de BAT
-* Différence entre les workflows de BAT de base et avancés
+* Informations à collecter pour créer un workflow de BAT
+* Différence entre les workflows de BAT de base et avancés
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
 
