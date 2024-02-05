@@ -1,6 +1,6 @@
 ---
 title: Découvrez comment séquencer des tâches
-description: Découvrez ce qu’est un prédécesseur et comment ils séquencent les tâches dans un projet. Ensuite, apprenez à utiliser les durées et les prédécesseurs pour créer une chronologie.
+description: Découvrez en quoi consiste un prédécesseur et comment il ordonne les tâches dans un projet. Apprenez ensuite à utiliser les durées et les prédécesseurs pour créer une chronologie.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -12,20 +12,20 @@ jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Découvrez comment séquencer des tâches
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* En quoi consiste un prédécesseur ? [!DNL  Workfront]
-* Comment les prédécesseurs séquencent les tâches dans un projet
+* Définition d’un prédécesseur dans [!DNL  Workfront]
+* Comment les prédécesseurs ordonnent les tâches dans un projet
 * Utilisation des durées et des prédécesseurs pour créer une chronologie
-* Comment modifier ou entrer des prédécesseurs
+* Modification ou saisie des prédécesseurs
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
