@@ -1,53 +1,53 @@
 ---
-title: Bonne pratique - Aperçu d’un environnement de test
-description: Découvrez les recommandations de bonnes pratiques des experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation de l’environnement de prévisualisation Sandbox pour Workfront.
+title: Bonne pratique - Prévisualiser les sandbox
+description: Découvrez les bonnes pratiques recommandées par les expertes et les experts Adobe Workfront en matière de configuration, de gestion et d’utilisation de l’environnement de prévisualisation des sandbox pour Workfront.
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10917
 exl-id: 5e172ad5-7e75-41cd-bce0-858095d13c6c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '431'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bonne pratique - Aperçu d’un environnement de test
+# Bonne pratique - Prévisualiser les sandbox
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
-
-</br>
-</br>
-
-## Bonnes pratiques relatives à l’aperçu des environnements de test
-
-* Définissez, diagramme et testez les modifications apportées aux processus ou paramètres Workfront existants dans l’environnement Preview Sandbox avant d’effectuer des mises à jour dans votre instance de production.
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
-## Pourquoi ces bonnes pratiques ?
+## Bonnes pratiques de prévisualisation des sandbox
 
-**Bonne pratique**
+* Définissez, schématisez et testez les modifications apportées aux processus ou aux paramètres Workfront existants dans l’environnement de prévisualisation des sandbox avant d’effectuer les mises à jour dans votre instance de production.
 
-Définissez, diagramme et testez les modifications apportées aux processus ou paramètres Workfront existants dans l’environnement Preview Sandbox avant d’effectuer des mises à jour dans votre instance de production.
+</br>
+</br>
+
+## Pourquoi s’agit-il des bonnes pratiques ?
+
+**Bonnes pratiques**
+
+Définissez, schématisez et testez les modifications apportées aux processus ou aux paramètres Workfront existants dans l’environnement de prévisualisation des sandbox avant d’effectuer les mises à jour dans votre instance de production.
 
 **Voici pourquoi**
 
-L’environnement de prévisualisation Sandbox sert de réplique à votre environnement en ligne. Bien qu’il ne soit pas recommandé de créer un environnement complet dans l’environnement de test avant de le créer dans l’instance de production, car cela crée un travail supplémentaire, il est conseillé de l’utiliser comme environnement de test pour les modifications que vous souhaitez implémenter.
+L’environnement de prévisualisation des sandbox sert de réplique à votre environnement réel. Bien qu’il ne soit pas recommandé de créer un environnement entièrement nouveau dans le sandbox avant de le mettre en place dans l’instance de production, car cela entraîne un surcroît de travail, il est bon de l’utiliser comme environnement de test pour les modifications que vous souhaitez apporter.
 
-Effectuer des tests d’acceptation par les utilisateurs (UAT) et impliquer des utilisateurs sélectionnés lors de la phase de test d’une modification peut vous aider à mieux comprendre les besoins et les workflows de vos utilisateurs. Il s’agit d’un excellent moyen d’améliorer les processus Workfront et de les adopter au sein de votre entreprise.
+La réalisation de tests d’acceptation par les utilisateurs (UAT) et l’implication d’utilisateurs sélectionnés pendant la phase de test d’une modification peuvent vous aider à mieux comprendre les workflows et les besoins de vos utilisateurs et utilisatrices. Il s’agit d’un excellent moyen d’améliorer les workflows et l’adoption de Workfront au sein de votre organisation.
 
 
-**Remarque**: Chaque modification que vous souhaitez implémenter dans Workfront n’a pas à être créée dans l’environnement de prévisualisation Sandbox en premier. De nombreuses modifications Workfront, comme la création d’une file d’attente de demandes ou d’un modèle de projet, peuvent être effectuées dans l’environnement de production. Lors du test dans l’instance de production, une bonne règle consiste à contrôler la visibilité de vos objets jusqu’à ce que vous soyez prêt à publier pour une plus grande audience. Veillez à supprimer tout ce que vous n’avez pas l’intention d’utiliser afin que le système reste propre et gérable.
+**Note** : chaque modification que vous souhaitez apporter dans Workfront ne doit pas nécessairement être créée dans l’environnement de prévisualisation des sandbox au préalable. De nombreuses modifications de Workfront, comme la création d’une nouvelle file d’attente des demandes ou d’un nouveau modèle de projet, peuvent être effectuées dans l’environnement de production. Une bonne règle à suivre lors des tests dans l’instance de production est de contrôler la visibilité de vos objets jusqu’à ce que vous soyez au point pour les publier auprès d’un plus grand nombre de personnes. Veillez à supprimer tout ce que vous n’avez pas l’intention d’utiliser afin que le système reste propre et gérable.
