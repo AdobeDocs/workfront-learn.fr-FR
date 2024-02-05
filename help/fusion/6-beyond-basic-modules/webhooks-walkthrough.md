@@ -1,6 +1,6 @@
 ---
-title: Présentation détaillée de Webhooks
-description: Découvrez comment utiliser un webhook pour créer une application afin de déterminer si un client est assez âgé pour acheter de l’alcool, le tout dans [!DNL Adobe Workfront Fusion].
+title: Présentation de Webhooks
+description: Découvrez comment utiliser un webhook pour créer une application afin de déterminer si un client ou une cliente est assez âgé pour acheter de l’alcool, le tout dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation détaillée de Webhooks
+# Présentation de Webhooks
 
-Ce scénario crée une application de commerce de proximité qui leur permet de déterminer facilement si un client est assez âgé pour acheter de l’alcool. La caisse doit simplement publier le nom et la date de naissance du client ET un jeton client vérifié sur une URL fournie. Une fois saisie, notre scénario est déclenché pour calculer la réponse appropriée et la renvoyer au demandeur.
+Ce scénario crée une application pour les commerces de proximité afin qu’ils puissent facilement déterminer si un client ou une cliente est assez âgé pour acheter de l&#39;alcool. Le caissier ou la caissière doit simplement envoyer le nom et la date de naissance du client ou de la cliente ET un jeton de client ou de cliente vérifié vers une URL qui lui a été fournie. Une fois les informations saisies, notre scénario se déclenche pour calculer la réponse appropriée et la renvoyer au demandeur ou à la demandeuse.
 
-![Une image à l’aide du module switch](assets/beyond-basic-modules-5.png)
+![Image montrant l’utilisation du module Switch](assets/beyond-basic-modules-5.png)
 
-## Présentation détaillée de Webhooks
+## Présentation de Webhooks
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
@@ -31,23 +31,23 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation détaillée de Webhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées afin de terminer les exercices de présentation, accédez à l’exercice [Présentation des Webhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=fr).
 
 ## Configuration de Postman
 
-Pour suivre l’exercice pas à pas, vous devez télécharger l’application Postman gratuite. Suivez les étapes ci-dessous pour accéder à la zone droite de Postman pour l’exercice.
+Pour poursuivre l’exercice de présentation, vous devez télécharger l’application gratuite Postman. Suivez les étapes ci-dessous pour accéder à la zone de droite dans Postman pour l’exercice.
 
 1. Créez un espace de travail, puis ouvrez-le.
-1. Cliquez sur l’onglet Nouveau et créez une collection nommée Age de la boisson.
-1. Cliquez à nouveau sur l’onglet Nouveau et créez une demande de GET nommée GET de la date de naissance.
+1. Cliquez sur l’onglet Nouveau et créez une collection nommée Âge requis pour la consommation d’alcool.
+1. Cliquez à nouveau sur l’onglet Nouveau et créez une requête GET nommée GET date de naissance.
 1. Modifiez l’action de requête de GET en POST.
-1. Accédez à la zone Sous-onglet Corps sous le champ URL du POST .
-1. Sélectionnez les données de formulaire sous le sous-onglet Autorisation .
-1. Créez trois clés pour Name, Birthdate et clientToken.
+1. Accédez à la zone de sous-onglet Corps sous le champ URL POST.
+1. Sélectionnez les données de formulaire sous le sous-onglet Autorisation.
+1. Créez trois clés pour Nom, Date de naissance et Jeton client.
 
-![Une image à l’aide du module switch](assets/beyond-basic-modules-6.png)
+![Image montrant l’utilisation du module Switch](assets/beyond-basic-modules-6.png)
 
-## Votre tour
+## À vous
 
 >[!NOTE]
 >
@@ -55,13 +55,13 @@ Pour suivre l’exercice pas à pas, vous devez télécharger l’application Po
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 
-Créez un webhook Workfront qui attend les nouvelles mises à jour créées, puis consigne la date, le nom de la personne qui a effectué la mise à jour et ce que dit la mise à jour. Envoyez-vous cette information par courriel.
+Créez un webhook Workfront qui attend la création de nouvelles mises à jour, et qui enregistre ensuite la date, le nom de la personne qui a réalisé la mise à jour et le contenu de la mise à jour. Envoyez-vous ces informations par e-mail.
 
-**Conseil**: Utilisez le module de déclenchement Événements de contrôle Workfront pour créer votre webhook. En outre, dans Workfront, les mises à jour sont appelées notes.
+**Conseil** : utilisez le module de déclenchement Événements de contrôle Workfront pour créer votre webhook. En outre, dans Workfront, les mises à jour sont appelées notes.
 
-**Défi**: Pouvez-vous trouver et ajouter l’URL de l’emplacement où la mise à jour a été effectuée pour un accès facile ?
+**Défi** : pouvez-vous trouver et ajouter l’URL de l’emplacement où la mise à jour a été effectuée pour qu’elle soit facile d’accès ?
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
