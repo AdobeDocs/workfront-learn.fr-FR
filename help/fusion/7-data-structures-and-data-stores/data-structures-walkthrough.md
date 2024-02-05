@@ -1,6 +1,6 @@
 ---
 title: Présentation des structures de données
-description: Découvrez comment prendre du temps pour les informations du journal d’un fichier, les transformer et produire un nouveau fichier avec les données transformées dans [!DNL Adobe Workfront Fusion].
+description: Découvrez comment extraire des informations temporelles du journal d’un fichier, les transformer et produire un nouveau fichier avec les données transformées dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Présentation des structures de données
 
-Ouvrez un fichier CSV contenant une liste d’entrées d’heure. Ces entrées temporelles sont enregistrées pendant les minutes enregistrées pendant certains jours par plusieurs utilisateurs. L’objectif est de prendre ces informations et de produire un nouveau fichier CSV qui indique la durée totale, en heures, consignée par chaque utilisateur, chaque jour.
+Ouvrez un fichier CSV contenant une liste d’entrées de temps. Ces entrées de temps correspondent à des minutes enregistrées tout au long de certains jours par plusieurs utilisateurs et utilisatrices. L’objectif est de prendre ces informations et de produire un nouveau fichier CSV qui montre le temps total, en heures, enregistré par chaque utilisateur ou utilisatrice, chaque jour.
 
-![Une image d&#39;un scénario de fusion](assets/data-structures-and-data-stores-1.png)
+![Une image d’un scénario Fusion](assets/data-structures-and-data-stores-1.png)
 
 ## Présentation des structures de données
 
@@ -31,9 +31,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation des structures de données](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation des structures de données](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=fr).
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
