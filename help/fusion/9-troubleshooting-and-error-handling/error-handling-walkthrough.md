@@ -1,6 +1,6 @@
 ---
 title: Présentation de la gestion des erreurs
-description: Découvrez comment la gestion des erreurs par défaut se produit et comment ajouter une gestion des erreurs de module spécifique à l’aide de directives dans [!DNL Adobe Workfront Fusion].
+description: Découvrez comment la gestion des erreurs par défaut se produit et comment ajouter une gestion spécifique des erreurs de module à l’aide de directives dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9065
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -29,6 +29,6 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on)
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
