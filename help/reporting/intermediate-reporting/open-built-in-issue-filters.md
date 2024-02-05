@@ -1,6 +1,6 @@
 ---
-title: Présentation des filtres de problèmes intégrés
-description: Découvrez comment passer en revue les filtres de problèmes intégrés pour voir comment ils sont créés et créer votre propre filtre de problèmes dans Workfront.
+title: Comprendre les filtres de problèmes intégrés
+description: Découvrez comment examiner les filtres de problèmes intégrés pour déterminer comment ils sont construits et créer votre propre filtre de problèmes dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -12,38 +12,38 @@ jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des filtres de problèmes intégrés
+# Comprendre les filtres de problèmes intégrés
 
-Dans cette vidéo, vous allez :
+Dans cette vidéo, vous allez :
 
-* Examinez les filtres de problème intégrés pour voir comment ils sont créés.
-* En savoir plus sur quelques éléments utiles de reporting de problèmes
-* Découvrez comment créer votre propre filtre de problèmes
+* Examiner les filtres de problèmes intégrés pour déterminer comment ils sont créés
+* Découvrir quelques éléments utiles de reporting de problèmes
+* Apprendre à créer votre propre filtre de problèmes
 
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
-## Activité : Création d’un rapport sur les problèmes
+## Activité : créer un rapport de problème
 
-Vous souhaitez voir tous les problèmes qui doivent encore être résolus pour tous les projets principaux dont vous êtes responsable, y compris les problèmes liés à un objet de résolution. Créez un rapport de problèmes et nommez-le &quot;Problèmes non résolus sur les projets dont je suis responsable&quot;.
+Vous voulez voir tous les problèmes qui doivent encore être résolus sur tous les projets actifs que vous possédez, y compris les problèmes avec un objet de résolution. Créez un rapport de problème et nommez-le « Problèmes non résolus sur les projets dont je suis propriétaire ».
 
 ## Réponse
 
-Voici à quoi doit ressembler le filtre :
+Voici à quoi devrait ressembler le filtre :
 
-![Image de l’écran pour créer un filtre d’émission](assets/opening-built-in-issue-filters-1.png)
+![Image de l’écran permettant de créer un filtre de problèmes.](assets/opening-built-in-issue-filters-1.png)
 
-Dans le filtre intégré &quot;Mes problèmes en cours&quot;, l’une des règles de filtre a exclu tout problème où un objet de résolution se produisait. La raison derrière cela est que vous n&#39;avez pas à vous soucier de ces problèmes. Quelqu&#39;un a déjà créé un projet, une tâche ou un problème qui les résoudra, alors que s&#39;inquiéter ? Mais elles ne sont pas encore résolues, et dans notre exemple, nous les incluons pour les rendre plus faciles à identifier et à vérifier comment elles se comportent.
+Dans le filtre intégré « Mes problèmes ouverts », l’une des règles de filtrage excluait tous les problèmes pour lesquels il existait un objet de résolution. La raison en est que vous n’avez pas à vous préoccuper de ces problèmes. Une personne a déjà créé un projet, une tâche ou un problème qui les résoudra, alors pourquoi s’inquiéter ? Mais ils ne sont pas encore résolus et, dans notre exemple, nous les incluons pour qu’ils soient faciles à identifier et à vérifier.
 
-Pour ce faire, vous devez ajouter une colonne dans l’onglet d’affichage pour &quot;Problème > Résolution de l’objet&quot;. Cela affiche le nom de l’objet de résolution, s’il en existe un, qu’il s’agisse d’un projet, d’une tâche ou d’un problème. Cliquez sur le nom pour accéder à l’objet de résolution.
+Pour ce faire, vous devez ajouter une colonne dans l’onglet de vue « Problème > Objet de résolution ». Cela indique le nom de l’objet de résolution, s’il y en a un, qu’il s’agisse d’un projet, d’une tâche ou d’un problème. Cliquez sur le nom pour accéder à l’objet de résolution.
 
 Vous pouvez regrouper la liste en fonction du nom du projet.
 
-Voici à quoi devrait ressembler le rapport :
+Voici à quoi devrait ressembler le rapport :
 
-![Image d’un rapport de problème](assets/opening-built-in-issue-filters-2.png)
+![Image d’un rapport de problème.](assets/opening-built-in-issue-filters-2.png)
