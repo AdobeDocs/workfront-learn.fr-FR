@@ -1,6 +1,6 @@
 ---
-title: Personnalisation des en-têtes de projet à l’aide de modèles de mise en page
-description: Découvrez comment ajouter et supprimer des champs des en-têtes de projet par le biais de modèles de mise en page.
+title: Personnaliser les en-têtes de projet grâce à des modèles de disposition
+description: Découvrez comment ajouter et supprimer des champs des en-têtes de projet à l’aide de modèles de disposition.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,14 +12,14 @@ jira: KT-11108
 doc-type: video
 exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personnalisation des en-têtes de projet avec des modèles de mise en page
+# Personnaliser les en-têtes de projet grâce à des modèles de disposition
 
-Découvrez comment ajouter et supprimer des champs des en-têtes de projet par le biais de modèles de mise en page.
+Découvrez comment ajouter et supprimer des champs des en-têtes de projet à l’aide de modèles de disposition.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409081)
