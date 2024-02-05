@@ -1,156 +1,141 @@
 ---
 title: Bonne pratique - Intégration et adoption
-description: Examinez les recommandations de bonnes pratiques formulées par les experts d’Adobe Workfront concernant l’intégration des utilisateurs à Workfront et l’augmentation de l’adoption des utilisateurs.
+description: Examinez les recommandations de bonnes pratiques formulées par les expertes et experts d’Adobe Workfront concernant l’intégration des utilisateurs et utilisatrices à Workfront et l’augmentation de l’adoption de leur part.
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
 source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1055'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Bonne pratique - Intégration et adoption
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les bonnes pratiques sont des consignes qui représentent un plan d’action efficace. Elles sont facilement adoptées par vous et les utilisateurs de votre entreprise et peuvent être répliquées avec succès dans l’ensemble de votre entreprise.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
 ## Bonnes pratiques d’intégration et d’adoption
 
-* Veillez à passer au moins 1 heure par mois à communiquer le &quot;Pourquoi ?&quot; lorsqu’un nouveau processus ou logiciel, tel qu’Adobe Workfront, est mis en oeuvre ;
+* Veillez à consacrer au moins une heure par mois à communiquer sur vos motivations lorsqu’un nouveau processus ou logiciel, tel qu’Adobe Workfront, est mis en œuvre.
 
-* Avant de créer des vidéos ou des guides de formation, passez en revue les éléments disponibles sur Experience League.
+* Avant de créer des vidéos ou des guides de formation, passez en revue les éléments disponibles sur Experience League.
 
-* Prenez du temps, dès le départ, pour des sessions de formation régulières pour les nouveaux utilisateurs et les utilisateurs existants afin de les aider à continuer à approfondir leurs connaissances de Workfront.
+* Prenez du temps, dès le départ, pour des sessions de formation régulières pour les utilisateurs et utilisatrices nouveaux et existants afin de les aider à approfondir leurs connaissances de Workfront.
 
-* Définissez et créez la structure d’un panorama de gouvernance Workfront et sécurisez les ressources nécessaires pour ce panorama.
+* Définissez et créez le cadre d’un conseil de gouvernance Workfront et procurez-vous les ressources nécessaires pour ce conseil.
 
-* Commencez par un processus de base et passez lentement en revue pour stimuler l’adoption des utilisateurs. N’essayez pas de tout rendre au système ou au nouveau processus pour tout le monde.
+* Commencez par un processus de base et progressez lentement pour favoriser l’adoption par les utilisateurs et utilisatrices. N’essayez pas de faire comprendre l’intégralité du système ou du nouveau processus à tout le monde.
 
-* Utilisez vos diagrammes de processus pour prendre en charge les conversations dans les cas où l’adoption se heurte à des difficultés.
+* Utilisez vos diagrammes de processus pour étayer vos présentations dans les cas où l’adoption est difficile.
 
-* Créez un centre d’excellence Workfront pour informer les bonnes pratiques de l’entreprise sur Workfront.
+* Créez un centre d’excellence Workfront pour diffuser les bonnes pratiques de l’entreprise avec Workfront.
 
-* Utilisez la communauté Experience League.
+* Utilisez la communauté Experience League.
 
-* Définissez des normes ou des attentes pour les utilisateurs et assurez-vous que le leadership prend en charge ces attentes.
+* Définissez des références ou des attentes pour les utilisateurs et utilisatrices et assurez-vous que la direction soutient ces attentes.
 
 </br>
 </br>
 
 
-## Pourquoi ces bonnes pratiques ?
+## Pourquoi s’agit-il des bonnes pratiques ?
 
-**Bonne pratique**
+**Bonnes pratiques**
 
-Veillez à passer au moins 1 heure par mois à communiquer le &quot;Pourquoi ?&quot; lorsqu’un nouveau processus ou logiciel, tel qu’Adobe Workfront, est mis en oeuvre ;
+Veillez à consacrer au moins une heure par mois à communiquer sur vos motivations lorsqu’un nouveau processus ou logiciel, tel qu’Adobe Workfront, est mis en œuvre.
 
 **Voici pourquoi**
 
-Les messages doivent être simples et suivre un rythme régulier. Assurez-vous qu’il communique aux utilisateurs, aux équipes et aux services les objectifs et les résultats attendus de la mise en oeuvre de Workfront, les avantages que les individus en tireront et pourquoi il est important, non seulement pour vous, mais pour l’ensemble de l’organisation.
+Les messages doivent rester simples et être diffusés à intervalles réguliers. Assurez-vous qu’ils transmettent aux utilisateurs et utilisatrices, aux équipes et aux services les objectifs et les résultats attendus de la mise en œuvre de Workfront, les avantages que les personnes en tireront et les raisons pour lesquelles cela est important, non seulement pour vous, mais aussi pour l’ensemble de l’organisation.
 
-Ces efforts de communication créent une prise de conscience parmi les utilisateurs et fournissent le cadre d&#39;un plan pour relier le travail à la stratégie. Pour réussir, il est essentiel d’assurer une compréhension partagée au sein de l’équipe sur la manière dont Workfront prend en charge la vision et la mission générales de l’organisation.
-
-</br>
-</br>
-
-**Bonne pratique**
-
-Avant de créer des vidéos ou des guides de formation, passez en revue les éléments disponibles sur Experience League.
-
-**Voici pourquoi**
-
-Si vous n’avez pas besoin de créer une formation sur Workfront pour vos utilisateurs, ne le faites pas. Vous pouvez bien sûr créer votre propre formation, mais si vous n’avez pas le temps de le faire vous-même ou l’argent nécessaire pour acheter une formation personnalisée, il existe de très bonnes ressources sur les Experience League pour que vos utilisateurs soient opérationnels, quel que soit leur rôle.
-
-Consultez également la page Prise en main des cours de base pour que les utilisateurs puissent être opérationnels sur Workfront.
+Ces efforts de communication sensibilisent les utilisateurs et utilisatrices et fournissent un cadre pour rappeler le lien entre travail et stratégie. Pour que cela fonctionne, il est essentiel de bien faire comprendre à l’équipe la manière dont Workfront soutient la vision et la mission générales de l’organisation.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Définissez et créez la structure d’un panorama de gouvernance Workfront et sécurisez les ressources nécessaires pour ce panorama.
+Avant de créer des vidéos ou des guides de formation, passez en revue les éléments disponibles sur Experience League.
 
 **Voici pourquoi**
 
-Comme tant d’équipes contribuent au succès global de votre organisation, il faut respecter certaines normes pour assurer l’excellence opérationnelle. Cela est fait par le conseil de gouvernance, qui ont tous voix au chapitre, comprennent les initiatives stratégiques de l&#39;entreprise et peuvent participer à la réalisation d&#39;objectifs communs.
+Si vous n’avez pas besoin de créer une formation sur Workfront pour vos utilisateurs et utilisatrices, ne le faites pas. Vous pouvez bien sûr créer votre propre formation, mais si vous n’avez pas le temps de le faire ou si vous n’avez pas le budget pour acheter une formation personnalisée, il existe de très bonnes ressources sur Experience League permettant à vos utilisateurs et utilisatrices de se lancer, quel que soit leur rôle.
 
-Le plus souvent, le conseil se compose des éléments suivants :
+Consultez également la page Commencer des cours de base pour que les utilisateurs et utilisatrices puissent être opérationnels sur Workfront.
 
-* Administrateurs système
-* Administrateurs de groupe
+</br>
+</br>
+
+**Bonne pratique**
+
+Définissez et créez le cadre d’un conseil de gouvernance Workfront et procurez-vous les ressources nécessaires pour ce conseil.
+
+**Voici pourquoi**
+
+Étant donné que de nombreuses équipes contribuent au succès global de votre organisation, certaines références doivent être respectées par tous afin de garantir l’excellence opérationnelle. Cela est réalisé par le conseil de gouvernance, dont tous les membres ont voix au chapitre, qui comprennent les initiatives stratégiques de l’entreprise et peuvent participer à la réalisation des objectifs communs.
+
+Le plus souvent, le conseil se compose des personnes suivantes :
+
+* Administrateurs et administratrices système
+* Administrateurs et administratrices de groupe
 * Champions
-* Utilisateurs experts
+* Utilisateurs et utilisatrices experts
 
 
-Chaque utilisateur doit se voir attribuer un rôle et des responsabilités qui lui permettent de superviser les principales pratiques d’infrastructure telles que la communication, l’éducation, l’amélioration des processus ou la création de rapports.
+Chaque utilisateur et utilisatrice doit se voir affecter un rôle et des responsabilités qui lui permettent de superviser les principales pratiques d’infrastructure telles que la communication, l’éducation, l’amélioration des processus ou la création de rapports.
 
-Pour plus d’informations, voir Bonnes pratiques pour l’administrateur système - Connaître vos personnes sur Experience League.
-
-</br>
-</br>
-
-**Bonne pratique**
-
-Utilisez vos diagrammes de processus pour prendre en charge les conversations dans les cas où l’adoption se heurte à des difficultés.
-
-**Voici pourquoi**
-
-Le partage de diagrammes de processus avec vos responsables de personnes et utilisateurs leur donne un aperçu en coulisses des raisons pour lesquelles les choses ont été construites comme dans Workfront. Cela permet d’avoir une bonne compréhension des raisons pour lesquelles certains outils sont utilisés de manière spécifique et des raisons pour lesquelles certains outils ne sont pas encore utilisés.
-
-En outre, les utilisateurs peuvent comprendre comment le travail qu’ils effectuent est capturé et mesuré dans Workfront et comment la direction peut ensuite reconnaître comment le travail a profité à l’entreprise et à sa réussite.
+Pour plus d’informations, voir Bonnes pratiques pour l’administration système - Connaître les personnes qui utilisent Experience League.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Créez un centre d’excellence Workfront pour informer les bonnes pratiques de l’entreprise sur Workfront.
+Utilisez vos diagrammes de processus pour étayer vos présentations dans les cas où l’adoption est difficile.
 
 **Voici pourquoi**
 
-Le Centre d’excellence de Workfront est composé de vos experts en la matière (PME) qui vous aident à définir les bonnes pratiques de votre organisation et à aider les équipes d’assistance à comprendre quelles sont ces bonnes pratiques et pourquoi.
+En partageant les diagrammes de processus avec vos responsables et vos utilisateurs et utilisatrices, vous leur permettez de constater ce qui a motivé, en interne, la conception de Workfront. Cela permet de bien comprendre les raisons pour lesquelles certains outils sont utilisés de manière spécifique et les raisons pour lesquelles d’autres ne sont pas encore utilisés.
+
+En outre, les utilisateurs et utilisatrices peuvent comprendre la façon dont le travail qu’ils effectuent est capturé et mesuré dans Workfront et comment la direction peut ensuite reconnaître l’apport de ce travail pour l’entreprise et sa réussite.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Utilisez la communauté Experience League.
+Créez un centre d’excellence Workfront pour diffuser les bonnes pratiques de l’entreprise avec Workfront.
 
 **Voici pourquoi**
 
-La communauté d’Experience League est une opportunité pour vous de demander et de recevoir des conseils sur tout ce qui concerne Workfront et le travail lié à. Même si vous ne souhaitez pas participer aux discussions, vous pouvez consulter la page pour trouver des informations sur les sujets qui vous intéressent ou qui vous posent problème.
+Le Centre d’excellence Workfront est composé de vos expertes et experts en la matière (SME) qui vous aident à définir les bonnes pratiques de votre organisation et aident les équipes d’assistance à comprendre ce que sont ces bonnes pratiques et les raisons de leur existence.
 
 </br>
 </br>
-
 
 **Bonne pratique**
 
-Définissez des normes ou des attentes pour les utilisateurs et assurez-vous que le leadership prend en charge ces attentes.
+Utilisez la communauté Experience League.
 
 **Voici pourquoi**
 
-Il est important que les utilisateurs reçoivent des attentes claires afin qu’ils sachent quel est l’objectif de Workfront et où ils se situent pour répondre à ces attentes. Il est tout aussi important pour eux de savoir que le leadership est derrière ces normes.
-
-
-Assurez-vous que le leadership envoie des communications pour confirmer leur soutien.
+La communauté d’Experience League vous permet de demander et de recevoir des conseils sur tout ce qui concerne Workfront et le travail associé. Même si vous ne souhaitez pas participer aux discussions, vous pouvez consulter la page pour trouver des informations sur les sujets qui vous intéressent ou qui vous posent problème.
 
 </br>
 </br>
@@ -158,11 +143,26 @@ Assurez-vous que le leadership envoie des communications pour confirmer leur sou
 
 **Bonne pratique**
 
-Créez et déployez une enquête sur l’adoption de vos utilisateurs afin de mieux comprendre où ils rencontrent des défis et où ils trouvent de la valeur
+Définissez des références ou des attentes pour les utilisateurs et utilisatrices et assurez-vous que la direction soutient ces attentes.
 
 **Voici pourquoi**
 
-Nos clients les plus performants ont développé une cadence régulière pour recueillir des commentaires afin de comprendre ce qui peut entraver une meilleure adoption de la solution Workfront. La collecte des données de retour permet aux administrateurs de trouver les ressources appropriées pour apporter des améliorations. Ce guide des enquêtes sur l’adoption décrit les étapes d’exécution, de mesure, de planification et de révision d’une enquête auprès de vos utilisateurs Workfront.
+Il est important que des attentes claires soient communiquées aux utilisateurs et utilisatrices afin qu’ils sachent quel est l’objectif vis-à-vis de Workfront et là où ils se situent par rapport à ces attentes. Il est tout aussi important pour eux de savoir que la direction soutient ces références.
 
-[Téléchargement du Guide Workfront pour l’adoption d’une enquête](../assets/adoption-survey.pdf)
+
+Assurez-vous que la direction diffuse des communications confirmant son soutien.
+
+</br>
+</br>
+
+
+**Bonne pratique**
+
+Créez et diffusez une enquête sur l’adoption par vos utilisateurs et utilisatrices afin de mieux comprendre les domaines dans lesquels ils rencontrent des difficultés et ceux où ils trouvent de la valeur.
+
+**Voici pourquoi**
+
+Nos clientes et clients les plus performants recueillent régulièrement les commentaires afin de comprendre ce qui pourrait faire obstacle à une meilleure adoption de la solution Workfront. Le recueil des commentaires permettra aux administrateurs et administratrices de trouver les bonnes ressources pour apporter des améliorations. Ce guide des enquêtes sur l’adoption décrit les étapes d’exécution, de mesure, de planification et de révision pour mener une enquête auprès de vos utilisateurs et utilisatrices Workfront.
+
+[Télécharger le Guide Workfront des enquêtes d’adoption](../assets/adoption-survey.pdf)
 
