@@ -11,9 +11,9 @@ jira: KT-11053
 thumbnail: KT11053.png
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '647'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,77 +21,77 @@ ht-degree: 0%
 
 Découvrez comment créer, déclencher et gérer des scénarios lancés par webhook.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-L’objectif de ce scénario est de créer une application à vendre aux épiceries afin qu’elles puissent facilement déterminer si un client est assez âgé pour acheter de l’alcool. Le caissier doit simplement publier le nom et la date de naissance du client sur une URL qui lui a été fournie. Cette publication déclenchera le scénario qui calculera la réponse et la renverra au demandeur.
+L’objectif de ce scénario est de créer une application destinée à être vendue aux magasins de proximité afin de facilement déterminer si un client ou une cliente a l’âge requis pour acheter de l’alcool. Il suffit au caissier ou à la caissière d’afficher le nom et la date de naissance du client ou de la cliente à l’adresse URL qui lui a été fournie. Cette publication déclenche le scénario qui permet de calculer la réponse et de la renvoyer au demandeur ou à la demandeuse.
 
 1. Le scénario se compose de trois webhooks.
 1. Le module déclencheur est un webhook personnalisé qui écoute une publication.
-1. Lorsqu’il reçoit une publication, il la génère vers l’un des modules suivants.
-1. Le module suivant renvoie une réponse au demandeur.
+1. Lorsqu’il reçoit une publication, il la transmet à l’un des modules suivants.
+1. Le module suivant renvoie une réponse au demandeur ou à la demandeuse.
 
-   ![Image 1 de Webhooks](../12-exercises/assets/webhooks-walkthrough-1.png)
+   ![ Image 1 - Webhooks](../12-exercises/assets/webhooks-walkthrough-1.png)
 
 ## Étapes à suivre
 
-**Configurez le déclencheur webhook.**
+**Configurer le webhook du déclencheur.**
 
-1. Créez un scénario et nommez-le &quot;Utilisation de webhooks&quot;.
+1. Créez un scénario et nommez-le « Utiliser les webhooks ».
 1. Pour le déclencheur, ajoutez le module webhook personnalisé à partir de l’application Webhooks.
-1. Cliquez sur Ajouter pour créer un nouvel webhook.
-1. Saisissez le nom du webhook &quot;Application pour la période de boisson&quot;.
-1. Laissez les restrictions d’IP vides, ce qui signifie que n’importe qui peut y envoyer des données.
+1. Cliquez sur Ajouter pour créer un webhook.
+1. Saisissez le nom du webhook « Application pour l’âge de la consommation d’alcool ».
+1. Laissez les restrictions d’IP vides, ce qui signifie que n’importe qui peut envoyer des données.
 1. Cliquer sur Enregistrer.
 
 
-   ![Webhooks Image 2](../12-exercises/assets/webhooks-walkthrough-2.png)
+   ![Image 2 - Webhooks](../12-exercises/assets/webhooks-walkthrough-2.png)
 
-1. De retour dans le panneau de mappage des webhooks, une URL a été créée pour ce webhook spécifique. Cliquez sur &quot;Copier l’adresse dans le Presse-papiers&quot; pour copier cette URL.
-1. Cliquez sur OK.
-1. Cliquez une fois sur Exécuter.
-1. Utilisez l’URL de Postman pour envoyer un nom et une date d’anniversaire à votre webhook personnalisé. Pour plus d’informations sur la configuration de Postman, voir [Présentation détaillée de Webhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en) tutoriel .
+1. Dans le panneau de mappage des webhooks, une URL a été créée pour ce webhook spécifique. Cliquez sur « Copier l’adresse dans le presse-papiers » pour copier l’URL.
+1. Cliquez sur OK.
+1. Cliquez sur Exécuter une fois.
+1. Utilisez l’URL dans Postman pour envoyer un nom et une date de naissance à votre webhook personnalisé. Pour obtenir des instructions sur la configuration de Postman, consultez le tutoriel [Présentation détaillée des webhooks](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=fr).
 
-   **Le panneau du module Webhooks doit se présenter comme suit :**
+   **Le panneau du module Webhooks devrait ressembler à celui-ci :**
 
-   ![Image Webhooks 3](../12-exercises/assets/webhooks-walkthrough-3.png)
+   ![Image 3 - Webhooks](../12-exercises/assets/webhooks-walkthrough-3.png)
 
-   **Le webhook est maintenant dans un état où il écoute les données pour déterminer la structure des données.**
+   **Le webhook est maintenant à l’écoute des données pour déterminer la structure de celles-ci.**
 
-1. Vous pouvez définir la structure de données de la payload que vous prévoyez d’obtenir (les structures de données seront discutées ultérieurement). Si vous ne définissez pas de structure de données, Fusion détermine automatiquement la structure de données lors de l’envoi de la publication.
-1. Du côté Postman, vous souhaitez envoyer à l’URL copiée. La publication doit inclure des données de formulaire de base. Pour cet exemple, vous avez besoin de trois champs : Nom, date de naissance et clientToken.
+1. Vous pouvez définir la structure de données de la charge utile que vous souhaitez obtenir (les structures de données seront abordées ultérieurement). Si vous ne définissez pas de structure de données, Fusion la déterminera automatiquement lors de l’envoi de la publication.
+1. Du côté de Postman, envoyez l&#39;URL copiée. La publication doit contenir des données du formulaire de base. Pour cet exemple, vous avez besoin de trois champs : Nom, Date de naissance et ClientToken.
 
-   ![Image 4 de Webhooks](../12-exercises/assets/webhooks-walkthrough-4.png)
+   ![Image 4 - Webhooks](../12-exercises/assets/webhooks-walkthrough-4.png)
 
 1. Une fois que vous avez cliqué sur Envoyer depuis Postman , vous devriez recevoir une indication que la publication a été acceptée.
-1. C’est à ce stade que votre scénario indique que la structure de données a été correctement déterminée.
-1. Vous pouvez constater que les données ont été reçues lors de l’ouverture de l’Inspecteur d’exécution.
+1. C’est à ce stade que votre scénario montrera que la structure des données a été déterminée avec succès.
+1. Vous pouvez constater que les données ont été reçues lors de l’ouverture de l’inspecteur d’exécution.
 
-   ![Webhooks Image 5](../12-exercises/assets/webhooks-walkthrough-5.png)
+   ![Image 5 - Webhooks](../12-exercises/assets/webhooks-walkthrough-5.png)
 
-   **Configurez le routage pour les jetons client.**
+   **Configurez le routage pour les jetons clients.**
 
 1. Ajoutez un routeur au module déclencheur.
-1. Dans le chemin supérieur, ajoutez un module de réponse Webhook. Il s’agit de notre chemin d’accès lorsque le jeton client ne correspond pas.
-1. Définissez l’état sur 401.
-1. Définissez Body sur {&quot;error&quot; : &quot;Échec de l’authentification de la requête. Vérifiez votre clientToken&quot;}.
+1. Dans le chemin supérieur, ajoutez un module de réponse webhook. Il s’agit de notre chemin d’accès lorsque le jeton client ne correspond pas.
+1. Définissez le statut sur 401.
+1. Définissez le corps sur {&quot;error&quot;: &quot;Échec de l’authentification de la requête. Vérifiez votre clientToken&quot;}.
 
-   ![Webhooks Image 6](../12-exercises/assets/webhooks-walkthrough-6.png)
+   ![Image 6 - Webhooks](../12-exercises/assets/webhooks-walkthrough-6.png)
 
-1. Créez un filtre entre le routeur et le module de réponse Webhook. Nommez-le &quot;Le jeton client ne correspond pas&quot;.
-1. Pour la condition, utilisez le champ clientToken du module déclencheur et effectuez une comparaison numérique &quot;Différent de&quot; avec le nombre 5121933.
+1. Créez un filtre entre le routeur et le module de réponse webhook. Nommez-le « Le jeton client ne correspond pas ».
+1. Pour la condition, utilisez le champ clientToken du module déclencheur et effectuez une comparaison numérique « N’est pas égal à » avec le nombre 5121933.
 
-   ![Webhooks Image 7](../12-exercises/assets/webhooks-walkthrough-7.png)
+   ![Image 7 - Webhooks](../12-exercises/assets/webhooks-walkthrough-7.png)
 
-1. Dans le chemin d’accès inférieur, ajoutez un autre module de réponse Webhook. Il s’agit de notre chemin d’accès lorsque le jeton client correspond.
-1. Définissez le statut sur 200.
-1. Lors de la configuration du corps, utilisez les fonctions du panneau de mappage pour tester si la personne a 21 ans ou plus. Si c&#39;est le cas, retournez &quot;Vous êtes assez vieux pour boire !&quot;, sinon retournez &quot;Vous n&#39;avez pas de chance...&quot;.
+1. Dans le chemin du bas, ajoutez un autre module de réponse webhook. Il s’agit de notre chemin d’accès lorsque le jeton client correspond.
+1. Définissez le statut sur 200.
+1. Lors de la mise en place du corps, utilisez les fonctions du panneau de mappage pour vérifier si la personne est âgée d’au moins 18 ans. Si c’est le cas, renvoyez « Vous avez l’âge de boire ! », sinon renvoyez « Pas de chance... ».
 
-   ![Webhooks Image 9](../12-exercises/assets/webhooks-walkthrough-9.png)
+   ![Webhooks Image 9](../12-exercises/assets/webhooks-walkthrough-9.png)
 
-1. Créez un filtre entre le routeur et le module de réponse Webhook sur le chemin inférieur. Nommez-le &quot;Le jeton client correspond bien&quot;.
-1. Pour la condition, utilisez le champ clientToken du module de déclenchement et effectuez une comparaison numérique &quot;Egal à&quot; avec le nombre 5121933.
+1. Créez un filtre entre le routeur et le module de réponse Webhook sur le chemin inférieur. Nommez-le « Le jeton client ne correspond pas. »
+1. Pour la condition, utilisez le champ Jeton client du module de déclenchement et effectuez une comparaison numérique « Est égal à » avec le nombre 5 121 933.
 
 
-   ![Webhooks Image 8](../12-exercises/assets/webhooks-walkthrough-8.png)
+   ![Webhooks Image 8](../12-exercises/assets/webhooks-walkthrough-8.png)
 
-1. Cliquez sur le bouton Planification sous Exécuter une fois pour activer votre scénario afin qu’à chaque fois qu’une nouvelle publication est publiée, elle soit reçue, que vous empruntiez l’un des chemins d’accès et que vous génériez une réponse.
+1. Cliquez sur le bouton Planification sous Exécuter une fois pour activer votre scénario, de sorte qu’à chaque publication d’un nouveau billet, celui-ci soit reçu, suive l’un ou l’autre des chemins et génère une réponse.
