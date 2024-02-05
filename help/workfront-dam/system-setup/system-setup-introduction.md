@@ -1,6 +1,6 @@
 ---
-title: En savoir plus sur les [!UICONTROL Gestion des actifs numériques Workfront] Cours
-description: En savoir plus sur ce qui sera couvert dans la section [!UICONTROL Gestion des actifs numériques Workfront] Administrateur, cours de configuration du système Partie 1.
+title: Découvrez le cours [!UICONTROL Workfront DAM].
+description: Découvrez les thèmes abordés dans le cours Administrateur ou administratrice [!UICONTROL Workfront DAM], configuration système (partie 1).
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 jira: KT-8964
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configuration du système : introduction
+# Configuration du système : introduction
 
-Dans cette vidéo, vous allez :
+Dans cette vidéo, vous allez :
 
-* Découvrez comment [!UICONTROL Gestion des actifs numériques Workfront] course
+* Présentation du cours [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on)
 
