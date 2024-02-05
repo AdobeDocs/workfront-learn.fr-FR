@@ -1,5 +1,5 @@
 ---
-title: Ajout et modification des paramètres de colonne sur un panorama
+title: Ajouter et modifier les paramètres d’une colonne sur un panorama
 description: Découvrez comment ajouter et modifier des paramètres de colonnes dans un panorama.
 feature: Agile
 activity: deploy
@@ -11,13 +11,13 @@ level: Beginner
 exl-id: e6070383-abda-466a-b490-ed9699a4befe
 doc-type: video
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ajout et modification des paramètres de colonne sur un panorama
+# Ajouter et modifier les paramètres d’une colonne sur un panorama
 
 Découvrez comment ajouter et modifier des paramètres de colonnes dans un panorama.
 
