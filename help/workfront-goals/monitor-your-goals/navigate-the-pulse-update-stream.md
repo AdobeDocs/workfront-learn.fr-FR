@@ -1,6 +1,6 @@
 ---
-title: Accédez au [!UICONTROL Pulse] flux de mise à jour dans [!DNL Goals]
-description: Découvrez comment naviguer dans la [!UICONTROL Pulse] flux de mise à jour dans [!DNL Goals].
+title: Accédez au flux de mises à jour [!UICONTROL Impression] dans [!DNL Goals]
+description: Découvrez comment naviguer dans le flux de mises à jour [!UICONTROL Impression] dans [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Accédez au [!UICONTROL Pulse] flux de mise à jour
+# Accédez au flux de mises à jour [!UICONTROL Impression]
 
-Utilisez la variable [!UICONTROL Pulse] pour passer en revue et demander des mises à jour des objectifs susceptibles d’influencer la progression de vos objectifs, y compris les objectifs alignés et leurs résultats ou activités. Il peut s’agir d’objectifs qui vous appartiennent, à votre équipe, au groupe ou à l’organisation.
+Utilisez la section [!UICONTROL Impression] pour examiner et demander des mises à jour des objectifs susceptibles d’influencer la progression de vos propres objectifs, notamment les objectifs alignés et leurs résultats ou activités. Il peut s’agir d’objectifs vous appartenant, ou appartenant à votre équipe, au groupe ou à l’organisation.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Accédez au [!UICONTROL Pulse] flux de mise à jour
+* Accéder au flux de mises à jour [!UICONTROL Impression]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)
