@@ -1,6 +1,6 @@
 ---
-title: Ajout d’une activité et d’un projet à un objectif
-description: Découvrez comment activer un objectif en ajoutant une activité ou un projet dans [!DNL Workfront Goals].
+title: Ajouter une activité et un projet à un objectif
+description: Apprenez à activer un objectif en ajoutant une activité ou un projet dans  [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ajout d’une activité et d’un projet à un objectif
+# Ajouter une activité et un projet à un objectif
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Ajout d’une activité et d’un projet à un objectif
+* Ajouter une activité et un projet à un objectif
 
 >[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on)
