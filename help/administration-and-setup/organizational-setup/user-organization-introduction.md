@@ -1,6 +1,6 @@
 ---
-title: Où commencer avec l’organisation des utilisateurs
-description: Découvrez comment utiliser des entreprises, des groupes et des équipes pour l’organisation des utilisateurs et les autorisations pour les tâches.
+title: Où commencer avec l’organisation des utilisateurs et des utilisatrices
+description: Découvrez comment utiliser des entreprises, des groupes et des équipes pour l’organisation des utilisateurs et des utilisatrices et les autorisations pour les tâches.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,15 +10,15 @@ level: Intermediate, Experienced
 jira: KT-8756
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Où commencer avec l’organisation des utilisateurs
+# Où commencer avec l’organisation des utilisateurs et des utilisatrices
 
-Dans cette vidéo, vous découvrirez :
+Dans cette vidéo, vous découvrirez :
 
 * Entreprises
 * Groupes
@@ -26,12 +26,12 @@ Dans cette vidéo, vous découvrirez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on)
 
-Avant de commencer, voici quelques termes essentiels à connaître pour découvrir les organisations d’utilisateurs dans [!DNL Workfront].
+Avant de commencer, voici quelques termes essentiels à connaître pour découvrir les organisations d’utilisateurs et d’utilisatrices dans [!DNL Workfront].
 
-| Entreprise | Groupe | Équipe |
+| Entreprise | Groupe | Equipe |
 | --- | --- | --- |
-| <ul><li>une entreprise commerciale; interne ou externe</li><li>Unité d’organisation Workfront la plus grande</li></ul> | <ul><li>Service ou division</li><li>Seconde plus grande unité d’organisation Workfront</li></ul> | <ul><li>Petite collection de personnes qui travaillent ensemble dans des activités quotidiennes; équipe de travail</li><li>Peut être fonctionnel ou interfonctionnel</li><li>Plus petite unité d’organisation Workfront</li></ul> |
-| Exemples <ul><li>Workfront</li><li>Google Amazon</li><li>JP Morgan Chase</li><li>Adobe</li></ul> | Exemples <ul><li>Finances</li><li>Légal</li><li>Marketing</li><li>Opérations</li></ul> | Exemples <ul><li>Payroll</li><li>Analyse</li><li>Publication</li><li>Production</li></ul> |
+| <ul><li>Entreprise commerciale ; interne ou externe</li><li>Unité d’organisation Workfront la plus grande</li></ul> | <ul><li>Service ou division</li><li>Seconde plus grande unité d’organisation Workfront</li></ul> | <ul><li>Petit groupe de personnes qui travaillent ensemble dans des activités quotidiennes ; équipe de travail</li><li>Peut être fonctionnel ou interfonctionnel</li><li>Plus petite unité d’organisation Workfront</li></ul> |
+| Exemples <ul><li>Workfront</li><li>Google Amazon</li><li>JP Morgan Chase</li><li>Adobe</li></ul> | Exemples <ul><li>Finances</li><li>Légal</li><li>Marketing</li><li>Opérations</li></ul> | Exemples <ul><li>Service paie</li><li>Analyse</li><li>Publication</li><li>Production</li></ul> |
 
 
 
