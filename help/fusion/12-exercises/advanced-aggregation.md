@@ -11,9 +11,9 @@ jira: KT-11048
 thumbnail: KT11048.png
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '481'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,74 +21,74 @@ ht-degree: 0%
 
 Découvrez comment utiliser les regroupements lors de l’agrégation.
 
-## Présentation de l’exercice
+## Vue d’ensemble de l’exercice
 
-Appelez un service Web pour renvoyer des informations sur plusieurs pays et identifier la population totale de tous les pays, regroupée par sous-région.
+Appelez un service web pour renvoyer des informations sur plusieurs pays et identifier la population totale de tous les pays, regroupée par sous-région.
 
-![Image d’agrégation avancée 1](../12-exercises/assets/advanced-aggregation-walkthrough-1.png)
+![Agrégation avancée Image 1](../12-exercises/assets/advanced-aggregation-walkthrough-1.png)
 
 ## Étapes à suivre
 
-**Obtenir les détails du pays.**
+**Obtenez des informations sur le pays.**
 
-![Image d’agrégation avancée 2](../12-exercises/assets/advanced-aggregation-walkthrough-2.png)
+![Agrégation avancée Image 2](../12-exercises/assets/advanced-aggregation-walkthrough-2.png)
 
-1. Créez un scénario et nommez-le &quot;agrégation avancée&quot;.
-1. Définissez le module de déclenchement sur HTTP - Effectuer un module de requête.
-1. Utiliser cette URL, `https://restcountries.com/v2/lang/es`, qui donne la liste de tous les pays où l&#39;espagnol est parlé.
-1. Laissez la méthode définie sur Get.
-1. Cochez la case Analyse de la réponse .
-1. Renommez ce module &quot;Get Countries&quot;.
-1. Cliquez une fois sur Enregistrer et Exécuter.
+1. Créez un scénario et nommez-le « Agrégation avancée ».
+1. Définissez le module de déclenchement sur un module HTTP - Effectuer une demande.
+1. Utilisez cette URL, `https://restcountries.com/v2/lang/es`, qui vous donne une liste de tous les pays où l’on parle espagnol.
+1. Conservez la méthode Get.
+1. Cochez la case Analyser la réponse.
+1. Renommez ce module « Obtenir des pays ».
+1. Cliquez sur Enregistrer et Exécuter une fois.
 
-   **La sortie est un seul lot, mais elle est fournie dans un tableau de 24 collections, une pour chaque pays hispanophone.**
+   **La sortie est un lot unique, mais elle se présente sous la forme d’un tableau de 24 collections, une pour chaque pays hispanophone.**
 
-   ![Image d’agrégation avancée 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
+   ![Agrégation avancée Image 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
 
-   **Vous devez collecter des informations sur chaque sous-région pour chacun des pays. Vous devrez donc effectuer une requête HTTP supplémentaire.**
+   **Vous devez collecter des informations sur les sous-régions pour chacun des pays. Vous devrez donc effectuer une requête HTTP supplémentaire.**
 
-1. Ajoutez une autre requête pour obtenir des informations sur la sous-région. Il ne reviendra que le premier pays, mais c&#39;est normal pour l&#39;instant. Ajoutez un autre module HTTP Make a request et utilisez l’URL `https://restcountries.com/v2/name/{country name}`.
-1. Pour obtenir le nom du premier pays, accédez au panneau Mappage et cliquez sur Données, puis sur Nom dans le tableau. Le [1] dans le champ de données signifie qu’il renverra le premier élément du tableau .
+1. Ajoutez une autre demande pour obtenir des informations sur les sous-régions. Elle ne renverra que le premier pays, mais ce n’est pas grave pour l’instant. Ajoutez un autre module HTTP Effectuer une demande et utilisez l’URL `https://restcountries.com/v2/name/{country name}`.
+1. Pour obtenir le nom du premier pays, allez dans le panneau de mappage et cliquez sur Données, puis sur Nom dans le tableau. Le [1] dans le champ de données signifie qu’il renverra le premier élément du tableau.
 
-   + Cliquez sur le nombre et modifiez l’index si nécessaire, mais dans ce cas, vous souhaitez uniquement le premier élément.
+   + Cliquez sur le nombre et modifiez l’index si nécessaire, mais dans ce cas, seul le premier élément est important.
 
-![Image d’agrégation avancée 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![Agrégation avancée Image 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
-1. Cochez Parse response dans le panneau de mappage, puis cliquez sur OK.
-1. Renommez cette option &quot;Obtenir des détails sur les pays&quot;.
+1. Cochez Analyser la réponse dans le panneau de mappage, puis cliquez sur OK.
+1. Renommez ceci « Obtenir les détails du pays ».
 1. Cliquez sur Enregistrer, puis sur Exécuter une fois.
 
-   + Le résultat est une information pour un seul pays.
+   + La sortie est une information pour un seul pays.
 
-1. Pour obtenir les autres pays, vous devez effectuer une itération sur le tableau . Ajoutez un itérateur qui prend une liste d’éléments et génère un lot pour chaque élément de la liste.
+1. Pour obtenir les autres pays, vous devez itérer le tableau. Ajoutez un itérateur qui prend une liste d’attributs et génère un lot pour chaque élément de la liste.
 
    **Ajoutez l’itérateur et l’agrégateur.**
 
-1. Cliquez avec le bouton droit de la souris entre les modules HTTP et ajoutez le module Iterator Flow Control .
-1. Dans le champ Tableau , sélectionnez Données dans le module Obtenir les pays .
+1. Faites un clic droit entre les modules HTTP et ajoutez le module Contrôle du flux de l’itérateur.
+1. Dans le champ Tableau, sélectionnez Données dans le module Obtenir les pays.
 
-   ![Image d’agrégation avancée 5](../12-exercises/assets/advanced-aggregation-walkthrough-5.png)
+   ![Agrégation avancée Image 5](../12-exercises/assets/advanced-aggregation-walkthrough-5.png)
 
-1. Dans le module Obtenir les détails du pays , mettez à jour le champ URL pour extraire le champ nom de l’itérateur au lieu du module Obtenir les pays .
+1. Dans le module Obtenir les détails du pays, mettez à jour le champ URL pour que le nom provienne de l’itérateur plutôt que du module Obtenir des pays.
 
-   ![Image d’agrégation avancée 6](../12-exercises/assets/advanced-aggregation-walkthrough-6.png)
+   ![Agrégation avancée Image 6](../12-exercises/assets/advanced-aggregation-walkthrough-6.png)
 
-1. Ajoutez maintenant un agrégateur numérique après Obtenir les détails du pays pour regrouper et additionner les populations.
+1. Ajoutez maintenant un agrégateur numérique après Obtenir les détails du pays afin de regrouper et d’additionner les populations.
 1. Le module source est le module d’itérateur.
-1. La fonction d’agrégat est SUM.
-1. La valeur est [données:population] à partir du module Obtenir les détails du pays .
-1. Cliquez sur l’option Afficher les paramètres avancés en bas de l’écran et regroupez les [données:sous-région] à partir du module Obtenir les détails du pays .
+1. La fonction d’agrégation est SUM.
+1. La valeur est [data:population] provenant du module Obtenir les détails du pays.
+1. Cliquez sur l’option Afficher les paramètres avancés en bas et effectuez un regroupement par [data:subregion] à partir du module Obtenir les détails du pays.
 
-   ![Image d’agrégation avancée 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
+   ![Agrégation avancée Image 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
 
-   **Terminez avec un agrégateur de texte pour agréger ce que vous avez regroupé dans l&#39;agrégateur numérique.**
+   **Terminez par un agrégateur de texte pour agréger ce que vous avez regroupé dans l’agrégateur numérique.**
 
 1. Ajoutez un agrégateur de texte à la fin.
 1. Le module source est l’agrégateur numérique.
-1. Dans la zone Texte, insérez &quot;La population totale de [CLÉ] is [result].&quot;
+1. Dans la zone de texte, insérez « La population totale de [KEY] est [result]. »
 
-   ![Image d’agrégation avancée 8](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
+   ![Agrégation avancée Image 8](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
 
-1. Enregistrez et exécutez une fois.
+1. Enregistrez et Exécutez une fois.
 
    + Examinez la sortie du module final.
