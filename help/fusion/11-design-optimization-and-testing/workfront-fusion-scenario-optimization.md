@@ -1,6 +1,6 @@
 ---
-title: Optimisation du scénario de fusion Workfront
-description: Découvrez comment effectuer moins d’opérations, envoyer moins d’appels API et utiliser moins de modules, le tout dans [!DNL Adobe Workfront Fusion].
+title: Optimisation du scénario de Workfront Fusion
+description: Découvrez comment effectuer moins d’opérations, envoyer moins d’appels API et utiliser moins de modules, le tout dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,28 +11,28 @@ jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Optimisation du scénario de fusion Workfront
+# Optimisation du scénario de Workfront Fusion
 
-Qu’est-ce que &quot;l’optimisation des scénarios&quot; et que pouvez-vous faire pour optimiser vos scénarios ?
+En quoi consiste « l’optimisation des scénarios » et que pouvez-vous faire pour optimiser vos scénarios ?
 
-L’optimisation du scénario est une compétence pratique qui demande du temps et de l’engagement pour se développer. Votre première tentative de création d’un scénario pour un résultat commercial ne devrait pas être votre dernière. Les scénarios doivent être modifiés à partir du premier jour jusqu’au lancement de votre intégration. Même après votre lancement, les scénarios doivent être examinés et mis à jour tout au long de leur durée de vie afin de suivre les changements de comportement et d’entreprise.
+L’optimisation des scénarios est une compétence nécessitant de la pratique, du temps et de l’implication pour se développer. Votre première tentative d’élaboration d’un scénario à but commercial ne doit pas être la dernière. Les scénarios doivent être répétés depuis le moment de leur création jusqu’au lancement de l’intégration. Même après votre lancement, les scénarios doivent être examinés et mis à jour tout au long de leur durée de vie afin de suivre les changements liés au comportement et au marché.
 
-Les scénarios nécessitent une maintenance. Les développeurs de Workfront Fusion doivent régulièrement passer en revue les scénarios afin d’avoir la possibilité de reconstruire, de restructurer ou d’optimiser. Les scénarios de fusion Workfront nécessitent une attention, une maintenance et une maintenance régulières.
+Les scénarios nécessitent une maintenance. Les développeurs et développeuses Workfront Fusion doivent régulièrement examiner les scénarios afin de déterminer les possibilités de reconstruction, de restructuration ou d’optimisation. Les scénarios Workfront Fusion nécessitent une surveillance et une maintenance régulières.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Réaliser moins d’opérations
 * Envoyer moins d’appels API
-* Moins de modules
+* Utiliser moins de modules
 
 >[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on)
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
