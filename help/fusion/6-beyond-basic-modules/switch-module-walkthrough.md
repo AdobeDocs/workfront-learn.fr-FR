@@ -1,6 +1,6 @@
 ---
 title: Présentation du module Switch
-description: Découvrez comment utiliser le module Switch lorsque vous devez effectuer des transformations de données plus complexes ou dynamiques dans [!DNL Adobe Workfront Fusion].
+description: Découvrez comment utiliser le module Switch lorsque vous devez effectuer des transformations de données plus complexes ou dynamiques dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9049
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser le module Switch lorsque vous devez effectuer des transformations de données plus complexes ou dynamiques.
 
-![Une image à l’aide du module switch](assets/beyond-basic-modules-4.png)
+![Image montrant l’utilisation du module Switch](assets/beyond-basic-modules-4.png)
 
 ## Présentation du module Switch
 
@@ -31,9 +31,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation du module Switch](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation du module Switch](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=fr).
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
