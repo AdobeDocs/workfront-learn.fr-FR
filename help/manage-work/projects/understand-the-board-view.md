@@ -1,6 +1,6 @@
 ---
-title: Comprendre le [!UICONTROL board] view
-description: Découvrez comment utiliser le [!UICONTROL board] sur la page d’entrée du projet.
+title: Comprendre la vue [!UICONTROL Panorama]
+description: Apprenez à utiliser la vue [!UICONTROL Panorama] sur la page de destination du projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,19 +10,20 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-03T00:00:00Z
 jira: KT-13743
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
-workflow-type: tm+mt
+exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendre le [!UICONTROL board] view
+# Comprendre la vue [!UICONTROL Panorama]
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Où trouver le [!UICONTROL board] view
-* Comment utiliser la variable [!UICONTROL board] view
+* Où trouver la vue [!UICONTROL Panorama]
+* Comment utiliser la vue [!UICONTROL Panorama]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
