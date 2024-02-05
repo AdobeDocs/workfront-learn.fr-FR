@@ -1,6 +1,6 @@
 ---
-title: Création de tâches
-description: Découvrez quelques méthodes pour créer des tâches dans un projet dans Adobe Workfront.
+title: Créer des tâches
+description: Découvrez quelques méthodes pour créer des tâches dans un projet dans Adobe Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
@@ -10,17 +10,17 @@ last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création de tâches
+# Créer des tâches
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Le long chemin pour créer une tâche dans un projet Workfront
+* La méthode la plus longue pour créer une tâche dans un projet Workfront
 * Quelques raccourcis pratiques pour créer des tâches
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)
