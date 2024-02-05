@@ -1,6 +1,6 @@
 ---
 title: Convertir une activité en objectif aligné
-description: Découvrez comment convertir une activité ou un résultat en objectif aligné dans les [!DNL Goals].
+description: Découvrez comment convertir une activité ou un résultat en objectif aligné dans [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Approche de haut en bas. Convertir les activités et les résultats existants (travail) en objectifs enfants.
+# Approche de haut en bas. Convertissez les activités et les résultats existants (travail) en objectifs enfants.
 
-La deuxième façon d’aligner des objectifs consiste à convertir un résultat ou une activité existant d’un objectif en un nouvel objectif. Le résultat/l’activité converti devient l’objectif enfant de l’objectif d’origine. Une approche descendante peut être utilisée lorsque la portée du travail pour l’activité ou le résultat est plus grande que prévu et doit être prise en compte dans son propre objectif enfant qui comporte des activités et des résultats supplémentaires. C&#39;est une façon de cascade d&#39;objectifs et de diffuser le travail pour rendre l&#39;objectif plus mesurable et réalisable.
+Vous pouvez également aligner les objectifs en convertissant le résultat ou l’activité existante d’un objectif en un nouvel objectif. Le résultat ou l’activité converti devient l’objectif enfant de l’objectif initial. Une approche descendante peut être utilisée lorsque la portée du travail pour l’activité/le résultat est plus importante que prévu et doit être englobée dans son propre objectif enfant qui comporte des activités et des résultats supplémentaires. Il s’agit d’une manière d’organiser les objectifs en cascade et de répartir le travail afin de rendre l’objectif plus facile à mesurer et à réaliser.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Convertir une activité en objectif aligné
 
