@@ -1,6 +1,6 @@
 ---
-title: Gérer le travail en tant qu'équipe Kanban
-description: Découvrez comment gérer le travail et votre équipe sur la page des équipes de Kanban.
+title: Gérer du travail en tant qu’équipe Kanban
+description: Découvrez comment gérer le travail et votre équipe sur la page des équipes Kanban.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -8,41 +8,43 @@ jira: KT-10888
 thumbnail: manage-work-kanban.png
 exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Gérer le travail en tant qu&#39;équipe Kanban
+# Gérer du travail en tant qu’équipe Kanban
 
-Gérer le travail en tant qu’équipe Kanban Ajoutez des articles au journal Kanban Il existe plusieurs façons d’ajouter des articles au journal de l’équipe Creative Marketing.
+Gérer le travail en tant qu’équipe Kanban
+Ajouter des stories à la liste d’attente Kanban
+Il existe plusieurs façons d’ajouter des stories à la liste d’attente de l’équipe de marketing créatif.
 
-L&#39;équipe peut ajouter des articles directement depuis son retard.
-Ils peuvent également se voir attribuer des tâches sur un projet. Si l’équipe de marketing créatif reçoit des demandes, celles-ci s’affichent dans l’onglet Demandes de l’équipe. Elles s’affichent dans le journal de l’équipe si celle-ci sélectionne la demande et la convertit en article.
-
-
-## Utilisation de la carte Kanban
-
-Après avoir hiérarchisé les articles en souffrance, il est temps de passer à l&#39;assemblée de Kanban. Vous pouvez faire des affectations en faisant glisser les avatars des membres de l’équipe qui travailleront sur cette histoire sur la carte de l’histoire.
+L’équipe peut ajouter des stories directement à partir de sa liste d’attente.
+Elle peut également se voir attribuer des tâches dans le cadre d’un projet. Si des demandes sont acheminées vers l’équipe de marketing créatif, elles apparaîtront dans l’onglet Demandes de l’équipe. Elles s’affichent dans la liste d’attente de l’équipe si celle-ci sélectionne la demande et la convertit en story.
 
 
-Au fur et à mesure que les articles progressent, l&#39;équipe les déplacera vers le statut approprié sur le storyboard. Les membres de l’équipe peuvent utiliser les indicateurs Kanban pour indiquer si un article est activé, bloqué ou prêt à être extrait. Cela communique aux autres membres de l’équipe les tâches qui sont en cours et s’ils sont prêts ou non à être traités.
+## Utilisation du tableau Kanban
+
+Après avoir hiérarchisé les stories dans la liste d’attente, passons au tableau Kanban. Vous pouvez faire des affectations en faisant glisser les avatars des membres de l’équipe qui travailleront sur cette story sur la carte de la story.
+
+
+À mesure que les stories progressent, l’équipe leur attribue le statut approprié sur le storyboard. Les membres de l’équipe peuvent utiliser les indicateurs Kanban pour indiquer si une story est active, bloquée ou prête à être extraite. Cela informe les autres membres de l’équipe des tâches actives et si elles sont prêtes ou non à être traitées.
 
 ![Cartes Kanban](assets/kanban-01.png)
 
-Les membres de l’équipe peuvent également apporter des mises à jour aux cartes directement sur le storyboard pour refléter les modifications apportées à des éléments tels que la description, l’état ou la priorité. Pour ce faire, ils cliquent sur le menu déroulant d’une carte de reportage et effectuent leurs modifications dans le champ approprié. [1].
+Les membres de l’équipe peuvent également mettre à jour les cartes directement sur le storyboard pour refléter des changements tels que la description, le statut ou la priorité. Pour ce faire, ils cliquent sur le menu déroulant de la carte d’une story et effectuent les modifications dans le champ approprié [1].
 
-![Etat de la carte Kanban](assets/kanban-02.png)
+![Statut de la carte Kanban](assets/kanban-02.png)
 
-## Exécution de l&#39;article de Kanban
+## Exécution d’une story Kanban
 
-Notez que vous utilisez une limite de cinq étages de travail en cours. Lorsque vous consultez votre panorama, vous constatez qu’au fur et à mesure que vous déplacez les tâches en colonnes d’état, le nombre de tâches dans chaque volet s’affiche en haut à droite de chaque colonne d’état.
+Notez que vous utilisez une limite Travail en cours de cinq stories. Lorsque vous consultez votre tableau, vous constatez qu’au fur et à mesure que vous déplacez les tâches en colonnes de statut, le nombre de tâches dans chaque volet s’affiche en haut à droite de chaque colonne de statut.
 
-![Limites de travaux en cours Kanban](assets/kanban-03.png)
+![Limites Travail en cours Kanban](assets/kanban-03.png)
 
-Si vous dépassez la limite dans une colonne d’état correspondant à Nouveau ou En cours, un message d’erreur vous indique que vous avez dépassé la limite de travail en cours.
+Si vous dépassez la limite dans une colonne de statut correspondant à Nouveau ou En cours, un message d’erreur vous indique que vous avez dépassé la limite de travail en cours.
 
-![Limites de travaux en cours dépassées](assets/kanban-04.png)
+![Limites Travail en cours dépassées](assets/kanban-04.png)
 
-Si votre équipe décide qu’elle peut traiter plus ou moins d’éléments à la fois, vous (ainsi que d’autres membres de l’équipe disposant de droits d’édition) pouvez modifier le numéro de travail en cours directement à partir du storyboard en cliquant sur le numéro de travail en cours et en l’modifiant afin de refléter votre nouvelle décision.
+Si votre équipe décide qu’elle peut traiter plus ou moins d’éléments à la fois, vous (ainsi que les autres membres de l’équipe disposant de droits de modification) pouvez modifier le nombre de la limite Travail en cours directement à partir du storyboard en cliquant sur le nombre Travail en cours et en le modifiant.
