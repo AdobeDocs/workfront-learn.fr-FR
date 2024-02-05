@@ -1,6 +1,6 @@
 ---
-title: Présentation du mode Texte de base pour les vues
-description: Découvrez le mode texte, la casse des chameaux et un mode de texte "plug and play" de base que vous pouvez utiliser dans vos vues dans Workfront.
+title: Comprendre le mode texte de base pour les vues
+description: Découvrez le mode texte, le camel case et un mode texte « plug and play » de base que vous pouvez utiliser dans vos vues dans Workfront.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,41 +12,41 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation du mode Texte de base pour les vues
+# Comprendre le mode texte de base pour les vues
 
 
 >[!IMPORTANT]
 >
->Conditions préalables :
+>Prérequis :
 >
->* [Présentation des éléments de reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [Présentation des composants de création de rapports](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
->* [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+>* [Comprendre les éléments de reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=fr)
+>* [Comprendre les composants de reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=fr)
+>* [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr)
 
 >[!TIP]
 >
->* Pour mieux comprendre le mode texte, nous vous recommandons de regarder l’événement webinaire enregistré. [Demander à l’expert - Présentation du reporting en mode texte](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), qui dure une heure.
->* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder la [Création de rapports avancés](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) les tutoriels qui, ensemble, durent cinq heures et demie.
+>* Pour mieux comprendre le mode texte, nous vous recommandons de regarder le webinaire enregistré [Ask the Expert - Présentation du reporting en mode texte](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=fr), d’une durée d’une heure.
+>* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder les tutoriels [Reporting avancé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=fr), qui durent en tout cinq heures et demie.
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Quel mode de texte ?
-* Quelle casse de chameau ?
-* Un mode de texte simple &quot;Plug and play&quot; que vous pouvez utiliser dans vos vues
+* En quoi consiste le mode texte
+* En quoi consiste le camel case
+* Un mode texte « plug and play » de base que vous pouvez utiliser dans vos vues
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## Tâche - Vue 4 parents
+## Tâche - Vue 4 parents
 
 Créez d’abord une colonne pour le Nom de la tâche et le Nom du parent, puis utilisez le mode texte suivant pour créer les trois autres colonnes.
 
-### Tâche - Parent du nom parent
+### Tâche - Nom du parent du parent
 
 ```
 displayname=Parent of Parent Name
@@ -60,7 +60,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### Tâche - Parent du nom parent
+### Tâche - Nom du parent du parent du parent
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -74,7 +74,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### Tâche - Parent du parent du nom parent
+### Tâche - Nom du parent du parent du parent du parent
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -88,11 +88,11 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![Une image d&#39;écran montrant la vue 4 parents](assets/4-parents-view.png)
+![Une image d’écran montrant la vue 4 parents](assets/4-parents-view.png)
 
-## Utilisateur : itérations affichant des listes dans les vues utilisateur
+## Utilisateur ou utilisatrice : itérations affichant des listes dans les vues d’utilisateur
 
-### Utilisateur - Tous les rôles de tâche
+### Utilisateur ou utilisatrice : toutes les fonctions
 
 ```
 displayname=All job roles
@@ -104,7 +104,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### Utilisateur : tous les rôles de tâche affichant la Principale
+### Utilisateur ou utilisatrice : toutes les fonctions présentant l’affichage principal
 
 ```
 displayname=All Job Roles showing primary
@@ -116,7 +116,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### Utilisateur - Toutes les équipes
+### Utilisateur ou utilisatrice : toutes les équipes
 
 ```
 displayname=All teams
@@ -130,10 +130,10 @@ valueformat=HTML
 
 >[!NOTE]
 >
->Un champ Équipe est accessible par le biais de l’interface utilisateur. Il affiche toutes les équipes, séparées par des virgules, mais l’utilisation du mode de texte ci-dessus affiche chaque équipe sur une ligne distincte.
+>Un champ Équipe est accessible par le biais de l’interface utilisateur. Il affiche toutes les équipes, séparées par des virgules, mais l’utilisation du mode texte ci-dessus affiche chaque équipe sur une ligne distincte.
 
 
-### Utilisateur - Tous les groupes
+### Utilisateur ou utilisatrice : tous les groupes
 
 ```
 displayname=All groups
@@ -145,7 +145,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### Utilisateur : tous les groupes affichant le groupe d’accueil
+### Utilisateur ou utilisatrice : tous les groupes affichant le groupe d’accueil
 
 ```
 displayname=All groups showing home group
@@ -158,7 +158,7 @@ valueformat=HTML
 ```
 
 
-### Utilisateur - Rapports directs
+### Utilisateur ou utilisatrice : subordonnés directs
 
 ```
 displayname=Direct reports
@@ -170,7 +170,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### Utilisateur - Future PTO
+### Utilisateur ou utilisatrice : congés futurs
 
 ```
 displayname=Future PTO
@@ -184,9 +184,9 @@ valueformat=HTML
 width=150
 ```
 
-![Image d’écran affichant la vue Listes d’utilisateurs](assets/user-lists-view-large.png)
+![Une image d’écran affichant la vue Listes d’utilisateurs et utilisatrices](assets/user-lists-view-large.png)
 
-## Tâche - Comment afficher les affectations de tâche et travailler sur l’état
+## Tâche : affichage des affectations de tâche et utilisation du statut
 
 ```
 displayname=Assignments and Status
@@ -200,12 +200,12 @@ valueformat=HTML
 width=150
 ```
 
-![Image d’écran affichant la vue Affectations et État](assets/assignments-and-status-view.png)
+![Une image d’écran affichant la vue Affectations et statut](assets/assignments-and-status-view.png)
 
 
-## Tâche - Comment afficher le rôle et l’attribution sur plusieurs affectations de tâche
+## Tâche : affichage du rôle et de l’attribution sur plusieurs affectations de tâche
 
-### Tâche - Rôle + heures
+### Tâche : rôle + heures
 
 ```
 displayname=Role+hours
@@ -217,7 +217,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### Tâche - Attribution + affectation de pourcentage
+### Tâche : affectation + pourcentage d’affectation
 
 ```
 displayname=Assignment+percent
@@ -229,13 +229,13 @@ textmode=true
 type=iterate
 ```
 
-![Image d’écran affichant la vue Affectations et Rôles](assets/assignments-roles-and-percent-view.png)
+![Une image d’écran affichant la vue Affectations et rôles](assets/assignments-roles-and-percent-view.png)
 
-## Tâche : prédécesseurs et successeurs sur plusieurs projets
+## Tâches : prédécesseurs et successeurs sur plusieurs projets
 
 ### Filtre de tâche (facultatif)
 
-**Me montrer toutes les tâches ayant au moins un prédécesseur multi-projets ou au moins un successeur multi-projets sur les projets en cours**
+**Me montrer toutes les tâches ayant au moins un prédécesseur sur plusieurs projets ou au moins un successeur sur plusieurs projets sur les projets en cours**
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -250,7 +250,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### Tâche : affichez les noms des prédécesseurs et le prédécesseur de projet est dans
+### Tâche : afficher les noms des prédécesseurs et le projet dans lequel est le prédécesseur
 
 ```
 displayname=Predecessor names
@@ -264,7 +264,7 @@ valueformat=HTML
 width=150
 ```
 
-### Tâche : affichez les noms des successeurs et le successeur du projet se trouve dans
+### Tâche : afficher les noms des successeurs et le projet dans lequel est le successeur
 
 ```
 displayname=Successor names
@@ -278,7 +278,7 @@ valueformat=HTML
 width=150
 ```
 
-### Tâche - Afficher la date d’achèvement prévue des prédécesseurs
+### Tâche : afficher la date d’achèvement prévue des prédécesseurs
 
 ```
 displayname=Predecessor projected completion dates
@@ -293,7 +293,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### Tâche - Afficher l’état de progression des prédécesseurs
+### Tâche : afficher le statut de la progression des prédécesseurs
 
 ```
 displayname=Predecessor progress status
@@ -308,7 +308,7 @@ valueformat=HTML
 width=90
 ```
 
-### Tâche : affichez le pourcentage d’achèvement du projet interprojet du prédécesseur
+### Tâche : afficher le pourcentage d’achèvement du projet du prédécesseur sur plusieurs projets
 
 ```
 displayname=Predecessor project percent complete
@@ -322,10 +322,10 @@ valueformat=HTML
 width=150
 ```
 
-![Image d’écran montrant la vue des prédécesseurs et successeurs sur plusieurs projets](assets/cross-project-predecessors-and-successors.png)
+![Une image d’écran montrant la vue des prédécesseurs et successeurs sur plusieurs projets](assets/cross-project-predecessors-and-successors.png)
 
 
-## Tâche : itération indiquant toutes les personnes affectées et chacune d’elles affectée
+## Tâche : itération montrant toutes les personnes affectées et qui a affecté chacune d’elles
 
 ```
 displayname=All assignees and requesters
@@ -337,9 +337,9 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![Une image d’écran montrant toutes les personnes affectées et qui ont chacune été affectées](assets/all-assignees-and-requesters.png)
+![Une image d’écran montrant toutes les personnes affectées et qui a affecté chacune d’elles](assets/all-assignees-and-requesters.png)
 
-## Tâche/projet : itération affichant tous les formulaires personnalisés sur un projet ou une tâche
+## Tâche/projet : itération montrant tous les formulaires personnalisés sur un projet ou une tâche
 
 ```
 displayname=All Forms Assigned
@@ -351,10 +351,10 @@ valuefield=category:name
 valueformat=HTML
 ```
 
-![Image d’écran affichant tous les formulaires personnalisés d’un projet](assets/all-custom-forms-on-a-project.png)
+![Une image d’écran montrant tous les formulaires personnalisés d’un projet](assets/all-custom-forms-on-a-project.png)
 
 
-## Projet : itération affichant tous les contacts Principaux pour les éléments à résoudre en mode projet.
+## Projet : itération montrant tous les contacts principaux pour les éléments à résoudre dans la vue projet
 
 ```
 displayname=Requestor
@@ -368,9 +368,9 @@ valueformat=HTML
 width=150
 ```
 
-![Une image d’écran montrant les Principaux contacts pour les éléments à résoudre](assets/primary-contacts-for-resolvables.png)
+![Une image d’écran montrant les contacts principaux des éléments à résoudre](assets/primary-contacts-for-resolvables.png)
 
-## Projet : itération présentant tous les membres de l’équipe de projet
+## Projet : itération présentant tous les membres de l’équipe de projet
 
 ```
 displayname=Project Team Members
@@ -383,9 +383,9 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![Image d’écran montrant tous les membres de l’équipe de projet](assets/all-project-team-members.png)
+![Capture d’écran montrant tous les membres de l’équipe de projet](assets/all-project-team-members.png)
 
-## Projet : itération indiquant entryDate de tous les problèmes résolvables d’un projet.
+## Projet : itération indiquant entryDate de tous les problèmes résolvables d’un projet.
 
 ```
 displayname=Resolvables entry date
@@ -401,9 +401,9 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![Image d’écran affichant entryDate de tous les problèmes résolvables d’un projet.](assets/resolvables-entry-date.png)
+![Capture d’écran affichant l’entryDate de tous les problèmes résolvables d’un projet](assets/resolvables-entry-date.png)
 
-## Projet : affiche le groupe d’accueil du demandeur de projet d’origine.
+## Projet : afficher le groupe d’accueil de la personne ayant demandé le projet d’origine.
 
 ```
 displayname=Requestor home group
@@ -415,9 +415,9 @@ valuefield=convertedOpTaskOriginator:homeGroup:name
 valueformat=HTML
 ```
 
-![Image d’écran montrant le groupe d’accueil du demandeur du projet](assets/requestor-home-group.png)
+![Capture d’écran montrant le groupe d’accueil de la personne ayant demandé le projet](assets/requestor-home-group.png)
 
-## Projet : indique si le projet est une file d’attente de demandes.
+## Projet : indiquer si le projet est une file d’attente des demandes.
 
 ```
 querysort=queueDef:isPublic
@@ -433,9 +433,9 @@ enumclass=com.attask.common.constants.ProjectStatusEnum
 displayname=Public Selection
 ```
 
-![Image d’écran indiquant si le projet est une file d’attente de demandes](assets/project-is-a-request-queue.png)
+![Capture d’écran indiquant si le projet est une file d’attente des demandes](assets/project-is-a-request-queue.png)
 
-## Problème : itération indiquant tous les membres de l’équipe de projet résolus
+## Problème : itération indiquant tous les membres de l’équipe de projets de résolution.
 
 ```
 displayname=Resolve Project: Team Members
@@ -449,9 +449,9 @@ valueformat=HTML
 width=150
 ```
 
-![Image d’écran montrant tous les membres de l’équipe de projet de résolution](assets/all-resolve-project-team-members.png)
+![Capture d’écran montrant tous les membres de l’équipe de projet de résolution](assets/all-resolve-project-team-members.png)
 
-## Problème : itération montrant toutes les équipes du contact Principal du problème.
+## Problème : itération montrant toutes les équipes du contact principal du problème.
 
 ```
 displayname=Requestor Teams
@@ -465,9 +465,9 @@ valueformat=HTML
 width=150
 ```
 
-![Image d’écran montrant toutes les équipes de contact Principales](assets/all-primary-contact-teams.png)
+![Capture d’écran montrant toutes les équipes du contact principal](assets/all-primary-contact-teams.png)
 
-## Document : itération affichant le dossier dans un rapport de document
+## Document : itération affichant le dossier dans un rapport de document.
 
 ```
 displayname=Folder
@@ -479,9 +479,9 @@ valuefield=name
 valueformat=HTML
 ```
 
-![Image d’écran affichant un dossier dans un rapport de document](assets/folder-in-a-document-report.png)
+![Capture d’écran affichant un dossier dans un rapport de document](assets/folder-in-a-document-report.png)
 
-## Document : itération affichant le dossier parent dans un rapport de document.
+## Document : itération affichant le dossier parent dans un rapport de document.
 
 ```
 displayname=Parent Folder
@@ -493,9 +493,9 @@ valuefield=parent:name
 valueformat=HTML
 ```
 
-![Image d’écran affichant le dossier parent dans un rapport de document](assets/parent-folder-in-a-document-report.png)
+![Capture d’écran affichant le dossier parent dans un rapport de document](assets/parent-folder-in-a-document-report.png)
 
-## Document - Dates de validation du document
+## Document : dates de validation du document.
 
 ```
 displayname=Document approval dates
@@ -511,11 +511,11 @@ shortview=false
 section=0
 ```
 
-![Image d’écran affichant la vue des dates d’approbation du document](assets/document-approval-dates.png)
+![Capture d’écran affichant la vue des dates d’approbation du document](assets/document-approval-dates.png)
 
 ## Approbations d&#39;épreuve
 
-### Approbation du BAT - Afficher le nom du projet
+### Approbation du BAT : afficher le nom du projet.
 
 ```
 displayname=Project Name
@@ -524,7 +524,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### Approbation du BAT - Afficher le nom de la tâche
+### Approbation du BAT : afficher le nom de la tâche.
 
 ```
 displayname=Task Name
@@ -533,4 +533,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![Image d’écran montrant le projet et la tâche d’une validation de BAT](assets/proof-approval-project-and-task.png)
+![Capture d’écran montrant le projet et la tâche d’une approbation du BAT](assets/proof-approval-project-and-task.png)
