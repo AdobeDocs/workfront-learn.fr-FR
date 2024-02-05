@@ -1,6 +1,6 @@
 ---
-title: Quelle est la méthodologie Scrum ?
-description: Découvrez les avantages de l’utilisation de la méthodologie "gratte-ciel agile".
+title: En quoi consiste la méthodologie Scrum ?
+description: Découvrez les avantages de l’utilisation de la méthodologie agile Scrum.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -10,95 +10,95 @@ hide: true
 hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Quelle est la méthodologie Scrum et comment fonctionne-t-elle ?
+# En quoi consiste la méthodologie Scrum et comment fonctionne-t-elle ?
 
-La méthodologie Scrum englobe le modèle de flexibilité, mais diffère des autres méthodes dans la mesure où elle a défini des rôles pour les membres de l’équipe, tels que le propriétaire du produit, le Principal Scrum, etc. — et des pratiques définies pour définir et terminer le travail.
+La méthodologie Scrum englobe le modèle de flexibilité mais diffère des autres méthodologies en ce sens qu’elle définit les rôles des personnes membres de l’équipe, comme la personne propriétaire du produit, la personne désignée comme maîtresse Scrum, etc. , et des pratiques définies pour définir et terminer le travail.
 
-## Présentation de l’équipe Scrum
+## Vue d’ensemble de l’équipe Scrum
 
-Lorsque vous décidez de passer ou non à Scrum, vous devrez examiner la structure de vos équipes pour voir si elles peuvent facilement passer à la nouvelle méthodologie. Une équipe Scrum comporte trois types de membres : un propriétaire de produit, un maître de scrum et des membres de l’équipe.
+Lorsque vous décidez de passer ou non à Scrum, vous devez examiner la structure de vos équipes pour voir si elles peuvent facilement passer à la nouvelle méthodologie. Une équipe Scrum comporte trois types de membres : une personne propriétaire de produit, une personne maîtresse Scrum et des personnes membres de l’équipe.
 
 ![Membres de l’équipe Scrum](assets/scrumteammembers-01.png)
 
-### Propriétaires de produit
+### Personnes propriétaires de produit
 
-Les propriétaires de produits détiennent le produit et ont une vision de ce que le produit est ou sera. Ils sont une voix pour le client et le Principal moteur des décisions d’entreprise et de la définition des priorités des fonctionnalités du produit.
+Les personnes propriétaires de produits possèdent le produit et ont une vision de ce qu’est ou sera le produit. Elles sont une voix pour la clientèle et le principal moteur des décisions d’entreprise et de la définition des priorités des fonctionnalités du produit.
 
 
-### Maître de script
+### Personnes maîtresses Scrum
 
-Les gabarits aident l’équipe à faire le travail en trouvant les ressources nécessaires et en créant un consensus au sein de l’équipe pour que leur travail soit effectué le plus efficacement possible. Ils facilitent aussi la communication et le consensus tout au long du processus.
+Les personnes maîtresses Scrum aident l’équipe à accomplir son travail en trouvant les ressources nécessaires et en créant un consensus au sein de l’équipe pour que le travail soit accompli de la manière la plus efficace possible. Elles facilitent aussi la communication et le consensus tout au long du processus.
 
 
 ### Membres d&#39;équipe
 
-Une équipe est généralement interfonctionnelle et compte des membres avec de nombreux rôles et compétences différents. Ils sont chargés de planifier, d’exécuter et de fournir des incréments de produit. Ils bénéficieront d&#39;un emplacement physique au même endroit ou d&#39;un accès à des outils permettant une collaboration rapide et facile, à la fois entre eux tout au long de la journée et dans leurs réunions de stand-up quotidiennes de l&#39;équipe.
+Une équipe est généralement interfonctionnelle et ses membres ont des fonctions et des compétences variées. Elles sont chargés de la planification, de l’exécution et de la livraison des incréments de produits. Elles tireront partie d’un emplacement physique commun ou d’un accès à des outils permettant une collaboration rapide et facile, à la fois entre elles tout au long de la journée et dans leurs réunions « stand-up » quotidiennes d’équipe.
 
 
-## Utilisation d’une équipe Scrum
+## Travailler en tant qu’équipe Scrum
 
-Une fois que vous avez assemblé ces lecteurs clés, ils suivront un nouveau style de workflow pour réaliser leur travail et fournir un produit au client. Encore une fois, par rapport à la méthodologie traditionnelle ou à la méthode des chutes d&#39;eau, ils ne suivront plus un processus linéaire qui consiste à élaborer un plan pour un produit final, puis à passer par les étapes ou les phases nécessaires à la livraison de ce produit. Au lieu de cela, les équipes de Scrum commencent par créer un journal des travaux en souffrance.
-
-
-
-### Création d’un journal des travaux
-
-L’équipe Scrum examine une liste des fonctionnalités prioritaires et souhaitées, appelées articles. Ils doivent demander au client et discuter en tant qu’équipe de ce qu’il veut/ce dont il a besoin du système ou du produit qu’il va construire.
+Une fois que vous aurez rassemblé ces personnes clés, elles suivront un nouveau style de workflow pour accomplir leur tâche et livrer un produit à la clientèle. Là encore, par rapport à la méthodologie traditionnelle ou en cascade, elles ne suivront plus un processus linéaire consistant à élaborer un plan pour un produit final, puis à passer par les étapes ou les phases nécessaires à la livraison de ce produit. Au lieu de cela, les équipes Scrum commencent par créer une file d’attente.
 
 
-Une fois qu&#39;ils ont créé leurs histoires principales, ils doivent rattraper leur retard. En tant qu&#39;équipe, ils doivent passer par quatre étapes majeures.
+
+### Créer une file d’attente
+
+L’équipe Scrum examine une liste de caractéristiques prioritaires et de fonctionnalités souhaitées, appelées « stories ». Les membres doivent demander à la clientèle et discuter en tant qu’équipe de ce qu’ils veulent/ce dont ils ont besoin dans le système ou le produit qu’ils vont construire.
 
 
-* Ventilez les grandes histoires par petits groupes en discutant de ce qui doit être fait pour chaque histoire.
+Une fois qu’ils ont créé leurs principales stories, ils doivent préparer leur file d’attente. En tant qu’équipe, ils doivent passer par quatre étapes majeures.
 
-* Priorisez leurs histoires et décidez quelles fonctionnalités devraient être développées en premier.
 
-* Clarifie les exigences et les critères d’acceptation pour qu’un article soit considéré comme terminé.
+* Ils doivent ventiler les grandes stories par petits groupes en discutant de ce qui doit être fait pour chaque story.
 
-* Estimez le volume d’effort que l’équipe doit consacrer pour terminer chaque article et le retard. Cela peut être fait en heures ou en points. Les points vous permettent de raconter la difficulté ou la complexité de l&#39;histoire au lieu de prévoir le temps nécessaire à chaque élément de l&#39;histoire.
+* Ils doivent hiérarchiser leurs stories et décidez quelles fonctionnalités devraient être développées en premier.
+
+* Ils doivent clarifier les exigences et les critères d’acceptation pour qu’une story soit considérée comme terminée.
+
+* Ils doivent estimer la quantité d’efforts que l’équipe doit déployer pour terminer chaque story et la file d’attente. Cela peut se faire en heures ou en points. Les points vous permettent d’évaluer la difficulté ou la complexité de la story au lieu de prévoir le temps nécessaire à chaque élément de la story.
 
 
 ### Planification de l’itération
 
-Une fois que le journal des travaux est préparé et hiérarchisé, il est temps de planifier l’itération. (De nombreuses organisations utilisent les mots &quot;sprint&quot; et &quot;iteration&quot; de manière interchangeable.) L&#39;équipe décide des histoires à terminer en fonction d&#39;histoires qui sont considérées comme prêtes à l&#39;emploi. L’équipe effectue des affectations et décide de la durée de l’itération.
+Une fois que la file d’attente a été établie et classée par ordre de priorité, il est temps de planifier l’itération. (De nombreuses organisations utilisent les mots « sprint » et « itération » de manière interchangeable.) L’équipe décide des stories à compléter en fonction des stories qui sont considérées comme prêtes à démarrer. L’équipe effectue des affectations et décide de la durée de l’itération.
 
 
 
-### Exécuter l&#39;itération
+### Exécuter l’itération
 
-Il est maintenant temps d’exécuter l’itération. Les membres de l&#39;équipe commencent à faire leur travail comme le ferait une équipe traditionnelle, mais incorporent maintenant une réunion rapide et quotidienne appelée &quot;stand-up&quot;.
+Il est maintenant temps d’exécuter l’itération. Les membres de l’équipe commencent à faire leur travail comme le ferait une équipe traditionnelle, mais intègrent maintenant une réunion rapide et quotidienne appelée « stand-up ».
 
-Les membres de l&#39;équipe se lèveront littéralement pour cette courte réunion et répondront à trois questions :
+Les membres de l’équipe se lèveront littéralement pour cette courte réunion et répondront à trois questions :
 
-* Qu&#39;ai-je fait hier ?
-* Que vais-je faire aujourd&#39;hui ?
-* Quels sont les obstacles qu&#39;ils rencontrent pour empêcher la progression de leurs tâches ?
-
-
-Ces réunions maintiennent chacun sur la même longueur d&#39;onde et font avancer rapidement les choses.
+* Qu’ai-je accompli hier ?
+* Que vais-je accomplir aujourd’hui ?
+* Quels sont les obstacles qu’ils rencontrent pour empêcher la progression de leurs affectations ?
 
 
+Ces réunions maintiennent chaque personne sur la même longueur d’onde et font avancer rapidement les choses.
 
-## Utilisation d’un graphique de condensation et d’un storyboard pour suivre la progression
 
-Lorsqu’une équipe répond aux trois Principales questions de son plan, il est important qu’elle surveille et suive leur progression vers la fin de l’itération. Cela leur permet de déterminer s’ils se déplacent assez rapidement à travers leurs articles pour diffuser toutes les fonctionnalités à temps à la fin de l’itération. Le processus Scrum comporte deux composants.
+
+## Utiliser un graphique d’avancement et un storyboard pour suivre la progression
+
+Au fur et à mesure que l’équipe répond aux trois questions principales lors des réunions « stand-up », il est important qu’elle surveille et suive sa progression en vue de l’achèvement de l’itération. Cela permet aux membres de l’équipe de déterminer si ils avancent suffisamment vite dans leurs stories pour livrer toutes les fonctionnalités à temps à la fin de l’itération. Le processus Scrum comporte deux composants pour accomplir ceci.
 
 
 ### Storyboard
 
-À l’aide d’un storyboard, les équipes déplacent leurs articles dans les colonnes d’état pour indiquer quand les tâches sont nouvelles, en cours ou terminées.
+À l’aide d’un storyboard, les équipes déplacent leurs stories dans les colonnes de statut pour indiquer quand les tâches sont nouvelles, en cours ou terminées.
 
 ![Storyboard](assets/storyboard-01.png)
 
 
 ### Graphique d&#39;avancement
 
-Un graphique de condensation peut être utilisé pour déterminer si l’équipe effectue des articles à une vitesse suffisante, ou à une vitesse variable. Les graphiques de Burndown peuvent être utilisés pour des itérations individuelles ou pour l’ensemble de la version du produit.
+Un graphique d’avancement peut être utilisé pour vérifier si l’équipe termine les stories à un rythme suffisamment rapide, appelé « vélocité ». Les graphiques d’avancement peuvent être utilisés pour des itérations individuelles ou pour l’ensemble de la version du produit.
 
 ![Graphique d&#39;avancement](assets/burndown-01.png)
