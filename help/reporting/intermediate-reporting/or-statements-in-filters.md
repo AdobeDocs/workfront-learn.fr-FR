@@ -1,6 +1,6 @@
 ---
-title: Création d’instructions OU dans des filtres
-description: Découvrez comment utiliser une instruction OU pour indiquer à Workfront que vous souhaitez afficher cet OU dans votre rapport.
+title: Créer des instructions OR dans les filtres
+description: Découvrez comment utiliser une instruction OR pour indiquer à Workfront que vous voulez voir ceci OU cela dans votre rapport.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,98 +11,98 @@ level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '915'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création d’instructions OU dans des filtres
+# Créer des instructions OR dans les filtres
 
-Lorsque vous créez un filtre avec plusieurs lignes de critères, Workfront place par défaut un ET entre chaque ligne. Cela signifie que chaque résultat dans la liste lorsque vous utilisez ce filtre répond à toutes les règles de filtrage.
+Lorsque vous créez un filtre avec plusieurs lignes de critères, Workfront place par défaut le mot AND entre chaque ligne. Cela signifie que chaque résultat de la liste sur laquelle ce filtre est appliqué répond à toutes les règles de filtrage.
 
-Dans cet exemple, nous avons trois critères, ou règles, pour un filtre de projet :
+Dans cet exemple, nous avons trois critères, ou règles, pour un filtre de projet :
 
-1. La date d’achèvement prévue du projet doit être fixée au mois en cours.
-1. Le projet doit se trouver dans le portefeuille Marketing des événements.
-1. Le projet doit être un principal projet, ce qui signifie qu’il doit avoir le statut Actuel.
+1. La date d’achèvement prévue du projet doit être fixée pendant le mois en cours.
+1. Le projet doit faire partie du portfolio de marketing événementiel.
+1. Le projet doit être actif, c’est-à-dire qu’il doit avoir le statut « En cours ».
 
-![Image de création d’un filtre avec des instructions ET dans [!DNL Workfront]](assets/or-statement-1.png)
+![Une image de la création d’un filtre à l’aide d’instructions AND dans [!DNL Workfront]](assets/or-statement-1.png)
 
-Les projets figurant dans la liste des résultats répondent à ces trois critères, ce qui vous permet de réduire les résultats de la recherche pour vous permettre de consulter les informations exactes dont vous avez besoin.
+Les projets figurant dans la liste des résultats répondent à ces trois critères, ce qui vous permet d’affiner les résultats de la recherche afin d’obtenir les informations exactes dont vous avez besoin.
 
-![Image d’une liste filtrée dans [!DNL Workfront]](assets/or-statement-2.png)
+![Une image d’une liste filtrée dans [!DNL Workfront]](assets/or-statement-2.png)
 
-Cependant, il peut arriver que vous souhaitiez que les résultats du filtre répondent à différents critères, et c’est à ce moment-là que les instructions OU peuvent vous aider. Avec une instruction OR, vous indiquez au filtre que vous souhaitez voir les éléments qui correspondent à N’IMPORTE QUELLE de vos instructions OR par rapport à TOUTES vos instructions AND .
+Cependant, il peut arriver que vous souhaitiez filtrer les résultats selon des critères différents, et c’est là que les instructions OR peuvent se révéler utiles. Avec une instruction OR, vous indiquez que vous voulez voir les éléments qui correspondent à N’IMPORTE laquelle de vos instructions OR, et non à TOUTES vos instructions AND.
 
-## Utilisation d’instructions OR
+## Utiliser les instructions OR
 
-Les instructions OR étendent ou augmentent la quantité d’informations trouvées par le filtre car, pour s’afficher dans la liste de résultats, un élément ne doit respecter qu’une seule des règles de filtre, pas toutes.
+Les instructions OR élargissent ou augmentent la quantité d’informations trouvées par le filtre car, pour apparaître dans la liste des résultats, un élément ne doit satisfaire qu’une seule des règles du filtre, et non toutes.
 
-Examinons une instruction OU simple : les projets que vous êtes le chef de projet (propriétaire) pour les projets OU que vous avez créés.
+Prenons une simple déclaration OR : vous êtes le ou la chef de projet (propriétaire) de projets OR que vous avez créés.
 
-![Image de création d’un filtre avec des instructions OU dans [!DNL Workfront]](assets/or-statement-3.png)
+![Une image de la création d’un filtre avec des instructions OR dans [!DNL Workfront]](assets/or-statement-3.png)
 
-Après avoir configuré les deux règles de filtrage, cliquez sur l’opérateur ET entre elles et basculez-le sur OU.
+Après avoir défini les deux règles de filtrage, cliquez sur AND entre les deux et basculez sur OR.
 
-![Image de création d’un filtre avec des instructions OU dans [!DNL Workfront]](assets/or-statement-4.png)
+![Une image de la création d’un filtre avec des instructions OR dans [!DNL Workfront]](assets/or-statement-4.png)
 
-L’opérateur OU entre les deux règles de filtrage étend vos critères de recherche, en demandant à Workfront de rechercher les projets qui correspondent à l’une ou l’autre de ces options. Votre nom figure dans le champ propriétaire du projet ou vous êtes la personne qui a créé le projet.
+L’instruction OR entre les deux règles de filtrage élargit vos critères de recherche, indiquant à Workfront de trouver les projets qui répondent à l’une ou l’autre de ces options : votre nom figure dans le champ du ou de la propriétaire du projet ou vous êtes la personne qui a créé le projet.
 
-## Règles de filtrage multiples avec instructions OR
+## Règles de filtrage multiples avec instructions OR
 
-Examinons maintenant une instruction OU qui contient plusieurs règles de filtrage de chaque côté de l’OR. Cette règle utilise les mêmes deux règles que précédemment, mais ajoute une règle : les projets doivent également avoir l’état Actuel .
+Examinons maintenant une instruction OR qui contient plusieurs règles de filtrage de chaque côté. Cette méthode utilise les deux mêmes règles que précédemment, mais en ajoute une autre : les projets doivent également avoir le statut « En cours ».
 
-![Image de création d’un filtre avec des instructions OU dans [!DNL Workfront]](assets/or-statement-5.png)
+![Une image de la création d’un filtre avec des instructions OR dans [!DNL Workfront]](assets/or-statement-5.png)
 
-Notez que Workfront &quot;a regroupé&quot; les règles de filtrage de chaque côté de l’OR (il y a une zone grise autour d’elles). Cela indique à Workfront d’exécuter les règles de chaque côté de l’OU ensemble, en recherchant les projets qui répondent à ces deux critères car ils sont associés à l’opérateur AND.
+Remarquez que Workfront a « regroupé » les règles de filtrage de chaque côté de l’instruction OR (elles sont entourées d’une bordure grise). Cela indique à Workfront d’exécuter les règles de chaque côté de l’instruction OR ensemble, en trouvant des projets qui répondent à ces deux critères parce qu’ils sont reliés par le mot AND.
 
-Dans cet exemple, Workfront recherche les éléments suivants :
+Dans cet exemple, Workfront recherche :
 
-* Projets dont le nom figure dans le champ du propriétaire du projet et dont l’état est également Actuel.
-* **PLUS (OU)**
-* Les projets que vous avez créés ont également l’état Actuel.
+* Les projets pour lesquels votre nom figure dans le champ du ou de la propriétaire du projet et dont le statut est également « En cours ».
+* **PLUS (OR)**
+* Les projets que vous avez créés et dont le statut est également « En cours ».
 
-Placer la règle &quot;état du projet égal à actuel&quot; de chaque côté de l’OU garantit que la règle fonctionne conjointement avec les autres règles. Cette règle commune est parfois appelée &quot;constante&quot;.
+Le fait de placer la règle « Le statut du projet est égal à En cours » de chaque côté de l’instruction OR permet de s’assurer que cette règle fonctionne conjointement avec chacune des autres règles. Cette règle commune est parfois appelée « constante ».
 
 >[!NOTE]
 >
->Vous n’êtes pas limité à une règle de filtrage répétée de chaque côté de l’OR. En fonction de vos besoins, vous pouvez en avoir plusieurs. Workfront recommande de conserver au minimum ces règles répétées, afin de s’assurer que le filtre fournit les résultats dont vous avez besoin.
+>Il n’est pas obligatoire de se limiter à une règle de filtrage répétée de chaque côté de l’instruction OR. En fonction de vos besoins, vous pouvez en avoir plusieurs. Workfront recommande de limiter autant que possible ces règles répétées, afin que le filtre fournisse les résultats dont vous avez besoin.
 
-## Que se passe-t-il sans la règle de filtre commune ?
+## Que se passe-t-il sans la règle du filtre commun ?
 
-Sans la ou les règles de filtrage courantes, vous risquez de ne pas obtenir les résultats de recherche que vous aviez attendus.
+Si vous n’utilisez pas la règle du filtre commun, vous risquez de ne pas obtenir les résultats de recherche escomptés.
 
-Par exemple, si vous placez la règle &quot;état du projet égal à actuel&quot; uniquement d’un côté de l’OU, elle ne fonctionne qu’avec les autres règles de filtrage de cette section. Dans l’image ci-dessous, la règle &quot;l’état du projet est égal à Actuel&quot; apparaît uniquement dans la section supérieure.
+Par exemple, si vous placez la règle « Le statut du projet est égal à En cours » uniquement d’un côté de l’instruction OR, cela ne fonctionnera qu’avec les autres règles de filtrage de cette section. Dans l’image ci-dessous, vous voyez que la règle « Le statut du projet est égal à En cours » se trouve uniquement dans la partie supérieure.
 
-![Image de création d’un filtre avec des instructions OU dans [!DNL Workfront]](assets/or-statement-6.png)
+![Une image de la création d’un filtre avec des instructions OR dans [!DNL Workfront]](assets/or-statement-6.png)
 
-Cela signifie que Workfront recherche les éléments suivants :
+Cela signifie que Workfront recherchera :
 
-* Projets dont le nom figure dans le champ du propriétaire du projet et dont l’état est Actuel.
-* **PLUS (OU)**
+* Des projets pour lesquels votre nom figure dans le champ du ou de la propriétaire du projet et dont le statut est « En cours ».
+* **PLUS (OR)**
 * Tous les projets que vous avez créés.
 
-Comme vous pouvez le voir, cette configuration de filtre donne des résultats légèrement différents de ceux du filtre avec la règle de filtre répétée. C’est pourquoi il est important de s’assurer que le filtre est correctement configuré pour s’assurer que vous obtenez les résultats souhaités et dont vous avez besoin.
+Comme vous pouvez le constater, cette configuration de filtre donne des résultats légèrement différents de ceux du filtre ayant la règle de filtre répété. C’est pourquoi il est important de s’assurer que le filtre est correctement configuré pour que vous obteniez les résultats souhaités et dont vous avez besoin.
 
-Vous ne pouvez pas utiliser fréquemment des instructions OU lors de la création de filtres. Mais cela peut vous aider à réduire le nombre de filtres que vous devez créer. Assurez-vous simplement que vos filtres ne renvoient pas trop de résultats : une longue liste peut rendre plus difficile la recherche des informations exactes requises pour les utilisateurs.
+Les instructions OR ne sont pas forcément recommandées lors de la création de filtres. Mais elles peuvent vous aider à réduire le nombre de filtres à créer. Veillez simplement à ce que vos filtres ne renvoient pas trop de résultats - une longue liste peut rendre la recherche plus difficile pour les utilisateurs et utilisatrices.
 
-## Activité de filtre OU
+## Activité du filtre OR
 
-Vous souhaitez trouver des tâches incomplètes qui vous sont assignées ou qui ne sont assignées à personne. Vous configurez un filtre qui ressemble à celui ci-dessous. Ce filtre vous donnera-t-il les résultats que vous souhaitez ? Pourquoi ou pourquoi pas ?
+Vous voulez trouver les tâches incomplètes qui vous sont attribuées ou qui ne sont attribuées à personne. Vous configurez un filtre qui ressemble à celui présenté ci-dessous. Ce filtre vous donnera-t-il les résultats que vous souhaitez ? Pourquoi ou pourquoi pas ?
 
-![Image d’une instruction OU incorrectement créée dans [!DNL Workfront]](assets/or-statement-your-turn-1.png)
+![Image d’une instruction OR créée de manière incorrecte dans [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
 ### Réponses
 
-Non, ce filtre ne fournira pas les résultats que vous espérez (tâches qui ne sont pas terminées et qui vous sont affectées ou qui ne sont affectées à personne), car la règle de filtrage pour l’état de la tâche se trouve uniquement d’un côté de l’OR.
+Non, ce filtre ne fournira pas les résultats que vous espérez (les tâches non terminées qui vous sont assignées ou qui ne sont assignées à personne) parce que la règle de filtrage pour le statut de la tâche ne concerne qu’un seul aspect de l’instruction OU.
 
-Ce filtre génère plutôt une liste qui affiche :
+Au lieu de cela, ce filtre génère une liste qui indique :
 
-* Tâches qui vous sont affectées et dont l’état est En cours ou Nouveau.
-* **PLUS (OU)**
-* Toutes les tâches non affectées, quel que soit l’état.
+* Les tâches qui vous sont attribuées et dont le statut est En cours ou Nouveau.
+* **PLUS (OR)**
+* Toutes les tâches non assignées, quel que soit leur statut.
 
-Le filtre doit ressembler à celui ci-dessous. Notez que ce filtre comporte la règle de filtrage pour l’état de la tâche des deux côtés de l’OR.
+Le filtre doit ressembler à l’illustration ci-dessous. Remarquez que ce filtre comporte la règle de filtrage du statut de la tâche des deux côtés de l’instruction OU.
 
-![Image d’une instruction OU correctement créée dans [!DNL Workfront]](assets/or-statement-your-turn-2.png)
+![Image d’une instruction OR correctement créée dans [!DNL Workfront]](assets/or-statement-your-turn-2.png)
