@@ -1,6 +1,6 @@
 ---
 title: Paramètres à prendre en compte pour l’équilibreur de charge de travail
-description: Découvrez les paramètres à prendre en compte lorsque vous analysez les charges de travail individuelles de vos utilisateurs.
+description: Découvrez les paramètres à prendre en compte lorsque vous vous penchez sur les charges de travail individuelles de vos utilisateurs et utilisatrices.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,59 +11,59 @@ thumbnail: settings-to-consider.png
 jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 # Paramètres à prendre en compte pour l’équilibreur de charge de travail
 
-Quelques paramètres d’équilibreur de charge de travail sont à prendre en compte lorsque vous examinez les charges de travail individuelles de vos utilisateurs :
+Il existe quelques paramètres de l’équilibreur de charge de travail à prendre en compte lorsque vous vous intéressez aux charges de travail individuelles de vos utilisateurs et utilisatrices :
 
-* Affectations de problèmes
+* Affectations des problèmes
 * Dates prévisionnelles
-* Travail terminé
+* Tâche terminée
 
 
-Ils peuvent être activés ou désactivés via l’icône Paramètres de l’équilibreur de charge de travail .
+Ces paramètres peuvent être activés ou désactivés à l’aide de l’icône Paramètres de l’équilibreur de charge.
 
-![Icône Paramètres de l’équilibreur de charge de travail](assets/STC_01.png)
+![Icône des paramètres de l’équilibreur de charge de travail](assets/STC_01.png)
 
 ## Inclure les heures des événements
 
-Par défaut, l’équilibreur de charge de travail affiche uniquement les tâches. Cependant, les utilisateurs peuvent être affectés à des demandes et des problèmes qui doivent être remplis ou résolus et qui gagnent du temps qu’ils peuvent consacrer au travail du projet.
+Par défaut, l’équilibreur de charge de travail affiche uniquement les tâches. Cependant, les utilisateurs et les utilisatrices peuvent être affectés à des demandes et à des problèmes qui doivent être satisfaits ou résolus et qui mobilisent leur temps de travail sur le projet.
 
-Pour mieux comprendre la charge de travail totale d’un utilisateur, Workfront recommande que les problèmes soient inclus dans la liste des tâches utilisateur attribuées.
+Pour mieux comprendre la charge de travail complète d’un utilisateur ou d’une utilisatrice, Workfront recommande d’inclure les problèmes dans la liste des tâches affectées à l’utilisateur ou à l’utilisatrice.
 
-Il vous suffit de cocher l’option Inclure les heures à partir des problèmes dans la zone Paramètres de l’équilibreur de charge de travail .
+Il suffit d’activer l’option Inclure les heures des problèmes dans la section Paramètres de l’équilibreur de charge.
 
-![inclure des heures de problèmes ;](assets/STC_02.png)
+![Inclure les heures des problèmes](assets/STC_02.png)
 
-Dans la zone de travail affectée, les problèmes apparaissent sous la forme de barres de mise en forme.
+Dans la zone Travail affecté, les problèmes apparaissent sous forme de barres marron clair.
 
-![les problèmes en surbrillance](assets/STC_03.png)
+![problèmes mis en évidence](assets/STC_03.png)
 
 ### Dates de projets
 
-Une autre option disponible via les paramètres de l’équilibreur de charge de travail consiste à afficher les charges de travail en fonction des dates prévues.
+Une autre option disponible via les paramètres de l’équilibreur de charge de travail consiste à afficher les charges de travail en fonction des dates projetées.
 
-Le paramètre par défaut affiche les tâches affectées selon les dates prévues entrées dans le projet.
+Le paramètre par défaut affiche les tâches affectées en fonction des dates planifiées saisies dans le projet.
 
-![tâche affectée avec une période](assets/STC_04.png)
+![travail affecté avec un délai imparti](assets/STC_04.png)
 
-Les dates prévues étant basées sur la progression et la fin des tâches précédentes du projet, vous pouvez obtenir une vue &quot;en temps réel&quot; du moment où une tâche va démarrer ou se terminer, ce qui est particulièrement utile lorsque vous examinez les charges de travail.
+Les dates projetées étant basées sur la progression et l’achèvement des tâches précédentes du projet, vous pouvez obtenir une vue « en temps réel » de la date de début ou de fin d’une tâche, ce qui est particulièrement utile pour gérer les charges de travail.
 
-![période en temps réel](assets/STC_05.png)
+![délai imparti en temps réel](assets/STC_05.png)
 
-Vous pouvez basculer entre l’affichage des dates planifiées et prévues avec l’option Afficher les dates prévues dans les paramètres de l’équilibreur de charge de travail.
+Vous pouvez passer de l’affichage des dates prévues à celui des dates projetées grâce à l’option Afficher les dates projetées dans les paramètres de l’équilibreur de charge de travail.
 
-![afficher les dates prévues](assets/STC_06.png)
+![afficher les dates projetées](assets/STC_06.png)
 
 ### Tâches terminées
 
-Les tâches terminées sont affichées dans l’équilibreur de charge de travail avec celles en cours ou sur le point de commencer. Pour mieux comprendre ce que d’autres utilisateurs peuvent accomplir, vous pouvez exclure les tâches terminées.
+Les tâches terminées, ainsi que celles qui sont en cours ou sur le point de commencer sont affichées dans l’équilibreur de charge de travail. Pour avoir une meilleure idée du travail supplémentaire que les utilisateurs et les utilisatrices peuvent prendre en charge, vous pouvez exclure les tâches terminées.
 
-Décochez l’option Afficher le travail terminé dans les paramètres de l’équilibreur de charge de travail.
+Désactivez l’option Afficher les tâches terminées dans les paramètres de l’équilibreur de charge de travail.
 
-![afficher le travail terminé](assets/STC_07.png)
+![afficher les tâches terminées](assets/STC_07.png)
