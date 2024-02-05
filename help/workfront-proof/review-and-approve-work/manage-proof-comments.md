@@ -1,6 +1,6 @@
 ---
-title: Gérer les commentaires de BAT
-description: Découvrez comment gérer les commentaires de BAT dans [!DNL  Workfront] en appliquant des actions de commentaire, en résolvant les commentaires et en filtrant la colonne de commentaires.
+title: Gérer les commentaires des BAT
+description: Découvrez comment gérer les commentaires des BAT dans  [!DNL  Workfront]  en appliquant des actions de commentaire, en résolvant les commentaires et en filtrant la colonne de commentaires.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,45 +11,45 @@ thumbnail: manage-proof-comments.png
 jira: KT-10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '444'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Gérer les commentaires de BAT
+# Gérer les commentaires des BAT
 
-[!DNL Workfront] vous aide à effectuer le suivi et la gestion du travail lié à chaque commentaire sur un BAT (par exemple, apporter des corrections à la ressource) avec des actions de commentaire ou en résolvant les commentaires.
+[!DNL Workfront] vous aide à effectuer le suivi et la gestion du travail lié à chaque commentaire sur une épreuve (par exemple, apporter des corrections à la ressource) avec des actions de commentaire ou en résolvant les commentaires.
 
-Les actions de BAT sont un &quot;drapeau&quot; ou un &quot;libellé&quot; sur un commentaire et sont souvent utilisées pour indiquer qu’une action a été entreprise ou doit être entreprise concernant le commentaire. Les actions peuvent être sélectionnées à partir de l’icône ou du menu Plus sur chaque commentaire.
+Les actions des épreuves représentent un « drapeau » ou une « étiquette » sur un commentaire et sont souvent utilisées pour indiquer qu’une action a été entreprise ou doit être entreprise concernant le commentaire. Les actions peuvent être sélectionnées à partir de l’icône ou du menu Plus sur chaque commentaire.
 
-![Image d’un BAT dans la visionneuse de vérification de performance avec l’icône d’indicateur mise en surbrillance sur le commentaire et les actions de BAT disponibles visibles.](assets/manage-comments-1.png)
+![Une image d’une épreuve dans la visionneuse d’épreuvage avec l’icône de drapeau mise en surbrillance sur le commentaire et les actions d’épreuves disponibles qui sont visibles.](assets/manage-comments-1.png)
 
-Par exemple, il vous incombe de décider laquelle des corrections effectuées au cours du processus de révision doit réellement être effectuée. À l’aide d’une action, vous pouvez marquer les commentaires pertinents, ce qui permet à un concepteur ou à un éditeur de connaître les révisions à effectuer. Cette personne peut alors utiliser une autre action pour indiquer que les modifications ont été apportées.
+Par exemple, il vous est demandé de choisir quelles corrections, parmi celles qui ont été apportées au cours du processus de révision, doivent être effectivement effectuées. À l’aide d’une action, vous pouvez marquer les commentaires pertinents, ce qui permet à l’équipe de conception ou de rédaction de savoir quelles révisions apporter. Cette équipe peut alors utiliser une autre action pour indiquer que les modifications ont été apportées.
 
-![Une image d’un BAT dans la visionneuse de vérification avec le [!UICONTROL À faire] action de BAT mise en évidence dans le commentaire.](assets/manage-comments-2.png)
+![Une image d’une épreuve dans la visionneuse d’épreuvage avec l’action d’épreuve [!UICONTROL À faire] mise en surbrillance dans le commentaire.](assets/manage-comments-2.png)
 
-Si les actions ne sont pas répertoriées dans vos commentaires, votre organisation ne les a pas configurées. Contactez l’administrateur de votre système de vérification si vous pensez que les actions sont des activités que votre entreprise doit utiliser.
+Si vous ne voyez pas d’actions répertoriées dans vos commentaires, cela signifie que votre organisation ne les a pas mises en place. Contactez l’administrateur ou l’administratrice de votre système d’épreuvage si vous pensez que les actions peuvent être utiles à votre entreprise.
 
-La fonction &quot;Commentaire de résolution&quot; est généralement utilisée pour indiquer qu’un commentaire a été traité d’une manière ou d’une autre : une correction a été apportée ou une question a été posée. Certains [!DNL Workfront] Les clients &quot;résolvent&quot; un commentaire lorsqu’il s’agit d’une correction qui n’a pas besoin d’être effectuée ou qu’il s’agit simplement d’un commentaire qui a été lu.
+La fonctionnalité « résoudre le commentaire » est généralement utilisée pour indiquer qu’un commentaire a été traité d’une manière ou d’une autre, qu’une correction a été réalisée ou qu’une réponse a été apportée à une question. Certaines clientes ou certains clients de [!DNL Workfront] « résolvent » un commentaire lorsqu’il s’agit d’une correction qui n’a pas besoin d’être effectuée ou simplement d’un commentaire qui a été lu.
 
-Résolvez le commentaire en cliquant sur l’icône en forme de coche. Une coche verte s’affiche alors sur le commentaire, ce qui facilite l’identification des commentaires qui ont été examinés au fur et à mesure que vous parcourez la colonne des commentaires.
+Résolvez le commentaire en cliquant sur l’icône de la coche. Une coche verte s’affiche alors sur le commentaire, ce qui facilite l’identification des commentaires qui ont été examinés à mesure que vous parcourez la colonne des commentaires.
 
-![Image d’un BAT dans la visionneuse de vérification avec l’icône de coche mise en surbrillance sur le commentaire.](assets/manage-comments-4.png)
+![Une image d’une épreuve dans la visionneuse d’épreuvage avec l’icône de coche mise en surbrillance sur le commentaire.](assets/manage-comments-4.png)
 
-Vous pouvez filtrer la colonne des commentaires selon ces deux fonctionnalités, ce qui vous permet de traiter ce que vous voyez lorsque vous travaillez avec le BAT.
+Vous pouvez filtrer la colonne des commentaires selon ces deux fonctionnalités, ce qui vous permet de traiter ce que vous voyez lorsque vous travaillez avec l’épreuve.
 
-![Une image des filtres de commentaire dans la visionneuse de vérification avec le [!UICONTROL Actions] et [!UICONTROL Général] options de filtrage mises en surbrillance.](assets/manage-comments-3.png)
+![Une image des filtres de commentaire dans la visionneuse d’épreuvage avec les options de filtrage [!UICONTROL Actions] et [!UICONTROL Général] mises en surbrillance.](assets/manage-comments-3.png)
 
-## Votre tour
+## À vous
 
 >[!IMPORTANT]
 >
->N’oubliez pas de rappeler aux collègues affectés à un workflow de BAT que vous travaillez avec des bons à tirer dans le cadre de votre formation Workfront.
+>N’oubliez pas de rappeler à vos collègues affectés à un workflow d’épreuves que vous travaillez avec des épreuves dans le cadre de votre formation Workfront.
 
 
-1. Trouvez un bon à tirer que vous avez téléchargé dans Workfront. Ouvrez la visionneuse de BAT pour examiner les commentaires qui ont été faits et répondre à un commentaire. Fermez la visionneuse de BAT lorsque vous avez terminé.
-1. Utilisez la section Mises à jour (dans le panneau Détails du document ou Résumé) pour afficher les derniers commentaires sur un BAT que vous avez téléchargé dans Workfront. Répondez à un commentaire.
+1. Trouvez une épreuve que vous avez chargée dans Workfront. Ouvrez la visionneuse d’épreuves pour consulter les commentaires qui ont été réalisés et répondre à un commentaire. Lorsque vous avez terminé, fermez la visionneuse d’épreuves.
+1. Utilisez la section Mises à jour - soit dans les détails du document, soit dans le panneau de résumé - pour afficher les derniers commentaires sur une épreuve que vous avez chargée dans Workfront. Répondez à un commentaire.
 
 
 <!--
