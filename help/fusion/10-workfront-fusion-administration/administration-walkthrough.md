@@ -1,6 +1,6 @@
 ---
 title: Présentation de l’administration
-description: Découvrez comment basculer entre différentes organisations ou équipes et ajouter des utilisateurs au système dans [!DNL Adobe Workfront Fusion].
+description: Découvrez comment passer d’une organisation ou d’une équipe à l’autre et ajouter des utilisateurs ou utilisatrices au système dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,28 +11,28 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Présentation de l’administration
 
-Découvrez comment basculer entre différentes organisations ou équipes et ajouter des utilisateurs au système.
+Découvrez comment passer d’une organisation ou d’une équipe à l’autre et ajouter des utilisateurs ou utilisatrices au système.
 
 ![Une image d’un scénario avec gestion des erreurs](assets/workfront-fusion-administration-1.png)
 
 ## Présentation de l’administration
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
 * Comment naviguer entre les organisations et les équipes
 * Comment créer des équipes
-* Comment inviter des utilisateurs à rejoindre une organisation et une équipe
+* Invitation des utilisateurs et des utilisatrices dans une organisation et une équipe
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
