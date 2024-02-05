@@ -1,6 +1,6 @@
 ---
-title: Que sont les modèles de mise en page ?
-description: Découvrez comment les modèles de mise en page sont utilisés pour personnaliser ce que les utilisateurs voient dans l’interface.
+title: Que sont les modèles de disposition ?
+description: Découvrez comment les modèles de disposition sont utilisés pour personnaliser ce que les utilisateurs et les utilisatrices voient dans l’interface.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,31 +11,31 @@ thumbnail: 10099.jpeg
 jira: KT-10099
 exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Que sont les modèles de mise en page ?
+# Que sont les modèles de disposition ?
 
-Workfront dispose de nombreux bons outils pour vous aider à faire du travail. Mais trop de bonnes choses peuvent être écrasantes.
+Workfront dispose de nombreux outils pratiques pour vous aider à travailler. Mais quand il y en a trop, cela peut nous submerger.
 
-![Menu principal et Accueil](assets/what-are-layout-templates-01.png)
+![Accueil et Menu principal](assets/what-are-layout-templates-01.png)
 
-Les modèles de mise en page permettent aux administrateurs système et aux administrateurs de groupe de personnaliser l’expérience de l’utilisateur et permettent à ces utilisateurs de se concentrer sur ce qui est important pour eux.
+Les modèles de disposition permettent aux administrateurs et administratrices système et aux administrateurs et administratrices de groupe de personnaliser l’expérience de l’utilisateur ou utilisatrice, et de leur permettre de se concentrer sur ce qui est important pour eux.
 
-![Menu principal et Accueil](assets/what-are-layout-templates-02.png)
+![Accueil et Menu principal](assets/what-are-layout-templates-02.png)
 
-Par exemple, la majorité de votre entreprise ne consigne pas de temps. Toutefois, l’équipe de conseillers effectue des factures avec les clients. Elle doit donc consigner le temps de facturation pour garantir une facturation exacte. Avec un modèle de mise en page, les feuilles de temps peuvent être masquées pour ceux qui n’en ont pas besoin et s’afficher pour ceux qui en ont besoin.
+Par exemple, la majorité des membres de votre organisation ne consigne pas son temps de travail. Cependant, l’équipe des consultantes et consultants facture les clientes et clients et doit donc consigner le temps de travail pour garantir une facturation précise. Avec un modèle de disposition, les feuilles de temps peuvent être masquées pour celles et ceux qui n’en ont pas besoin et s’afficher pour celles et ceux qui en ont besoin.
 
-![Menu principal et Accueil](assets/what-are-layout-templates-03.png)
+![Accueil et Menu principal](assets/what-are-layout-templates-03.png)
 
-![Menu principal et Accueil](assets/what-are-layout-templates-04.png)
+![Accueil et Menu principal](assets/what-are-layout-templates-04.png)
 
 
 ## Avant la création
 
-Workfront recommande de discuter avec vos utilisateurs avant de créer un modèle de mise en page. L’implication de ceux qui utiliseront le modèle de mise en page, comme les administrateurs de groupe, rendra le placement des informations et des outils adéquats devant les personnes appropriées beaucoup plus fluide.
+Workfront recommande d’en discuter avec vos utilisateurs et utilisatrices avant de créer un modèle de disposition. L’implication de celles et ceux qui utiliseront le modèle de disposition, comme les administrateurs et administratrices de groupe, rendra le placement des informations et des outils adéquats à destination des personnes appropriées beaucoup plus fluide.
 
-Et n’ayez pas peur d’apporter des modifications après la création d’un modèle. Continuez à obtenir des commentaires sur ce dont ils ont besoin, ce qu’ils veulent voir et accéder. N’oubliez pas que les modèles de mise en page ont pour but de créer une expérience simple et propre pour vos utilisateurs.
+N’hésitez pas à apporter des modifications après la création d&#39;un modèle. Continuez à obtenir des retours sur ce dont ils et elles ont besoin, ce qu’ils et elles souhaitent voir, et à quoi ils et elles souhaitent accéder. N’oubliez pas que les modèles de disposition ont pour but de créer une expérience simple et claire pour vos utilisateurs et utilisatrices.
