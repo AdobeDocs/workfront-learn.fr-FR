@@ -1,6 +1,6 @@
 ---
-title: Prise en main de la gestion d’un projet
-description: Découvrez votre rôle en tant que chef de projet et ce que vous devez observer lorsque vous surveillez le fonctionnement du projet.
+title: Commencer avec la gestion d’un projet
+description: Découvrez votre rôle en tant que chef de projet et ce que vous devez prendre en compte lorsque vous surveillez le fonctionnement du projet.
 activity: use
 feature: Work Management
 thumbnail: 335094.jpeg
@@ -12,35 +12,35 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Prise en main de la gestion d’un projet
+# Commencer avec la gestion d’un projet
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Eléments à prendre en compte lors de la surveillance du projet
-* Quel est votre rôle de chef de projet ?
+* Éléments à prendre en compte lors de la surveillance du projet
+* Quel est votre rôle en tant que chef de projet ?
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
-## Gestion d’un projet - révision
+## Gérer un projet — révision
 
-Avec chaque projet que vous gérez, vous vous calculez dans une routine de vérification des projets et de ce que vous souhaitez vérifier à chaque fois. Rester en tête de vos projets et les mener au succès, voilà ce qu&#39;est le fait d&#39;être chef de projet.
+Lors de la gestion des projets, vous vous habituerez à savoir quand vous devez les passer en revue, et à reconnaître les éléments que vous souhaitez réviser à chaque fois. Rester à jour sur vos projets et les mener à bien, voilà le rôle du chef de projet.
 
-Chaque chef de projet gère ses projets un peu différemment. Et chaque équipe, département ou organisation peut avoir des exigences et des besoins de projet différents.
+Chaque chef de projet gère ses projets de manière légèrement différente. Et chaque équipe, département ou organisation peut avoir des exigences et des besoins de projet différents.
 
-Mais quelle que soit la manière dont vous gérez un projet, vous pouvez :
+Mais quelle que soit la manière dont vous gérez un projet, vous pouvez :
 
-* Assurez-vous que le travail est terminé à temps.
+* Veiller à ce que le travail soit terminé à temps.
 * Anticiper les problèmes et les risques.
-* Communiquez avec vos parties prenantes.
-* Célébrez les victoires en chemin.
+* Communiquer avec vos parties prenantes.
+* Célébrer les victoires en chemin.
 
-En fin de compte, votre tâche principale consiste à diriger le projet vers une réalisation réussie. [!DNL Workfront] Vous pouvez vous aider à surveiller le travail effectué par le biais de la chronologie du projet ; filtres, vues et regroupements ; mises à jour ; rapports ... et plus encore.
+En fin de compte, votre tâche principale consiste à mener le projet à son terme. [!DNL Workfront] peut vous aider à surveiller le travail effectué par le biais de la chronologie du projet ; des filtres, vues et regroupements ; des mises à jour ; des rapports… et plus encore.
 
 <!---
 learn more urls
