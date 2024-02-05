@@ -1,6 +1,6 @@
 ---
 title: Présentation de l’outil de développement
-description: Découvrez comment installer et utiliser les différentes zones de la [!DNL Adobe Workfront Fusion Dev Tool] pour approfondir les astuces de conception de scénarios avancés.
+description: Découvrez comment installer et utiliser les différentes zones de l’ [!DNL Adobe Workfront Fusion Dev Tool]  pour approfondir les astuces de conception de scénarios avancés.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -31,15 +31,15 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation de l’outil de développement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation de l’outil de développement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=fr).
 
 
 ## Téléchargement de l’outil de développement
 
-L’outil de développement dispose de plusieurs fonctionnalités avancées qui vous permettent de comprendre et de résoudre les problèmes liés aux scénarios. Téléchargez le document &quot;workfront-fusion-devtool.zip&quot; qui se trouve dans le dossier Fusion Exercise Files de votre lecteur de test.
+L’outil de développement dispose d’un certain nombre de fonctions avancées qui améliorent votre capacité à comprendre et à dépanner les scénarios. Téléchargez le document « workfront-fusion-devtool.zip » qui se trouve dans le dossier Fusion Exercise Files de votre lecteur de test.
 
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
