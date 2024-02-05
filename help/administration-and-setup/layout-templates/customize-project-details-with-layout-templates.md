@@ -1,6 +1,6 @@
 ---
-title: Personnalisation des détails d’un projet à l’aide de modèles de mise en page
-description: Découvrez comment personnaliser les champs de détails du projet à l’aide d’un modèle de mise en page.
+title: Personnaliser les détails du projet avec des modèles de disposition
+description: Découvrez comment personnaliser les champs de détails du projet à l’aide d’un modèle de disposition.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,17 +12,17 @@ jira: KT-8764
 exl-id: af6ff5c1-a2c4-4440-b31d-c33726a7fee1
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personnalisation des détails d’un projet à l’aide de modèles de mise en page
+# Personnaliser les détails du projet avec des modèles de disposition
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Accédez à la zone de détails du projet.
-* Personnalisation des champs de détails du projet à l’aide d’un modèle de mise en page
+* Accéder à la zone de détails du projet
+* Personnaliser les champs de détails du projet à l’aide d’un modèle de disposition
 
 >[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on)
