@@ -1,6 +1,6 @@
 ---
 title: Présentation de l’historique d’exécution
-description: Découvrez comment passer en revue l’historique d’exécution d’un scénario pour comprendre ce qui s’est passé dans [!DNL Adobe Workfront Fusion].
+description: Découvrez comment consulter l’historique d’exécution d’un scénario pour comprendre ce qui s’est passé et à quel moment dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Présentation de l’historique d’exécution
 
-Passez en revue l’historique d’exécution pour le scénario &quot;Utilisation du puissant filtre&quot; afin de comprendre ce qui s’est passé lors des exécutions et la manière dont elles ont été structurées lors de leur exécution.
+Examinez l’historique des exécutions du scénario « Utilisation du filtre de puissance » pour comprendre ce qui s’est passé lors des exécutions et comment elles ont été structurées au moment où elles ont été exécutées.
 
-![Image de l’historique d’exécution dans un scénario de fusion](assets/execution-history-and-scheduling-1.png)
+![Image de l’historique d’exécution dans un scénario Fusion](assets/execution-history-and-scheduling-1.png)
 
 ## Présentation de l’historique d’exécution
 
@@ -31,35 +31,35 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation de l’historique d’exécution](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, consultez l’exercice [Présentation de l’historique d’exécution](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=fr).
 
-## Recherche de texte intégral dans l’onglet Historique
+## Recherche en texte intégral dans l’onglet Historique
 
-La recherche de texte intégral est disponible dans l’onglet Historique d’un scénario, ce qui vous permet de rechercher toutes les données traitées dans le scénario.
+La recherche en texte intégral est disponible dans l’onglet Historique d’un scénario, ce qui vous permet de rechercher toutes les données traitées dans le scénario.
 
-![Une image de recherche de l’historique d’exécution](assets/execution-history-and-scheduling-2.png)
+![Image de la recherche de l’historique d’exécution](assets/execution-history-and-scheduling-2.png)
 
-Au lieu d’ouvrir chaque exécution pour rechercher des données, la recherche de texte intégral recherche toutes les exécutions dans un seul scénario. Les résultats de recherche fournissent une liste des exécutions où les données ont été trouvées. Vous pouvez cliquer sur n’importe quelle exécution pour explorer plus en détail.
+Au lieu d’ouvrir chaque exécution pour rechercher des données, la recherche en texte intégral porte sur toutes les exécutions au sein d’un même scénario. Les résultats de la recherche fournissent une liste d’exécutions où les données ont été trouvées. Vous pouvez cliquer sur n’importe quelle exécution pour obtenir plus de détails.
 
 ![Image d’une recherche d’historique d’exécution](assets/execution-history-and-scheduling-3.png)
 
 Les résultats de la recherche contiennent quelques icônes utiles dans l’image ci-dessous.
 
-A : état de l’exécution.
+A - Le statut de l’exécution.
 
-B : indique si les données se trouvaient dans l’entrée ou la sortie du module dans lequel elles ont été trouvées.
+B - Indique si les données se trouvaient dans l’entrée ou la sortie du module dans lequel elles ont été trouvées.
 
-C : ID d’exécution.
+C - L’identifiant d’exécution.
 
-D : Copiez l’ID d’exécution.
+D - Copier l’identifiant d’exécution.
 
-![Image des résultats de recherche d’un historique d’exécution](assets/execution-history-and-scheduling-4.png)
+![Image des résultats de la recherche d’un historique d’exécution](assets/execution-history-and-scheduling-4.png)
 
-Lorsque vous cliquez sur une exécution, Workfront Fusion charge l’exécution et le module dans lequel le résultat de la recherche a été trouvé. Et il ouvre l’Inspecteur d’exécution sur le module qui contient les données de recherche.
+Lorsque vous cliquez sur une exécution, Workfront Fusion charge l’exécution et le module dans lequel le résultat de la recherche a été trouvé. Il ouvre également l’inspecteur d’exécution sur le module qui contient les données de recherche.
 
-![Une image des liens d&#39;historique d&#39;exécution](assets/execution-history-and-scheduling-5.png)
+![Image des liens de l’historique d’exécution](assets/execution-history-and-scheduling-5.png)
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
