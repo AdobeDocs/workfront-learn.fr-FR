@@ -1,6 +1,6 @@
 ---
-title: Comment créer un plan dans [!DNL Scenario Planner]
-description: Découvrez comment créer un plan dans le [!DNL Scenario Planner].
+title: Création d’un plan dans  [!DNL Scenario Planner]
+description: Découvrez comment créer un plan dans le  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,24 +12,24 @@ jira: KT-9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Créez des plans dans le [!DNL Scenario Planner]
+# Créer des plans dans le [!DNL Scenario Planner]
 
 Dans cette vidéo, vous apprendrez à créer un plan dans le [!DNL Scenario Planner].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
 
-## Estimation des informations sur les rôles de tâche pour un plan
+## Estimer des informations sur les fonctions pour un plan
 
-Lors de la création d’un plan, vous pouvez déterminer si l’effort de rôle de l’emploi doit être estimé en ETP ou en heures. La valeur par défaut du système est l’éditeur de texte enrichi, mais elle peut être permutée lors de la création d’un plan.
+Lors de la création d’un plan, vous pouvez déterminer si l’effort de la fonction doit être estimé en ETP ou en heures. La valeur par défaut du système est ETP, mais elle peut être permutée lors de la création d’un plan.
 
-![Sélectionner [!UICONTROL FTE] ou [!UICONTROL Heures] dans le [!UICONTROL Nouveau plan] window](assets/scenario-planner-1.png)
+![Sélectionner [!UICONTROL ETP] ou [!UICONTROL Heures] dans la fenêtre [!UICONTROL Nouveau plan]](assets/scenario-planner-1.png).
 
-Une fois le plan créé, tous les nombres ajoutés pour les rôles d’emploi dans le plan, les scénarios du plan et toutes les initiatives sont saisis et affichés au format sélectionné. Ce format s’affiche en haut des colonnes nécessitant des informations sur les rôles de tâche.
+Une fois le plan créé, tous les chiffres ajoutés pour les fonctions dans le plan, les scénarios du plan et toutes les initiatives sont saisis et affichés dans le format sélectionné. Ce format s’affiche en haut des colonnes nécessitant des informations sur les fonctions.
 
-![Afficher les informations dans [!UICONTROL FTE] ou [!UICONTROL Heures] dans le [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![Afficher les informations dans [!UICONTROL ETP] ou [!UICONTROL Heures] dans le [!DNL Scenario Planner]](assets/scenario-planner-2.png).
