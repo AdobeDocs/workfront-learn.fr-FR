@@ -1,55 +1,55 @@
 ---
 title: Bonne pratique - Explorateur d’API
-description: Examinez les recommandations relatives aux bonnes pratiques des experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation de l’explorateur d’API Workfront.
+description: Découvrez les bonnes pratiques recommandées par les expertes et experts d’Adobe Workfront en matière de configuration, de gestion et d’utilisation de l’explorateur d’API de Workfront.
 feature: Workfront API
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10902
 exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Bonne pratique - Explorateur d’API
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les meilleures pratiques sont des lignes directrices qui représentent un plan d&#39;action efficace et efficace; sont facilement adoptés par vous et les utilisateurs de votre entreprise ; et peut être répliqué avec succès dans l’ensemble de votre organisation.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
+La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
-## Bonnes pratiques relatives à l’API Explorer
+## Bonnes pratiques de l’explorateur d’API
 
-* Définissez une convention d’affectation des noms pour les champs personnalisés utilisés avec les intégrations de systèmes tiers.
+* Établissez une convention de nommage pour les champs personnalisés utilisés avec des intégrations de systèmes tiers.
 
 * Suivez tous les champs personnalisés utilisés dans les intégrations à l’aide d’un projet Workfront.
 
-* Ajoutez le champ Identifiant d’objet aux rapports utilisés par l’administrateur système.
+* Ajoutez le champ ID de l’objet aux rapports utilisés par l’administrateur ou l’administratrice système.
 
 </br>
 </br>
 
-## Pourquoi ces bonnes pratiques ?
+## Pourquoi s’agit-il des bonnes pratiques ?
 
-**Bonne pratique**
+**Bonnes pratiques**
 
-Définissez une convention d’affectation des noms pour les champs personnalisés utilisés avec les intégrations de systèmes tiers.
+Établissez une convention de nommage pour les champs personnalisés utilisés avec des intégrations de systèmes tiers.
 
 **Voici pourquoi**
 
-Assurez-vous que tous les utilisateurs qui créent des formulaires personnalisés connaissent la convention d’affectation des noms afin qu’ils n’utilisent pas accidentellement un champ réservé à une intégration. En fonction de vos intégrations et workflows, l’utilisation d’un même champ de plusieurs manières peut entraîner la modification ou le remplacement des données et générer des données incorrectes dans les rapports.
+Assurez-vous que toutes les personnes qui créent des formulaires personnalisés connaissent la convention de nommage, afin qu’elles n’utilisent pas accidentellement un champ réservé à une intégration. En fonction de vos intégrations et workflows, l’utilisation d’un même champ de plusieurs manières peut entraîner la modification ou le remplacement des données et générer des données incorrectes dans les rapports.
 
 </br>
 </br>
@@ -61,7 +61,7 @@ Suivez tous les champs personnalisés utilisés dans les intégrations à l’ai
 
 **Voici pourquoi**
 
-Un projet crée l’emplacement idéal pour consigner les noms de champ personnalisés, l’intégration avec laquelle ils sont utilisés, etc. Vous éviterez ainsi de créer des champs personnalisés redondants ou d’utiliser le même champ personnalisé avec plusieurs intégrations.
+Un projet est l’endroit idéal pour enregistrer les noms des champs personnalisés, l’intégration avec laquelle ils sont utilisés, etc. Vous éviterez ainsi de créer des champs personnalisés redondants ou d’utiliser le même champ personnalisé avec plusieurs intégrations.
 
 </br>
 </br>
@@ -69,8 +69,8 @@ Un projet crée l’emplacement idéal pour consigner les noms de champ personna
 
 **Bonne pratique**
 
-Ajoutez le champ Identifiant d’objet aux rapports utilisés par l’administrateur système.
+Ajoutez le champ ID de l’objet aux rapports utilisés par l’administrateur ou l’administratrice système.
 
 **Voici pourquoi**
 
-Les administrateurs système doivent souvent se référer aux objets dans Workfront par leur numéro d’ID lors de l’utilisation d’API ou d’autres intégrations. Incluez le champ Identifiant dans les vues des objets sur lesquels vous travaillez (projets, tâches, problèmes, modèles, formulaires personnalisés, etc.) pour faciliter l’accès et la copie.
+Les administrateurs et administratrices système ont souvent besoin de se référer aux objets de Workfront par leur numéro d’identification lorsqu’ils utilisent des API ou d’autres intégrations. Incluez le champ ID dans les vues des objets sur lesquels vous travaillez (projets, tâches, problèmes, modèles, formulaires personnalisés, etc.) afin d’en faciliter l’accès et la copie.
