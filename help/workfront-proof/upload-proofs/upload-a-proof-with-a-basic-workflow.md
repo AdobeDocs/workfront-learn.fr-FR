@@ -1,6 +1,6 @@
 ---
-title: Chargement d’un BAT avec un workflow de base
-description: Découvrez comment charger des fichiers en tant que BAT, ajouter un workflow de vérification de base pour la révision et l’approbation des parties prenantes et définir des échéances pour la révision de la vérification de la vérification dans [!DNL Workfront].
+title: Charger un BAT avec un workflow de base
+description: Découvrez comment charger des fichiers en tant que BAT, ajouter un workflow de BAT de base pour la révision et l’approbation des parties prenantes et définir des échéances pour la relecture des BAT dans  [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,33 +12,33 @@ jira: KT-8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Chargement d’un BAT avec un workflow de base
+# Charger un BAT avec un workflow de base
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Chargement d’un fichier dans [!DNL Workfront] cela génère donc un bon à tirer
-* Ajout d’un workflow de vérification de base afin que les parties prenantes puissent examiner et approuver la ressource
-* Définir une date limite pour la révision de la vérification
+* Charger un fichier dans [!DNL Workfront] pour générer un BAT
+* Ajouter un workflow de BAT de base afin que les parties prenantes puissent examiner et approuver la ressource
+* Définir une date limite pour la révision des BAT
 
 >[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12&learn=on)
 
-## Votre tour
+## À vous
 
 >[!IMPORTANT]
 >
->N’oubliez pas de rappeler à vos collègues que vous leur envoyez un bon à tirer dans le cadre de votre formation Workfront.
+>Penser à rappeler à vos collaborateurs et collaboratrices que vous leur envoyez un BAT dans le cadre de votre formation Workfront.
 
 
-1. Recherchez plusieurs fichiers sur votre ordinateur ou sur un serveur que vous pouvez télécharger. Il peut s’agir de documents texte, d’images, de feuilles de calcul, etc.
-1. Chargez deux fichiers dans votre projet ou tâche d’entraînement, à l’aide d’un workflow de base. Attribuez à votre collègue le soin d’examiner et d’approuver les bons à tirer, dans un délai de 14 heures demain.
-1. Si vous avez 3 bons à tirer à charger et qu’ils ont tous besoin d’échéances différentes, pouvez-vous tous les télécharger en même temps ? Pourquoi ou pourquoi pas ?
-1. Quel rôle de BAT jouerez-vous dans les processus de révision et d’approbation de votre équipe ?
+1. Trouvez plusieurs fichiers sur votre ordinateur ou sur un serveur que vous pouvez charger. Il peut s’agir de fichiers texte, d’images, de feuilles de calcul, etc.
+1. Chargez deux fichiers dans votre projet ou tâche d’entraînement, à l’aide d’un workflow de base. Attribuez à une personne travaillant avec vous le soin d’examiner et d’approuver les BAT, avec une date limite établie à 14 heures demain.
+1. Si vous avez trois BAT à charger et qu’ils doivent tous respecter des dates limites différentes, pouvez-vous les charger tous en même temps ? Pourquoi ou pourquoi pas ?
+1. Quel rôle de BAT jouerez-vous dans les processus de révision et d’approbation de votre équipe ?
 
 <!--
 ## Learn more
