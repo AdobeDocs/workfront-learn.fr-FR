@@ -1,6 +1,6 @@
 ---
-title: Attribution et gestion de l’accès aux modèles de mise en page
-description: Découvrez comment attribuer des modèles de mise en page aux utilisateurs et contrôler qui peut gérer les accès.
+title: Affecter et gérer l’accès aux modèles de disposition
+description: Découvrez comment attribuer des modèles de disposition aux utilisateurs et utilisatrices et à contrôler les personnes pouvant gérer l’accès.
 feature: System Setup and Administration
 level: Intermediate
 activity: deploy
@@ -12,18 +12,18 @@ jira: KT-8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Attribuer et gérer l’accès aux modèles de mise en page
+# Affecter et gérer l’accès aux modèles de disposition
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Accès aux affectations
-* Affectation de modèles de mise en page à des utilisateurs, à des groupes ou à des équipes
-* Contrôler qui peut gérer l’accès au modèle de mise en page
+* Naviguer vers les affectations
+* Affecter des modèles de disposition à des utilisateurs ou utilisatrices, des groupes ou des équipes
+* Contrôler les personnes pouvant gérer l’accès aux modèles de disposition
 
 >[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on)
