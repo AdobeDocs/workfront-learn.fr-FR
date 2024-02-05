@@ -1,6 +1,6 @@
 ---
-title: Envoi et partage de rapports
-description: Découvrez comment envoyer des rapports aux utilisateurs, aux équipes ou à toute adresse électronique, et comment partager des rapports avec n’importe qui dans Workfront.
+title: Envoyer et partager des rapports
+description: Découvrez comment envoyer des rapports aux utilisateurs, aux utilisatrices, aux équipes ou à toute adresse e-mail, et comment partager des rapports avec n’importe qui dans Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,44 +12,44 @@ jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Envoi et partage de rapports
+# Envoyer et partager des rapports
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment envoyer des rapports aux utilisateurs, aux équipes ou à toute adresse électronique ?
-* Comment partager des rapports avec n’importe qui
-* Ce que les destinataires peuvent voir et faire avec un rapport Workfront
+* Envoyer des rapports aux utilisateurs, aux utilisatrices, aux équipes ou à toute adresse e-mail
+* Partager des rapports avec n’importe qui
+* Ce que les destinataires peuvenconsulter et faire avec un rapport Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Activité : Envoi d’un rapport
+## Activité : envoyer un rapport
 
-Envoyez-vous un rapport chaque lundi à 5h00 sous forme de feuille de calcul Excel. Il s’agit d’un excellent moyen de collecter automatiquement les rapports hebdomadaires que vous pourrez ensuite utiliser pour afficher les tendances.
+Envoyez-vous un rapport tous les lundis à 5 heures du matin dans une feuille de calcul Excel. Il s’agit d’un excellent moyen de collecter automatiquement les rapports hebdomadaires que vous pourrez ensuite utiliser pour déterminer les tendances.
 
 ## Réponse
 
-![Image de l’écran de configuration des diffusions de rapports répétitives](assets/send-a-report.png)
+![Image de l’écran permettant de configurer des diffusions répétées de rapports](assets/send-a-report.png)
 
-1. Affichez le rapport que vous avez créé, puis choisissez **[!UICONTROL Envoyer le rapport]** de la **[!UICONTROL Actions de rapport]** .
-1. Cliquez sur le bouton **[!UICONTROL Diffusions répétées]** .
-1. Placez votre adresse électronique dans la variable **[!UICONTROL Envoyer à]** champ .
-1. Indiquez un objet de courrier électronique.
+1. Affichez le rapport que vous avez créé, puis choisissez **[!UICONTROL Envoyer le rapport]** dans le menu **[!UICONTROL Actions de rapport]**.
+1. Cliquez sur l’onglet **[!UICONTROL Diffusions répétées]**.
+1. Saisissez votre adresse e-mail dans le champ **[!UICONTROL Envoyer à]**.
+1. Indiquez l’objet de l’e-mail.
 1. Remplacez le format par Excel.
-1. Définir **[!UICONTROL Répéter]** to [!UICONTROL Hebdomadaire].
-1. Définissez la variable [!UICONTROL Heure] à 5 heures du matin.
-1. Définir [!UICONTROL Répète activé] à lundi.
+1. Définissez **[!UICONTROL Répéter]** sur [!UICONTROL Hebdomadaire].
+1. Définissez [!UICONTROL Heure] sur 5 heures du matin.
+1. Définissez [!UICONTROL Répéter le] sur lundi.
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 >[!NOTE]
 >
->Remarquez votre nouvelle diffusion récurrente dans le [!UICONTROL Diffusions répétées] sur la droite. Vous pouvez configurer plusieurs diffusions pour un rapport ; elles s’affichent toutes ici.
+>Vous verrez votre nouvelle diffusion répétée dans le panneau [!UICONTROL Diffusions répétées] à droite. Vous pouvez configurer plusieurs diffusions pour un rapport. Toutes les diffusions s’affichent ici.
 
-**DELETE A DELIVERY**
+**SUPPRIMER UNE DIFFUSION**
 
-Sélectionnez la diffusion que vous venez de créer et cliquez sur Supprimer (en regard de l’option **[!UICONTROL Enregistrer]** ).
+Sélectionnez la diffusion que vous venez de créer et cliquez sur Supprimer (en regard de l’option **[!UICONTROL Enregistrer]**).
