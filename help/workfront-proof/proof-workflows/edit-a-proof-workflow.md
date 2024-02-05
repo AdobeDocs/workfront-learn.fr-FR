@@ -1,6 +1,6 @@
 ---
-title: Modification d’un workflow de BAT
-description: Découvrez comment mettre à jour une date limite de BAT, ajouter des utilisateurs à un workflow existant et basculer un workflow existant vers un workflow automatisé dans [!DNL  Workfront].
+title: Modifier le workflow d’un BAT
+description: Découvrez comment mettre à jour une date d’échéance pour la relecture, ajouter des utilisateurs et utilisatrices à un workflow existant et transformer un workflow existant en un workflow automatisé dans  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,30 +12,30 @@ jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Modification d’un workflow de BAT
+# Modifier le workflow d’un BAT
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Mettre à jour la date limite du BAT
-* Ajouter des utilisateurs à un workflow existant
-* Changement d’un workflow existant en workflow automatisé
+* Mettre à jour la date d’échéance pour la relecture
+* Ajouter des utilisateurs et utilisatrices à un workflow existant
+* Transformer un workflow existant en un workflow automatisé
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
-## Votre tour
+## À vous
 
 >[!IMPORTANT]
 >
->N’oubliez pas de rappeler aux collègues affectés à un workflow de BAT que vous travaillez avec des bons à tirer dans le cadre de votre formation Workfront.
+>N’oubliez pas de rappeler à vos collègues affectés à un workflow d’épreuves que vous travaillez avec des épreuves dans le cadre de votre formation Workfront.
 
-1. Recherchez un bon à tirer que vous avez téléchargé vers Workfront. Utilisez la fenêtre Workflow de vérification pour effectuer les opérations suivantes : repousser l’échéance d’un jour et remplacer un réviseur par un réviseur et un approbateur.
-1. Assurez-vous qu’un workflow automatisé est affecté au BAT, puis ajoutez un modèle au BAT.
+1. Trouvez une épreuve que vous avez chargée sur Workfront. Utilisez la fenêtre Workflow de relecture pour effectuer les opérations suivantes : repousser la date limite d’un jour et transformer un réviseur ou une réviseuse en réviseur/réviseuse et approbateur/approbatrice.
+1. Assurez-vous qu’un workflow automatisé est affecté à l’épreuve, puis ajoutez un modèle à l’épreuve.
 
 
 
