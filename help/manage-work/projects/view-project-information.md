@@ -1,6 +1,6 @@
 ---
-title: Affichage des informations sur le projet
-description: Découvrez comment les filtres, les vues et les groupes peuvent rendre les informations du projet facilement visibles pour vous aider à gérer les projets.
+title: Afficher les informations sur le projet
+description: Découvrez comment les filtres, les vues et les regroupements peuvent rendre les informations du projet facilement visibles pour vous aider à gérer les projets.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,32 +11,32 @@ level: Beginner
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '205'
+ht-degree: 100%
 
 ---
 
-# Affichage des informations sur le projet
+# Afficher les informations sur le projet
 
-Si vous regardez la principale [!UICONTROL Projets] ou dans un projet individuel, affinez votre liste pour afficher les informations dont vous avez besoin avec [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Groupements].
+Que vous regardiez la page principale [!UICONTROL Projets] ou un projet individuel, affinez votre liste pour voir les informations dont vous avez besoin avec [!UICONTROL Filtres], [!UICONTROL Vues] et [!UICONTROL Regroupements].
 
-Découvrez de manière approfondie l’avancement de tous vos projets sur la variable [!UICONTROL Projets] page.
+Vous pouvez obtenir une vue d’ensemble de l’avancement de tous vos projets sur la page [!UICONTROL Projets].
 
-![Page de projet avec des filtres affichant](assets/planner-fund-project-page-fvg-copy.png)
+![Page du projet avec affichage des filtres](assets/planner-fund-project-page-fvg-copy.png)
 
-Utilisez la variable [!UICONTROL Filtres] pour réduire la liste en fonction de certains critères. Sélectionnez ensuite un [!UICONTROL Affichage] pour afficher les colonnes d’informations pertinentes pour vos projets. Enfin, sélectionnez une [!UICONTROL Regroupement] pour organiser les projets de manière à vous donner un sens.
+Utilisez les [!UICONTROL filtres] pour réduire la liste en fonction de certains critères. Sélectionnez ensuite une [!UICONTROL Vue] pour afficher les colonnes d’informations pertinentes pour vos projets. Enfin, sélectionnez un [!UICONTROL regroupement] pour organiser les projets de la manière qui vous convient le mieux.
 
-Lorsque vous êtes sur le [!UICONTROL Tâche] d’un projet, utilisez [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Groupements] pour vous aider à surveiller le travail en cours. Parce que vous regardez les tâches plutôt que les projets, vous avez tout un ensemble de choix différents.
+Lorsque vous êtes dans la section [!UICONTROL Tâches] d’un projet, utilisez à nouveau [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Regroupements] pour vous aider à contrôler le travail effectué. Le fait de considérer des tâches plutôt que des projets vous offre un éventail de choix totalement différent.
 
 ![Liste des tâches du projet avec des vues](assets/planner-fund-task-list-fvg.png)
 
-Beaucoup [!DNL Workfront] les clients créent des vues personnalisées qui exposent des informations de formulaire personnalisées et d’autres champs pertinents pour le travail en cours.
+Un grand nombre de clientes et clients de [!DNL Workfront] créent des vues personnalisées qui exposent les informations des formulaires personnalisés et d’autres champs pertinents pour le travail effectué.
 
-## Découvrez comment créer des filtres, des vues et des regroupements personnalisés
+## Découvez comment créer des filtres, des vues et des regroupements personnalisés
 
-[Créer un filtre de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+[Créer un filtre de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=fr)
 
-[Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+[Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr)
 
-[Créer un groupement de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+[Créer un regroupement de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=fr)
