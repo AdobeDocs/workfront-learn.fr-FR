@@ -1,6 +1,6 @@
 ---
-title: Création de directives sur les marques dans Brand Connect
-description: Découvrez les directives sur la marque et comment créer une page de directives sur la marque dans Brand Connect pour [!UICONTROL Gestion des actifs numériques Workfront].
+title: Créer des directives de marque dans Brand Connect
+description: Découvrez les directives de marque et comment créer une page de directives de marque dans Brand Connect pour [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8982
 exl-id: 717952e8-e633-4d65-b76a-9afb29159f5a
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création de directives sur la marque dans [!UICONTROL Brand Connect]
+# Créer des directives de marque dans [!UICONTROL Brand Connect]
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Quelles sont les directives relatives aux marques ?
-* Comment créer une page de directives sur la marque dans [!UICONTROL Brand Connect]
+* Que sont les directives de marque ?
+* Comment créer une page de directives de marque dans [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on)
