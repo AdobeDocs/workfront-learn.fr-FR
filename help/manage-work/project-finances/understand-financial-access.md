@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’accès financier
-description: Découvrez comment les droits d’accès financiers permettent aux administrateurs de contrôler qui peut afficher et modifier les informations financières suivies dans Workfront.
+title: Comprendre l’accès financier
+description: Découvrez comment les droits d’accès financier permettent aux équipes d’administration de contrôler qui peut afficher et modifier les informations financières suivies dans Workfront.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,72 +11,72 @@ level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Présentation de l’accès financier
+# Comprendre l’accès financier
 
-Si votre entreprise capture des données financières avec [!DNL Workfront], en tant qu’administrateur système, il vous incombe de protéger et de gérer les personnes ayant accès à l’affichage et à la modification de ces informations.
+Si votre entreprise capture des données financières avec [!DNL Workfront], en tant qu’administrateur ou administratrice système, il vous incombe de protéger et de gérer les personnes ayant accès à la consultation et à la modification de ces informations.
 
-Deux éléments sont nécessaires pour qu’un utilisateur puisse afficher ou modifier des informations financières :
+Deux éléments sont nécessaires pour qu’un utilisateur ou une utilisatrice puisse afficher ou modifier des informations financières :
 
-1. Les droits d’accès doivent être activés dans la variable [!UICONTROL Niveau d’accès].
-2. La permission d&#39;utiliser ces droits d&#39;accès doit être accordée objet par objet.
+1. Les droits d’accès doivent être activés dans le [!UICONTROL Niveau d’accès].
+2. L’autorisation d’utiliser ces droits d’accès doit être accordée objet par objet.
 
-Par exemple, un utilisateur peut se voir accorder des droits pour afficher les données financières à son niveau d’accès, mais il peut uniquement afficher les données financières sur une tâche qui est à la fois partagée avec lui et l’affichage financier est activé dans le partage de cette tâche.
+Par exemple, un utilisateur ou une utilisatrice peut se voir accorder des droits pour afficher les données financières à son niveau d’accès, mais peut uniquement afficher les données financières sur une tâche qui est à la fois partagée avec lui ou elle et pour laquelle l’affichage financier est activé dans le partage de cette tâche.
 
-Il est donc possible pour un utilisateur avec [!UICONTROL Niveau d’accès] droits d’affichage des données financières pour pouvoir afficher les données financières sur certains objets et non sur d’autres, selon les options de partage individuelles de ces objets. Cependant, aucun utilisateur ne peut consulter les données financières sur un objet à moins que le droit leur soit accordé dans son [!UICONTROL Niveau d’accès].
+Il est donc possible qu’un utilisateur ou une utilisatrice ayant des droits, à son [!UICONTROL niveau d’accès], pour afficher les données financières puisse consulter les données financières de certains objets et pas d’autres, en fonction des options de partage individuelles de ces objets. Cependant, personne ne peut afficher les données financières d’un objet à moins d’avoir reçu le droit de le faire dans son [!UICONTROL niveau d’accès].
 
-## [!UICONTROL Niveau d’accès] paramètres
+## Paramètres du [!UICONTROL niveau d’accès]
 
-L&#39;accès global aux données financières est accordé en premier lieu par [!DNL Workfront] type de licence.
+L’accès global aux données financières est accordé en premier lieu en fonction du type de licence [!DNL Workfront].
 
-**[!UICONTROL Plan] Les licences peuvent :**
+**[!UICONTROL Planifier] les licences peut permettre de :**
 
-* Gestion des enregistrements de facturation
-* Gérer et afficher la facturation des rôles et les taux de coûts
-* Gérer et afficher la facturation et les coûts des utilisateurs
+* Gérer des enregistrements de facturation
+* Gérer et afficher les taux de facturation et de coûts du rôle
+* Gérer et afficher les taux de facturation et de coûts des utilisateurs et utilisatrices
 * Gérer les dépenses
 * Afficher et modifier les finances
 
-**[!UICONTROL Travail] Les licences peuvent :**
+Les licences de **[!UICONTROL travail] permettent les opérations suivantes :**
 
 * Gérer les dépenses
 * Afficher les finances
 
-**[!UICONTROL Réviser] Les licences peuvent :**
+Les licences de **[!UICONTROL révision] permettent de :**
 
 * Afficher les finances
 
-**Les autorisations peuvent être modifiées par la variable [!UICONTROL Niveau d’accès]. Les trois options d&#39;accès aux données financières sont les suivantes :**
+**Les autorisations peuvent être modifiées par le [!UICONTROL niveau d’accès]. Les trois options d’accès aux données financières sont les suivantes :**
 
-* [!UICONTROL Accès interdit] — L’utilisateur ne pourra pas consulter les informations financières.
-* [!UICONTROL Affichage] — L’utilisateur peut consulter et partager les informations.
-* [!UICONTROL Modifier] — L’utilisateur peut créer, modifier, supprimer et partager les informations. (Disponible uniquement pour une licence Plan.)
+* [!UICONTROL Pas d’accès] - La personne ne peut pas consulter les informations financières.
+* [!UICONTROL Afficher] - La personne peut consulter et partager les informations.
+* [!UICONTROL Modifier] - La personne peut créer, modifier, supprimer et partager les informations. (Disponible uniquement pour une licence Plan.)
 
-![Image présentant les options générales de données financières au niveau de l’accès](assets/setting-up-finances-8.png)
+![Une image présentant les options générales de données financières dans un niveau d’accès](assets/setting-up-finances-8.png)
 
-Il est important de noter que la variable [!UICONTROL Affichage] et [!UICONTROL Modifier] Les options comportent des paramètres supplémentaires pour un [!UICONTROL Plan] licence. Cliquez sur l’engrenage sur la [!UICONTROL Affichage] pour ces options :
+Il est important de noter que les options [!UICONTROL Afficher] et [!UICONTROL Modifier] comportent des paramètres supplémentaires pour une licence [!UICONTROL Plan]. Cliquez sur l’engrenage du bouton [!UICONTROL Afficher] pour ces options :
 
 **[!UICONTROL Afficher]**
 
 * Afficher les taux de facturation et de coûts du rôle
 * Afficher les taux de facturation et de coûts de l&#39;utilisateur
 
-![Image présentant les options de vue Données financières au niveau de l’accès](assets/setting-up-finances-9.png)
+![Une image présentant les options d’affichage des données financières dans un niveau d’accès](assets/setting-up-finances-9.png)
 
 **[!UICONTROL Modifier]**
 
-Ces deux options sont disponibles sous la variable [!UICONTROL Modifier] , ainsi que :
+Ces deux options sont disponibles sous [!UICONTROL Modifier], ainsi que :
 
 * Modifier les taux de facturation et de coûts du rôle
 * Modifier les taux de facturation et de coûts de l&#39;utilisateur
 
-![Image présentant les options de modification des données financières au niveau de l’accès](assets/setting-up-finances-10.png)
+![Une image présentant les options de modification des données financières dans un niveau d’accès](assets/setting-up-finances-10.png)
 
 >[!NOTE]
 >
->Un utilisateur ayant accès à l&#39;ajout de dépenses peut également visualiser les dépenses qu&#39;il ajoute, ainsi que les dépenses ajoutées au moyen de ses rapports directs.
+>Une personne ayant un accès permettant d’ajouter des dépenses peut également afficher les dépenses qu’elle ajoute, ainsi que les dépenses ajoutées par ses subordonnés directs.
