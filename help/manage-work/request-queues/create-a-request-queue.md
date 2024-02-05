@@ -1,6 +1,6 @@
 ---
-title: Création d’une file d’attente de requêtes
-description: Découvrez comment configurer une file d’attente de demandes et établir les détails de la file d’attente dans [!DNL  Workfront]. Suivez ces étapes pour aider votre entreprise à gérer la prise de travail.
+title: Créer une file d’attente de demandes
+description: Découvrez comment configurer une file d’attente des demandes et établir les détails de la file d’attente dans  [!DNL  Workfront]. Suivez ces étapes pour aider votre entreprise à gérer la réception du travail.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -12,32 +12,32 @@ jira: KT-8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création d’une file d’attente de requêtes
+# Créer une file d’attente de demandes
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Création d’une file d’attente de demandes en créant d’abord un projet
-* Configuration des détails de la file d’attente des demandes
-* Mettre la file d’attente en ligne
+* Créer une file d’attente des demandes en créant d’abord un projet
+* Configurer les détails de la file d’attente des demandes
+* Activer la file d’attente
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## Votre tour
+## À vous
 
-Prenons une minute pour passer en revue les informations que vous venez de présenter.
+Prenez quelques instants pour passer en revue les informations qui vous ont été présentées.
 
-**Question :** Parmi les éléments suivants, lequel doit être en place pour qu’une file d’attente de requête soit activée ? (sélectionnez toutes les options applicables)
+**Question :** lequel des éléments suivants doit être en place pour qu’une file d’attente des demandes puisse être activée ? (Sélectionnez toutes les options applicables.)
 
-1. État du projet = Actuel
-1. &quot;Problème&quot; du type de requête est sélectionné
-1. L’option &quot;Publier en tant que file d’attente de demande d’aide&quot; est sélectionnée.
-1. État du projet = actuel ou planification
+1. Statut du projet = Actif
+1. Le « Problème » du type de requête est sélectionné.
+1. L’option « Publier en tant que file d’attente des demandes d’aide » est sélectionnée.
+1. Statut du projet = actif ou planification
 
-**Réponse :** 1) État du projet = Actuel et 3) &quot;Publier en tant que file d’attente de demande d’aide&quot; est sélectionné
+**Réponse :** 1) Statut du projet = Actif et 3) « Publier en tant que file d’attente des demandes d’aide » est sélectionné.
 
