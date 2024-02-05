@@ -1,6 +1,6 @@
 ---
-title: Création d’un chemin de jalon et d’étapes de jalon
-description: Découvrez les chemins de jalon, comment créer des chemins de jalon et comment ajouter des étapes de jalon.
+title: Créer un chemin jalonné et des étapes de jalon
+description: Découvrez les chemins jalonnés, comment les créer et comment ajouter des étapes de jalon.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,22 +11,22 @@ level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création d’un chemin de jalon et d’étapes de jalon
+# Créer un chemin jalonné et des étapes de jalon
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Quels sont les chemins de jalon ?
-* Création des chemins de jalon
-* Comment ajouter des étapes de jalon à un chemin de jalon
+* Utilité des chemins jalonnés
+* Création des chemins jalonnés
+* Ajout des étapes de jalon à un chemin jalonné
 
 >[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Les administrateurs système peuvent donner aux utilisateurs de la licence Plan l’accès pour créer leurs propres chemins de jalon.
+>Les administrateurs et administratrices système peuvent donner aux utilisateurs et utilisatrices de la licence Plan l’accès pour créer leurs propres chemins jalonnés.
