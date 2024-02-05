@@ -1,6 +1,6 @@
 ---
-title: Présentation des états de problème par défaut
-description: Découvrez les statues de problème par défaut et pourquoi vous souhaitez peut-être les personnaliser pour qu’elles correspondent au workflow de votre entreprise.
+title: Présentation des statuts des problèmes par défaut
+description: Découvrez les statuts de problème par défaut et pourquoi vous souhaitez peut-être les personnaliser pour qu’ils correspondent au workflow de votre entreprise.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,15 +10,15 @@ level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '186'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# Présentation des états des problèmes par défaut
+# Présentation des statuts des problèmes par défaut
 
-Chaque type de problème suivant différents types d’informations, chaque type peut nécessiter des workflows uniques pour qu’ils soient résolus. Personnalisez les états de chaque type de problème pour qu’ils correspondent au workflow de ce type de problème.
+Étant donné que chaque type de problème suit différents types d’informations, chaque type peut nécessiter des workflows uniques afin d’être résolu. Personnalisez les statuts de chaque type de problème pour qu’ils correspondent au workflow de ce type de problème.
 
 <!---
 add URL in paragraph below
@@ -26,14 +26,14 @@ add URL in paragraph below
 
 ## Statuts par défaut
 
-Quatre statuts de problème par défaut ne peuvent pas être supprimés :
+Quatre statuts de problème par défaut ne pouvant pas être supprimés :
 
 * Nouveau
 * En cours
 * Fermé
 * Suspendu
 
-Six autres statuts communs à la gestion des problèmes sont fournis avec [!DNL Workfront]:
+Six autres statuts communs à la gestion des problèmes sont fournis avec [!DNL Workfront] :
 
 * Rouvert
 * Réaction en attente
@@ -47,20 +47,20 @@ need URL in paragraph below
 --->
 
 
-L’état d’un problème peut être affiché et modifié dans la variable [!UICONTROL Détails du problème]. Vous pouvez également modifier le statut d’un problème dans l’en-tête de la page de problèmes, à l’extrême droite.
+Le statut d’un problème peut être consulté et modifié dans les [!UICONTROL Détails du problème]. Vous pouvez également modifier le statut d’un problème dans l’en-tête de la page de problème, tout à droite.
 
-![[!UICONTROL État] dans l’en-tête de page et [!UICONTROL Détails du problème] page](assets/admin-fund-issue-details-status.png)
+![[!UICONTROL Option Statut] dans l’en-tête de page et page [!UICONTROL Détails du problème].](assets/admin-fund-issue-details-status.png)
 
-Vous pouvez ajouter la variable [!UICONTROL État] à une vue ou à un rapport personnalisé, ce qui le rend facilement visible et rapide à modifier.
+Vous pouvez ajouter la colonne [!UICONTROL Statut] à une vue ou à un rapport personnalisé, ce qui le rend facilement visible et rapide à modifier.
 
-![[!UICONTROL État] dans une colonne [!UICONTROL Affichage]](assets/admin-fund-issue-status-view.png)
+![[!UICONTROL Colonne Statut] dans une [!UICONTROL Vue]](assets/admin-fund-issue-status-view.png).
 
 <!---
 link the bullets below to the articles
 --->
 
-Examinons les principes de base de l’état pour les problèmes :
+Examinons les principes de base du statut pour les problèmes :
 
-* Modification d’un état existant
+* Modifier un statut existant
 * Statuts par défaut du système
 * Créer un nouveau statut
