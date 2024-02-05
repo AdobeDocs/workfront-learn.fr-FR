@@ -12,43 +12,43 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Créer un rapport de matrice
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Lorsqu’un rapport de matrice peut être utile
-* Et comment créer un rapport de matrice
+* Quand un rapport de matrice peut être utile
+* et comment créer un rapport de matrice
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Activité : Créer un rapport de matrice
+## Activité : créer un rapport de matrice
 
-Créez un rapport de matrice qui indique le nombre de requêtes présentes dans chaque état, triées par file d’attente de requêtes. Vous obtenez ainsi un aperçu rapide de la quantité de travail à accomplir et de la façon dont vous la respectez.
+Créez un rapport de matrice indiquant le nombre de demandes dans chaque statut, triées par file d’attente. Vous obtenez ainsi un aperçu rapide de la quantité de travail à accomplir et de la façon dont vous la respectez.
 
-Vous souhaitez que les files d’attente de requête apparaissent sur les regroupements de lignes. Le statut apparaît comme regroupements de colonnes. Nommez votre rapport &quot;Demandes par état et file d’attente de demandes&quot;.
+Vous souhaitez que les files d’attente des demandes apparaissent dans les regroupements de lignes. Le statut apparaît dans les regroupements de colonnes. Nommez votre rapport « Demandes par statut et file d’attente des demandes ».
 
 ## Réponse
 
-1. Sélectionner **[!UICONTROL Rapports]** de la **[!UICONTROL Menu Principal]**.
-1. Cliquez sur le bouton **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Problème]**.
-1. Accédez au **[!UICONTROL Groupements]** et cliquez sur **[!UICONTROL Basculer vers le groupement matriciel]**.
+1. Sélectionnez **[!UICONTROL Rapports]** dans le **[!UICONTROL menu principal]**.
+1. Cliquez sur l’option **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Problème]**.
+1. Accédez à l’onglet **[!UICONTROL Regroupements]** et cliquez sur **[!UICONTROL Basculer vers le regroupement de matrice]**.
 1. Pour [!UICONTROL Regroupements de lignes], sélectionnez **[!UICONTROL Projet]** > **[!UICONTROL Nom]**.
-1. Pour [!UICONTROL Regroupement de colonnes], sélectionnez **[!UICONTROL Problème]** > **[!UICONTROL État]**.
+1. Pour [!UICONTROL Regroupement de colonnes], sélectionnez **[!UICONTROL Problème]** > **[!UICONTROL Statut]**.
 
-   ![Image de l’écran pour créer un nouveau groupe de rapports de problèmes](assets/matrix-report-groupings.png)
+   ![Image de l’écran permettant de créer un nouveau regroupement de rapports de problèmes.](assets/matrix-report-groupings.png)
 
-1. Accédez au **[!UICONTROL Filtres]** .
-1. Pour vous assurer que seules les requêtes présentes dans les principales files d’attente des requêtes sont visibles, ajoutez les règles de filtrage suivantes :
+1. Accédez à l’onglet **[!UICONTROL Filtres]**.
+1. Pour vous assurer que seules les demandes présentes dans les files d’attente des demandes actives sont visibles, ajoutez les règles de filtrage suivantes :
 
-   * [!UICONTROL Projet] > [!UICONTROL L’état correspond à] > [!UICONTROL Égal] > [!UICONTROL Actuel]
-   * [!UICONTROL Définition de la file d&#39;attente] > [!UICONTROL Est public] > [!UICONTROL Différent de] > [!UICONTROL Aucun] (c’est ainsi que nous savons qu’un projet est en fait une file d’attente de demandes, par la définition de file d’attente affectée à l’une des options publiques.)
+   * [!UICONTROL Projet] > [!UICONTROL Le statut correspond à] > [!UICONTROL Égal] > [!UICONTROL Actuel].
+   * [!UICONTROL Définition de la file d’attente] > [!UICONTROL Est publique] > [!UICONTROL Différent de] > [!UICONTROL Aucun] (c’est ainsi que nous savons qu’un projet est en fait une file d’attente des demandes, par la définition de file d’attente affectée à l’une des options publiques).
 
-1. Cliquez sur **[!UICONTROL Enregistrer + Fermer]**. Lorsque vous êtes invité à saisir un nom de rapport, saisissez &quot;Requêtes par état et File d’attente des demandes&quot;.
+1. Cliquez sur **[!UICONTROL Enregistrer + Fermer]**. Lorsque l’on vous invite à saisir un nom de rapport, saisissez « Demandes par Statut et File d’attente des demandes ».
 
-   ![Image de l’écran de création d’un filtre de rapport de problèmes](assets/matrix-report-filters.png)
+   ![Image de l’écran permettant de créer un filtre de rapport de problèmes](assets/matrix-report-filters.png)
