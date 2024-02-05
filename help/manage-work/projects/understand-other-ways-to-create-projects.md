@@ -1,6 +1,6 @@
 ---
-title: Découvrez quatre façons de créer un projet
-description: Découvrez comment créer un projet à partir d’un modèle, créer entièrement un projet, copier un projet existant ou importer un [!DNL Microsoft Project] fichier .
+title: Découvrir quatre façons de créer un projet
+description: Découvrez comment créer un projet à partir d’un modèle, créer entièrement un projet, copier un projet existant ou importer un fichier  [!DNL Microsoft Project] .
 activity: use
 feature: Work Management
 thumbnail: 335084.jpeg
@@ -12,32 +12,32 @@ jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Découvrez quatre façons de créer un projet
+# Découvrir quatre façons de créer un projet
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Création d’un projet à partir d’un modèle
-* Création d’un projet à partir de zéro
+* Créer un projet à partir d’un modèle
+* Créer entièrement un projet
 * Copier un projet existant
-* Importation d’une [!DNL Microsoft Project] fichier
+* Importer un fichier [!DNL Microsoft Project]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Conseils pratiques
+## Conseils pro
 
-* La variable [!UICONTROL Nouveau projet à partir du modèle] facilite la sélection du modèle approprié pour votre projet. Faites défiler le panneau de gauche pour trouver un modèle, puis sélectionnez-le pour obtenir un aperçu de son contenu. Cet aperçu vous indique le nombre de tâches figurant dans le modèle, les rôles de tâche requis, etc.
+* La fenêtre [!UICONTROL Nouveau projet à partir d’un modèle] facilite la sélection du modèle approprié pour votre projet. Faites défiler le panneau de gauche pour trouver un modèle, puis sélectionnez-le pour obtenir un aperçu de son contenu. Cet aperçu vous indique le nombre de tâches figurant dans le modèle, les fonctions requises, etc.
 
-![[!UICONTROL Nouveau projet à partir du modèle] window](assets/planner-fund-new-project-from-template-window.png)
+Fenêtre ![[!UICONTROL Nouveau projet à partir d’un modèle]](assets/planner-fund-new-project-from-template-window.png)
 
-* S’il existe un modèle que vous utilisez fréquemment, faites-en un favori ! Le modèle est alors répertorié dans le [!UICONTROL Nouveau projet] , en plus de s’afficher sous [!UICONTROL Favoris et récents] dans la barre de navigation. Il vous suffit de cliquer sur l’icône en forme d’étoile préférée où que vous la voyiez : sur la page du modèle, tout en choisissant un modèle avec lequel créer votre projet, etc.
+* S’il existe un modèle que vous utilisez souvent, faites-en un favori ! Le modèle est répertorié dans le menu [!UICONTROL Nouveau projet] et apparaît sous l’icône [!UICONTROL Favoris et récents] dans la barre de navigation. Il vous suffit de cliquer sur l’icône Favoris en forme d’étoile où que vous la voyiez : sur la page du modèle, tout en choisissant un modèle avec lequel créer votre projet, etc.
 
-![[!UICONTROL Modèles favoris] Liste sous [!UICONTROL Nouveau projet] button](assets/planner-fund-template-favorites.png)
+![[!UICONTROL Liste des Modèles favoris] sous le bouton [!UICONTROL Nouveau projet]](assets/planner-fund-template-favorites.png)
 
 <!---
 learn more:
