@@ -1,6 +1,6 @@
 ---
-title: Affichage par les utilisateurs dans le planificateur de ressources
-description: Découvrez comment utiliser l’option Vue par utilisateur et comment les informations de ressources s’affichent dans cette vue.
+title: Affichage par utilisateurs et utilisatrices dans le Planificateur de ressources
+description: Découvrez comment utiliser l’option Afficher par utilisateur et utilisatrice et comment les informations des ressources sont affichées dans cette vue.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-8880
 exl-id: 336f8ba9-d8d2-410a-b010-49981db00d89
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Afficher par les utilisateurs dans la [!DNL Resource Planner]
+# Afficher par utilisateurs et utilisatrices dans le [!DNL Resource Planner]
 
-Dans cette vidéo, vous allez :
+Dans cette vidéo, vous allez :
 
-* Voir [!UICONTROL Afficher par utilisateur]view
-* Découvrez comment les informations sur les ressources s&#39;affichent dans cette vue
+* Découvrir la vue [!UICONTROL Afficher par utilisateur et utilisatrice]
+* Découvrez comment les informations des ressources sont affichées dans cette vue
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on)
