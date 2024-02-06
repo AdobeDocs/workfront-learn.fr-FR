@@ -1,6 +1,6 @@
 ---
-title: Révision et approbation de travaux numériques
-description: Découvrez comment rechercher et approuver des projets, des tâches, des problèmes, des documents et des bons à tirer dans [!DNL Workfront Home].
+title: Examiner et approuver les travaux numériques
+description: Découvrez comment rechercher et approuver des projets, des tâches, des problèmes, des documents et des bons à tirer dans  [!DNL Workfront Home].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -14,25 +14,25 @@ doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Révision et approbation de travaux numériques
+# Examiner et approuver les travaux numériques
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Recherche des validations dans [!DNL Workfront Home]
-* Approbation de projets, de tâches et de problèmes
-* Approbation de documents
-* Approbation de BAT
+* Rechercher des validations dans [!DNL Workfront Home]
+* Approuver des projets, des tâches et des problèmes
+* Approuver des documents
+* Approuver des BAT
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
 
 >[!NOTE]
 >
->Documents, BAT et éléments de travail (projets, tâches et problèmes) nécessitant des validations figurent dans les projets et rapports personnalisés en plus des [!DNL Workfront Home].
+>Les documents, BAT et éléments de travail (projets, tâches et problèmes) nécessitant des validations figurent dans les projets et rapports personnalisés en plus de [!DNL Workfront Home].
 
 
 

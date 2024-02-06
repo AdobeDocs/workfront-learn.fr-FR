@@ -13,62 +13,62 @@ exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '469'
-ht-degree: 0%
+source-wordcount: '459'
+ht-degree: 97%
 
 ---
 
 # Comprendre la navigation et la révision des projets
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment lire le plan de vol
+* Comment lire le graphique du plan de vol
 
 >[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on)
 
 ## Graphique du plan de vol
 
-![Une image d’un graphique du plan de vol avec des nombres correspondant aux balles ci-dessous](assets/section-2-1.png)
+![Image d’un graphique de plan de vol avec des nombres correspondant aux puces ci-dessous](assets/section-2-1.png)
 
-Sur le graphique, vous voyez :
+Sur le graphique, vous voyez :
 
-1. Les noms des projets se trouvent à gauche.
-1. Les dates s’affichent dans la partie inférieure.
-1. La ligne bleue verticale indique la date spécifique à laquelle la souris survole.
+1. Les noms des projets à gauche.
+1. Les dates dans la partie inférieure.
+1. La ligne bleue verticale indique la date spécifique que votre souris survole.
 1. Les lignes bleues horizontales indiquent les dates de début et de fin prévues du projet.
-1. Les lignes vertes indiquent que le projet est Sur Target.
-1. Des lignes orange indiquent que le projet est En danger.
-1. Les lignes rouges indiquent que le projet est en danger.
+1. Les lignes vertes indiquent que le projet est En bonne voie.
+1. Des lignes orange indiquent que le projet est À risque.
+1. Les lignes rouges indiquent que le projet est En difficulté.
 
-L’affichage de ces informations sur vos projets vous aide à déterminer les éléments suivants :
+L’affichage de ces informations sur vos projets vous aide à déterminer les éléments suivants :
 
-* Les événements étendent un projet au-delà de la date d’achèvement prévue.
+* Les événements qui prolongent un projet au-delà de la date d’achèvement prévue.
 * Lorsqu’un projet commence à rencontrer des problèmes.
-* Nombre de projets ouverts au cours de la même période.
-* Nombre de projets actifs.
+* Le nombre de projets ouverts au cours de la même période.
+* Le nombre de projets actifs.
 * Les projets qui nécessitent une attention ou un soutien supplémentaire.
 
-## La condition est basée sur l’état de progression
+## La condition est basée sur le statut de la progression
 
-La condition du projet est une représentation visuelle de l’avancement du projet. Workfront détermine la condition en fonction de l’état d’avancement des tâches dans le projet.
+La condition du projet est une représentation visuelle de le la progression du projet. Workfront détermine la condition en fonction du statut de la progression des tâches dans le projet.
 
-![Une image des états de progression possibles](assets/section-2-2.png)
+![Image des statuts de progression possibles](assets/section-2-2.png)
 
-La condition d’un projet peut être définie :
+La condition d’un projet peut être définie :
 
-* **Manuellement**, par les utilisateurs ayant accès à la gestion du projet, lorsque le type de condition du projet est défini sur manuel. Vous pouvez ainsi définir la condition du projet indépendamment du chemin critique.
-* **Automatiquement**, par Workfront, lorsque le type de condition du projet est défini sur État de progression.
+* **Manuellement**, par les utilisateurs et utilisatrices ayant accès à la gestion du projet, lorsque le type de condition du projet est défini comme manuel. Vous pouvez ainsi définir la condition du projet indépendamment du chemin critique.
+* **Automatiquement**, par Workfront, lorsque le type de condition du projet est défini sur Statut de la progression.
 
-Workfront recommande de définir le type de condition sur État de progression afin que vous ayez une indication claire de l’état d’avancement réel du projet, en fonction de l’état d’avancement de vos tâches.
+Workfront recommande de définir le type de condition sur Statut de la progression afin que vous ayez une indication claire de la progression réelle du projet en fonction de la progression de vos tâches.
 
-![Une image des états de progression possibles](assets/section-2-3.png)
+![Image des statuts de progression possibles](assets/section-2-3.png)
 
-Lorsqu’elle est définie sur État de progression, la condition du projet peut être :
+Lorsqu’elle est définie sur Statut de la progression, la condition du projet peut être :
 
-* **Sur Target**: lorsque l’état d’avancement de la dernière tâche sur le chemin critique est Activé, la condition du projet est Activé Target. Le projet est en bonne voie pour se terminer selon le calendrier.
-* **À risque**—Lorsque l’état d’avancement de la dernière tâche sur le chemin critique est Derrière ou En danger, la condition du projet est En danger. Le projet est en bonne voie pour se terminer tard mais n&#39;est pas encore en retard.
-* **En difficulté**: lorsque l’état d’avancement de la dernière tâche sur le chemin critique est En retard, la condition du projet est En problème. La date butoir est passée et le projet est maintenant en retard.
+* **En bonne voie** : lorsque le statut de la progression de la dernière tâche sur le chemin critique est Dans les temps, la condition du projet est En bonne voie. Le projet est parti pour terminer dans les délais prévus.
+* **À risque** : lorsque le statut de la progression de la dernière tâche du chemin critique est En retard ou À risque, la condition du projet est À risque. Le projet est parti pour terminer en retard mais n’est pas encore en retard.
+* **En difficulté** : lorsque le statut de la progression de la dernière tâche du chemin critique est En retard, la condition du projet est En difficulté. La date butoir est passée et le projet est désormais en retard.
 
 >[!NOTE]
 >
->Les conditions peuvent être personnalisées pour votre environnement. Vous pouvez donc trouver plus de trois options ou les noms peuvent être différents de ceux ci-dessus. Pour plus d’informations sur la personnalisation des conditions, voir l’article [Création ou modification d’une condition personnalisée](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).
+>Les conditions peuvent être adaptées à votre environnement, il se peut donc que vous trouviez plus de trois options ou que les noms soient différents de ceux indiqués ci-dessus. Pour plus d’informations sur la personnalisation des conditions, voir l’article [Création ou modification d’une condition personnalisée](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=fr).

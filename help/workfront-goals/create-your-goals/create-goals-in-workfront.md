@@ -1,6 +1,6 @@
 ---
 title: Créer des objectifs
-description: Découvrez comment créer des objectifs dans [!DNL Workfront Goals] en utilisant trois options différentes.
+description: Découvrez comment créer des objectifs dans  [!DNL Workfront Goals]  en utilisant trois options différentes.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,84 +12,84 @@ doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 0%
+source-wordcount: '885'
+ht-degree: 100%
 
 ---
 
 # Créer des objectifs
 
-Dans [!DNL Workfront Goals], les cadres et les équipes de direction d’entreprise peuvent voir les progrès de l’ensemble de l’organisation à chaque niveau, jusqu’à l’individu. [!DNL Workfront Goals] offre la visibilité nécessaire pour obtenir des informations exploitables clés afin de faire avancer les priorités les plus élevées, d’identifier les objectifs à risque, de diagnostiquer les problèmes en temps réel et de corriger de manière proactive les cours.
+Dans [!DNL Workfront Goals], les cadres et les équipes de direction des entreprises peuvent voir la progression de l’ensemble de l’organisation à chaque niveau, jusqu’à l&#39;individu. [!DNL Workfront Goals] offre la visibilité nécessaire pour obtenir des informations essentielles exploitables afin de faire avancer les priorités les plus élevées, d’identifier les objectifs à risque, de diagnostiquer les problèmes en temps réel et de vous orienter correctement de manière proactive.
 
-[!DNL Workfront Goals] permet également aux contributeurs individuels de voir comment leur travail contribue à l’image globale. Le travail est plus significatif quand les individus peuvent voir où leur travail compte.
+[!DNL Workfront Goals] permet également aux contributeurs et contributrices individuels de voir en quoi leur travail contribue à l’ensemble du projet. Le travail est plus significatif lorsque les personnes voient là où leur travail est important.
 
-Il existe 3 façons de créer des objectifs avec [!DNL Workfront]:
+Il existe trois façons de créer des objectifs avec [!DNL Workfront] :
 
 ## Créer un objectif à partir de zéro
 
-Voici quelques éléments à prendre en compte lors de la création d’objectifs à partir de zéro :
+Voici quelques éléments à prendre en compte pour créer des objectifs à partir de zéro :
 
-* Tous les membres de l’organisation doivent sélectionner les mêmes délais lors de la création d’objectifs ou d’objectifs similaires alignés.
-* L’état du nouvel objectif est toujours En création jusqu’à ce que vous l’activiez en ajoutant une activité, un projet ou un résultat.
+* Tous les membres de l’organisation doivent sélectionner les mêmes délais lors de la création d’objectifs similaires ou d’objectifs alignés.
+* Le statut du nouvel objectif est toujours Brouillon jusqu’à ce que vous l’activiez en ajoutant une activité, un projet ou un résultat.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Accédez au [!UICONTROL Liste des objectifs] pour ajouter un nouvel objectif
+* Accédez à la section [!UICONTROL Liste des objectifs] pour ajouter un objectif.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
 ## Copier un objectif existant
 
-Disons que c&#39;est la fin d&#39;un trimestre et que vous voulez recréer un objectif existant pour la prochaine période. Ou peut-être que vous n&#39;avez pas atteint l&#39;objectif et que vous avez besoin de prolonger la période suivante. Quelle est la meilleure option pour créer cet objectif ? Vous souhaitez copier et modifier un objectif existant.
+Imaginons que nous soyons à la fin d’un trimestre et que vous souhaitiez recréer un objectif existant pour la période suivante. Il est aussi possible que vous n’ayez pas atteint l’objectif et que vous deviez l’étendre à la période suivante. Quelle est la meilleure option pour créer cet objectif ? Vous allez copier et modifier un objectif existant.
 
-La copie d’un objectif existant s’avère également utile si plusieurs membres de l’équipe ont des objectifs similaires et que vous devez créer un objectif pour chacun d’eux.
+La copie d’un objectif existant est également utile si plusieurs membres de l’équipe ont des objectifs similaires et que vous devez créer un objectif pour chacun d’eux.
 
-Voici quelques éléments à prendre en compte avant de copier des objectifs :
+Voici quelques éléments à prendre en compte avant de copier des objectifs :
 
-* Toutes les informations de l’objectif d’origine seront copiées, à l’exception de la période d’objectif.
+* Toutes les informations de l’objectif initial seront copiées, à l’exception de la période de l’objectif.
 * Vous pouvez copier les résultats d’un objectif existant et les transférer vers le nouvel objectif.
-* Par défaut, les résultats copiés sont attribués au même propriétaire.
+* Par défaut, les résultats copiés sont affectés au même ou à la même propriétaire.
 * Vous ne pouvez pas copier la progression de l’objectif existant vers un nouvel objectif.
 * Vous ne pouvez pas copier les activités d’un objectif lorsque vous copiez un objectif.
 
-### Comment copier un objectif
+### Copie d’un objectif
 
-1. Cliquez sur un nom d’objectif pour ouvrir la **[!UICONTROL Détails de l’objectif]** du panneau.
-1. Cliquez sur l’icône à 3 points en regard du nom de l’objectif, puis sélectionnez **[!UICONTROL Copier]**.
-1. Mettez à jour l’une des informations suivantes pour l’objectif copié :
-   * **Nom de l’objectif**— C’est le nom du nouveau but. La valeur par défaut est &quot;Copie de&quot; suivie du nom de l’objectif d’origine.
-   * **Période**: période pendant laquelle vous souhaitez atteindre l’objectif. Sélectionnez une période dans le menu déroulant ou cliquez sur Définir des dates personnalisées pour indiquer une période personnalisée. La période par défaut est toujours le trimestre en cours.
-   * **Propriétaire**: propriétaire de l’objectif. Il peut s’agir d’un utilisateur, d’une équipe, d’un groupe ou d’une société. La valeur par défaut est le propriétaire de l’objectif d’origine.
-   * **Description**: informations supplémentaires sur l’objectif.
+1. Cliquez sur le nom d’un objectif pour ouvrir le panneau **[!UICONTROL Détails de l’objectif]**.
+1. Cliquez sur l’icône à trois points en regard du nom de l’objectif, puis sélectionnez **[!UICONTROL Copier]**.
+1. Mettez à jour l’une des informations suivantes pour l’objectif copié :
+   * **Nom de l’objectif** - Le nom du nouvel objectif. La valeur par défaut est « Copie de » suivie du nom de l’objectif initial.
+   * **Période** - La période pendant laquelle vous souhaitez atteindre l’objectif. Sélectionnez une période dans le menu déroulant ou cliquez sur Définir des dates personnalisées pour indiquer une période personnalisée. La période par défaut est toujours le trimestre en cours.
+   * **Propriétaire** : le ou la propriétaire de l’objectif. Il peut s’agir d’un utilisateur ou d’une utilisatrice, d’une équipe, d’un groupe ou d’une entreprise. Le ou la propriétaire de l’objectif initial est désigné par défaut.
+   * **Description** : informations complémentaires sur l’objectif.
 
-1. Vérifiez les **[!UICONTROL Copie de résultats]** si des résultats ont été ajoutés à l’objectif d’origine et que vous souhaitez les copier dans le nouvel objectif. Les résultats de l’objectif copié ont les mêmes propriétaire, noms et valeurs mesurées que les résultats de l’objectif d’origine.
+1. Cochez la case **[!UICONTROL Copier les résultats]** si des résultats ont été ajoutés à l’objectif initial et que vous souhaitez les copier dans le nouvel objectif. Les résultats de l’objectif copié ont les mêmes propriétaire, noms et valeurs mesurées que les résultats de l’objectif initial.
 
-1. Cliquez sur **[!UICONTROL Copier l’objectif]**. L’objectif copié est enregistré avec l’état Brouillon.
+1. Cliquez sur **[!UICONTROL Copier l’objectif]**. L’objectif copié est sauvegardé avec un statut de Brouillon.
 
-   ![Une image de la [!UICONTROL Détails de l’objectif] dans [!DNL Workfront Goals] avec la propriété [!UICONTROL Copier] option](assets/03-workfront-goals-copy-a-goal.png)
+   ![Une image du panneau [!UICONTROL Détails de l’objectif] dans [!DNL Workfront Goals] avec l’option [!UICONTROL Copier]](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Cliquez sur l’icône à 3 points, puis sélectionnez  **[!UICONTROL Activer]**, qui met à jour l’état de l’objectif en Actif. L’objectif doit être associé à une activité ou à un résultat pour être &quot;activé&quot;.
+1. Cliquez sur l’icône à trois points, puis sélectionnez **[!UICONTROL Activer]**, ce qui met à jour le statut de l’objectif en le rendant actif. L’objectif doit être associé à une activité ou à un résultat pour être « activé ».
 
-Si vous avez copié un objectif qui n’a pas été terminé au cours d’une période précédente et que vous souhaitez continuer à travailler dessus au cours de la période suivante, procédez comme suit :
+Si vous avez copié un objectif qui n’a pas été atteint au cours d’une période précédente et que vous souhaitez continuer à y travailler au cours de la période suivante, procédez comme suit :
 
-1. Accédez à l’objectif d’origine dans la **[!UICONTROL Liste des objectifs]**.
+1. Accédez à l’objectif initial dans la **[!UICONTROL Liste des objectifs]**.
 1. Ajoutez une mise à jour à l’objectif pour indiquer qu’il a été copié et qu’un objectif plus récent a été créé.
-1. Fermez l&#39;objectif d&#39;origine pour préserver les progrès réalisés pendant sa période d&#39;origine. Cliquez sur l’icône à 3 points en regard du nom de l’objectif et sélectionnez **[!UICONTROL Fermer]** dans le menu.
-1. Mettez à jour le [!UICONTROL Initial] valeur du nouveau résultat pour correspondre à la variable **[!UICONTROL Cible]** de la valeur du résultat précédent, de sorte que la progression de votre nouvel objectif commence à calculer à partir du point atteint au cours de la période précédente.
+1. Fermez l’objectif initial afin de préserver la progression réalisée au cours de la période initiale. Cliquez sur l’icône à trois points en regard du nom de l’objectif et sélectionnez **[!UICONTROL Fermer]** dans le menu.
+1. Mettez à jour la valeur [!UICONTROL Initial] du nouveau résultat pour qu’elle corresponde à la valeur **[!UICONTROL Cible]** du résultat précédent, de sorte que la progression de votre nouvel objectif commence à être calculée à partir du point atteint au cours de la période précédente.
 
 ## Convertir un résultat ou une activité en objectif
 
-La dernière option permettant de créer des objectifs dans [!DNL Workfront Goals] consiste à convertir les résultats et/ou les activités d’un objectif existant en un autre objectif. Le résultat/l’activité converti devient un objectif enfant par rapport à l’objectif d’origine.
+La dernière option pour créer des objectifs dans [!DNL Workfront Goals] consiste à convertir les résultats et/ou les activités d’un objectif existant en un autre objectif. Le résultat/l’activité converti devient un objectif enfant par rapport à l’objectif d’origine.
 
-Vous pouvez le faire lorsqu’un résultat/une activité a une portée plus grande que prévu et qu’il serait bénéfique de convertir le résultat/l’activité en un objectif réel lui-même. Considérez cela comme une approche de bas en haut de l’alignement des objectifs.
+Vous pouvez faire cela lorsqu’un résultat ou une activité a une portée plus grande que prévu et qu’il serait avantageux de convertir le résultat ou l’activité en un objectif à part entière. Considérez cela comme une approche de bas en haut de l’alignement des objectifs.
 
-Voici quelques éléments à garder à l’esprit avant de convertir un résultat ou une activité en objectif :
+Voici quelques éléments à garder à l’esprit avant de convertir un résultat ou une activité en objectif :
 
-* Le résultat ou l’activité converti devient l’objectif enfant de l’objectif d’origine, et les deux objectifs s’alignent.
-* L’objectif nouvellement créé devient l’indicateur de progression unique de l’objectif d’origine, s’il n’y a aucun résultat ou activité supplémentaire sur l’objectif d’origine. Vous devez ajouter des résultats et des activités à l’objectif enfant pour pouvoir suivre la progression de cet objectif.
+* Le résultat converti ou l’activité convertie devient l’objectif enfant de l’objectif d’origine, et les deux objectifs s’alignent.
+* L’objectif nouvellement créé devient l’unique indicateur de progrès pour l’objectif initial, s’il n’y a pas de résultats ou d’activités supplémentaires pour l’objectif d’origine. Vous devez ajouter des résultats et des activités à l’objectif enfant pour pouvoir suivre la progression de cet objectif.
 * La conversion d’un résultat ou d’une activité en un objectif est irréversible. Une fois converti, le nouvel objectif enfant ne peut plus jamais devenir un résultat ou une activité pour l’objectif parent.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Ajouter une activité et la convertir en objectif aligné
 

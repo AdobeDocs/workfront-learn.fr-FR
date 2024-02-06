@@ -1,6 +1,6 @@
 ---
 title: Installez le [!UICONTROL Microsoft Outlook] add-in
-description: Découvrez comment installer le [!UICONTROL Module complémentaire Microsoft Outlook]
+description: Découvrez comment installer le [!UICONTROL complément Microsoft Outlook]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -12,27 +12,27 @@ exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 96%
 
 ---
 
-# Installation du module complémentaire Microsoft Outlook
+# Installer le complément Microsoft Outlook
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Installation du module complémentaire Microsoft Outlook
+* Installer le complément Microsoft Outlook
 
 >[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->Si vous ne trouvez pas le module complémentaire Workfront comme décrit dans la vidéo, votre service informatique devra peut-être d’abord effectuer une configuration. Vous trouverez des instructions détaillées dans la section [Configuration d’Adobe Workfront pour Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
+>Si vous ne trouvez pas le complément Workfront tel qu’il est décrit dans la vidéo, il se peut que votre service informatique doive d’abord effectuer quelques tâches de configuration. Des instructions détaillées sont disponibles dans la section [Configurer Adobe Workfront pour Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=fr).
 
-## Intégrez le calendrier Microsoft Outlook au [!DNL Workfront] Calendrier d&#39;accueil
+## Intégrer le calendrier Microsoft Outlook au calendrier de la page d’accueil de [!DNL Workfront]
 
-Vous pouvez configurer la variable [!DNL Workfront] [!UICONTROL Calendrier d’accueil] pour effectuer les opérations suivantes :
+Vous pouvez configurer les paramètres du [!UICONTROL calendrier de la page d’accueil] de [!DNL Workfront] pour effectuer les opéations suivantes :
 
-* Intégration à une version web d’ [!DNL Outlook] dans le cloud hébergé [!DNL Office 365] ou [!DNL Outlook Live]. Vous pouvez afficher tous les événements de votre [!DNL Outlook] calendrier et tous les calendriers associés que vous sélectionnez, tels que les calendriers Anniversaires et Jours fériés, dans votre [!DNL Workfront] [!UICONTROL Calendrier d’accueil].
+* Effectuer l’intégration à une version web d’[!DNL Outlook] dans [!DNL Office 365] hébergé dans le cloud ou [!DNL Outlook Live]. Vous pouvez afficher tous les événements de votre calendrier [!DNL Outlook] et tous les calendriers associés que vous sélectionnez, tels que les calendriers d’anniversaires et de vacances, dans votre [!UICONTROL calendrier de page d’accueil] de [!DNL Workfront].
 
-* Vous aide à effectuer le suivi de votre charge de travail par rapport à vos heures de travail disponibles sur la barre d’affectation.
+* Suivre plus facilement votre charge de travail par rapport à vos heures de travail disponibles dans la barre d’attribution.

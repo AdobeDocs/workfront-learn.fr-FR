@@ -1,6 +1,6 @@
 ---
 title: Créer une vue de base
-description: Découvrez ce qu’est une vue, comment créer une vue et comment partager une vue avec d’autres utilisateurs dans Workfront.
+description: Découvrez ce qu’est une vue, comment créer une vue et comment partager une vue avec d’autres utilisateurs et utilisatrices dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -15,119 +15,119 @@ doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
 source-wordcount: '826'
-ht-degree: 1%
+ht-degree: 86%
 
 ---
 
 # Créer une vue de base
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
 * Présentation d’une vue dans Workfront
 * Création et modification d’une vue
-* Comment partager une vue avec d’autres utilisateurs de Workfront
+* Partage d’une vue avec d’autres utilisateurs et utilisatrices de Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Activité 1 : Création d’une vue d’état de tâche
+## Activité 1 : créer une vue de statut de tâche
 
-En tant que chef de projet, chef d’équipe ou responsable des ressources, vous souhaitez suivre l’avancement des tâches. Avec cette vue, vous obtenez plusieurs indicateurs d’état d’une tâche tous sur une ligne de la liste ou du rapport.
+En tant que responsable de projet, d’équipe ou de ressources, vous souhaitez suivre l’évolution des tâches. Avec cette vue, vous obtenez plusieurs indicateurs de statut d’une tâche, sur une même ligne de la liste ou du rapport.
 
-Créez une vue de tâche nommée &quot;Vue d’état de la tâche&quot; avec les colonnes suivantes :
+Créez une vue de tâche nommée « Vue du statut de la tâche » avec les colonnes suivantes :
 
-* [!UICONTROL Task Name]
+* [!UICONTROL Nom de la tâche]
 * [!UICONTROL Affectations]
 * [!UICONTROL Durée]
-* [!UICONTROL Pourcentage terminé]
-* [!UICONTROL État]
-* [!UICONTROL État de progression]
-* [!UICONTROL Icônes d’état]
+* [!UICONTROL Pourcentage d&#39;achèvement]
+* [!UICONTROL Statut]
+* [!UICONTROL Statut de progression]
+* [!UICONTROL Icônes de statut]
 
-## Réponse de l’activité 1
+## Réponse de l’activité 1
 
-![Image de l’écran pour créer une vue d’état de tâche](assets/view-exercise.png)
+![Une image de l’écran pour créer une vue du statut de la tâche](assets/view-exercise.png)
 
-1. Dans un rapport de liste de tâches, accédez au **[!UICONTROL Affichage]** menu déroulant et sélectionnez **[!UICONTROL Nouvelle vue]**.
-1. Nommez votre vue &quot;Affichage de l’état de la tâche&quot;.
-1. Supprimez ces colonnes : [!UICONTROL Heures de planification], [!UICONTROL Prédécesseurs], [!UICONTROL Démarrer le], et [!UICONTROL Échéance activée].
+1. Dans un rapport de liste de tâches, allez dans le menu déroulant **[!UICONTROL Vue]** et sélectionnez **[!UICONTROL Nouvelle vue]**.
+1. Nommez votre vue « Vue du statut de la tâche ».
+1. Supprimez ces colonnes : [!UICONTROL Hrs Prév], [!UICONTROL Prédécesseurs], [!UICONTROL Début le], et [!UICONTROL Échéance le].
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]**.
-1. Dans le [!UICONTROL Afficher dans cette colonne] , saisissez &quot;status&quot;, puis sélectionnez &quot;Status&quot; sous la propriété [!UICONTROL Tâche] source du champ.
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez « statut », puis sélectionnez « Statut » sous la source du champ [!UICONTROL Tâche].
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
-1. Dans le [!UICONTROL Afficher dans cette colonne] , saisissez &quot;status&quot;, puis sélectionnez &quot;Etat d’avancement&quot; sous [!UICONTROL Tâche] source du champ.
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez « statut », puis sélectionnez « Statut de la progression » dans la source du champ [!UICONTROL Tâche].
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
-1. Dans le [!UICONTROL Afficher dans cette colonne] , saisissez &quot;status&quot;, puis sélectionnez &quot;Status Icons&quot; sous la source du champ Tâche .
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez « statut », puis sélectionnez « Icônes de statut » dans la source du champ Tâche.
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
-Passez la souris sur chacune des icônes du [!UICONTROL Icônes d’état] pour voir ce qu’ils représentent. Si elles sont grisées, cela signifie que la tâche n&#39;a pas de notes, de documents, de processus de validation, etc. Si une icône s’affiche en couleur, au moins un de ces éléments est associé à la tâche. Vous pouvez cliquer sur les icônes de note ou de document pour accéder à cet élément.
+Pointez sur chacune des icônes de la colonne [!UICONTROL Icônes de statut] pour voir ce qu’elles représentent. Si elles sont grisées, cela signifie que la tâche ne possède pas de notes, de documents, de processus d’approbation, etc. Si une icône s’affiche en couleur, cela signifie qu’au moins un de ces éléments est associé à la tâche. Vous pouvez cliquer sur les icônes de note ou de document pour accéder à cet élément.
 
-## Activité 2 : création d’une vue de jalon
+## Activité 2 : créer une vue de jalon
 
-Si vous utilisez des jalons, cette vue est la méthode la plus simple pour afficher les jalons par nom et les ajouter ou les modifier à l’aide de la modification en ligne.
+Si vous utilisez des jalons, cette vue est la méthode la plus simple pour les afficher par nom et les ajouter ou les modifier à l’aide de la modification en ligne.
 
-Créez une vue de tâche nommée &quot;Vue Milestone&quot; avec les colonnes suivantes :
+Créez une vue de tâche nommée « Vue de jalon » avec les colonnes suivantes :
 
-* [!UICONTROL Task Name]
+* [!UICONTROL Nom de la tâche]
 * [!UICONTROL Affectations]
 * [!UICONTROL Durée]
-* [!UICONTROL Heures de planification]
-* [!UICONTROL Milestone : Nom]
-* [!UICONTROL Démarrer le]
-* [!UICONTROL Échéance activée]
-* [!UICONTROL Pourcentage terminé]
+* [!UICONTROL Hrs Prév]
+* [!UICONTROL Jalon : nom]
+* [!UICONTROL Démarré le]
+* [!UICONTROL Dû le]
+* [!UICONTROL Pourcentage d&#39;achèvement]
 
 
-## Réponse de l’activité 2
+## Réponse de l’activité 2
 
-![Image de l’écran pour créer une vue de jalon](assets/view-milestone-exercise-1.png)
+![Une image de l’écran pour créer une vue de jalon](assets/view-milestone-exercise-1.png)
 
-1. Dans la liste des tâches d’un projet, accédez au **[!UICONTROL Affichage]** menu déroulant et sélectionnez **[!UICONTROL Nouvelle vue]**.
-1. Nommez votre vue &quot;Vue Milestone&quot;.
-1. Cliquez sur le bouton [!UICONTROL Prédécesseurs] pour la sélectionner.
-1. Dans le [!UICONTROL Afficher dans cette colonne] , cliquez sur l’icône X dans le champ [!UICONTROL Tâche > Prédécesseurs] champ, puis saisissez &quot;[!UICONTROL nom du jalon]&quot; et cliquez sur &quot;[!UICONTROL Nom]&quot; dans la liste.
+1. Dans la liste des tâches d’un projet, accédez au menu déroulant **[!UICONTROL Vue]** et sélectionnez **[!UICONTROL Nouvelle vue]**.
+1. Nommez votre vue « Vue de jalon ».
+1. Cliquez sur la colonne [!UICONTROL Prédécesseurs] pour la sélectionner.
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], cliquez sur l’icône X dans le champ [!UICONTROL Tâche >> Prédécesseurs], puis saisissez « [!UICONTROL nom du jalon] » et cliquez sur « [!UICONTROL Nom] » dans la liste.
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
-![Image d’une liste de tâches utilisant une vue de jalon](assets/view-milestone-exercise-2.png)
+![Une image d’une liste de tâches utilisant une vue de jalon](assets/view-milestone-exercise-2.png)
 
-## Activité 3 : créez un affichage des types de durée et des contraintes de tâche.
+## Activité 3 : créer une vue des types de durée et des contraintes de tâche
 
 Cette vue vous permet d’examiner et de modifier tous les types de durée et les contraintes de tâche dans votre projet.
 
-Créez une vue de tâche nommée &quot;Vue Types de durée et contraintes de tâche&quot; avec les colonnes suivantes :
+Créez une vue de tâche nommée « Vue des types de durée et des contraintes de tâche » avec les colonnes suivantes :
 
-* [!UICONTROL Task Name]
+* [!UICONTROL Nom de la tâche]
 * [!UICONTROL Affectations]
 * [!UICONTROL Durée]
-* [!UICONTROL Durée planifiée]
-* [!UICONTROL Heures de planification]
-* [!UICONTROL Prédécesseurs]
-* [!UICONTROL Démarrer le]
-* [!UICONTROL Échéance activée]
+* [!UICONTROL Durée prévue]
+* [!UICONTROL Hrs Prév]
+* [!UICONTROL Tâches antérieures]
+* [!UICONTROL Démarré le]
+* [!UICONTROL Dû le]
 * [!UICONTROL Type de durée]
 * [!UICONTROL Contrainte de tâche]
 * [!UICONTROL Date de contrainte]
 
-Modifiez la variable [!UICONTROL Format du champ] sur le [!UICONTROL Démarrer le] et [!UICONTROL Échéance activée] pour afficher la date et l’heure.
+Modifiez le [!UICONTROL Format du champ] des colonnes [!UICONTROL Début le] et [!UICONTROL Échéance le] pour afficher la date et l’heure.
 
-## Réponse de l’activité 3
+## Réponse de l’activité 3
 
 ![Une image de l’écran montrant la vue des types de durée et des contraintes de tâche](assets/view-activity-3.png)
 
-1. Dans la liste des tâches d’un projet, accédez au **[!UICONTROL Affichage]** menu déroulant et sélectionnez **[!UICONTROL Nouvelle vue]**.
-1. Nommez votre vue &quot;Types de durée et contraintes de tâche&quot;.
-1. Supprimez le [!UICONTROL % terminé] colonne .
+1. Dans la liste des tâches d’un projet, accédez au menu déroulant **[!UICONTROL Vue]** et sélectionnez **[!UICONTROL Nouvelle vue]**.
+1. Nommez votre vue « Vue des types de durée et des contraintes de tâche ».
+1. Supprimez la colonne [!UICONTROL % terminé].
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]**.
-1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;duration&quot;] puis sélectionnez [!UICONTROL &quot;Durée planifiée&quot;] sous le [!UICONTROL Tâche] source du champ.
-1. Déplacer cette colonne entre les [!UICONTROL Durée] et la variable [!UICONTROL Heures de planification] colonnes.
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez [!UICONTROL « durée »], puis sélectionnez [!UICONTROL « Durée prévue »] sous la source du champ [!UICONTROL Tâche].
+1. Déplacez cette colonne entre les colonnes [!UICONTROL Durée] et [!UICONTROL Hrs Prév].
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
-1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;type de durée&quot;] puis sélectionnez [!UICONTROL &quot;Type de durée&quot;] sous le [!UICONTROL Tâche] source du champ.
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez [!UICONTROL « Type de durée »], puis sélectionnez [!UICONTROL « Type de durée »] dans la source du champ [!UICONTROL Tâche].
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
-1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;contrainte&quot;] puis sélectionnez [!UICONTROL &quot;Contrainte de tâche&quot;] sous la source du champ Tâche .
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez [!UICONTROL « Contrainte »], puis sélectionnez [!UICONTROL « Contrainte de tâche »] dans la source du champ Tâche.
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
-1. Dans le [!UICONTROL Afficher dans cette colonne] champ, type [!UICONTROL &quot;contrainte&quot;] puis sélectionnez [!UICONTROL &quot;Date de contrainte&quot;] sous la source du champ Tâche .
-1. Sélectionnez la variable [!UICONTROL Démarrer le] , puis cliquez sur [!UICONTROL Options avancées].
-1. Sous , [!UICONTROL Format du champ] menu déroulant [!UICONTROL &quot;10/17/60 3 heures&quot;].
-1. Sélectionnez la variable [!UICONTROL Échéance activée] , puis cliquez sur [!UICONTROL Options avancées].
-1. Sous , [!UICONTROL Format du champ] menu déroulant [!UICONTROL &quot;10/17/60 3 heures&quot;].
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez [!UICONTROL « Contrainte »], puis sélectionnez [!UICONTROL « Date de contrainte »] dans la source du champ Tâche.
+1. Sélectionnez la colonne [!UICONTROL Début le], puis cliquez sur [!UICONTROL Options avancées].
+1. Dans la liste déroulante [!UICONTROL Format du champ], sélectionnez [!UICONTROL « 10/17/60 3 h »].
+1. Sélectionnez la colonne [!UICONTROL Échéance le], puis cliquez sur [!UICONTROL Options avancées].
+1. Sous la liste déroulante [!UICONTROL Format du champ], sélectionnez [!UICONTROL « 10/17/60 3 h »].
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ## Activité 4 : création d’un modèle de projet en mode d’état actif
@@ -146,7 +146,7 @@ Créez une vue de modèle de projet nommée &quot;Standard+état actif&quot; ave
 * [!UICONTROL Est actif]
 
 
-## Réponse de l’activité 4
+## Réponse de l’activité 4
 
 ![Image de l’écran d’affichage de l’état actif d’un modèle de projet](assets/view-activity-4.png)
 

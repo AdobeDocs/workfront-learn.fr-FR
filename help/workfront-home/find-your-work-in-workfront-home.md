@@ -1,6 +1,6 @@
 ---
-title: Comment trouver des affectations de travail dans [!UICONTROL Accueil]
-description: Découvrez comment trouver le travail entrant et existant qui vous est assigné dans [!UICONTROL  ]. Examinez ensuite les informations d’affectation.
+title: Recherche des affectations de travail dans [!UICONTROL Accueil]
+description: Découvrez comment trouver les travaux entrants et existants qui vous ont été affectés sur [!UICONTROL  ]. Examinez ensuite les informations d’affectation.
 feature: Work Management
 type: Tutorial
 role: User
@@ -13,11 +13,11 @@ doc-type: video
 source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
-# Recherche de la tâche qui vous a été affectée dans [!DNL Workfront] [!UICONTROL Accueil]
+# Retrouvez la tâche qui vous a été affectée dans [!DNL Workfront] [!UICONTROL Accueil].
 
 
 
@@ -26,9 +26,9 @@ ht-degree: 0%
 >Deux expériences d’accueil sont actuellement disponibles dans Workfront. Si vous disposez de la nouvelle expérience d’accueil, consultez la [Suppression, ajout et réorganisation de widgets dans l’accueil](/help/workfront-home/remove-add-and-rearrange-widgets.md) tutoriel .
 
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Recherche d’affectations de travail entrantes et existantes
+* Trouver des affectations de travail entrantes et existantes
 * Réviser les informations d’affectation
 
 >[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

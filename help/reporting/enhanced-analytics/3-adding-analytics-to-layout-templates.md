@@ -1,6 +1,6 @@
 ---
 title: Ajout d’analyses à des modèles de mise en page
-description: Découvrez comment les administrateurs système et groupe accordent l’accès à Analytics.
+description: Découvrez comment les administrateurs et les administratrices système et de groupes accordent l’accès à Analytics.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c1062c7f19c623a149710a13d2b980f45b117147
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

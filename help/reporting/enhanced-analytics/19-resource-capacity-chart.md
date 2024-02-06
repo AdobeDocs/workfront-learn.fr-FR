@@ -1,5 +1,5 @@
 ---
-title: Comprendre le graphique de la capacité des ressources
+title: Comprendre le graphique de capacité des ressources
 description: Découvrez comment le graphique de la capacité de ressource dans [!UICONTROL Analytics amélioré] indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
 activity: use
 team: Technical Marketing
@@ -13,44 +13,44 @@ exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 0%
+ht-degree: 92%
 
 ---
 
-# Comprendre le graphique de la capacité des ressources
+# Comprendre le graphique de capacité des ressources
 
-Le graphique Capacité des ressources indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
+Le graphique de capacité des ressources indique le nombre d’heures planifiées affectées à une équipe locale au cours de la période définie avec les filtres, par rapport au nombre total d’heures disponibles de l’équipe.
 
-Cette comparaison peut vous aider à déterminer si vous n’attribuez pas suffisamment de travail à l’équipe ou si elle est susceptible de subir une charge de travail importante. Cliquez sur le nom d’une équipe et un graphique sur les capacités de l’équipe s’affiche, indiquant plus de détails sur la capacité de l’équipe pour la période filtrée.
+Cette comparaison peut vous aider à déterminer si vous n’affectez pas suffisamment de travail à l’équipe ou si elle subit une surcharge de travail, en raison d&#39;une quantité de travail trop importante. Cliquez sur le nom d’une équipe et un graphique de capacité de l’équipe apparaît alors, indiquant plus d’informations sur la capacité de l’équipe pour la période définie avec les filtres.
 
-L’affichage de ces informations vous permet de déterminer les éléments suivants :
+Ces informations vous aident à déterminer :
 
-* Si une équipe d’accueil a été surchargée ou sous-affectée.
-* Quelles équipes domestiques sont disponibles pour le travail ?
+* Si une équipe locale a reçu trop d’affectations ou pas assez d’affectations.
+* Quelles équipes locales sont disponibles pour travailler.
 
-![Une image présentant un graphique de la capacité des ressources avec des nombres sur les zones décrites dans les puces ci-dessous](assets/section-3-2.png)
+![Image montrant un graphique de la capacité des ressources avec des chiffres situés sur les zones décrites dans les puces ci-dessous](assets/section-3-2.png)
 
-Sur le graphique, vous pouvez voir les détails clés suivants :
+Vous pouvez observer les éléments principaux suivants sur le graphique :
 
-1. Les noms des équipes d’accueil sont à gauche.
-1. Les heures sont en bas. Il s’agit de l’axe des x du graphique et calcule la plage d’heures affichée dans les équipes ci-dessus.
-1. Le cercle indique le nombre d’heures planifiées affectées à l’équipe d’accueil.
-1. La ligne verticale indique le nombre total d’heures disponibles pour l’équipe d’accueil.
+1. Les noms des équipes locales figurent à gauche.
+1. Les heures sont indiquées en bas. Il s&#39;agit de l&#39;axe X du graphique, qui correspond à la plage d’heures affichée dans les équipes situées au-dessus.
+1. Le cercle indique le nombre d’heures planifiées affectées à l’équipe locale.
+1. La ligne verticale indique le nombre total d’heures disponibles pour l’équipe locale.
 
 ## Accès au graphique
 
-1. Cliquez sur le bouton [!UICONTROL Personnes] dans le panneau de gauche.
-1. Utilisez la variable [!UICONTROL Filtrer] pour choisir une ou plusieurs équipes Accueil à examiner.
-1. Vous verrez le [!UICONTROL Capacité des ressources] apparaît sous le graphique d’activité de l’équipe.
+1. Cliquez sur l’onglet [!UICONTROL Personnes] dans le panneau de gauche.
+1. Utilisez le [!UICONTROL Filtre] pour choisir une ou plusieurs équipes locales à examiner.
+1. Vous verrez le graphique de la [!UICONTROL capacité des ressources] apparaître sous le graphique de l’activité de l’équipe.
 
 ## Utilisation du graphique
 
-Vous devez ajouter des filtres et sélectionner une plage de dates pour afficher les données sur les graphiques du [!UICONTROL Analyse améliorée] de Workfront. Si vous avez ajouté des filtres précédemment, ils sont actifs jusqu’à ce que vous les supprimiez.
+Vous devez ajouter des filtres et sélectionner une période pour afficher les données sur les graphiques dans la zone [!UICONTROL Analytics amélioré] de Workfront. Si vous aviez ajouté des filtres précédemment, ceux-ci restent actifs jusqu’à ce que vous les supprimiez.
 
-![Image présentant un graphique de capacité de ressource](assets/section-3-3.png)
+![Image montrant un graphique de capacité des ressources](assets/section-3-3.png)
 
-Sur le graphique Ressource en capacité , vous pouvez :
+Sur le graphique de capacité des ressources, vous pouvez :
 
-* Passez la souris sur la ligne de l’équipe d’accueil pour voir combien d’heures sont encore disponibles pour la planification, le nombre d’heures planifiées pour l’équipe d’accueil et le nombre total d’heures travaillées (désignées comme étant surpassées, sous ou à pleine capacité).
-* Exportez les données du graphique à l’aide du bouton d’export situé dans le coin supérieur droit du graphique.
-* Cliquez sur le nom de l&#39;équipe d&#39;accueil pour ouvrir le graphique Capacité de l&#39;équipe . Le fait de zoomer sur une période plus petite sur le graphique de capacité de l’équipe met à jour les données qui apparaissent sur le graphique de capacité des ressources.
+* Passer la souris sur la ligne de l’équipe locale pour voir combien d’heures sont encore disponibles pour la planification, le nombre d’heures prévues pour l’équipe locale et le nombre total d’heures travaillées (étiquetées comme étant inférieures, supérieures ou égales à la capacité).
+* Exporter les données du graphique à l’aide du bouton Exporter situé dans le coin supérieur droit du graphique.
+* Cliquer sur le nom de l’équipe locale pour ouvrir le tableau des capacités de l’équipe. Le fait de zoomer sur une période plus petite sur le graphique de capacité de l’équipe met à jour les données qui apparaissent sur le graphique de capacité des ressources.

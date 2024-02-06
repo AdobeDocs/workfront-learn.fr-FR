@@ -1,6 +1,6 @@
 ---
 title: Présentation de Brand Portal
-description: Découvrez comment accéder à Brand Portal dans [!UICONTROL Gestion des actifs numériques Workfront], créez des dossiers, définissez des dates d’expiration pour chaque ressource et modifiez les paramètres de la ressource.
+description: Découvrez comment accéder à Brand Portal dans [!UICONTROL Workfront DAM], créez des dossiers, définissez des dates d’expiration pour chaque ressource et modifiez les paramètres de la ressource.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,27 +13,27 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 # Présentation de Brand Portal
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Accès à Brand Portal
-* Création de dossiers et définition des paramètres de dossier
-* Définition de dates d’expiration pour des ressources individuelles
-* Modification des paramètres de ressource
+* Accéder à Brand Portal
+* Créer des dossiers et définir des paramètres de dossier
+* Définir des dates d’expiration pour des ressources individuelles
+* Modifier des paramètres de ressource
 
 >[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
 
 ## Dossiers de ressources
 
-Les dossiers servent plusieurs objectifs dans [!UICONTROL Gestion des actifs numériques Workfront]. Tout d’abord, ils sont un moyen d’organiser les ressources. Deuxièmement, ils sont utilisés pour accorder à différents groupes d’utilisateurs l’accès aux ressources dans les dossiers.
+Les dossiers ont plusieurs fonctions dans [!UICONTROL Workfront DAM]. Tout d’abord, ils permettent d’organiser les ressources. Deuxièmement, ils servent à accorder l’accès aux ressources dans les dossiers à différents groupes d’utilisateurs ou d’utilisatrices.
 
-Certains utilisateurs parcourent les dossiers pour trouver les ressources qu’ils souhaitent plutôt que d’effectuer des recherches. Une structure de dossiers logique et réfléchie dirigera ces utilisateurs au bon endroit. Certains [!UICONTROL Gestion des actifs numériques Workfront] les clients organisent les dossiers par département, type de fichier, sujet de la ressource, produit, événement ou workflow. Mais ce qui fonctionne pour une organisation peut ne pas fonctionner pour une autre.
+Certaines personnes préfèrent parcourir les dossiers pour trouver les ressources qu’elles souhaitent plutôt que de les rechercher. Une structure de dossiers logique et bien pensée dirigera ces personnes au bon endroit. Certaines clientes et certains clients de [!UICONTROL Workfront DAM] organisent les dossiers par service, type de fichier, objet de la ressource, produit, événement ou workflow. Mais ce qui fonctionne pour une organisation peut ne pas fonctionner pour une autre.
 
-Les dossiers permettent également aux utilisateurs d’accéder aux ressources. Les utilisateurs sont organisés en groupes, puis les groupes sont autorisés à accéder aux dossiers. Les autorisations des dossiers peuvent varier en fonction du groupe (affichage uniquement, chargement de ressources, téléchargement de ressources, modification de ressources, etc.).
+Les dossiers sont également le moyen d’accorder aux utilisateurs et utilisatrices l’accès aux ressources. Les utilisateurs et utilisatrices sont organisés en groupes, puis les groupes reçoivent l’autorisation d’accéder aux dossiers. Les autorisations sur les dossiers peuvent varier en fonction du groupe (affichage uniquement, chargement des ressources, téléchargement des ressources, modification des ressources, etc.).
 
-Lors de la création de dossiers et de dossiers imbriqués, gardez à l’esprit les groupes et les utilisateurs qui devront accéder aux ressources contenues dans les dossiers. La structure des groupes peut avoir une incidence sur la manière dont vous organisez les dossiers. De plus, l’organisation des dossiers peut avoir une incidence sur la manière dont les groupes sont créés.
+Lorsque vous créez des dossiers et des dossiers imbriqués, tenez compte des groupes et des utilisateurs et utilisatrices qui devront accéder aux ressources contenues dans les dossiers. La structure des groupes peut avoir une incidence sur la manière dont vous organisez les dossiers. De plus, l’organisation des dossiers peut avoir une incidence sur le mode de création des groupes.

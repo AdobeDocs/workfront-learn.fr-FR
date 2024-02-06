@@ -14,15 +14,15 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 51%
 
 ---
 
 # Exploration plus approfondie à l’aide des délais et des graphiques supplémentaires
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment descendre sur un projet dans le diagramme du plan de vol pour faire apparaître le diagramme de Burndown et le graphique des tâches en vol
-* Comment créer un filtre de période pour effectuer un zoom avant sur une période
+* Comment analyser en profondeur un projet dans le plan de vol pour faire apparaître le graphique d’avancement et le graphique des tâches en cours de vol ?
+* Comment créer un filtre de délai pour effectuer un zoom avant sur une période
 
 >[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on)

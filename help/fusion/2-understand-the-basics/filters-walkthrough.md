@@ -1,6 +1,6 @@
 ---
 title: Présentation des filtres
-description: Découvrez comment ajouter un filtre entre les deux modules dans [!DNL Adobe Workfront Fusion].
+description: Apprenez à ajouter un filtre entre les deux modules dans les modules dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,22 +12,22 @@ exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '226'
+ht-degree: 100%
 
 ---
 
 # Présentation des filtres
 
-À l’aide de l’exercice de présentation &quot;Au-delà du mappage de base&quot; que vous avez créé précédemment, ajoutez un filtre entre les deux modules dans les modules afin de créer uniquement les projets dont la couleur de projet &quot;Rouge&quot; figure dans la liste des projets.
+À l’aide de l’exercice « Au-delà du mappage de base » que vous avez créé précédemment, ajoutez un filtre entre les deux modules dans les modules pour ne créer que des projets qui ont une couleur « rouge » dans la liste des projets.
 
-![Une image du scénario Fusion](assets/understand-the-basics-2.png)
+![Image du scénario Fusion](assets/understand-the-basics-2.png)
 
 ## Présentation des filtres
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Ajouter un filtre entre les deux modules dans les modules
 
@@ -35,9 +35,9 @@ Dans cette vidéo, vous apprendrez à :
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation des filtres](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) exercice.
+>Pour obtenir des instructions pas à pas, consultez l’exercice [Présentation des filtres](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=fr).
 
-## Votre tour
+## À vous
 
 >[!NOTE]
 >
@@ -45,10 +45,10 @@ Dans cette vidéo, vous apprendrez à :
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 
-Modifiez le filtre que vous avez créé lors de la présentation des filtres pour n’autoriser que les projets &quot;Jaune&quot; et la note de confiance est inférieure à 100 ou le mot &quot;phase&quot; dans le nom du projet et la date prévue de début est 2021. Nommez le filtre &quot;Filtre d’exercice pratique&quot;.
+Modifiez le filtre que vous avez créé lors de la présentation des filtres pour n’autoriser que les projets « jaunes » et dont la note de confiance est inférieure à 100 ou qui comportent le mot « phase » dans le nom du projet et dont la date de début prévue est en 2021. Nommez le filtre « Filtre de l’exercice pratique ».
 
-**Défi :** Essayez de créer un filtre qui ne permet de transmettre que les projets avec un degré de confiance pair. Besoin d&#39;un indice ? Regardez les formules mathématiques.
+**Défi :** essayez de créer un filtre qui ne laisse passer que les projets ayant une note de confiance égale. Besoin d’un indice ? Pensez aux formules mathématiques.
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)

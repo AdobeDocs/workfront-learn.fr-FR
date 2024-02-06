@@ -1,5 +1,5 @@
 ---
-title: Vérification des tâches en cours
+title: Vérifier les tâches en cours
 description: Découvrez comment accéder aux Tâches dans le graphique en ligne et comment voir rapidement quelles tâches n’ont pas été terminées dans un projet, le tout dans [!UICONTROL Analytics amélioré].
 activity: use
 feature: Reports and Dashboards
@@ -14,36 +14,36 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 89%
 
 ---
 
-# Vérification des tâches en cours
+# Vérifier les tâches en cours
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment accéder aux tâches dans le graphique en ligne
-* Comment déterminer rapidement quelles tâches n’ont pas été effectuées dans un projet
+* Comment accéder aux tâches dans le graphique des tâches en cours
+* Comment déterminer rapidement quelles tâches n’ont pas été terminées dans un projet
 
 >[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on)
 
-## Données de niveau tâche
+## Les données au niveau des tâches
 
-Le graphique Tâches en vol vous permet d’analyser les tâches d’un projet spécifique afin de voir la quantité de travail terminée pour chaque tâche active et comment les tâches sont planifiées. Le graphique vous permet de déterminer les tâches d’un projet qui doivent être terminées et le pourcentage d’achèvement de ces tâches.
+Le graphique Tâches en cours vous permet d’examiner les tâches d’un projet spécifique pour voir la quantité de travail accomplie pour chaque tâche active et l’état d’avancement des tâches. Le graphique vous permet de déterminer quelles tâches dans un projet doivent encore être terminées et le pourcentage d’avancement de ces tâches.
 
-Ces informations peuvent vous aider à déterminer :
+Ces informations peuvent vous aider à déterminer :
 
-* Ce sur quoi les gens travaillent.
+* Sur quoi les personnes travaillent.
 * Les tâches qui pourraient mettre un projet en danger.
 * À quel point une tâche est près d’être terminée.
 * À qui vous devez parler d’une tâche spécifique.
 
-![Une image montrant une tâche dans un graphique en vol avec des nombres sur les zones décrites dans les puces ci-dessous](assets/section-2-11.png)
+![Image montrant une tâche dans un graphique de tâches en cours avec des nombres indiquant les zones décrites dans les puces ci-dessous](assets/section-2-11.png)
 
-Sur le graphique, vous pouvez voir :
+Sur le graphique, vous pouvez voir :
 
-1. Noms des tâches sur la gauche.
-1. Dates en bas.
-1. La couleur bleue foncée d’une barre de tâches indique la quantité de travail terminée pour une tâche.
-1. La couleur bleue claire d’une barre de tâches indique la quantité de travail à effectuer pour une tâche.
-1. Le nombre situé sur le côté droit d’une barre de tâche indique le pourcentage d’achèvement de la tâche.
+1. Le nom des tâches à gauche.
+1. Les dates en bas.
+1. La couleur bleue foncée dans une barre de tâche indique la quantité de travail déjà terminée pour une tâche.
+1. La couleur bleue claire dans une barre de tâche indique la quantité de travail restante à effectuer pour une tâche.
+1. Le nombre situé sur le côté droit d’une barre de tâche indique le pourcentage d’avancement de la tâche.

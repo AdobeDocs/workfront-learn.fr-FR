@@ -14,36 +14,36 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 90%
 
 ---
 
-# Comprendre l’accès et la révision de la ventilation
+# Comprendre l’accès et la révision de l’avancement
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment accéder au graphique de condensation
-* Comment comprendre la relation entre les heures restantes, la condition du projet et la vitesse sur un projet ?
+* Comment accéder au graphique d’avancement
+* Comment comprendre la relation entre les heures restantes, l’état d’un projet et la vitesse d’un projet
 
 >[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on)
 
-## Suivi de la vitesse du projet
+## Le suivi de la vitesse d’un projet
 
-Le graphique de condensation vous permet de comprendre la relation entre les heures restantes, la condition du projet et la vitesse. La ligne continue indique les heures passées sur le projet au fil du temps, ainsi que l’état du projet chaque jour. La ligne en pointillé (qui affiche la vitesse planifiée entre la date de début et la date d’achèvement prévue) s’ajuste au fur et à mesure que les dates des tâches sont modifiées.
+Le graphique d’avancement vous permet de comprendre la relation entre les heures restantes, l’état du projet et la vitesse. La ligne continue indique les heures passées sur le projet au fil du temps, ainsi que l&#39;état du projet chaque jour. La ligne pointillée (qui affiche la vitesse prévue entre la date de début et la date d’achèvement prévue) s’ajuste au fur et à mesure que les dates des tâches sont modifiées.
 
-L’affichage de ces informations vous permet de déterminer les éléments suivants :
+Ces informations vous aident à déterminer :
 
-* Comment les problèmes liés à l&#39;entrée (travail non planifié) ont affecté le travail planifié.
-* Les événements ont prolongé le projet au-delà de la date d’achèvement prévue.
+* Comment l’arrivée de problèmes (ou travail non planifié) a affecté le travail planifié.
+* Les événements qui ont prolongé le projet au-delà de la date d’achèvement prévue.
 
-![Une image présentant un graphique en condensation avec des nombres sur les zones décrites dans les puces ci-dessous](assets/section-2-9.png)
+![Image présentant un graphique d’avancement avec des chiffres situés sur les zones décrites dans la liste à puces ci-dessous](assets/section-2-9.png)
 
-Sur le graphique, vous pouvez voir :
+Sur le graphique, vous pouvez voir :
 
-1. Nombre d’heures sur la gauche.
-1. Les dates s’affichent dans la partie inférieure, y compris la date d’achèvement prévue du projet, si elle apparaît dans la période sélectionnée.
-1. La ligne bleue pleine indique la vitesse du projet (les heures prévues ou la durée au fil du temps), puis elle devient une ligne verticale en pointillés lorsqu’elle atteint la date d’achèvement prévue du projet.
-1. Les lignes vertes indiquent quand la condition du projet est Activé Target.
-1. Les lignes orange indiquent quand la condition du projet est En danger.
-1. Les lignes rouges indiquent quand la condition du projet est En danger.
-1. Les informations sur les tâches et les heures (totaux, quantité ajoutée et quantité terminée) d’un jour spécifique s’affichent sous l’axe des x lorsque vous cliquez sur un point spécifique du graphique.
+1. Le nombre d’heures à gauche.
+1. Les dates s’affichent en bas, y compris la date d’achèvement prévue du projet, si elle apparaît dans la période sélectionnée.
+1. La ligne bleue continue indique la vitesse du projet (soit le nombre d’heures prévues, soit la durée sur la période), puis se transforme en ligne verticale pointillée lorsqu’elle atteint la date d’achèvement prévue du projet.
+1. Les lignes vertes indiquent lorsque l’état du projet est En bonne voie.
+1. Les lignes oranges indiquent lorsque l’état du projet est À risque.
+1. Les lignes rouges indiquent lorsque l’état du projet est En difficulté.
+1. Les informations sur les tâches et les heures (totaux, quantité ajoutée et quantité terminée) d’un jour spécifique s’affichent sous l’axe des X lorsque vous cliquez sur un point spécifique du graphique.

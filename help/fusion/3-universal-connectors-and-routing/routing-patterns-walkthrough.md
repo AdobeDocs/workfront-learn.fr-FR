@@ -1,6 +1,6 @@
 ---
 title: Présentation des modèles de routage
-description: Découvrez comment utiliser le module Définir la variable pour envoyer un nombre à travers plusieurs chemins afin de voir comment les filtres et les secours se comportent dans [!DNL Adobe Workfront Fusion].
+description: Découvrez comment utiliser le module Définir la variable pour envoyer un nombre à travers plusieurs chemins afin de voir comment les filtres et les abandons se comportent dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,16 +12,16 @@ exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
 # Présentation des modèles de routage
 
-Utilisez le module Définir la variable pour envoyer un nombre à travers plusieurs chemins afin de voir comment se comportent les filtres et les secours lors du routage.
+Utilisez le module Définir la variable pour envoyer un nombre à travers plusieurs chemins afin de voir comment se comportent les filtres et les abandons lors du routage.
 
-![Une image du scénario Fusion](assets/universal-connectors-and-routing-7.png)
+![Image du scénario Fusion](assets/universal-connectors-and-routing-7.png)
 
 ## Présentation des modèles de routage
 
@@ -31,9 +31,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation des modèles de routage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) exercice.
+>Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation des modèles de routage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=fr).
 
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)

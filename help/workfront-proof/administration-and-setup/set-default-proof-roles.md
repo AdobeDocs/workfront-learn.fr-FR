@@ -1,6 +1,6 @@
 ---
-title: Définition des rôles de BAT par défaut
-description: Découvrez comment définir le rôle de BAT par défaut attribué lors de la création de nouveaux utilisateurs ou lorsque des personnes ouvrent un BAT .
+title: Définir des rôles de BAT par défaut
+description: Découvrez comment définir le rôle d’épreuve par défaut affecté lors de la création de nouveaux utilisateurs ou de nouvelles utilisatrices ou lorsque des personnes ouvrent une épreuve.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -14,34 +14,34 @@ exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
 source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 0%
+ht-degree: 52%
 
 ---
 
-# Définition des rôles de BAT par défaut
+# Définir des rôles de BAT par défaut
 
 
 
-Le premier paramètre par défaut à effectuer consiste à déterminer un rôle de BAT par défaut qui sera attribué lorsque de nouveaux utilisateurs seront créés ou que des personnes ouvriront un BAT.
+Le premier paramètre par défaut à définir est un rôle d’épreuve par défaut qui sera affecté lorsque de nouveaux utilisateurs ou de nouvelles utilisatrices seront créés ou que des personnes ouvriront une épreuve.
 
-Les rôles de BAT déterminent ce qu’un utilisateur peut faire avec un BAT : il suffit de le regarder, de faire des commentaires, de l’approuver, etc. [!DNL Workfront] recommande de définir les valeurs par défaut des rôles de BAT pour tous les utilisateurs, afin de rendre l’ajout de destinataires aux bons à tirer et la configuration des workflows plus rapides et plus facile.
+Les rôles d’épreuve déterminent ce que peut faire un utilisateur ou une utilisatrice avec une épreuve : la consulter, faire des commentaires, l’approuver, etc. [!DNL Workfront] recommande de définir les rôles d’épreuve par défaut pour toutes les personnes, afin de faciliter et d’accélérer l’ajout de destinataires aux épreuves et la configuration des workflows.
 
-![Les rôles de BAT peuvent être sélectionnés lors du téléchargement d’un BAT.](assets/proof-system-setups-proof-role-example.png)
+![Les rôles d’épreuve peuvent être sélectionnés lors du chargement d’une épreuve.](assets/proof-system-setups-proof-role-example.png)
 
-Cependant, ce rôle de BAT par défaut peut être modifié au fur et à mesure du téléchargement des bons à tirer individuels, ce qui permet à chacun de remplir le rôle requis dans le processus de révision et d’approbation.
+Cependant, ce rôle d’épreuve par défaut peut être modifié au fur et à mesure du chargement des épreuves, ce qui permet à chacun de remplir le rôle requis dans le processus de révision et d’approbation.
 
 
-## Définition des rôles de BAT par défaut
+## Définir des rôles de BAT par défaut
 
-1. Sélectionner **Configuration** de la [!UICONTROL Menu Principal].
-1. Sélectionner **Révision et approbation** dans le menu de gauche.
+1. Sélectionnez **Configuration** dans le [!UICONTROL menu principal].
+1. Sélectionnez **Révision et approbation** dans le menu de gauche.
 1. Cliquez sur le bouton en regard du rôle de BAT par défaut souhaité pour les deux nouveaux [!DNL Workfront] utilisateurs et utilisateurs invités du BAT pour les &quot;destinataires désignés&quot; : toute personne ajoutée au workflow de BAT, soit manuellement, soit via un modèle de workflow.
 1. Cliquez sur le bouton en regard du rôle de BAT par défaut souhaité pour les deux nouveaux [!DNL Workfront] utilisateurs et utilisateurs invités BAT pour les utilisateurs &quot;non-destinataires&quot;. Elles sont généralement [!DNL Workfront] les utilisateurs qui ont accès à un BAT, mais qui ne font pas partie des personnes affectées au workflow.
 1. Enregistrez les modifications.
 
 ![Paramètres de révision et d’approbation dans Workfront](assets/proof-system-setups-workfront-defaults.png)
 
-Tenez compte de ce que la plupart de vos utilisateurs et de vos invités seront tenus de faire lorsqu’ils seront ajoutés à un workflow de vérification. Il doit s’agir de votre valeur par défaut.
+Réfléchissez à ce que la plupart de vos utilisateurs, utilisatrices et personnes invitées devront faire lorsqu’ils seront ajoutés à un workflow de relecture. Il doit s’agir de vos paramètres par défaut.
 
 ## Bonnes pratiques
 

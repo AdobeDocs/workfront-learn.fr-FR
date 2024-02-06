@@ -1,6 +1,6 @@
 ---
-title: Présentation des heures planifiées et des vues de durée
-description: Dans les graphiques Treemap de Burndown et Project, vous pouvez afficher les informations par heures ou durée planifiées.
+title: Comprendre les vues de nombre d’heures prévues et de durée
+description: Dans les graphiques d’avancement et d’arborescence du projet, vous pouvez visualiser les informations par nombre d’heures prévues ou par durée.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 100%
 
 ---
 
-# Présentation des heures planifiées et des vues de durée
+# Comprendre les vues de nombre d’heures prévues et de durée
 
-Dans les graphiques Treemap de Burndown et Project, vous pouvez afficher les informations par heures ou durée planifiées, en fonction de ce que vous considérez plus précis pour votre environnement Workfront.
+Dans les graphiques d’avancement et d’arborescence du projet, vous pouvez visualiser les informations par nombre d’heures prévues ou par durée, en fonction de ce que vous considérez comme le plus précis pour votre environnement Workfront.
 
-![Image permettant de sélectionner une durée planifiée plutôt que des heures planifiées](assets/section-1-5.png)
+![Image de la sélection d’un nombre d’heures prévues plutôt que d’une durée](assets/section-1-5.png)
 
 
 
-La valeur par défaut Heures planifiées . Si vous passez à la durée, cela reste vrai si vous quittez la fonction [!DNL Analytics] et revenez et entre les connexions Workfront.
+Le nombre d’heures prévues est la valeur par défaut. Si vous passez à la durée, cela reste valable si vous naviguez hors de [!DNL Analytics] et revenez aux connexions Workfront.
 
-## Que signifie taille de boîte et nuance ?
+## Que signifient la taille de la case et la nuance de couleur ?
 
-Les zones bleues plus petites et plus claires indiquent moins d’heures, tandis que les zones plus grandes et les nuances de bleu plus foncées indiquent plus d’heures en comparaison. Pour plus d’informations, voir [Présentation de la visualisation du graphique Treemap du projet](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
+Les petites cases en bleu clair indiquent moins d’heures, tandis que les cases plus grandes et les tons de bleu plus foncés indiquent plus d’heures en comparaison. Pour plus d’informations, voir [Comprendre la visualisation du graphique d’arborescence du projet](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=fr).

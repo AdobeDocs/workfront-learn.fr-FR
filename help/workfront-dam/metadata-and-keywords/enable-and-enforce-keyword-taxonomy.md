@@ -1,6 +1,6 @@
 ---
 title: Activer et appliquer la taxonomie des mots-clés
-description: Découvrez comment activer et appliquer la taxonomie des mots-clés, lorsque les utilisateurs peuvent saisir leurs propres mots-clés et configurer les facettes de recherche dans [!UICONTROL Gestion des actifs numériques Workfront].
+description: Découvrez comment activer et appliquer la taxonomie des mots-clés, quand les personnes peuvent saisir leurs propres mots-clés, et comment configurer les facettes de recherche dans [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,17 +13,17 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Activer et appliquer la taxonomie des mots-clés
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Accorder l’accès à la taxonomie des mots-clés
-* Application de la taxonomie des mots-clés
-* Comprendre quand [!UICONTROL Gestion des actifs numériques Workfront] les utilisateurs peuvent saisir leurs propres mots-clés.
-* Configuration des facettes de recherche
+* Appliquer l’utilisation de la taxonomie des mots-clés
+* Comprendre quand les utilisateurs et les utilisatrices de [!UICONTROL Workfront DAM] peuvent saisir leurs propres mots-clés
+* Configurer les facettes de recherche
 
 >[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)

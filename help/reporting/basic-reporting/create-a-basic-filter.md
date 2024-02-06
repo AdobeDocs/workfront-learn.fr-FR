@@ -1,6 +1,6 @@
 ---
 title: Créer un filtre de base
-description: Découvrez ce qu’est un filtre, comment créer un filtre et comment partager un filtre avec d’autres utilisateurs dans Workfront. Apprenez également à utiliser la nouvelle expérience de filtrage.
+description: Découvrez le principe d’un filtre, comment créer un filtre et comment partager un filtre avec d’autres utilisateurs et utilisatrices dans Workfront. Apprenez également à utiliser la nouvelle expérience de filtres.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 2%
+ht-degree: 91%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 2%
 
 Créez un filtre de base dans l’expérience de filtre héritée.
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Présentation d’un filtre dans Workfront
+* Le principe d’un filtre dans Workfront
 * Comment créer et modifier un filtre
-* Comment partager un filtre avec d’autres utilisateurs Workfront
+* Comment partager un filtre avec d’autres utilisateurs et utilisatrices Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)
 
-## Présentation de la nouvelle expérience de filtrage
+## Comprendre la nouvelle expérience de filtres
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Activation et désactivation de la nouvelle expérience de filtrage
-* Création et modification de filtres
+* Activer et désactiver la nouvelle expérience de filtres
+* Créer et modifier des filtres
 * Empiler les filtres
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Paramètres pour les utilisateurs de BAT
-description: Découvrez comment déterminer laquelle [!DNL  Workfront] les utilisateurs obtiennent une licence de vérification, puis ajustent les paramètres utilisateur dans les deux [!DNL Workfront] et les paramètres principaux.
+title: Paramètres pour les utilisateurs et les utilisatrices de BAT
+description: Découvrez comment déterminer qui parmi les utilisateurs et les utilisatrices de  [!DNL  Workfront]  doit obtenir une licence de BAT, puis ajustez les paramètres d’utilisation à la fois dans  [!DNL Workfront]  et dans les paramètres principaux.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -14,20 +14,20 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
-# Paramètres pour les utilisateurs de BAT
+# Paramètres pour les utilisateurs et les utilisatrices de BAT
 
-Avant de commencer à créer des utilisateurs dans [!DNL  Workfront], il est recommandé d’avoir votre [!DNL Workfront] et les paramètres du système de BAT sont terminés. Certains de ces paramètres s’appliquent aux profils utilisateur au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définies avant la création de certains utilisateurs... vous pouvez modifier ces paramètres sur chaque profil utilisateur individuel.
+Avant de commencer à créer des utilisateurs dans [!DNL  Workfront], il est recommandé d’avoir votre [!DNL Workfront] et les paramètres du système de BAT sont terminés. Certains de ces paramètres s’appliquent aux profils d’utilisation au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définies avant la création de certains utilisateurs... vous pouvez modifier ces paramètres sur chaque profil utilisateur individuel.
 
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Déterminer quels utilisateurs reçoivent une licence de BAT
-* Ajuster les paramètres utilisateur du BAT dans [!DNL  Workfront]
-* Ajuster les paramètres utilisateur du BAT dans les configurations principales de la vérification
+* Déterminer quels utilisateurs et utilisatrices reçoivent une licence de BAT
+* Ajuster les paramètres d’utilisation du BAT dans [!DNL  Workfront]
+* Ajuster les paramètres d’utilisation du BAT dans les configurations principales des BAT
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on)
 

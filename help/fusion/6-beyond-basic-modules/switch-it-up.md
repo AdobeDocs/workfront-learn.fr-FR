@@ -1,6 +1,6 @@
 ---
-title: Basculer
-description: Découvrez les fonctions de basculement et les modules de commutation et quand utiliser une fonction de basculement par rapport à un module de commutation dans [!DNL Adobe Workfront Fusion].
+title: Basculement
+description: Découvrez les fonctions et les modules Switch et quand utiliser une fonction Switch plutôt qu’un module Switch dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,15 +13,15 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Basculer
+# Basculement
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Fonctions et modules de commutation et leurs différences
-* Quand utiliser une fonction de basculement par rapport à un module de commutation
+* Présentation des fonctions et modules Switch et de leurs différences
+* Quand utiliser une fonction Switch plutôt qu’un module Switch
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

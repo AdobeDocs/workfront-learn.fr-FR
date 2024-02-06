@@ -1,6 +1,6 @@
 ---
-title: Présentation détaillée de la définition/de l’obtention des variables
-description: Découvrez comment rechercher des informations sur un projet dans Workfront et envoyer un courrier électronique contenant des informations connexes dans [!DNL Adobe Workfront Fusion].
+title: Présentation des modules Définir/Obtenir les variables
+description: Apprenez à rechercher des informations sur un projet dans Workfront et à envoyer un e-mail contenant des informations connexes dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,18 +12,18 @@ exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 100%
 
 ---
 
-# Présentation détaillée de la définition/de l’obtention des variables
+# Présentation des modules Définir/Obtenir les variables
 
-Recherchez des informations sur un projet dans Workfront et envoyez un courrier électronique contenant des informations connexes.
+Recherchez des informations sur un projet dans Workfront et envoyez un e-mail contenant des informations connexes.
 
-![Une image du scénario Fusion](assets/universal-connectors-and-routing-8.png)
+![Image du scénario Fusion](assets/universal-connectors-and-routing-8.png)
 
-## Présentation détaillée de la fonction Obtenir/Définir des variables
+## Présentation des variables Get/set
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
@@ -31,9 +31,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!TIP]
 >
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à la section [Présentation détaillée de la définition/de l’obtention des variables](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) exercice.
+>Pour obtenir des instructions pas à pas sur la réalisation de la présentation, consultez l’exercice [Présentation des modules Définir/Obtenir les variables](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=fr).
 
-## Votre tour
+## À vous
 
 >[!NOTE]
 >
@@ -41,10 +41,10 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 
-Effectuez un clone du scénario &quot;Partage de variables entre les chemins de routage&quot; que vous avez créé dans cette présentation. Envoyez par courrier électronique le message que vous rédigez au propriétaire du projet et au responsable du projet. Vous souhaitez également inclure la condition de projet dans le message. (Pour le moment, il est normal que la condition apparaisse sous la forme d’une clé de deux lettres.)
+Créez un clone du scénario « Partage de variables entre les chemins de routage » que vous avez créé dans cette présentation. Envoyez par e-mail le message que vous avez rédigé aux personnes propriétaire et sponsor du projet. Vous devez également inclure la condition du projet dans le message. (Pour le moment, il est normal que la condition apparaisse sous la forme d’une clé de deux lettres.)
 
-**Défi :** Planifiez votre scénario pour envoyer cet &quot;email&quot; toutes les semaines à 8 heures le lundi.
+**Défi :** planifiez votre scénario pour envoyer cet « e-mail » chaque semaine à 8 heures du matin le lundi.
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)

@@ -1,6 +1,6 @@
 ---
 title: Créer un processus d’approbation à usage unique
-description: Découvrez comment créer un processus d’approbation à usage unique sur un projet, une tâche ou un problème dans Workfront.
+description: Découvrez comment créer un processus d’approbation à usage unique pour un projet, une tâche ou un problème dans Workfront.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -13,16 +13,16 @@ exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 0%
+source-wordcount: '279'
+ht-degree: 99%
 
 ---
 
 # Créer un processus d’approbation à usage unique
 
-Les processus de validation sur les projets, les tâches et les problèmes permettent à un chef de projet d’obtenir la confirmation par un expert que le travail a été effectué correctement avant de passer à l’étape suivante. Le chef de projet peut créer un processus d’approbation pour chaque situation (processus d’approbation à usage unique) ou choisir parmi une liste de processus d’approbation potentiellement multiples, créés précédemment pour répondre à des besoins communs (processus d’approbation globale).
+Les processus d’approbation des projets, des tâches et des problèmes permettent au ou à la chef de projet d’obtenir la confirmation d’un expert ou d’une experte que le travail a été effectué correctement avant de continuer. Le ou la chef de projet peut créer un processus d’approbation pour chaque situation (processus d’approbation à usage unique) ou choisir parmi une liste de processus d’approbation, qui peuvent être nombreux, créés antérieurement pour répondre à des besoins communs (processus d’approbation globaux).
 
-Dans les deux cas, lorsque l’état de l’objet est défini sur un état spécifié dans le processus d’approbation, l’approbateur est informé de différentes manières de vérifier le travail et de l’approuver ou de le rejeter. Étant donné que l’ensemble du projet peut être suspendu en attendant une validation, les approbateurs doivent savoir au préalable qu’ils peuvent être appelés pour une validation. Si un approbateur est absent du bureau pour une raison quelconque, il peut déléguer son approbation à un remplaçant qualifié. Voir [Délégation de tâches, de problèmes et de validations](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/delegate-approvals.html) pour plus d’informations.
+Dans les deux cas, lorsque le statut de l’objet passe à un statut spécifié dans le processus d’approbation, l’approbateur ou l’approbatrice est informé de diverses manières qu’il ou elle doit examiner le travail et l’approuver ou le rejeter. Étant donné que l’ensemble du projet peut être interrompu dans l’attente d’une approbation, les approbateurs ou les approbatrices doivent savoir à l’avance qu’ils ou elles peuvent être invités à donner leur approbation. Si un approbateur ou une approbatrice est absent(e) du bureau pour quelque raison que ce soit, il ou elle peut déléguer ses approbations à un remplaçant qualifié ou une remplaçante qualifiée. Voir [Déléguer des tâches, des problèmes et des approbations](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/delegate-approvals.html?lang=fr) pour plus de détails.
 
 Dans cette vidéo, vous apprendrez à créer un processus d’approbation à usage unique sur un objet dans [!DNL  Workfront].
 
@@ -30,11 +30,11 @@ Dans cette vidéo, vous apprendrez à créer un processus d’approbation à usa
 
 >[!TIP]
 >
->Vous pouvez ajouter un seul processus d’approbation d’utilisation pour un projet ou une tâche à un modèle de projet.
+>Vous pouvez ajouter un processus d’approbation à usage unique à un projet ou une tâche d’un modèle de projet.
 
 >[!NOTE]
 >
->Vous pouvez configurer une validation unique de l’utilisation pour les projets et les problèmes de la même manière que décrit pour les tâches de la vidéo.
+>Vous pouvez mettre en place une approbation à usage unique pour les projets et les problèmes de la même manière que celle décrite pour les tâches dans la vidéo.
 >
->Si vous souhaitez configurer des approbations automatiques des problèmes, celles-ci ne peuvent être effectuées qu’à l’aide d’un processus global d’approbation des problèmes et appliquées dans une rubrique de file d’attente. Voir [Création d’une file d’attente de requête](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) pour plus d’informations sur la manière de procéder.
+>Si vous souhaitez mettre en place des approbations de problèmes automatiques, celles-ci ne peuvent être effectuées qu’à l’aide d’un processus d’approbation global et appliquées dans une rubrique de file d’attente. Voir [Créer une file d’attente des demandes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) pour plus d’informations sur cette procédure.
 

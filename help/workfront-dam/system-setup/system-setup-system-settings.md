@@ -1,6 +1,6 @@
 ---
-title: Présentation des paramètres système
-description: Découvrez comment définir des paramètres globaux, définir des options de ressources, définir des paramètres de dossier, créer des règles de téléchargement et afficher des rapports et des journaux d’audit dans [!UICONTROL Gestion des actifs numériques Workfront].
+title: Comprendre les paramètres système
+description: Découvrez comment définir des paramètres globaux, des options de ressources et des paramètres de dossier, créer des règles de téléchargement et afficher des rapports et des journaux d’audit dans [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,18 +13,18 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Présentation des paramètres système
+# Comprendre les paramètres système
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
-* Définition des paramètres globaux
-* Définition des options qui affectent les ressources
-* Définition des paramètres qui affectent les dossiers
-* Règles relatives aux téléchargements
-* Affichage des rapports et des journaux d’audit
+* Établir des paramètres globaux
+* Définir des options qui affectent les ressources
+* Établir des paramètres qui affectent les dossiers
+* Créer des règles relatives aux téléchargements
+* Afficher les rapports et les journaux d’audit
 
 >[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on)

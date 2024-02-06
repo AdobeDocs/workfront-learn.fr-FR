@@ -1,5 +1,5 @@
 ---
-title: Suppression, ajout et réorganisation de widgets dans l’accueil
+title: Supprimer, ajouter et réorganiser des widgets dans Accueil
 description: Découvrez comment supprimer, ajouter et réorganiser des widgets sur la page d’accueil.
 feature: Work Management
 topic: Personalization
@@ -12,12 +12,12 @@ thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
 source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 65%
 
 ---
 
-# Suppression, ajout et réorganisation de widgets dans l’accueil
+# Supprimer, ajouter et réorganiser des widgets dans Accueil
 
 Découvrez comment supprimer, ajouter et réorganiser des widgets sur la page d’accueil.
 

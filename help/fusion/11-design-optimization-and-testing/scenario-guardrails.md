@@ -1,6 +1,6 @@
 ---
-title: Barrières de sécurité du scénario
-description: Découvrez les garde-fous des scénarios, les garde-fous des modules, les garde-fous des fichiers et les garde-fous des webhook, le tout dans [!DNL Adobe Workfront Fusion].
+title: Mécanismes de sécurisation des scénarios
+description: Découvrez les mécanismes de sécurisation des scénarios, des modules, des fichiers et des webhooks, le tout dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,26 +12,26 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 doc-type: video
 source-git-commit: dfe0a31f0087b7a2c925dd6c9b03fa68ef347cf2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 94%
 
 ---
 
-# Barrières de sécurité du scénario
+# Mécanismes de sécurisation des scénarios
 
-L’automatisation du travail nécessite un traitement rapide. Workfront Fusion est donc conçue pour des performances élevées. Étant donné que les scénarios à long terme peuvent ralentir le rythme de votre travail, Workfront Fusion a été conçu avec des barrières de sécurité qui conservent les performances et qui limitent le temps d’exécution, la taille des données et d’autres paramètres de scénario. Les concepteurs de scénarios de fusion Workfront doivent être conscients de ces barrières de sécurité et les intégrer dans leurs pratiques de conception.
+L’automatisation du travail exige un traitement rapide, c’est pourquoi Workfront Fusion est conçu pour des performances élevées. Comme les scénarios de longue durée peuvent ralentir le rythme de votre travail, Workfront Fusion a été conçu avec des mécanismes de sécurisation permettant de préserver les performances, pour limiter le temps d’exécution, la taille des données et d’autres paramètres du scénario. Les équipes de conception de scénarios Workfront Fusion doivent connaître ces mécanismes de sécurisation et les intégrer dans leurs pratiques de conception.
 
-Dans cette vidéo, vous découvrirez les éléments suivants :
+Dans cette vidéo, vous découvrirez :
 
-* Barrières de sécurité du scénario
-* Barrières de sécurité des modules
-* Protections des fichiers
-* Barrières de sécurité Webhook
+* Mécanismes de sécurisation des scénarios
+* Mécanismes de sécurisation des modules
+* Mécanismes de sécurisation des fichiers
+* Mécanismes de sécurisation des webhooks
 
 >[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
 
-## Vous souhaitez en savoir plus ? Nous vous recommandons ce qui suit :
+## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
 
 [Protections des performances d’Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)

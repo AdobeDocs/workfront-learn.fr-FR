@@ -1,6 +1,6 @@
 ---
-title: Configuration d’un modèle de métadonnées
-description: Découvrez comment gagner du temps avec des modèles de métadonnées, configurer un modèle de métadonnées et appliquer un modèle à un dossier dans [!UICONTROL Gestion des actifs numériques Workfront].
+title: Configurer un modèle de métadonnées
+description: Découvrez comment gagner du temps avec des modèles de métadonnées, configurer un modèle de métadonnées et appliquer un modèle à un dossier dans [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,16 +13,16 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configuration d’un modèle de métadonnées
+# Configurer un modèle de métadonnées
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Gagnez du temps avec les modèles de métadonnées
-* Configuration d’un modèle de métadonnées
+* Configurer un modèle de métadonnées
 * Appliquer un modèle à un dossier
 
 >[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on)

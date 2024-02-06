@@ -1,5 +1,5 @@
 ---
-title: Présentation des conseils
+title: Comprendre les conseils du service de conseil
 description: Découvrez comment faire des recommandations pour aider votre entreprise à fonctionner plus efficacement en utilisant [!UICONTROL Analytics amélioré] dans Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -14,14 +14,14 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 56%
 
 ---
 
-# Présentation des conseils
+# Comprendre les conseils du service de conseil
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment faire des recommandations pour aider votre entreprise à fonctionner plus efficacement
+* Création de recommandations pour aider votre organisation à fonctionner de manière plus efficace
 
 >[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on)

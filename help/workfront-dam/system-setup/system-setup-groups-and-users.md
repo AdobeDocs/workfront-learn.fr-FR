@@ -1,6 +1,6 @@
 ---
-title: Configuration de groupes et d’utilisateurs
-description: Découvrez comment créer des dossiers, groupes et utilisateurs dans [!UICONTROL Gestion des actifs numériques Workfront]. Comprendre les types de rôles utilisateur et accorder des autorisations aux dossiers.
+title: Configurer des groupes et des utilisateurs
+description: Découvrez comment créer des dossiers, des groupes, des utilisateurs et des utilisatrices dans [!UICONTROL Workfront DAM]. Comprenez les types de fonctions et accordez des autorisations aux dossiers.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,51 +13,51 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 88%
 
 ---
 
-# Configuration de groupes et d’utilisateurs
+# Configurer des groupes et des utilisateurs
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Comprendre comment les configurations de groupe affectent l’accès aux ressources
-* Création de dossiers, de groupes et d’utilisateurs dans un ordre spécifique
-* Présentation des types de rôles utilisateur
-* Octroi d’autorisations aux dossiers
-* Création et modification de groupes
-* Ajout et modification d’utilisateurs
+* Créer des dossiers, des groupes, des utilisateurs et des utilisatrices dans un ordre spécifique
+* Comprendre les types de fonctions
+* Octroyer des autorisations aux dossiers
+* Créer et modifier des groupes
+* Ajouter et modifier des utilisateurs et des utilisatrices
 
 >[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
 
-## Révision des groupes et des utilisateurs
+## Réviser des groupes, des utilisateurs et des utilisatrices
 
 Lorsque vous configurez votre [!UICONTROL Gestion des actifs numériques Workfront] système, il est important de tenir compte des rôles que les utilisateurs et les groupes jouent dans l’ensemble.
 
-Les groupes contrôlent l’accès aux dossiers de ressources dans [!UICONTROL Gestion des actifs numériques Workfront]. Les paramètres de groupe contrôlent également ce que les utilisateurs peuvent faire des ressources (affichage, téléchargement, modification, etc.) ils ont la permission d&#39;y accéder.
+Les groupes contrôlent l’accès aux dossiers de ressources dans [!UICONTROL Workfront DAM]. Les paramètres du groupe contrôlent également ce que les utilisateurs et utilisatrices peuvent faire avec les ressources (affichage, téléchargement, modification, etc.) auxquelles ils sont autorisés à accéder.
 
 Lors de la création de groupes, il est essentiel de garder à l’esprit les dossiers de ressources auxquels les membres de ce groupe auront accès dans . [!UICONTROL Gestion des actifs numériques Workfront].
 
-Les utilisateurs sont les individus qui disposent de connexions à [!UICONTROL Gestion des actifs numériques Workfront]. Un utilisateur ne peut accéder à rien dans [!UICONTROL Gestion des actifs numériques Workfront] sauf s’ils sont affectés à un groupe. Selon leurs besoins, les utilisateurs peuvent appartenir à plusieurs groupes.
+Les utilisateurs et utilisatrices sont les personnes qui ont un accès à [!UICONTROL Workfront DAM]. Une personne utilisatrice ne peut accéder à rien dans [!UICONTROL Workfront DAM] si elle n’est pas assignée à un groupe. Selon leurs besoins, les utilisateurs et utilisatrices peuvent appartenir à plusieurs groupes.
 
 ## Groupes par défaut
 
-Deux groupes par défaut sont fournis avec [!UICONTROL Gestion des actifs numériques Workfront]. Tous les utilisateurs appartiennent automatiquement à ces groupes, selon qu’ils ont ou non [!UICONTROL Gestion des actifs numériques Workfront] informations de connexion. Vous ne pouvez pas ajouter ni supprimer d’utilisateurs de ces groupes :
+Deux groupes par défaut sont fournis avec [!UICONTROL Workfront DAM]. Tous les utilisateurs et toutes les utilisatrices appartiennent automatiquement à ces groupes, en fonction de leurs identifiants de connexion à [!UICONTROL Workfront DAM]. Vous ne pouvez pas ajouter ni supprimer d’utilisateurs ou d’utilisatrices de ces groupes :
 
-* **Groupe d’invités**: utilisé pour contrôler l’accès d’un utilisateur anonyme. Il peut s’agir d’une personne sans informations d’identification de connexion ou d’un utilisateur qui n’est pas actuellement connecté.
-* **Connecté**-Dans le groupe : tous les utilisateurs connectés appartiennent à ce groupe.
+* **Groupe de personnes invitées** : utilisé pour contrôler l’accès d’une personne anonyme. Il peut s’agir d’une personne sans informations d’identification de connexion ou d’une personne qui n’est pas actuellement connectée.
+* **Groupe de personnes connectées** : tous les utilisateurs et utilisatrices connectés appartiennent à ce groupe.
 
-Le groupe Admin et ses paramètres existent également par défaut. Vous pouvez ajouter des utilisateurs à ce groupe, mais vous ne pouvez pas modifier les paramètres.
+Le groupe Admin et ses paramètres existent également par défaut. Vous pouvez ajouter des personnes à ce groupe, mais vous ne pouvez pas modifier les paramètres.
 
 ## Types de rôles
 
-À mesure que des groupes sont créés, un type de rôle leur est attribué. Le type de rôle détermine la partie de [!UICONTROL Gestion des actifs numériques Workfront] les utilisateurs système reçoivent lorsqu’ils se connectent — [!UICONTROL Gestion des actifs numériques Workfront] ou [!UICONTROL Brand Connect].
+Lors de la création des groupes, un type de rôle leur est attribué. Le type de rôle détermine la partie du système de [!UICONTROL Workfront DAM] à laquelle les utilisateurs et les utilisatrices accèdent lorsqu’ils se connectent ([!UICONTROL Workfront DAM] ou [!UICONTROL Brand Connect]).
 
-Trois types de rôles sont disponibles avec [!UICONTROL Gestion des actifs numériques Workfront] licences :
+Trois types de rôles sont disponibles avec les licences de [!UICONTROL Workfront DAM] :
 
-* **[!UICONTROL Brand Portal]**: ces utilisateurs ont accès uniquement à [!UICONTROL Brand Connect], où ils peuvent afficher et télécharger les ressources approuvées.
-* **[!UICONTROL Contributeur]**: ces utilisateurs peuvent accéder à [!UICONTROL Gestion des actifs numériques Workfront] et [!UICONTROL Brand Connect]. Ils disposent de droits d’accès complets aux ressources et aux dossiers (affichage, téléchargement, chargement, modification, déplacement et suppression).
-* **[!UICONTROL Administrateur]**: les administrateurs système ont accès à tout ce qui se trouve dans [!UICONTROL Brand Connect] et [!UICONTROL Gestion des actifs numériques Workfront], plus la possibilité d’établir les paramètres système globaux pour chacun d’eux. Ils peuvent également accéder aux ressources qui ont expiré ou qui ont été définies comme inactives.
+* **[!UICONTROL Brand Portal]** : ces personnes ont accès uniquement à [!UICONTROL Brand Connect], où elles peuvent afficher et télécharger les ressources approuvées.
+* **[!UICONTROL Contributeur et contributrice]** : ces personnes peuvent accéder à [!UICONTROL Workfront DAM] et à [!UICONTROL Brand Connect]. Elles disposent de droits d’accès complet aux ressources et aux dossiers (affichage, téléchargement, chargement, modification, déplacement et suppression).
+* **[!UICONTROL Administrateur et administratrice]** : les administrateurs et administratrices système ont accès à tous les éléments de [!UICONTROL Brand Connect] et de [!UICONTROL Workfront DAM], ainsi qu’à la possibilité de définir les paramètres globaux du système pour chacun. Ils peuvent également accéder aux ressources qui ont expiré ou qui ont été définies comme inactives.
 
 <!-- 
 Learn more graphic & documentation article link, below

@@ -1,6 +1,6 @@
 ---
-title: Vérification de la terminologie des métadonnées
-description: Découvrez les métadonnées, les questions à poser lors du développement d’une stratégie de métadonnées, etc. [!UICONTROL Gestion des actifs numériques Workfront].
+title: Vérifier la terminologie des métadonnées
+description: Découvrez les métadonnées, les questions à poser lors du développement d’une stratégie de métadonnées, et plus encore dans [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,18 +13,18 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Vérification de la terminologie des métadonnées
+# Vérifier la terminologie des métadonnées
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Métadonnées et leur origine
-* Questions à poser lors du développement d’une stratégie de métadonnées
-* Différence entre les mots-clés et les métadonnées
-* Avantages d’une taxonomie des mots-clés
-* Recherche de ressources à l’aide de métadonnées et de mots-clés
+* En quoi consistent les métadonnées et leur origine
+* Les questions à poser lors du développement d’une stratégie de métadonnées
+* La différence entre les mots-clés et les métadonnées
+* Les avantages d’une taxonomie des mots-clés
+* Rechercher des ressources à l’aide de métadonnées et de mots-clés
 
 >[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on)

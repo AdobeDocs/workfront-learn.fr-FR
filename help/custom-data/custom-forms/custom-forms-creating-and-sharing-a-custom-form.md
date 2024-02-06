@@ -1,5 +1,5 @@
 ---
-title: Création et partage d’un formulaire personnalisé
+title: Créer et partager un formulaire personnalisé
 description: Découvrez comment créer un formulaire personnalisé, y ajouter des champs uniques, et partager des formulaires avec les utilisateurs et les utilisatrices.
 feature: Custom Forms
 type: Tutorial
@@ -15,16 +15,16 @@ last-substantial-update: 2023-12-05T00:00:00Z
 source-git-commit: 9d3d89b471b8f84e50b93987fbc684e47be74e7a
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
-# Création et partage d’un formulaire personnalisé
+# Créer et partager un formulaire personnalisé
 
-Dans cette vidéo, vous apprendrez à :
+Dans cette vidéo, vous apprendrez à :
 
 * Ajouter des champs uniques dans divers formats
-* Partage de formulaires avec d’autres utilisateurs
+* Partager des formulaires avec d’autres utilisateurs et utilisatrices
 
 >[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on)
 

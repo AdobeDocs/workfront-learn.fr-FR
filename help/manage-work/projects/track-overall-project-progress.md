@@ -1,6 +1,6 @@
 ---
-title: Suivi de la progression globale du projet
-description: Découvrez comment les informations affichées dans l’en-tête du projet peuvent vous aider à suivre la progression et l’intégrité globales du projet.
+title: Suivre l’avancement global du projet
+description: Découvrez en quoi les informations affichées dans l’en-tête du projet peuvent vous aider à suivre la progression et l’intégrité globales du projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,29 +13,29 @@ exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 82%
 
 ---
 
-# Suivi de la progression globale du projet
+# Suivre l’avancement global du projet
 
-L’en-tête situé en haut d’un projet vous permet d’afficher l’état global du projet et son intégrité en un coup d’oeil.
+L’en-tête en haut d’un projet permet de voir le statut et l’intégrité du projet d’un simple coup d’œil.
 
-![En-tête du projet affiché [!UICONTROL Pourcentage terminé]](assets/planner-fund-percent-complete.png)
+![Un en-tête de projet indiquant le [!UICONTROL Pourcentage terminé]](assets/planner-fund-percent-complete.png)
 
-La variable [!UICONTROL Pourcentage terminé] est basé sur l’état d’avancement global des tâches du projet. Le nombre est plus précis lorsque les membres de l’équipe modifient l’état des tâches qui leur sont assignées et indiquent un pourcentage d’achèvement.
+Le [!UICONTROL pourcentage terminé] est basé sur l’avancement global des tâches du projet. Le chiffre est plus précis lorsque les membres de l’équipe modifient le statut des tâches qui leur sont affectées et indiquent un pourcentage terminé.
 
 >[!NOTE]
 >
 >Un paramètre système global affecte le mode de calcul du pourcentage de réalisation du projet, en fonction des durées ou des heures planifiées des tâches.
 
-Le projet [!UICONTROL Condition] est appelé &quot;intégrité du planning du projet&quot;. Il y a un certain nombre d’éléments qui influencent le mode de calcul de la condition. [!DNL Workfront] examine la variable [!UICONTROL Date d’achèvement prévue] et la variable [!UICONTROL Date d’achèvement prévue], ainsi que le chemin critique, pour calculer si le projet est [!UICONTROL Heure d’activation], [!UICONTROL À risque], ou [!UICONTROL En difficulté].
+Le projet [!UICONTROL Condition] est appelé &quot;intégrité du planning du projet&quot;. Un certain nombre d’éléments entrent en ligne de compte dans le calcul de la condition. [!DNL Workfront] examine la [!UICONTROL date d’achèvement prévue] et la [!UICONTROL date d’achèvement projetée], ainsi que le chemin critique, pour calculer si le projet est [!UICONTROL dans les temps], [!UICONTROL à risque], ou [!UICONTROL en difficulté].
 
-![En-tête du projet affiché [!UICONTROL Condition]](assets/planner-fund-condition.png)
+![L’en-tête du projet montrant une [!UICONTROL Condition]](assets/planner-fund-condition.png)
 
 >[!NOTE]
 >
->Si la condition du projet est définie automatiquement par [!DNL Workfront] ou manuellement par une personne disposant des droits de gestion sur le projet est contrôlé par la variable [!UICONTROL Type de condition] dans le [!UICONTROL Présentation] de la [!UICONTROL Détails du projet] page.
+>Le fait que la condition du projet soit définie automatiquement par [!DNL Workfront] ou manuellement par une personne ayant des droits de gestion sur le projet est contrôlé par le paramètre [!UICONTROL Type de condition] dans la section [!UICONTROL Vue d’ensemble] de la page [!UICONTROL Détails du projet].
 
 <!---
 learn more urls

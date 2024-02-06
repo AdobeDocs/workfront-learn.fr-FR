@@ -1,6 +1,6 @@
 ---
 title: Comprendre [!UICONTROL Gestion des actifs numériques Workfront]
-description: Découvrez comment rechercher et afficher des ressources, et comment la structure de dossiers affecte l’organisation des ressources et l’accès dans [!UICONTROL Gestion des actifs numériques Workfront].
+description: Découvrez comment rechercher et afficher des ressources, et comment la structure de dossiers affecte l’organisation des ressources et l’accès à [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,26 +13,26 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 96%
 
 ---
 
 # Comprendre [!UICONTROL Gestion des actifs numériques Workfront]
 
-[!UICONTROL Gestion des actifs numériques Workfront] est une solution de gestion des ressources numériques (DAM) spécialement conçue pour gérer, contrôler et publier vos ressources marketing et créatives. Il peut être utilisé conjointement avec les workflows dont vous disposez déjà dans [!DNL Workfront], où vous pouvez gérer des projets, des affectations de tâches et d’autres tâches. Utilisation [!DNL Workfront] pour créer des requêtes de ressources, puis gérer la production et la révision des ressources. Traitez, stockez et distribuez les ressources terminées et approuvées à l’aide de [!UICONTROL Gestion des actifs numériques Workfront].
+[!UICONTROL Workfront DAM] est une solution de gestion des actifs numériques (DAM) spécialement conçue pour gérer, contrôler et publier vos ressources marketing et créatives. Il peut être utilisé conjointement aux workflows dont vous disposez déjà dans [!DNL Workfront], où vous gérez peut-être des projets, des affectations de tâches et d’autres travaux. Utilisez [!DNL Workfront] pour créer des demandes de ressources, puis gérez la production et la révision des ressources. Traitez, stockez et distribuez les ressources terminées et approuvées à l’aide de l[!UICONTROL Workfront DAM].
 
 
-En tant qu’administrateur système, vous êtes responsable de la configuration. [!UICONTROL Gestion des actifs numériques Workfront] et de le maintenir. Vous avez besoin que vos parties prenantes vous fournissent des informations sur leurs processus afin que vous puissiez leur fournir un système qui réponde à leurs besoins. Ces parties prenantes peuvent inclure :
+En tant qu’administrateur ou administratrice système, vous êtes responsable de la configuration de [!UICONTROL Workfront DAM] et de sa maintenance. Vous avez besoin que vos parties prenantes vous apportent des renseignements sur leurs processus afin que vous puissiez leur fournir un système qui réponde à leurs besoins. Ces parties prenantes peuvent inclure :
 
-* Clients internes, tels que les responsables commerciaux, les publicitaires ou les spécialistes marketing
-* Chargé de production
-* Directeur créatif
-* Membre de l’équipe de création
+* Des clientes ou clients internes, tels que les responsables commerciaux, les publicitaires ou les spécialistes marketing
+* Des responsables de production
+* Des directeurs et directrices créatifs
+* Des membres de l’équipe de création
 
-Dans cette vidéo, vous allez :
+Dans cette vidéo, vous allez :
 
-* Obtenez une présentation générale de [!UICONTROL Gestion des actifs numériques Workfront]
-* Recherche et affichage de ressources
-* Découvrez comment la structure de dossiers affecte l’organisation des ressources et l’accès
+* Obtenez une vue d’ensemble détaillée de [!UICONTROL Workfront DAM]
+* Rechercher et afficher des ressources
+* Découvrir comment la structure des dossiers affecte l’organisation des ressources et leur accès
 
 >[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on)

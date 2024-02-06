@@ -1,6 +1,6 @@
 ---
-title: Prise en main d’ [!UICONTROL Analytics amélioré]
-description: Découvrez les champs les plus importants à mettre à jour dans Workfront afin de permettre aux analyses améliorées de vous montrer l’avancement de vos équipes et projets dans Workfront.
+title: Prise en main des [!UICONTROL analyses améliorées]
+description: Découvrez les champs devant être mis à jour en priorité dans Workfront afin de permettre aux analyses améliorées de vous montrer l’avancement de vos équipes et projets.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -13,36 +13,36 @@ exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 5%
+ht-degree: 85%
 
 ---
 
-# Prise en main d’ [!UICONTROL Analytics amélioré]
+# Commencer avec l’[!UICONTROL Analytics amélioré]
 
-Les analyses améliorées peuvent vous montrer l’avancement de vos équipes et projets dans Workfront, ainsi que ce qui s’est passé dans les projets précédents dont vous pourriez apprendre à planifier des projets futurs.
+Les analyses améliorées peuvent vous montrer l’avancement de vos équipes et projets dans Workfront, ainsi que ce qui s’est passé dans les projets précédents et dont vous pourriez tirer parti pour planifier de futurs projets.
 
-## Conditions préalables d’Analytics
+## Conditions préalables des analyses
 
 Pour tirer pleinement parti des analyses améliorées de Workfront, vous devez vous assurer que vos équipes saisissent des données et mettent à jour certains champs aussi précisément que possible.
 
-Lorsque nous utilisons le terme &quot;équipe&quot; dans Analytics, nous faisons référence à &quot;équipes d’accueil&quot;. Les utilisateurs de Workfront peuvent appartenir à plusieurs équipes, mais ils ne peuvent appartenir qu’à une seule équipe d’accueil. Les équipes utilisées dans les graphiques des personnes sont composées uniquement d’utilisateurs pour lesquels cette équipe est désignée comme équipe d’accueil.
+Lorsque nous utilisons le terme &quot;équipe&quot; dans Analytics, nous faisons référence à &quot;équipes d’accueil&quot;. Les utilisateurs et utilisatrices de Workfront peuvent faire partie de plusieurs équipes, mais ils ne peuvent faire partie que d’une seule équipe domestique. Les équipes utilisées dans les graphiques de personnes sont composées uniquement d’utilisateurs et d’utilisatrices pour lesquels cette équipe est désignée comme équipe domestique.
 
-Commencez les tâches correctement en vous assurant que les modèles de projet ont des heures et des durées planifiées précises attribuées à toutes les tâches.
+Commencez vos opérations correctement en vous assurant que les modèles de projet disposent d’heures prévues et de durées précises, affectées à toutes les tâches.
 
-Lors de la création des rapports et des graphiques, Analytics utilise les informations suivantes. Certaines de ces informations sont renseignées automatiquement par Workfront, mais d’autres doivent être renseignées par vos utilisateurs.
+Lors de l’élaboration des rapports et des graphiques, les analyses utilisent les informations suivantes. Certaines de ces informations sont renseignées automatiquement par Workfront, mais d’autres doivent être renseignées par vos utilisateurs et utilisatrices.
 
-* Tâche Heures planifiées (il s’agit du champ le plus important d’Analytics. Si vos équipes n’utilisent pas les heures prévues, vous pouvez consulter des graphiques sélectionnés en fonction de la durée du projet.)
+* Nombre d’heures prévues de la tâche (le champ le plus important pour les analyses. Si vos équipes n’utilisent pas les heures prévues, vous pouvez consulter certains graphiques en fonction de la durée du projet.)
 * Nom du projet
 * Statut du projet
 * Statut de projet
-* Date de début planifiée du projet
+* Date de début prévue du projet
 * Date d’achèvement prévue (pour les tâches et les projets)
-* Date de début réelle du projet
-* Date de fin réelle du projet
+* Date de début effective du projet
+* Date de fin effective du projet
 * Durée du projet
 * Durée de la tâche
-* État de la tâche (comprend les tâches de marquage comme terminées.)
+* Statut de la tâche (comprend le marquage des tâches comme terminées).
 * Nom de la tâche
 * Pourcentage de la tâche terminé
-* Date de début planifiée de la tâche
+* Date de début prévue de la tâche
 * Date d&#39;achèvement prévue de tâche

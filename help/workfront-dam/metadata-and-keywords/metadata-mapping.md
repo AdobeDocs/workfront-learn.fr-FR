@@ -1,6 +1,6 @@
 ---
-title: Configuration du mappage des métadonnées
-description: Découvrez comment configurer le mappage des métadonnées pour [!UICONTROL Gestion des actifs numériques Workfront].
+title: Configurer le mappage des métadonnées
+description: Découvrez comment configurer le mappage des métadonnées pour [!UICONTROL Workfront DAM].
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -12,39 +12,39 @@ exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configuration du mappage des métadonnées
+# Configurer le mappage des métadonnées
 
-[!DNL Workfront]Les informations relatives à une ressource peuvent être transférées à partir de [!DNL Workfront] into [!UICONTROL Gestion des actifs numériques Workfront] avec la ressource. L’option de mappage des métadonnées dans la variable [!DNL Workfront] [!UICONTROL Configuration] permet ce transfert d’informations.
+Les informations [!DNL Workfront] relatives à une ressource peuvent être transférées de [!DNL Workfront] à [!UICONTROL Workfront DAM] avec la ressource. L’option de mappage des métadonnées dans la zone [!UICONTROL Configuration] de [!DNL Workfront] permet ce transfert d’informations.
 
-Parlez à votre [!DNL Workfront] consultant pour obtenir des recommandations sur les bonnes pratiques relatives à la configuration du mappage des métadonnées.
+Parlez à votre consultant ou consultante [!DNL Workfront] pour obtenir des recommandations sur les bonnes pratiques relatives à la configuration du mappage des métadonnées.
 
-Vous devez être un [!DNL Workfront] administrateur et un [!UICONTROL Gestion des actifs numériques Workfront] administrateur pour configurer le mappage des métadonnées. Avant de pouvoir commencer, vous devez connecter votre [!DNL Workfront] et [!UICONTROL Gestion des actifs numériques Workfront] comptes.
+Vous devez être administrateur ou administratrice [!DNL Workfront] et administrateur ou administratrice de [!UICONTROL Workfront DAM] pour configurer le mappage des métadonnées. Avant de pouvoir commencer, vous devez connecter vos comptes [!DNL Workfront] et [!UICONTROL Workfront DAM].
 
-## Connexion de comptes
+## Connecter des comptes
 
-1. Connexion à [!DNL Workfront].
-1. Ouvrez un projet, une tâche ou un problème, puis cliquez sur le bouton **[!UICONTROL Documents]** .
+1. Connectez-vous à [!DNL Workfront].
+1. Ouvrez un projet, une tâche ou un problème, puis cliquez sur l’onglet **[!UICONTROL Documents]**.
 1. Cliquez sur le bouton **[!UICONTROL Ajouter]** et sélectionnez **[!UICONTROL À partir de Workfront DAM]** dans le menu déroulant.
-1. Saisissez votre nom d’utilisateur et votre mot de passe dans le champ [!UICONTROL Gestion des actifs numériques Workfront] la zone d’autorisation qui s’affiche.
-1. Cliquez ensuite sur **[!UICONTROL Oui]** donner [!DNL Workfront] l’accès au [!UICONTROL DAM] compte .
-1. Si nécessaire, actualisez la page pour mettre à jour l’accès à [!UICONTROL Gestion des actifs numériques Workfront].
+1. Saisissez votre nom d’utilisateur ou d’utilisatrice et votre mot de passe dans le champ [!UICONTROL Workfront DAM] dans la zone d’autorisation qui s’affiche.
+1. Cliquez ensuite sur **[!UICONTROL Oui]** afin d’accorder à [!DNL Workfront] l’accès au compte [!UICONTROL DAM].
+1. Si nécessaire, actualisez la page pour mettre à jour l’accès à [!UICONTROL Workfront DAM].
 
-Une fois cette connexion établie, vous pouvez maintenant commencer à mapper les métadonnées entre les deux systèmes. Assurez-vous que vous avez déjà créé les champs de métadonnées nécessaires dans [!UICONTROL Gestion des actifs numériques Workfront] avant de commencer le mappage.
+Une fois cette connexion établie, vous pouvez commencer à mapper les métadonnées entre les deux systèmes. Assurez-vous que vous avez déjà créé les champs de métadonnées nécessaires dans [!UICONTROL Workfront DAM] avant de commencer le mappage.
 
-## Configuration du mapping
+## Configurer le mapping
 
-1. Connexion à [!DNL Workfront].
-1. Sélectionner **[!UICONTROL Configuration]** de la [!UICONTROL Menu Principal].
-1. Développez l’objet **[!UICONTROL Documents]** dans le menu du panneau de gauche.
-1. Cliquez ensuite sur **[!UICONTROL Mappage des métadonnées]**.
-1. Dans le champ Workfront , saisissez la source du champ de la variable [!DNL Workfront] champ à mapper.
-1. Sélectionnez ensuite la cible ou la cible correspondante **[!UICONTROL Gestion des actifs numériques Workfront]** champ de métadonnées.
-1. Cliquez sur le bouton **[!UICONTROL Ajouter un mappage]** bouton .
-1. Vous verrez le [!UICONTROL Source du champ Workfront] et [!UICONTROL Champ cible de la gestion des actifs numériques Workfront] dans le graphique au bas de la fenêtre.
+1. Connectez-vous à [!DNL Workfront].
+1. Sélectionnez **[!UICONTROL Configuration]** dans le [!UICONTROL Menu principal].
+1. Développez la section **[!UICONTROL Documents]** dans le menu du panneau de gauche.
+1. Cliquez ensuite sur le **[!UICONTROL Mappage des métadonnées]**.
+1. Dans le champ Workfront, saisissez la source du champ [!DNL Workfront] à mapper.
+1. Sélectionnez ensuite le champ correspondant ou le champ de métadonnées cible de **[!UICONTROL Workfront DAM]**.
+1. Cliquez sur le bouton **[!UICONTROL Ajouter un mappage]**.
+1. Vous verrez la [!UICONTROL Source du champ Workfront] et le [!UICONTROL Champ cible de Workfront DAM] dans le graphique au bas de la fenêtre.
 1. Répétez l’opération pour tous les champs de métadonnées souhaités.
 
-![Capture d’écran de la [!UICONTROL Mappage des métadonnées] écran [!DNL Workfront]](assets/01-metadata-mapping.png)
+![Copie d’écran de [!UICONTROL Mappage des métadonnées] dans [!DNL Workfront]](assets/01-metadata-mapping.png)

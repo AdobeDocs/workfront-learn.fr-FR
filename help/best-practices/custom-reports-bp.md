@@ -1,6 +1,6 @@
 ---
-title: Bonne pratique - Rapports personnalisés
-description: Découvrez les recommandations de bonnes pratiques des experts d’Adobe Workfront concernant la configuration, la gestion et l’utilisation des rapports personnalisés Workfront.
+title: 'Bonne pratique : rapports personnalisés.'
+description: Découvrez les bonnes pratiques recommandées par les expertes et les experts Adobe Workfront en matière de configuration, de gestion et d’utilisation des rapports personnalisés Workfront.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
@@ -9,56 +9,56 @@ exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 0%
+ht-degree: 84%
 
 ---
 
-# Bonne pratique - Rapports personnalisés
+# Bonne pratique : rapports personnalisés.
 
-## Qu’est-ce qu’une &quot;bonne pratique&quot; Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
-Les bonnes pratiques sont des consignes qui représentent un plan d’action efficace. Elles sont facilement adoptées par vous et les utilisateurs de votre entreprise et peuvent être répliquées avec succès dans l’ensemble de votre entreprise.
+Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
-Lorsque vous passez en revue ces recommandations, gardez à l’esprit que certaines bonnes pratiques Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à guider vos configurations et votre utilisation du système Workfront.
+En examinant ces recommandations, gardez à l’esprit que certaines des bonnes pratiques de Workfront sont universelles, tandis que d’autres peuvent être plus spécifiques au sujet. Utilisez ces bonnes pratiques comme cadre pour vous aider à configurer et à utiliser le système Workfront.
 
-## Navigation dans cette page
+## Naviguer sur cette page
 
-Lorsque vous parcourez cette page, vous trouverez d’abord une liste de haut niveau de toutes les bonnes pratiques relatives à la rubrique. Cela vous permet de consulter les recommandations sans entrer dans les détails du &quot;pourquoi&quot;.
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques relatives à ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-&quot;Pourquoi ces bonnes pratiques ?&quot; , qui se trouve après la liste de haut niveau, fournit des détails plus détaillés sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., vous devez envisager d’implémenter avec votre instance Workfront.
+La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
 
 ## Bonnes pratiques relatives aux rapports personnalisés
 
-* Envisagez d’utiliser des invites de rapport pour réduire les résultats d’un rapport, plutôt que de créer plusieurs rapports similaires ou de créer des structures de filtre complexes dans un rapport.
+* Envisagez d’utiliser des invites de rapport pour affiner les résultats d’un rapport, plutôt que de créer plusieurs rapports similaires ou de créer des structures de filtre complexes dans un rapport.
 
 * Accélérez la création de rapports en copiant un rapport existant similaire à partir duquel créer votre nouveau rapport.
 
-* Utilisez des caractères génériques basés sur l’utilisateur pour créer des rapports dynamiques afin que l’utilisateur qui consulte le rapport voit les informations qui le concernent.
+* Utilisez des caractères génériques basés sur l’utilisateur ou l’utilisatrice pour créer des rapports dynamiques afin de voir des informations utiles dans le rapport.
 
-* Créez des vues qui permettent la modification en ligne.
+* Créez des vues qui permettent l’édition en ligne.
 
 </br>
 </br>
 
 
-## Pourquoi ces bonnes pratiques ?
+## Pourquoi s’agit-il des bonnes pratiques ?
 
-**Bonne pratique**
+**Bonnes pratiques**
 
-Envisagez d’utiliser des invites de rapport pour réduire les résultats d’un rapport, plutôt que de créer plusieurs rapports similaires ou de créer des structures de filtre complexes dans un rapport.
-
-
-**Voici pourquoi :**
-
-Réduisez le nombre de rapports à créer (et développez l’utilisation des rapports que vous créez) en incluant des invites, en particulier sur les rapports que vous exécutez fréquemment.
-
-Les invites vous permettent de filtrer &quot;sur le moment&quot; les ajouts sur un rapport sans modifier les configurations de filtre du rapport. Par exemple, vous disposez d’un rapport qui détecte les tâches ayant un certain statut qui sont affectées à une équipe spécifique. Ajoutez des invites à ce rapport &quot;de base&quot; qui vous permettent de préciser la période des dates d’échéance des tâches, de voir uniquement les tâches auxquelles des documents sont joints ou de déterminer les tâches auxquelles un formulaire personnalisé particulier est associé.
+Envisagez d’utiliser des invites de rapport pour affiner les résultats d’un rapport, plutôt que de créer plusieurs rapports similaires ou de créer des structures de filtre complexes dans un rapport.
 
 
-**Remarque**: certains utilisateurs peuvent trouver des invites déroutantes. Si tel est le cas, plusieurs rapports avec des titres clairs peuvent être une meilleure solution pour eux.
+**Voici pourquoi : **
+
+Réduisez le nombre de rapports que vous devez créer et élargissez l’utilisation des rapports que vous créez en incluant des invites, en particulier pour les rapports que vous exécutez fréquemment.
+
+Les invites vous permettent de filtrer &quot;sur le moment&quot; les ajouts sur un rapport sans modifier les configurations de filtre du rapport. Par exemple, vous avez un rapport qui recherche les tâches ayant un certain statut qui sont affectées à une équipe spécifique. Ajoutez des invites à ce rapport &quot;de base&quot; qui vous permettent de préciser la période des dates d’échéance des tâches, de voir uniquement les tâches auxquelles des documents sont joints ou de déterminer les tâches auxquelles un formulaire personnalisé particulier est associé.
+
+
+**Note** : certains utilisateurs ou utilisatrices peuvent trouver les invites déroutantes. Si c’est le cas, il est préférable d’opter pour plusieurs rapports avec des titres clairs.
 
 
 </br>
@@ -68,20 +68,20 @@ Les invites vous permettent de filtrer &quot;sur le moment&quot; les ajouts sur 
 
 Accélérez la création de rapports en copiant un rapport existant similaire à partir duquel créer votre nouveau rapport.
 
-**Voici pourquoi :**
+**Voici pourquoi : **
 
-Cela vous permet non seulement d’économiser du temps, mais cela garantit également que le nouveau rapport contient les filtres, vues ou regroupements dont vous avez besoin dans le rapport d’origine.
+Cela permet non seulement de gagner du temps, mais aussi de s’assurer que le nouveau rapport contient les filtres, les vues ou les regroupements dont vous avez besoin dans le rapport d’origine.
 
 </br>
 </br>
 
 **Bonne pratique**
 
-Utilisez des caractères génériques basés sur l’utilisateur pour créer des rapports dynamiques afin que l’utilisateur qui consulte le rapport voit les informations qui le concernent.
+Utilisez des caractères génériques basés sur l’utilisateur ou l’utilisatrice pour créer des rapports dynamiques afin de voir des informations utiles dans le rapport.
 
-**Voici pourquoi :**
+**Voici pourquoi : **
 
-Les caractères génériques basés sur les utilisateurs rendent les rapports plus flexibles, ce qui permet aux auteurs de rapports de créer un seul rapport qui peut être partagé avec plusieurs utilisateurs. Non seulement les caractères génériques basés sur l’utilisateur fournissent des informations personnalisées et personnalisées à l’utilisateur connecté qui consulte le rapport personnalisé, mais cela signifie que vous pouvez réduire le nombre de rapports à créer et à gérer.
+Les caractères génériques basés sur l’utilisateur ou l’utilisatrice rendent les rapports plus flexibles, permettant aux créateurs et créatrices de rapports de créer un rapport unique qui peut être partagé avec plusieurs utilisateurs et utilisatrices. Non seulement les caractères génériques basés sur l’utilisateur ou l’utilisatrice fournissent des informations personnalisées à la personne connectée qui consulte le rapport personnalisé, mais ils permettent également de réduire le nombre de rapports à créer et à gérer.
 
 </br>
 </br>
@@ -90,8 +90,8 @@ Pour plus d’informations sur l’utilisation des caractères génériques dans
 
 **Bonne pratique**
 
-Créez des vues qui permettent la modification en ligne.
+Créez des vues qui permettent l’édition en ligne.
 
-**Voici pourquoi :**
+**Voici pourquoi : **
 
-Grâce à la modification en ligne, les utilisateurs peuvent modifier les informations d’un élément directement à partir d’un rapport ou d’une liste. Cela permet d’économiser du temps car les utilisateurs n’ont pas à ouvrir l’objet pour apporter des modifications ou rebondir d’un objet à l’autre lors de la mise à jour de plusieurs éléments. Assurez-vous que les utilisateurs savent que la modification en ligne est pratique et rapide (deux éléments qui contribuent à l’adoption par les utilisateurs de Workfront).
+Grâce à l’édition en ligne, les utilisateurs et les utilisatrices peuvent modifier les informations relatives à un élément directement à partir d’un rapport ou d’une liste. Cela permet d’économiser du temps car les utilisateurs n’ont pas à ouvrir l’objet pour apporter des modifications ou rebondir d’un objet à l’autre lors de la mise à jour de plusieurs éléments. Informez les utilisateurs et les utilisatrices que l’édition en ligne est pratique et rapide (deux éléments qui contribuent à l’adoption de Workfront par les utilisateurs et les utilisatrices).

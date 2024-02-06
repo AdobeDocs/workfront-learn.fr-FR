@@ -1,6 +1,6 @@
 ---
-title: Comprendre les graphiques du travail et des personnes
-description: Dans [!UICONTROL Analytics amélioré], les graphiques de travail vous montrent l’activité du point de vue du projet et de la tâche, tandis que les graphiques de personnes vous montrent l’activité du point de vue de l’équipe d’accueil.
+title: Comprendre les graphiques de travail et de personnes
+description: Dans [!UICONTROL Analytics amélioré], les graphiques de travail vous présentent l’activité du point de vue des projets et des tâches, tandis que les graphiques de personnes vous présentent l’activité du point de vue d’une équipe d’accueil.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -13,37 +13,37 @@ exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 94%
 
 ---
 
-# Comprendre les graphiques du travail et des personnes
+# Comprendre les graphiques de travail et de personnes
 
-Les graphiques de travail vous montrent l’activité du point de vue du projet et de la tâche, tandis que les graphiques Personnes vous montrent l’activité du point de vue de l’équipe d’accueil.
+Les graphiques de travail vous présentent l’activité du point de vue des projets et des tâches, tandis que les graphiques de personnes vous présentent l’activité du point de vue d’une équipe d’accueil.
 
-Sélectionnez le type de graphique Analytics à afficher (professionnel ou personnel) dans le menu du panneau de gauche.
+Sélectionnez le type de graphique Analytics à afficher (travail ou personnes) dans le menu du panneau de gauche.
 
 ## Graphiques de travail
 
-![Une image de la recherche de la variable [!UICONTROL Analytics] de la fonction [!DNL Workfront Classic]](assets/section-1-1.png)
+![Image de la recherche de la fonction [!UICONTROL Analytics] dans [!DNL Workfront Classic]](assets/section-1-1.png)
 
 Lorsque vous accédez aux graphiques de travail, vous verrez par défaut :
 
-1. Statistiques IPC
+1. Les statistiques KPI
 1. Feuille de route
 1. Activité des projets
-1. Treemap du projet (non affiché ci-dessus)
+1. L’arborescence du projet (n’apparaît ci-dessus)
 
-Le Burndown et les Tâches dans les graphiques en vol apparaissent lorsque vous explorez en détail les données.
+Le graphique d’avancement et celui des tâches en cours apparaissent lorsque vous explorez en détail les données.
 
-* Cliquez sur un projet dans la vue Plan de vol et une vue de Burndown de ce projet s’affiche en dessous.
-* Cliquez sur un projet dans la vue Treemap. Une opération de Burndown et une tâche en vue de vol apparaîtront en dessous.
+* Cliquez sur un projet dans la vue Plan en cours et une vue du Graphique d’avancement de ce projet s’affichera en dessous.
+* Cliquez sur un projet dans la vue Arborescence. Le Graphique d’avancement et la vue Tâches en cours apparaîtront alors en dessous.
 
-## Graphiques populaires
+## Graphiques de personnes
 
-![Une image de la recherche de la variable [!UICONTROL Analytics] de la fonction [!DNL Workfront Classic]](assets/section-1-2.png)
+![Image de la recherche de la fonction [!UICONTROL Analytics] dans [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Les graphiques à puces se composent des éléments suivants :
+Les graphiques de personnes sont composés des éléments suivants :
 
 1. Activité par équipe
 1. Capacité des ressources
