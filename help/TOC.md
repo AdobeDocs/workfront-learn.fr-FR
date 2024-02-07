@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '2382'
+source-wordcount: '2389'
 ht-degree: 97%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [Commencer avec la gestion d’un projet](manage-work/projects/getting-started-manage-a-project.md)
       + [Rechercher des projets](manage-work/projects/find-projects.md)
       + [Partager un projet](manage-work/projects/share-a-project.md)
+      + [Présentation de l’équipe de projet](manage-work/projects/understand-the-project-team.md)
       + [Comprendre la communication d’un projet](manage-work/projects/understand-project-communication.md)
       + [Afficher des informations sur le projet](manage-work/projects/view-project-information.md)
       + [Suivre l’avancement global du projet](manage-work/projects/track-overall-project-progress.md)
@@ -207,6 +208,7 @@ ht-degree: 97%
       + [Créer des activités de filtre de base](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Créer un rapport simple](reporting/basic-reporting/create-a-simple-report.md)
       + [Créer un rapport de tâche](reporting/basic-reporting/create-a-task-report.md)
+      + [Copier un rapport](reporting/basic-reporting/copy-a-report.md)
       + [Créer des rapports avec des graphiques](reporting/basic-reporting/create-reports-with-charts.md)
       + [Créer un rapport de matrice](reporting/basic-reporting/create-a-matrix-report.md)
       + [Créer des tableaux de bord](reporting/basic-reporting/create-dashboards.md)
