@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: 0f2a8c6855398759890fad1282ced3c28615f7f5
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 40%
@@ -32,9 +32,9 @@ Dans cette vidéo, vous apprendrez :
 >[!TIP]
 >
 >Ventilez vos spatulas et mélangez des bols et préparez-vous à goûter les &quot;recettes&quot; dans notre [Guide d’utilisation des rapports client Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Vous y trouverez des instructions détaillées pour 10 rapports, prêtes à être publiées dès aujourd’hui dans votre environnement.
-><br><br>
+><br>
 >Nous avons rassemblé les rapports préférés des clients et les avons rassemblés dans un livre de cuisine facile à digérer, afin que vous puissiez reprendre et tester votre cuisine Workfront.
-><br><br>
+><br>
 >Ces 10 rapports proviennent de clients qui sont comme vous. Répartis dans différents secteurs, départements, équipes, postes et toutes dans différentes entreprises, nous vous devons un immense merci aux clients incroyables qui ont partagé un de leurs articles préférés. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
 
 
