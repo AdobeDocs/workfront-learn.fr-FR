@@ -1,5 +1,5 @@
 ---
-title: Présentation d’un cas pratique de comparaison des indicateurs de performance clés
+title: Comprendre un cas d’utilisation de comparaison des KPI
 description: Découvrez comment comparer les indicateurs de performance clés dans [!UICONTROL Analytics amélioré] de la période actuelle à une période antérieure, et comment comparer les indicateurs de performance clés à deux filtres différents.
 activity: use
 feature: Reports and Dashboards
@@ -9,21 +9,22 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8739
+recommendations: noDisplay,noCatalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 64%
 
 ---
 
-# Présentation d’un cas pratique de comparaison des indicateurs de performance clés
+# Comprendre un cas d’utilisation de comparaison des KPI
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment comparer les indicateurs de performance clés de la période actuelle à la période précédente
+* Comment comparer les KPI de la période actuelle avec ceux de la période précédente
 * Comment modifier la période
-* Comment comparer les indicateurs de performance clés avec deux filtres différents côte à côte
+* Comment comparer des KPI avec deux filtres différents côte à côte
 
 >[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on)
