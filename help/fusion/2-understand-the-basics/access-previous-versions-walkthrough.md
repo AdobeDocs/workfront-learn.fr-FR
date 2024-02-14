@@ -1,6 +1,6 @@
 ---
 title: Accéder à la présentation des versions précédentes
-description: Découvrez comment restaurer les versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées dans  [!DNL Adobe Workfront Fusion].
+description: Découvrez comment restaurer des versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées dans [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 Dans cette vidéo, vous allez :
 
-* Découvrez comment restaurer les versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées plusieurs fois.
+* Découvrez comment restaurer des versions précédentes après avoir apporté des modifications à votre scénario et enregistré plusieurs fois.
 
 ## Accéder à la présentation des versions précédentes
 
@@ -33,9 +34,6 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 >
 >Après avoir sauvegardé votre scénario, une nouvelle version est disponible dans le menu à trois points si vous avez besoin d’y accéder ultérieurement. Les versions de scénario sauvegardées précédemment ne sont disponibles que pendant 60 jours. Si vous devez accéder à des versions précédentes après les 60 jours à des fins d’audit, Workfront recommande de sauvegarder un plan directeur de votre scénario et de l’archiver dans un endroit convenu.
 
->[!TIP]
->
->Pour obtenir des instructions détaillées sur la façon de procéder, consultez l’exercice [Accéder à la présentation des versions précédentes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=fr).
 
 ## Compléter votre terminologie
 

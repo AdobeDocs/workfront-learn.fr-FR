@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 91%
 
 ---
 
 # Optimisation du scénario de Workfront Fusion
 
-En quoi consiste « l’optimisation des scénarios » et que pouvez-vous faire pour optimiser vos scénarios ?
+Qu’est-ce que &quot;l’optimisation des scénarios&quot; et que pouvez-vous faire pour optimiser vos scénarios ?
 
 L’optimisation des scénarios est une compétence nécessitant de la pratique, du temps et de l’implication pour se développer. Votre première tentative d’élaboration d’un scénario à but commercial ne doit pas être la dernière. Les scénarios doivent être répétés depuis le moment de leur création jusqu’au lancement de l’intégration. Même après votre lancement, les scénarios doivent être examinés et mis à jour tout au long de leur durée de vie afin de suivre les changements liés au comportement et au marché.
 

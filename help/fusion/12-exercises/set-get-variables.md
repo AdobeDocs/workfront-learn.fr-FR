@@ -1,5 +1,5 @@
 ---
-title: Variables Set/Get
+title: exercice Définir/Obtenir des variables
 description: Découvrez comment utiliser les modules Définir et Obtenir la variable pour utiliser les champs disponibles dans un chemin au sein d’un chemin différent.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11045
 thumbnail: KT11045.png
+recommendations: noDisplay,noCatalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '628'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '641'
+ht-degree: 98%
 
 ---
 
-# Variables Set/Get
+# exercice Définir/Obtenir des variables
 
 Découvrez comment utiliser les modules Définir et Obtenir la variable pour utiliser les champs disponibles dans un chemin au sein d’un chemin différent.
 

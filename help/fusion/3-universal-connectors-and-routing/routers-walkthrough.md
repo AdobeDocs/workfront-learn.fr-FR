@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '853'
 ht-degree: 100%
 
 ---
@@ -37,9 +38,6 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 Si vous avez des difficultés à accéder à votre propre jeton de super-héros, vous pouvez utiliser ce jeton partagé : 10110256647253588. Veuillez faire attention au nombre de fois où vous appelez l’API super-héros afin que ce jeton partagé continue de fonctionner pour tout le monde.
 
->[!TIP]
->
->Pour obtenir des instructions détaillées sur la réalisation de l’exercice, consultez l’exercice [Présentation des routeurs](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=fr).
 
 
 ## Rechercher des éléments dans le panneau de mappage

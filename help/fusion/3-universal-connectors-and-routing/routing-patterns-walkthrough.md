@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ Utilisez le module Définir la variable pour envoyer un nombre à travers plusie
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
-
->[!TIP]
->
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation des modèles de routage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=fr).
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

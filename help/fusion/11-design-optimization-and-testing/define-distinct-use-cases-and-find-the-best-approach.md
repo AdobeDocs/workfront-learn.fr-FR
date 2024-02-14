@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 74%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 Lorsque vous réfléchissez à une automatisation avant de créer, il existe des stratégies que vous pouvez déployer afin de minimiser le retravail requis ou le nombre d’itérations que vous devez effectuer.
 
-Vous gagnerez du temps en définissant un cas d’utilisation clair déclenché par un événement spécifique. Lorsque vous ne prenez pas le temps de vous assurer que vous allez dans la bonne direction, vous obtenez des scénarios complexes ou inefficaces.
+Vous gagnerez le plus de temps en définissant un cas d’utilisation clair déclenché par un événement spécifique. Quand vous ne prenez pas le temps de vous assurer que vous allez dans la bonne direction, vous finissez avec des scénarios complexes ou inefficaces.
 
 Dans cette vidéo, vous apprendrez à :
 

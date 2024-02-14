@@ -11,9 +11,9 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 7cd5e383310f48660955b9e953a7baf13530b105
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -33,9 +33,6 @@ Dans cette vidéo, vous apprendrez à :
 * Créer un scénario de base
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
-
-Pour obtenir des instructions pas à pas, consultez l’exercice [Présentation de la conception de scénario initiale](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=fr).
-
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

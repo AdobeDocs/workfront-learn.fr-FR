@@ -8,11 +8,12 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11037
+recommendations: noDisplay,noCatalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '706'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '697'
+ht-degree: 88%
 
 ---
 
@@ -24,11 +25,11 @@ Au début de la formation Workfront Fusion, vous avez appris quelques bonnes pr
 
 En règle générale, l’objectif principal de Workfront Fusion est toujours d’avoir des scénarios simples. Voici quelques façons de créer des conceptions simples à interpréter.
 
-* Veillez à nommer tous les modules. Cliquez avec le bouton droit de la souris sur un module et sélectionnez Renommer. Les libellés des modules doivent être courts, mais indiquer clairement l’objectif du module. Par exemple, « Créer un profil Mktg avec modèle Ch ».
+* Veillez à nommer tous les modules. Cliquez avec le bouton droit de la souris sur un module et sélectionnez Renommer. Les libellés des modules doivent être courts, mais indiquer clairement l’objectif du module. Par exemple, &quot;Créer un profil Mktg avec modèle Ch&quot;.
   ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-1.png)
-* Ajoutez également un libellé aux chemins de routage. Même si un chemin n’utilise pas de filtre directement après un routeur, vous pouvez appliquer un libellé sans remplir la logique du filtre. Ainsi, les tiers peuvent comprendre quels lots passent par quels chemins et pourquoi. Pour créer un libellé pour un chemin de routeur sans filtre, cliquez avec le bouton droit sur le chemin, ajoutez un libellé et enregistrez.
+* Ajoutez également un libellé aux chemins de routage. Même si un chemin n&#39;utilise pas de filtre directement après un routeur, vous pouvez appliquer un libellé sans remplir la logique de filtrage. Ainsi, les tiers peuvent comprendre quels lots passent par quels chemins et pourquoi. Pour créer un libellé pour un chemin de routeur sans filtre, cliquez avec le bouton droit sur le chemin, ajoutez un libellé et enregistrez.
   ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-2.png)
-* Le cas échéant, vous pouvez ajouter des notes dans un scénario, dans le cas où un libellé de module ou de chemin de routage est trop court pour apporter une description claire. Vous pouvez ajouter des notes lorsque vous le souhaitez tout au long du processus de conception et d’itération.
+* Ajoutez des notes le cas échéant dans un scénario si une étiquette de module ou de chemin de routage est trop courte pour clarifier ce qui se passe réellement. Vous pouvez ajouter des notes lorsque vous le souhaitez tout au long du processus de conception et d’itération.
 
 Cependant, la lecture et la compréhensions seront facilitées si vous ajoutez des notes à la toute fin de la conception du scénario, lorsque ce dernier est prêt à être lancé. Partez de la fin de votre scénario (le coin inférieur droit) pour retourner vers l’arrière. Ainsi, les notes qui s’appliquent au début de votre scénario se trouvent en haut de la liste lorsque vous ouvrez le panneau Notes.
 
@@ -66,7 +67,7 @@ Vous pouvez créer un modèle dans la section Modèles d’équipe. Le modèle q
 
 Lors de la création du modèle, vous pouvez inclure un assistant qui guidera les personnes dans la création des scénarios, la modification des connexions, les données mappées et d’autres champs de panneau, le cas échéant.
 
-Cochez la case « Utiliser dans l’assistant » pour ajouter des instructions qui seront disponibles lorsque quelqu’un construira un scénario à l’aide de votre modèle. Cette information apparaîtra dans le champ Aide. Pour permettre aux utilisateurs et utilisatrices de voir ce texte lorsqu’ils utilisent le modèle, activez l’option Utiliser comme valeur par défaut.
+Cochez la case &quot;Utiliser dans l’assistant&quot; pour ajouter des instructions qui seront disponibles lorsqu’une personne crée un scénario à l’aide de votre modèle. Cette information apparaîtra dans le champ Aide. Pour permettre aux utilisateurs et utilisatrices de voir ce texte lorsqu’ils utilisent le modèle, activez l’option Utiliser comme valeur par défaut.
 
 ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-8.png)
 

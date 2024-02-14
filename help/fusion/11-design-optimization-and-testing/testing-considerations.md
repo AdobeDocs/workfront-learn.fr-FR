@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '325'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +41,7 @@ Dans le cadre des tests, vous devez vous assurer que les exigences sont respect�
 Gardez ces instructions à l’esprit pour vous assurer que vos tests sont cohérents et recensent tous les éléments essentiels.
 
 * Déterminez les données de test nécessaires en fonction des exigences. En règle générale, les tests les plus efficaces s’appuient sur des exigences bien définies et documentées.
-* Planifiez et communiquez la manière de générer les données nécessaires pour tester la profondeur, l’ampleur, la complexité et la charge. Évitez de n’utiliser que les tests de « parcours heureux ». Pensez à toutes les façons dont les utilisateurs et utilisatrices peuvent interagir avec les automatisations et à la large gamme de données possibles qui seront traitées.
+* Planifiez et communiquez la manière de générer les données nécessaires pour tester la profondeur, l’ampleur, la complexité et la charge. Évitez de tester uniquement le &quot;chemin heureux&quot;. Pensez à toutes les façons dont les utilisateurs et utilisatrices peuvent interagir avec les automatisations et à la large gamme de données possibles qui seront traitées.
 * Tenez compte des données d’entrée et de sortie nécessaires entre les systèmes connectés. Vérifiez les entrées et les sorties dans ces systèmes, et pas seulement dans Workfront Fusion.
 
 Donnez la priorité aux tests tout au long du cycle de vie de votre implémentation de Workfront Fusion. Lors de la conception, réfléchissez à la manière de tester si les décisions de conception répondent aux exigences. Réfléchissez aux erreurs qui pourraient être provoquées par des données inattendues et ajoutez une gestion des erreurs appropriée au fur et à mesure que vous concevez. Prévoyez d’effectuer une itération sur des prototypes exploitables au fur et à mesure des tests.

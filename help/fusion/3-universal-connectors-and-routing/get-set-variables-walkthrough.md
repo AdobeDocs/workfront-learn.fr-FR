@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '181'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
->[!TIP]
->
->Pour obtenir des instructions pas à pas sur la réalisation de la présentation, consultez l’exercice [Présentation des modules Définir/Obtenir les variables](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=fr).
 
 ## À vous
 

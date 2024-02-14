@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ Installez et utilisez les différentes zones de l’outil de développement Work
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
-
->[!TIP]
->
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation de l’outil de développement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=fr).
 
 
 ## Téléchargement de l’outil de développement

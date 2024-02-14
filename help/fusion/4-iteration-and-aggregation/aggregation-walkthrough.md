@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 67%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 ## Vue d’ensemble
 
-En utilisant le scénario « Présentation de l’itération » que vous avez créé lors de votre dernière présentation, additionnez le nombre d’heures prévues pour chaque tâche du projet et envoyez-vous un e-mail avec ces informations.
+À l’aide du scénario &quot;Introduction à l’itération&quot; que vous avez créé lors de la dernière présentation, agrégez les heures planifiées sur chaque tâche opérationnelle du projet et envoyez-vous un courrier électronique contenant ces informations.
 
 ![Image du scénario Fusion](assets/iteration-and-aggregation-2.png)
 
@@ -31,9 +32,6 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
->[!TIP]
->
->Pour obtenir des instructions détaillées sur la manière d’effectuer la présentation, accédez à l’exercice [Présentation de l’agrégation](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=fr).
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

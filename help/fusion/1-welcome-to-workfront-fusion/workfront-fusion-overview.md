@@ -8,21 +8,22 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '413'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 74%
 
 ---
 
 # Vue d’ensemble de la formation à Workfront Fusion
 
-Chaque section de Workfront Fusion contient plusieurs tutoriels, chacun d’entre eux présentant les concepts que vous devrez comprendre avant de passer au tutoriel suivant. Un exercice de présentation vous permet de maîtriser la plupart des concepts.
+Chaque section de Workfront Fusion contient plusieurs tutoriels, chaque tutoriel présentant des concepts que vous devez comprendre avant de passer au tutoriel suivant. Un exercice de présentation vous permet de maîtriser la plupart des concepts.
 
 Les vidéos vous montrent comment réaliser chaque exercice, ce qui aboutit généralement à la création d’un nouveau scénario Workfront Fusion. Vous pouvez ensuite terminer l’exercice dans votre propre environnement Workfront Fusion, ajoutant ainsi un scénario à votre propre collection.
 
-Dans certains tutoriels, vous créerez un nouveau scénario à partir de zéro. Dans d’autres tutoriels, vous commencerez par copier un scénario que vous avez créé précédemment.
+Dans certains tutoriels, vous allez créer un nouveau scénario à partir de zéro. Dans d’autres tutoriels, vous commencerez par copier un scénario que vous avez créé précédemment.
 
 >[!IMPORTANT]
 >
@@ -34,11 +35,11 @@ Dans certains tutoriels, vous créerez un nouveau scénario à partir de zéro. 
 
 Pour réaliser les exercices des parcours de formation de Workfront Fusion, vous aurez besoin d’un lecteur test de Workfront. Si vous disposez déjà d’un lecteur de test, nous vous en recommandons un nouveau pour cette formation.
 
-Demandez un environnement d’entraînement en remplissant [ce formulaire](https://forms.office.com/r/f1J8HRGrNY). Si vous ne pouvez pas accéder au formulaire, envoyez votre nom, votre adresse électronique et le nom de votre société à wfttstdr@adobe.com.
+Demandez un environnement d’entraînement en remplissant [ce formulaire](https://forms.office.com/r/f1J8HRGrNY). Si vous ne parvenez pas à accéder au formulaire, envoyez votre nom, votre adresse e-mail et le nom de votre entreprise à wfttstdr@adobe.com.
 
 ### Accéder à Workfront Fusion pour l’entraînement
 
-Workfront ne propose pas de lecteurs de test pour Workfront Fusion. Pour vous entraîner à la fin des tutoriels, demandez l’accès à Workfront Fusion à l’administrateur ou à l’administratrice Workfront Fusion de votre entreprise.
+Workfront ne propose pas de lecteurs de test pour Workfront Fusion. Pour vous entraîner à la fin des tutoriels, demandez l’accès à Workfront Fusion à l’administrateur Workfront Fusion de votre entreprise.
 
 ### Instructions pas à pas pour effectuer les exercices de présentation
 
@@ -48,11 +49,11 @@ Des instructions pas à pas sont données pour réaliser les exercices de prése
 
 Les exercices pratiques et les défis sont fournis à la suite de certains exercices de présentation.
 
-Il existe plusieurs façons de résoudre les exercices pratiques. L’objectif est de vous mettre au défi d’essayer d’atteindre un objectif de scénario sans avoir à suivre les étapes ou la « bonne réponse », car c’est ce que vous devrez faire lors de la création d’un scénario dans votre entreprise.
+Il existe plusieurs façons de résoudre les exercices pratiques. L’objectif est de vous mettre au défi d’essayer d’atteindre un objectif de scénario sans avoir à suivre les étapes ou la &quot;bonne réponse&quot;, car c’est ce que vous devrez faire lors de la création d’un scénario dans votre entreprise.
 
 L’exercice d’entraînement est lié à l’activité de présentation.
 
-Les défis sont pour les personnes qui veulent essayer quelque chose qui implique d’autres concepts qu’elles ont appris.
+Les défis sont pour ceux qui veulent essayer quelque chose qui implique d&#39;autres concepts qu&#39;ils ont appris.
 
 ### Obtenir de l’aide
 
