@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
-workflow-type: ht
-source-wordcount: '685'
-ht-degree: 100%
+source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
+workflow-type: tm+mt
+source-wordcount: '650'
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,8 @@ ht-degree: 100%
 >[!TIP]
 >
 >* Pour mieux comprendre le mode texte, nous vous recommandons de regarder le webinaire enregistré [Ask the Expert - Présentation du reporting en mode texte](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=fr), d’une durée d’une heure.
->* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder les tutoriels [Reporting avancé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=fr), qui durent en tout cinq heures et demie.
+>* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder les tutoriels [Reporting avancé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=fr), qui durent cinq heures et demie en tout.
+>* Cliquez ici pour accéder [[!UICONTROL Explorateur d’API]](https://developer.adobe.com/workfront/api-explorer/)
 
 Dans cette vidéo, vous apprendrez :
 
