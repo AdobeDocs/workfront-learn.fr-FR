@@ -1,5 +1,5 @@
 ---
-title: Configuration de la gestion des ressources, équilibreur de charge de travail, rapport d’utilis... (les titres ne doivent pas comprendre pus de 60 caractères)
+title: Configurations de gestion des ressources, équilibreur de charge de travail et rpt d’utilisation
 description: Découvrez comment configurer les gestionnaires de ressources avec les bons accès et comment afficher l’équilibreur de charge de travail et le rapport d’utilisation.
 feature: Resource Management
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '209'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '203'
+ht-degree: 65%
 
 ---
 
 # Configuration de la gestion des ressources, équilibreur de charge de travail et rapport d’utilisation
 
-[!DNL Workfront] fournit des données via de multiples outils dans [!DNL Workfront], pour faciliter vos décisions en matière de ressources et rendre vos processus plus fluides. Pour connaître les activités sur vos ressources, vous devez vous assurer que vos gestionnaires, vos utilisateurs et utilisatrices et vos projets sont correctement configurés. Ces configurations s’avèrent utiles même si vous ne prévoyez pas d’utiliser l’ensemble des outils de gestion des ressources [!DNL Workfront’s].
+[!DNL Workfront] fournit des données via de multiples outils dans [!DNL Workfront], pour faciliter vos décisions en matière de ressources et rendre vos processus plus fluides. Pour savoir ce qui se passe avec vos ressources, assurez-vous que vos gestionnaires, vos utilisateurs et vos projets sont correctement configurés. Ces configurations s’avèrent utiles, même si vous ne prévoyez pas d’utiliser l’ensemble des [!DNL Workfront's] outils de gestion des ressources.
 
 Dans cette section, vous apprendrez :
 
@@ -28,7 +28,7 @@ Dans cette section, vous apprendrez :
 
 ## La configuration de la gestion des ressources.
 
-Commençons par nous assurer que les personnes appropriées ont accès aux ressources de votre entreprise et peuvent les administrer.
+Commençons par nous assurer que les bonnes personnes ont accès aux ressources de votre organisation et peuvent les administrer.
 
 &lt;!Téléchargez le guide pour des instructions détaillées.&gt;
 

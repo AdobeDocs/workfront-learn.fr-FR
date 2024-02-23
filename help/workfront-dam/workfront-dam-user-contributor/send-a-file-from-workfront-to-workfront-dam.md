@@ -1,5 +1,5 @@
 ---
-title: Envoyer un fichier de Workfront vers la [!UICONTROL Workfront DAM]
+title: Envoyer un fichier en tant que contributeur ou contributrice
 description: Découvrez comment envoyer un fichier terminé dans  [!DNL Workfront]  vers [!UICONTROL Workfront DAM].
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '176'
 ht-degree: 100%
 
 ---
 
-# Envoyer un fichier de [!DNL Workfront] vers [!UICONTROL Workfront DAM]
+# Envoyer un fichier en tant que contributeur ou contributrice
 
 Lorsque vous disposez d’un fichier complet dans [!DNL Workfront], vous pouvez l’envoyer à la [!UICONTROL Workfront DAM] en quelques clics.
 

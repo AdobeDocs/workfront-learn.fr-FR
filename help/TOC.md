@@ -3,10 +3,10 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '2408'
-ht-degree: 94%
+source-wordcount: '2405'
+ht-degree: 93%
 
 ---
 
@@ -269,7 +269,7 @@ ht-degree: 94%
       + [Degré de gestion des ressources](manage-resources/resource-management/resource-management-maturity.md)
       + [Paramètres de gestion des ressources pour les projets](manage-resources/resource-management/settings-for-projects.md)
       + [Paramètres de gestion des ressources pour les utilisateurs et les utilisatrices](manage-resources/resource-management/settings-for-users.md)
-      + [Configuration de la gestion des ressources, équilibreur de charge de travail et rapport d’utilisation](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [Configurations de gestion des ressources, équilibreur de charge de travail et rpt d’utilisation](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + Équilibreur de charge de travail {#workload-balancer}
       + [Trouver l’équilibreur de charge de travail](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 94%
       + [Comprendre la gestion des ressources en tant que contributeur ou contributrice](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Comprendre la recherche de ressources en tant que contributeur ou contributrice](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Comprendre les Lightbox en tant que contributeur ou contributrice](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [Comprendre les bonnes pratiques relatives aux métadonnées et aux mots-clés en tant que contributeur ou contributrice](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [Présentation des métadonnées et des bonnes pratiques relatives aux mots-clés](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Utiliser les ressources en tant que contributeur ou contributrice](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Envoyer un fichier en tant que contributeur ou contributrice](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Publier des ressources en tant que contributeur ou contributrice](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 94%
    + [Performances et maintenance du système](best-practices/system-performance-maintenance-bp.md)
    + [Rapports du mode texte](best-practices/test-mode-reporting-bp.md)
    + [Planification et gestion de la chronologie](best-practices/timeline-planning-management-bp.md)
-   + [Feuilles de temps et heure de connexion](best-practices/timesheets-logging-time-bp.md)
+   + [Feuilles de calcul et heure de journalisation](best-practices/timesheets-logging-time-bp.md)
    + [Utilisation](best-practices/utilization-bp.md)
    + [Objectifs Workfront](best-practices/workfront-goals-bp.md)
    + [Équilibreur de charge de travail](best-practices/workload-balancer-bp.md)

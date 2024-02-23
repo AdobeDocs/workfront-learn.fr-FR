@@ -1,5 +1,5 @@
 ---
-title: Ajouter un lien [!UICONTROL Workfront DAM] dans Workfront
+title: Ajouter un lien [!UICONTROL Workfront DAM]
 description: Découvrez comment ajouter un lien [!UICONTROL Workfront DAM] dans Workfront afin que vous puissiez lier [!UICONTROL DAM] à votre projet, à votre tâche ou à votre problème dans Workfront.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '266'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 95%
 
 ---
 
-# Ajouter un lien [!UICONTROL Workfront DAM] lien dans [!DNL Workfront]
+# Ajouter un lien [!UICONTROL Workfront DAM]
 
 Commencez par configurer la connexion entre les deux systèmes.
 
@@ -35,7 +35,7 @@ Vous pouvez maintenant placer un lien vers l’élément [!UICONTROL Workfront D
    ![Image de l’option [!UICONTROL À partir de Workfront DAM] dans le menu déroulant [!UICONTROL Ajouter] ](assets/01-contributor-from-workfront-dam.png)
 1. La liste des fichiers et dossiers auxquels vous avez accès dans [!UICONTROL Workfront DAM] apparaît dans la fenêtre.
 
-1. Trouvez la ressource que vous cherchez et cochez la case située à côté de celle-ci. La vue par défaut est une liste, mais vous pouvez passer à une vue miniature à l’aide des icônes dans le coin supérieur droit de la fenêtre.
+1. Recherchez la ressource que vous recherchez et cochez la case en regard de celle-ci. La vue par défaut est une liste, mais vous pouvez passer à une vue miniature à l’aide des icônes dans le coin supérieur droit de la fenêtre.
 
    ![Image des ressources sélectionnées dans une fenêtre pop-up](assets/02-contributor-select-files-in-dam.png)
 

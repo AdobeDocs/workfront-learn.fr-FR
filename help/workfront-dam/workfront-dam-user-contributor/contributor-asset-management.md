@@ -1,5 +1,5 @@
 ---
-title: Découvrez comment gérer les ressources dans [!UICONTROL Workfront DAM].
+title: Comprendre la gestion des ressources en tant que contributeur ou contributrice
 description: Découvrez comment gérer des ressources dans [!UICONTROL Workfront DAM] pour améliorer votre workflow.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '459'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '460'
+ht-degree: 88%
 
 ---
 
-# Contributeur ou contributrice : gestion des ressources numériques
+# Comprendre la gestion des ressources en tant que contributeur ou contributrice
 
 Dans cette vidéo, vous apprendrez à :
 
@@ -38,8 +38,8 @@ Une partie de votre workflow peut inclure la gestion de plusieurs versions (ou t
 
 Le système permet une gestion de versions automatique des ressources lorsqu’un fichier portant le même nom qu’un fichier existant est chargé dans le même dossier. Vérifiez auprès de votre administrateur ou administratrice système si cette fonctionnalité a été activée.
 
-Si la gestion de versions automatique est activée, une ressource sera versionnée uniquement si elle est chargée dans le dossier contenant la ressource originale. Les deux fichiers doivent porter le même nom. Si la ressource est chargée dans un autre dossier, elle y est insérée en tant que nouveau fichier.
-Si la gestion de versions n’est pas activée, un fichier portant le même nom qu’un fichier existant est chargé comme un nouveau fichier, quel que soit le dossier dans lequel il est placé. Cela peut entraîner l’affichage de deux ressources portant le même nom dans le même dossier.
+Si le contrôle automatique des versions est activé, une ressource n’est convertie que si elle est chargée dans le dossier contenant la ressource d’origine. Les deux fichiers doivent porter le même nom. Si la ressource est chargée dans un autre dossier, elle y est insérée en tant que nouveau fichier.
+Si le contrôle de version n’est pas activé, un fichier portant le même nom qu’un fichier existant est téléchargé en tant que nouveau fichier, quel que soit le dossier dans lequel il est placé. Cela peut entraîner l’affichage de deux ressources portant le même nom dans le même dossier.
 
 Vous pouvez également charger manuellement les versions d’une ressource spécifique. Cliquez sur l’icône de modification de la ressource, puis sélectionnez **[!UICONTROL Charger une nouvelle version]**.
 

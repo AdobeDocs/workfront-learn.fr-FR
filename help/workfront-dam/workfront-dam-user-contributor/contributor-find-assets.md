@@ -1,6 +1,6 @@
 ---
-title: Recherche et organisation des ressources dans [!UICONTROL Workfront DAM]
-description: Découvrez comment rechercher des ressources, effectuer des recherches dans des dossiers, optimiser les résultats de recherche, utiliser des métadonnées et des mots-clés comme filtres de recherche, et bien plus encore, dans [!UICONTROL Workfront DAM].
+title: Comprendre la recherche de ressources en tant que contributeur ou contributrice
+description: Découvrez comment rechercher des ressources, effectuer des recherches dans des dossiers, rationaliser les résultats de recherche, utiliser des métadonnées et des mots-clés comme filtres de recherche dans [!UICONTROL Gestion des actifs numériques Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# Contributeur ou contributrice : rechercher des ressources
+# Comprendre la recherche de ressources en tant que contributeur ou contributrice
 
 Dans cette vidéo, vous apprendrez à :
 
@@ -34,7 +34,7 @@ Dans cette vidéo, vous apprendrez à :
 
 Une recherche de base porte sur les noms de fichiers, les champs de métadonnées, les mots-clés et le contenu de la ressource (en fonction du type de ressource). Elle n’inclut pas le nom du dossier.
 
-La plupart des résultats de recherche sont des correspondances exactes. Il existe une exception à cette règle de « correspondance exacte » lorsque [!UICONTROL Workfront DAM] effectue une recherche portant sur le champ du nom de fichier. [!UICONTROL Workfront DAM] renvoie des correspondances partielles de noms de fichiers, plutôt que des correspondances exactes.
+La plupart des résultats de recherche sont des correspondances exactes. Une exception à cette règle de &quot;correspondance exacte&quot; est lorsque la variable [!UICONTROL Gestion des actifs numériques Workfront] recherche le champ du nom de fichier. [!UICONTROL Workfront DAM] renvoie des correspondances partielles de noms de fichiers, plutôt que des correspondances exactes.
 
 ## Opérateurs d’utilisateur ou d’utilisatrice lors d’une recherche
 
@@ -54,12 +54,12 @@ Utilisez l’opérateur OR pour trouver les ressources qui contiennent l’un de
 
 ### Expression
 
-Pour trouver une expression exacte, utilisez des guillemets doubles autour des mots. Tous les mots seront trouvés ensemble et dans l’ordre. Par exemple, « Tour Eiffel » trouvera ces mots dans cet ordre précis.
+Pour trouver une expression exacte, utilisez des guillemets doubles autour des mots. Tous les mots seront trouvés ensemble et dans l’ordre. Par exemple, « Tour Eiffel » donnera ces mots dans l’ordre exact.
 
 ### Opérateur négatif
 
-Si vous souhaitez exclure un mot des résultats de la recherche, placez le signe moins (-) devant le mot à exclure. Vérifiez qu’il n’y a pas d’espace entre le signe moins et le mot. Par exemple, pour exclure les ressources dont les métadonnées contiennent le mot « tour », votre recherche peut être spécifiée ainsi : « Paris -tour ».
+Si vous souhaitez exclure un mot des résultats de la recherche, placez le signe moins (-) devant le mot à exclure. Veillez à ce qu’il n’y ait pas d&#39;espace entre le signe moins et le mot. Par exemple, pour exclure les ressources dont les métadonnées contiennent le mot « tour », votre recherche peut être définie comme « Paris -tour ».
 
 ### Opérateur de champ vide
 
-Pour trouver des ressources qui ne contiennent aucune information dans un champ de métadonnées spécifique, saisissez le champ à rechercher dans ce format : ?[xxxxx]. Par exemple, si vous souhaitez rechercher des ressources auxquelles aucun mot-clé n’a été attribué, saisissez « ? »[mot-clé] dans le champ de recherche.
+Pour trouver des ressources qui ne contiennent aucune information dans un champ de métadonnées spécifique, saisissez le champ à rechercher dans ce format : ?[xxxxx]. Par exemple, si vous souhaitez rechercher des ressources auxquelles aucun mot-clé n’a été attribué, saisissez ?[mot-clé] dans le champ de recherche.

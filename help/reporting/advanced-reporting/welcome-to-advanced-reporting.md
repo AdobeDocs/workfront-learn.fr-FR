@@ -10,10 +10,10 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '440'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 91%
 
 ---
 
@@ -39,7 +39,13 @@ Avant de regarder ces tutoriels, vous devez disposer :
 * D’une bonne compréhension des objets que vous souhaitez inclure dans les rapports.
 * D’une bonne compréhension de l’utilisation des formulaires personnalisés, en particulier des champs personnalisés calculés.
 * D’un type de licence [!UICONTROL Plan] avec les droits activés pour créer des rapports et des filtres.
-* Vous devriez avoir suivi les cours [[!UICONTROL Éléments de reporting de base]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=fr), [[!UICONTROL Création de rapports et de tableaux de bord personnalisés]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=fr) et [[!UICONTROL Création de filtres intermédiaires]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=fr).
+* Vous auriez dû suivre les cours suivants :
+   * [[!UICONTROL Éléments de création de rapports de base]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=fr)
+   * [[!UICONTROL Création de rapports et de tableaux de bord personnalisés]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=fr)
+   * [[!UICONTROL Créer des filtres intermédiaires]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=fr)
+* Vous devez également suivre les tutoriels suivants :
+   * [[!UICONTROL Présentation du mode Texte de base pour les vues]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr)
+   * [[!UICONTROL Comprendre le mode de texte de base pour les regroupements]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=fr)
 
 ## Audience cible
 

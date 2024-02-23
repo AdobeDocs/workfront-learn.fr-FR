@@ -2,7 +2,7 @@
 title: Comprendre Workfront pour  [!DNL Slack]
 description: Découvrez comment obtenir une présentation de ce que vous apprendrez d’autres  [!DNL Workfront]  pour les vidéos Slack.
 activity: use
-feature: Workfront Integrations and Apps
+feature: Workfront Integrations and Apps,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ team: Technical Marketing
 jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
-source-git-commit: 01a1f3c4b41798cebe4239de69067bce437cb8a0
-workflow-type: ht
-source-wordcount: '63'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
