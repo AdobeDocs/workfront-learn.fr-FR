@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
+last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 70%
 
 ---
 
@@ -29,20 +30,11 @@ Dans cette vidéo, vous apprendrez à :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Conseils pro
+## En savoir plus sur l’utilisation des tâches
 
-* La fenêtre [!UICONTROL Nouveau projet à partir d’un modèle] facilite la sélection du modèle approprié pour votre projet. Faites défiler le panneau de gauche pour trouver un modèle, puis sélectionnez-le pour obtenir un aperçu de son contenu. Cet aperçu vous indique le nombre de tâches figurant dans le modèle, les fonctions requises, etc.
-
-Fenêtre ![[!UICONTROL Nouveau projet à partir d’un modèle]](assets/planner-fund-new-project-from-template-window.png)
-
-* S’il existe un modèle que vous utilisez souvent, faites-en un favori ! Le modèle est répertorié dans le menu [!UICONTROL Nouveau projet] et apparaît sous l’icône [!UICONTROL Favoris et récents] dans la barre de navigation. Il vous suffit de cliquer sur l’icône Favoris en forme d’étoile où que vous la voyiez : sur la page du modèle, tout en choisissant un modèle avec lequel créer votre projet, etc.
-
-![[!UICONTROL Liste des Modèles favoris] sous le bouton [!UICONTROL Nouveau projet]](assets/planner-fund-template-favorites.png)
-
-<!---
-learn more:
-create a project using a template
-create a project
-copy a project
-import a project from Microsoft Project
---->
+* [Création de tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
+* [Utilisation des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
+* [Affecter des tâches à partir du plan de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
+* [Présentation des durées de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
+* [Découvrez comment séquencer des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
+* [Présentation des heures planifiées](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)
