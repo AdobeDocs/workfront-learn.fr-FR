@@ -11,9 +11,9 @@ jira: KT-14017
 thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -26,5 +26,5 @@ Découvrez comment supprimer, ajouter et réorganiser des widgets sur la page d�
 
 >[!NOTE]
 >
-> Pour en savoir plus sur chaque widget, accédez à la section [Prise en main de la nouvelle page d’accueil dans Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) article.
+> Pour en savoir plus sur chaque widget, accédez à l’article [Prise en main de la nouvelle page d’accueil dans Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=fr).
 

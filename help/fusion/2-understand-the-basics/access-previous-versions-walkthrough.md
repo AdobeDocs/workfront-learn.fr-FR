@@ -1,6 +1,6 @@
 ---
 title: Accéder à la présentation des versions précédentes
-description: Découvrez comment restaurer des versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées dans [!DNL Adobe Workfront Fusion].
+description: Découvrez comment restaurer les versions précédentes après avoir apporté des modifications à votre scénario et les avoir enregistrées dans  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 86%
 
 Dans cette vidéo, vous allez :
 
-* Découvrez comment restaurer des versions précédentes après avoir apporté des modifications à votre scénario et enregistré plusieurs fois.
+* Découvrez comment restaurer des versions précédentes après avoir modifié votre scénario et enregistré plusieurs fois.
 
 ## Accéder à la présentation des versions précédentes
 

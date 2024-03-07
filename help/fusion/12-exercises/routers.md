@@ -1,5 +1,5 @@
 ---
-title: Exercice des routeurs
+title: Exercice sur les routeurs
 description: Découvrez l’importance des routeurs et comment s’en servir pour traiter différents modules de manière conditionnelle.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11043.png
 recommendations: noDisplay,noCatalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '755'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Exercice des routeurs
+# Exercice sur les routeurs
 
 Découvrez l’importance des routeurs et comment s’en servir pour traiter différents modules de manière conditionnelle.
 

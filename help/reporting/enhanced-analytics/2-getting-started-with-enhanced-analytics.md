@@ -12,9 +12,9 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ Les analyses améliorées peuvent vous montrer l’avancement de vos équipes et
 
 ## Conditions préalables des analyses
 
-Pour tirer pleinement parti des analyses améliorées de Workfront, vous devez vous assurer que vos équipes saisissent des données et mettent à jour certains champs aussi précisément que possible.
+Pour tirer le meilleur parti d’Analytique améliorée dans Workfront, vous devez vous assurer que vos équipes saisissent les données et mettent à jour certains champs aussi précisément que possible.
 
-Lorsque nous utilisons le terme &quot;équipe&quot; dans Analytics, nous faisons référence à &quot;équipes d’accueil&quot;. Les utilisateurs et utilisatrices de Workfront peuvent faire partie de plusieurs équipes, mais ils ne peuvent faire partie que d’une seule équipe domestique. Les équipes utilisées dans les graphiques de personnes sont composées uniquement d’utilisateurs et d’utilisatrices pour lesquels cette équipe est désignée comme équipe domestique.
+Le terme « équipe » dans les analyses fait référence aux « équipes locales ». Les utilisateurs et utilisatrices de Workfront peuvent faire partie de plusieurs équipes, mais ils ne peuvent faire partie que d’une seule équipe domestique. Les équipes utilisées dans les graphiques de personnes sont composées uniquement d’utilisateurs et d’utilisatrices pour lesquels cette équipe est désignée comme équipe domestique.
 
 Commencez vos opérations correctement en vous assurant que les modèles de projet disposent d’heures prévues et de durées précises, affectées à toutes les tâches.
 

@@ -1,5 +1,5 @@
 ---
-title: Au-delà de l’exercice de mappage de base
+title: Au-delà de l’exercice sur le mappage de base
 description: Découvrez comment utiliser les formules du panneau de mappage pour manipuler ou convertir le ou les champs envoyés à un module.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11039.png
 recommendations: noDisplay,noCatalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Au-delà de l’exercice de mappage de base
+# Au-delà de l’exercice sur le mappage de base
 
 Découvrez comment utiliser les formules du panneau de mappage pour manipuler ou convertir le ou les champs envoyés à un module.
 

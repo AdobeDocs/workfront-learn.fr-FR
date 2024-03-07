@@ -11,9 +11,9 @@ jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 63%
 
 >[!NOTE]
 >
->Deux expériences d’accueil sont actuellement disponibles dans Workfront. Si vous disposez de la nouvelle expérience d’accueil, consultez la [Suppression, ajout et réorganisation de widgets dans l’accueil](/help/workfront-home/remove-add-and-rearrange-widgets.md) tutoriel .
+>Deux expériences d’Accueil sont actuellement disponibles dans Workfront. Si vous avez la nouvelle expérience d’Accueil, consultez le tutoriel [Supprimer, ajouter et réorganiser les widgets dans l’Accueil](/help/workfront-home/remove-add-and-rearrange-widgets.md).
 
 
 Dans cette vidéo, vous apprendrez à :

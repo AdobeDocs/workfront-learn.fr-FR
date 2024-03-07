@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Sélectionnez le type de graphique Analytics à afficher (travail ou personnes) 
 
 ![Image de la recherche de la fonction [!UICONTROL Analytics] dans [!DNL Workfront Classic]](assets/section-1-1.png)
 
-Lorsque vous accédez aux graphiques de travail, vous verrez par défaut :
+Lorsque vous accéderez aux graphiques de travail, vous verrez par défaut :
 
 1. Les statistiques KPI
 1. Feuille de route

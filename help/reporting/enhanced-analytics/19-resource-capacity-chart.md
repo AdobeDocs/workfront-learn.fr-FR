@@ -1,6 +1,6 @@
 ---
 title: Comprendre le graphique de capacité des ressources
-description: Découvrez comment le graphique de la capacité de ressource dans [!UICONTROL Analytics amélioré] indique le nombre d’heures planifiées affectées à une équipe d’accueil au cours de la période filtrée par rapport au nombre total d’heures disponibles de l’équipe.
+description: Découvrez comment le graphique de capacité des ressources dans [!UICONTROL Analytique améliorée] indique le nombre d’heures planifiées affectées à une équipe locale pour la période définie avec les filtres, par rapport au nombre total d’heures disponibles de l’équipe.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10046
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

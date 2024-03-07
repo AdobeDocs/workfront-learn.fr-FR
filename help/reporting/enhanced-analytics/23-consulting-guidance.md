@@ -1,6 +1,6 @@
 ---
 title: Comprendre les conseils du service de conseil
-description: Découvrez comment faire des recommandations pour aider votre entreprise à fonctionner plus efficacement en utilisant [!UICONTROL Analytics amélioré] dans Workfront.
+description: Découvrez comment créer des recommandations pour aider votre organisation à fonctionner de manière plus efficace en utilisant [!UICONTROL Analytique améliorée] dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 

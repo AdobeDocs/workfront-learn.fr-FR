@@ -1,5 +1,5 @@
 ---
-title: Exercice du module Switch
+title: Exercice sur le module Switch
 description: Découvrez comment utiliser le module Switch lorsque vous devez effectuer des transformations de données plus complexes ou dynamiques.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11052.png
 recommendations: noDisplay,noCatalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Exercice du module Switch
+# Exercice sur le module Switch
 
 Découvrez comment utiliser le module Switch lorsque vous devez effectuer des transformations de données plus complexes ou dynamiques.
 

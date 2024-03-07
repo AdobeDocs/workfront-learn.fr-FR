@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -39,12 +39,12 @@ Avant de regarder ces tutoriels, vous devez disposer :
 * D’une bonne compréhension des objets que vous souhaitez inclure dans les rapports.
 * D’une bonne compréhension de l’utilisation des formulaires personnalisés, en particulier des champs personnalisés calculés.
 * D’un type de licence [!UICONTROL Plan] avec les droits activés pour créer des rapports et des filtres.
-* Vous auriez dû suivre les cours suivants :
+* Vous auriez dû suivre les cours suivants :
    * [[!UICONTROL Éléments de création de rapports de base]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=fr)
-   * [[!UICONTROL Création de rapports et de tableaux de bord personnalisés]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=fr)
+   * [[!UICONTROL Créer des rapports et des tableaux de bord personnalisés]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=fr)
    * [[!UICONTROL Créer des filtres intermédiaires]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=fr)
-* Vous devez également suivre les tutoriels suivants :
-   * [[!UICONTROL Présentation du mode Texte de base pour les vues]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr)
+* Vous devez également suivre les tutoriels suivants :
+   * [[!UICONTROL Comprendre le mode Texte de base pour les vues]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr)
    * [[!UICONTROL Comprendre le mode de texte de base pour les regroupements]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=fr)
 
 ## Audience cible

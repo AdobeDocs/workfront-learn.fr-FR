@@ -1,6 +1,6 @@
 ---
-title: Comprendre l’accès au graphique de ventilation et le revoir
-description: Découvrez comment accéder au graphique de ventilation et comprendre la relation entre les heures restantes, la condition du projet et la vitesse du projet dans [!UICONTROL Analytics amélioré].
+title: Comprendre l’accès et la révision du graphique d’avancement
+description: Découvrez comment accéder au graphique d’avancement et comprendre la relation entre les heures restantes, l’état du projet et la vitesse du projet dans [!UICONTROL Analytique améliorée].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 

@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Il suffit de cliquer sur n’importe quelle date du calendrier pour indiquer une
 
 ![Image de sélection d’une période à l’aide du widget Calendrier](assets/section-1-3.png)
 
-Les graphiques [!DNL Analytics] affichent par défaut les données des 60 derniers jours et des 15 prochains jours. Vous pouvez sélectionner une nouvelle plage de dates et l’appliquer à tous les graphiques lorsque vous utilisez [!DNL Analytics].
+Les graphiques [!DNL Analytics] affichent par défaut les données des 60 derniers jours et des 15 prochains jours. Vous pouvez sélectionner une nouvelle période et l’appliquer à tous les graphiques lorsque vous utilisez [!DNL Analytics].
 
 Lorsque vous actualisez la page, que vous quittez la page ou que vous vous déconnectez de Workfront, la valeur par défaut de la période est rétablie.
 

@@ -12,9 +12,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 63%
 
 Dans cette vidéo, vous apprendrez :
 
-* Comment envoyer une requête via une [!DNL  Workfront] file d’attente de requête
+* Envoyer une requête par le biais d’une file d’attente des demandes [!DNL  Workfront]
 * Comprendre la façon dont les files d’attente de demandes sont structurées
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Les brouillons de demandes sont automatiquement enregistrés
 
-Lorsque vous commencez à remplir un formulaire de demande, [!DNL Workfront] enregistre un brouillon automatiquement une fois que vous avez rempli le champ [!UICONTROL Objet]. Cela signifie que vous ne perdrez pas de données si vous devez quitter le [!UICONTROL Demandes] pour effectuer une autre action ou si vous devez vous arrêter au milieu de votre requête pour collecter plus d’informations.
+Lorsque vous commencez à remplir un formulaire de demande, [!DNL Workfront] enregistre un brouillon automatiquement une fois que vous avez rempli le champ [!UICONTROL Objet]. Cela signifie que vous ne perdrez pas de données si vous devez quitter la zone [!UICONTROL Requêtes] pour effectuer une autre action ou si vous devez vous arrêter au milieu de votre requête pour collecter plus d’informations.
 
 Vous verrez une indication que le brouillon a été enregistré en haut de la fenêtre. [!DNL Workfront] enregistrera un brouillon de votre requête, même si les champs requis ne sont pas encore remplis.
 
 ![image de la création d’un brouillon de demande](assets/queue-mgt-make-a-request-draft-1.png)
 
-Lorsque vous êtes prêt à envoyer la demande, recherchez-la dans la variable [!UICONTROL Brouillons] . Cliquez sur le nom pour l’ouvrir et terminer de remplir le formulaire. Cliquez ensuite sur [!UICONTROL Envoyer la requête] lorsque vous avez fini.
+Lorsque votre requête est prête à être envoyée, vous pouvez la retrouver dans l’onglet [!UICONTROL Brouillons]. Cliquez sur le nom pour l’ouvrir et terminer de remplir le formulaire. Cliquez ensuite sur [!UICONTROL Envoyer la requête] lorsque vous avez terminé.
 
 ![image de récupération d’un brouillon de demande](assets/queue-mgt-make-a-request-draft-2.png)
 

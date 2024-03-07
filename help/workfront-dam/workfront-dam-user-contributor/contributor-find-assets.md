@@ -1,6 +1,6 @@
 ---
 title: Comprendre la recherche de ressources en tant que contributeur ou contributrice
-description: Découvrez comment rechercher des ressources, effectuer des recherches dans des dossiers, rationaliser les résultats de recherche, utiliser des métadonnées et des mots-clés comme filtres de recherche dans [!UICONTROL Gestion des actifs numériques Workfront].
+description: Découvrez comment rechercher des ressources, effectuer des recherches dans des dossiers, optimiser les résultats de recherche, utiliser des métadonnées et des mots-clés comme filtres de recherche dans [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Dans cette vidéo, vous apprendrez à :
 
 Une recherche de base porte sur les noms de fichiers, les champs de métadonnées, les mots-clés et le contenu de la ressource (en fonction du type de ressource). Elle n’inclut pas le nom du dossier.
 
-La plupart des résultats de recherche sont des correspondances exactes. Une exception à cette règle de &quot;correspondance exacte&quot; est lorsque la variable [!UICONTROL Gestion des actifs numériques Workfront] recherche le champ du nom de fichier. [!UICONTROL Workfront DAM] renvoie des correspondances partielles de noms de fichiers, plutôt que des correspondances exactes.
+La plupart des résultats de recherche sont des correspondances exactes. Il existe une exception à cette règle de « correspondance exacte » lorsque [!UICONTROL Workfront DAM] effectue une recherche portant sur le champ du nom de fichier. [!UICONTROL Workfront DAM] renvoie des correspondances partielles de noms de fichiers, plutôt que des correspondances exactes.
 
 ## Opérateurs d’utilisateur ou d’utilisatrice lors d’une recherche
 

@@ -1,6 +1,6 @@
 ---
 title: Vérifier les tâches en cours
-description: Découvrez comment accéder aux Tâches dans le graphique en ligne et comment voir rapidement quelles tâches n’ont pas été terminées dans un projet, le tout dans [!UICONTROL Analytics amélioré].
+description: Découvrez comment accéder aux Tâches dans le graphique de tâches en cours et comment voir rapidement quelles tâches n’ont pas été effectuées dans un projet, le tout dans [!UICONTROL Analytique améliorée].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '246'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

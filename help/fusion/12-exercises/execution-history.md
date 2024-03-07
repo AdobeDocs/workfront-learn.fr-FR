@@ -1,5 +1,5 @@
 ---
-title: Exercice d'historique d'exécution
+title: Exercice sur l’historique d’exécution
 description: Examinez et auditez les détails des exécutions passées et des configurations de scénarios.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11049.png
 recommendations: noDisplay,noCatalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Exercice d&#39;historique d&#39;exécution
+# Exercice sur l’historique d’exécution
 
 Examinez et auditez les détails des exécutions passées et des configurations de scénarios.
 

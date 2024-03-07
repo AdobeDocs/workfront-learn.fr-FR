@@ -1,6 +1,6 @@
 ---
 title: En quoi consiste [!UICONTROL Brand Connect] ?
-description: Découvrez comment [!UICONTROL Brand Connect].
+description: Découvrez [!UICONTROL Brand Connect].
 activity: use
 feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ Les utilisateurs et utilisatrices de [!UICONTROL Brand Connect] se voient attrib
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-Personnalisation de l’aspect du rapport [!UICONTROL Brand Portal] pour aider les utilisateurs à trouver rapidement les éléments dont ils ont besoin et pour s’assurer que les dernières ressources sont facilement disponibles.
+Personnalisez l’aspect de [!UICONTROL Brand Portal] de votre entreprise pour aider les utilisateurs et utilisatrices à trouver rapidement les éléments dont ils ont besoin et pour vous assurer que les dernières ressources sont facilement disponibles.
 
 Dans cette vidéo, vous allez :
 
-* Découvrez comment [!UICONTROL Brand Connect]
+* Découvrir [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 

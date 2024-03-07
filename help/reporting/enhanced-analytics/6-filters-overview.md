@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '267'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez :
 
 >[!NOTE]
 >
->Tous les champs des formulaires personnalisés ne peuvent pas être utilisés comme filtres dans [!DNL Analytics]. Vous pourrez utiliser comme filtres les champs de cases à cocher, de menus déroulants, de boutons radio, de dates, de texte et de nombres. Choisissez d’abord le nom du formulaire, puis sélectionnez les champs disponibles.
+>Tous les champs des formulaires personnalisés ne peuvent pas être utilisés comme filtres dans [!DNL Analytics]. Vous pourrez utiliser comme filtres des cases à cocher, des menus déroulants, des boutons radio, des dates, des champs de texte et des champs numériques. Choisissez d’abord le nom du formulaire, puis sélectionnez les champs disponibles.
 
 ## Filtres de graphique des personnes
 
@@ -40,6 +40,6 @@ Les graphiques de personnes sont basés sur les équipes locales. Elles indiquen
 ## Remarques supplémentaires
 
 * Dans les graphiques de travail, seuls les **50 premiers projets** sont visibles. La page suivante permet de voir d’autres groupes de 50. Toutefois, les quatre indicateurs de performance clés (KPI) sont calculés pour tous les projets de la période concernée. Si la liste de vos projets dépasse 50 et que vous souhaitez afficher la liste entière en même temps, continuez à ajouter des filtres pour obtenir le sous-ensemble de projets approprié.
-* Les résultats de recherche commencent à s’afficher une fois que vous avez tapé au moins **trois lettres** de votre terme de recherche.
-* Vous pouvez **ajouter chaque filtre une seule fois**. Par exemple, une fois que vous avez ajouté Condition et sélectionné une condition spécifique, vous ne pouvez plus ajouter le champ Condition pour choisir une autre option. Vous devez supprimer le filtre et l’ajouter à nouveau avec tous les critères. L’exception à cette règle est le filtre Formulaire personnalisé.
+* Les résultats de recherche commencent à s’afficher une fois que vous avez tapé au moins **trois lettres** de votre terme de recherche.
+* Vous pouvez **ajouter chaque filtre une seule fois**. Par exemple, une fois que vous avez ajouté une condition et sélectionné une condition spécifique, vous ne pouvez pas ajouter à nouveau le champ Condition pour choisir une autre option. Vous devez supprimer le filtre et l’ajouter à nouveau avec tous les critères. L’exception à cette règle est le filtre Formulaire personnalisé.
 * Supprimez un filtre en cliquant sur le X en regard de celui-ci en haut de la fenêtre.

@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’équipe de projet
-description: Découvrez à quoi l’équipe de projet peut être utilisée et comment la gérer.
+title: Comprendre l’équipe de projet
+description: Découvrez à quoi l’équipe de projet peut servir et comment la gérer.
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -12,13 +12,13 @@ last-substantial-update: 2024-02-07T00:00:00Z
 jira: KT-14781
 doc-type: video
 source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# Présentation de l’équipe de projet
+# Comprendre l’équipe de projet
 
 Dans cette vidéo, vous apprendrez :
 

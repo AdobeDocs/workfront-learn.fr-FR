@@ -1,5 +1,5 @@
 ---
-title: Présentation des notifications de Brand Connect
+title: Comprendre les notifications de Brand Connect
 description: Découvrez comment afficher des notifications in-app, modifier vos paramètres de notification et créer un carnet d’adresses dans Brand Connect de [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -11,13 +11,13 @@ jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# Présentation des notifications de Brand Connect
+# Comprendre les notifications de Brand Connect
 
 Dans cette vidéo, vous apprendrez à :
 
