@@ -1,6 +1,6 @@
 ---
-title: Modification de l’équipe de projet dans un modèle de projet
-description: Évitez d’inclure involontairement des membres de l’équipe de projet dans une équipe de projet de modèle en apprenant à modifier l’équipe de projet de modèle.
+title: Modifier l’équipe de projet dans un modèle de projet
+description: Évitez d’inclure involontairement des personnes membres de l’équipe de projet dans une équipe de projet de modèle en apprenant à modifier l’équipe de projet de modèle.
 activity: use
 feature: Work Management
 thumbnail: 3426803.jpeg
@@ -12,17 +12,17 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Modification de l’équipe de projet dans un modèle de projet
+# Modifier l’équipe de projet dans un modèle de projet
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Comment éviter les attaques involontaires, y compris **non** membres de l’équipe de projet dans une équipe de projet de modèle.
-* Comment modifier l’équipe de projet du modèle.
+* comment éviter d’inclure involontairement des personnes membres de l’équipe qui ne font **pas** partie du projet dans une équipe de projet de modèle ;
+* comment modifier l’équipe de projet du modèle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
