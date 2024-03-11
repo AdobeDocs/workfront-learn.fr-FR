@@ -11,9 +11,9 @@ jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '586'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ La cadence traditionnelle d’un cycle de planification à long terme/à court t
 
 Tenez compte de ces concepts lorsque vous déterminez la cadence appropriée à votre entreprise.
 
-* Dans l&#39;environnement des affaires actuel, les facteurs internes et externes sont plus volatiles et changent souvent. Pour traiter ces facteurs de manière stratégique, les révisions et les ajustements des objectifs à court terme devraient être au minimum tous les trois mois.
+* Dans l’environnement commercial actuel, les facteurs internes et externes sont plus volatiles et changent souvent. Pour traiter ces facteurs de manière stratégique, les révisions et les ajustements des objectifs à court terme devraient être au minimum tous les trois mois.
 
 * Chaque bilan doit prévoir un temps de réflexion sur les réalisations et les efforts passés, et évaluer la trajectoire de l’entreprise pour l’avenir. Demandez-vous ainsi qu’à vos équipes... sommes-nous encore sur la bonne voie ?
 
