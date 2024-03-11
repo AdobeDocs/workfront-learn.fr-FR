@@ -1,5 +1,5 @@
 ---
-title: Présentation de Brand Portal
+title: Comprendre Brand Portal
 description: Découvrez comment accéder à Brand Portal dans [!UICONTROL Workfront DAM], créez des dossiers, définissez des dates d’expiration pour chaque ressource et modifiez les paramètres de la ressource.
 activity: use
 feature: Digital Content and Documents
@@ -11,13 +11,13 @@ jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '229'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Présentation de Brand Portal
+# Comprendre Brand Portal
 
 Dans cette vidéo, vous apprendrez à :
 
