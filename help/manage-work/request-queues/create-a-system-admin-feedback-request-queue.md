@@ -1,6 +1,6 @@
 ---
-title: Création d’une file d’attente de demandes de commentaires de l’administrateur système
-description: Découvrez comment créer une file d’attente de requêtes utile dans laquelle les administrateurs peuvent obtenir des commentaires sur les workflows et les processus.
+title: Créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système
+description: Découvrez comment créer une file d’attente des demandes utile dans laquelle les administrateurs et administratrices peuvent obtenir des commentaires sur les workflows et les processus.
 feature: Work Management
 thumbnail: 3427124.jpg
 type: Tutorial
@@ -12,30 +12,30 @@ last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
 source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création d’une file d’attente de demandes de commentaires de l’administrateur système
+# Créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système
 
 >[!IMPORTANT]
 >
->Conditions préalables :
+>Prérequis :
 >
->* [Création d’une file d’attente de requêtes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [Création d’un flux de requêtes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
->* Ou vous êtes déjà à l’aise avec la création d’une file d’attente de demandes qui utilise une règle de routage et un formulaire personnalisé.
+>* [Créer une file d’attente des demandes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=fr)
+>* [Créer un flux de requêtes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=fr)
+>* Ou vous êtes déjà à l’aise avec la création d’une file d’attente des demandes qui utilise une règle de transmission et un formulaire personnalisé.
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous apprendrez :
 
-* Pourquoi créer une file d’attente de demande de retour de l’administrateur système
-* Comment créer une file d’attente de commentaires de l’administrateur système
-* Comment un rapport de retour d’équipe d’administration peut vous aider à améliorer vos processus
+* pourquoi créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système ;
+* comment créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système ;
+* comment un rapport sur les commentaires de l’équipe d’administration peut vous aider à améliorer vos processus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
-Pour savoir comment créer le **Rapport de retour de l’équipe d’administration** utilisé dans la vidéo, reportez-vous au [Création d’un rapport de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutoriel et recherchez l’activité sur **Créer un rapport de retour d’équipe d’administration** Suivez la vidéo.
+Pour savoir comment créer le **Rapport sur les commentaires commentaires de l’équipe d’administration** utilisé dans la vidéo, reportez-vous au tutoriel [Créer un rapport de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=fr) et recherchez l’activité **Créer un rapport sur les commentaires de l’équipe d’administration** à la suite de la vidéo.
 
-Pour savoir comment créer un formulaire personnalisé, reportez-vous au [Création et partage d’un formulaire personnalisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutoriel .
+Pour savoir comment créer un formulaire personnalisé, reportez-vous au tutoriel [Créer et partager un formulaire personnalisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=fr).
