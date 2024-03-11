@@ -11,9 +11,9 @@ jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -38,13 +38,13 @@ Voici quelques bonnes pratiques pour vous aider à prendre en main vos efforts d
 * Ajoutez des termes d’utilisation pour les ressources gérées avec des droits afin d’éviter tout abus.
 * Ajoutez des métadonnées à vos ressources dès que vous les chargez.
 * Incluez des menus déroulants prédéfinis pour les données fréquemment utilisées afin d’éviter des incohérences.
-* Éduquez les contributeurs chargés de l’ajout de métadonnées dans la stratégie de métadonnées de votre entreprise.
-* Communiquez vos exigences de métadonnées aux fournisseurs externes (par exemple, &quot;Les photos doivent être envoyées avec les termes d’utilisation, le crédit et les métadonnées de lieu déjà ajoutés&quot;).
+* Informez les contributeurs et contributrices chargés d’ajouter des métadonnées à la stratégie de votre organisation en matière de métadonnées.
+* Communiquez vos exigences en matière de métadonnées aux fournisseurs externes (par exemple, « les photos doivent être envoyées avec les conditions d’utilisation, la source et les métadonnées de lieu déjà ajoutées »).
 * Effectuez régulièrement des audits pour vous assurer que les métadonnées sont correctement ajoutées.
 
 ## Développeer une stratégie de métadonnées
 
-Examinez le processus de ressources lors du développement de la stratégie de métadonnées de votre entreprise. La personne chargée de vous conseiller avec [!DNL Workfront] peut vous aider à répondre aux questions clés suivantes :
+Examinez le workflow de vos ressources lorsque vous élaborez la stratégie de métadonnées de votre organisation. La personne chargée de vous conseiller avec [!DNL Workfront] peut vous aider à répondre aux questions clés suivantes :
 
 * Qui est responsable de l’ajout de métadonnées ?
 * Quelles sont les métadonnées nécessaires ? Lesquelles sont facultatives ?
