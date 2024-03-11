@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ L’utilisation d’un modèle de projet permet à vos projets [!DNL  Workfront]
 1. Tâches antérieures
 1. Affectations
 
-Une fois que tout est prêt, faites passer le statut du projet à « En cours » pour le mettre en ligne. Au fur et à mesure que le projet avancera, vous souhaiterez garder une trace du travail à faire, des problèmes qui surgissent, des questions qui ont besoin de réponses, et plus encore. Rappelez-vous juste que... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront] !
+Une fois que tout est prêt, faites passer le statut du projet à « En cours » pour le mettre en ligne. Au fur et à mesure que le projet avancera, vous voudrez garder une trace du travail qui est accompli, des problèmes qui surgissent, des questions qui ont besoin de réponses, etc. Rappelez-vous juste que... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront] !
 
 <!---
 footer urls for the LP
