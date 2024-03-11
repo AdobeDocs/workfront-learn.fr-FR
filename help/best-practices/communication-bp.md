@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -49,9 +49,9 @@ Utilisez vos workflows pour déterminer les notifications nécessaires.
 
 En parcourant vos workflows étape par étape, il est plus facile d’identifier les points de communication et de s’assurer que les notifications appropriées sont activées. Les notifications sont ainsi adaptées au mode de fonctionnement de votre organisation, empêchant les spams ou les coupures de communication.
 
-Pour obtenir des instructions sur la configuration des notifications d’événement, voir [Configuration des notifications d’événement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Pour obtenir des instructions sur la configuration des notifications d’événement, voir [Configurer les notifications d’événement](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=fr).
 
-Pour obtenir des instructions sur la gestion des notifications d’événement, voir [Gestion des notifications d’événement in-app et par e-mail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Pour obtenir des instructions sur la gestion des notifications d’événement, voir [Gérer les notifications d’événement in-app et par e-mail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=fr).
 
 </br>
 </br>
@@ -72,5 +72,5 @@ Si vous avez beaucoup de threads dans un projet, il peut être difficile de trou
 * Nom du propriétaire
 * Date d’entrée
 
-Pour obtenir des instructions étape par étape sur la création d’un rapport de note avec des invites, regardez le [Création d’un rapport de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) tutoriel, puis effectuez l’activité qui suit.
+Pour obtenir des instructions détaillées sur la création d’un rapport de notes avec des invites, regardez le tutoriel [Créer un rapport de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=fr), puis effectuez l’activité qui suit.
 
