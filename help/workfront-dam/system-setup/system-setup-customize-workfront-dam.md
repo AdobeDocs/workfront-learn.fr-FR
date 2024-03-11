@@ -1,5 +1,5 @@
 ---
-title: Personnaliser [!UICONTROL Gestion des actifs numériques Workfront]
+title: Personnaliser la [!UICONTROL gestion des ressources numériques Workfront]
 description: Découvrez comment personnaliser [!UICONTROL Workfront DAM] en créant des filigranes, en personnalisant la fenêtre de connexion de la [!UICONTROL DAM], en appliquant une image de marque à l’interface, etc.
 activity: use
 feature: Digital Content and Documents
@@ -11,13 +11,13 @@ jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# Personnaliser [!UICONTROL Gestion des actifs numériques Workfront]
+# Personnaliser la [!UICONTROL gestion des ressources numériques Workfront]
 
 Dans cette vidéo, vous apprendrez à :
 
