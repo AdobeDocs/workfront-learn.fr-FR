@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ L’utilisation d’une analyse de rentabilité avant le démarrage de votre pro
 
 Elle vous donne également la possibilité de montrer aux parties prenantes comment votre projet contribue aux objectifs du service, de la région et/ou de l’entreprise.
 
-Pour obtenir des instructions sur l’utilisation de l’analyse de cas, voir [Présentation de l’analyse de cas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Pour obtenir des instructions sur l’utilisation de l’analyse de rentabilité, voir [Comprendre l’analyse de rentabilité](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=fr).
 
 </br>
 </br>
@@ -62,9 +62,9 @@ Dans l’analyse de rentabilité, estimez et ajustez les informations importante
 
 **Voici pourquoi : **
 
-S’assurer que ces informations sont aussi proches de ce que le projet &quot;vie réelle&quot; implique vous permet d’utiliser précisément la fonctionnalité de score dans Portfolio Optimizer pour déterminer la priorité des projets répertoriés. Portfolio Optimizer est un excellent outil pour vous assurer que vos projets sont hiérarchisés efficacement et qu’ils correspondent à la stratégie et à la valeur de votre entreprise.
+En veillant à ce que ces informations soient aussi proches que possible de ce qu’impliquera le projet « réel », vous pourrez utiliser avec précision la fonction de notation de l’Optimiseur de portfolio pour déterminer la priorité des projets répertoriés. L’Optimisateur de portfolio est un excellent outil pour vous assurer que vos projets sont efficacement hiérarchisés et qu’ils correspondent à la stratégie et aux valeurs de votre entreprise.
 
-Pour obtenir des instructions sur l’utilisation de l’analyse de cas, voir [Présentation de l’analyse de cas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Pour obtenir des instructions sur l’utilisation de l’analyse de rentabilité, voir [Comprendre l’analyse de rentabilité](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=fr).
 
-Pour obtenir des instructions sur l’utilisation de Portfolio Optimizer, voir [Utilisation de Portfolio Optimizer pour hiérarchiser et gérer le travail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Pour obtenir des instructions sur l’utilisation de l’Optimisateur de portfolio, voir [Utiliser l’Optimisateur de portfolio pour hiérarchiser et gérer le travail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=fr).
 
