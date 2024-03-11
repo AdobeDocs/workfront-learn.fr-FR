@@ -11,15 +11,15 @@ level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # Charger les ressources
 
-Avant de clôturer un projet [!DNL Workfront], assurez-vous que tous les fichiers pertinents sont joints dans la section [!UICONTROL Documents]. Téléchargez-les sous la forme d’un document ou d’un BAT, conformément aux directives de votre entreprise.
+Avant de clôturer un projet [!DNL Workfront], assurez-vous que tous les fichiers pertinents sont joints dans la section [!UICONTROL Documents]. Chargez-les sous la forme d’un document ou d’un BAT, conformément aux directives de votre organisation.
 
 Vous devrez peut-être importer le document ou le BAT en tant que version d’un fichier existant.
 
