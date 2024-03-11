@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '826'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -130,17 +130,17 @@ Modifiez le [!UICONTROL Format du champ] des colonnes [!UICONTROL Début le] et 
 1. Sous la liste déroulante [!UICONTROL Format du champ], sélectionnez [!UICONTROL « 10/17/60 3 h »].
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
-## Activité 4 : création d’un modèle de projet en mode d’état actif
+## Activité 4 : créer une vue de statut actif pour un modèle de projet
 
-Quiconque gère des modèles de projet apprécie l’état actif (Vrai ou Faux) de chaque modèle dans une liste. Mieux encore : le champ est modifiable en ligne.
+Quiconque gère des modèles de projet appréciera de voir le statut actif (Vrai ou Faux) de chaque modèle dans une liste. Mieux encore : le champ est modifiable en ligne.
 
-Créez une vue de modèle de projet nommée &quot;Standard+état actif&quot; avec les colonnes suivantes :
+Créez une vue de modèle de projet nommée « Standard + statut actif » avec les colonnes suivantes :
 
 * [!UICONTROL Nom]
-* [!UICONTROL Propriétaire]
+* [!UICONTROL Personne propriétaire]
 * [!UICONTROL Durée]
-* [!UICONTROL Heures planifiées]
-* [!UICONTROL Coût planifié]
+* [!UICONTROL Nombre d’heures prévues]
+* [!UICONTROL Coûts prévus]
 * [!UICONTROL Indicateurs]
 * [!UICONTROL Nom du groupe]
 * [!UICONTROL Est actif]
@@ -148,10 +148,10 @@ Créez une vue de modèle de projet nommée &quot;Standard+état actif&quot; ave
 
 ## Réponse de l’activité 4
 
-![Image de l’écran d’affichage de l’état actif d’un modèle de projet](assets/view-activity-4.png)
+![Image de l’écran qui montre une vue du statut actif d’un modèle de projet](assets/view-activity-4.png)
 
-1. Dans la liste d’un modèle de projet, accédez au **[!UICONTROL Affichage]** menu déroulant et sélectionnez **[!UICONTROL Nouvelle vue]**.
-1. Nommez votre vue &quot;Standard+état actif&quot;.
+1. Dans une liste de modèles de projets, allez dans le menu déroulant **[!UICONTROL Vue]** et sélectionnez **[!UICONTROL Nouvelle vue]**.
+1. Nommez votre vue « Standard + Statut actif ».
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]**.
-1. Dans le [!UICONTROL Afficher dans cette colonne] , saisissez &quot;is&quot;, puis sélectionnez &quot;Is Active&quot; sous le champ [!UICONTROL Modèle] source du champ.
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], tapez « est », puis sélectionnez « Est actif » sous la source du champ [!UICONTROL Modèle].
 1. Cliquez sur **[!UICONTROL Enregistrer la vue]**.
