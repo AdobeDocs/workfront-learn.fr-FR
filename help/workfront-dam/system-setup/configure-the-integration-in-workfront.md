@@ -10,15 +10,15 @@ level: Intermediate
 jira: KT-10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # Configurer l’intégration dans Workfront
 
-Activez la variable [!UICONTROL Gestion des actifs numériques Workfront] intégration à partir de Workfront **[!UICONTROL Configuration]** zone. Vous devez avoir un niveau d’accès d’administrateur ou d’administratrice système [!UICONTROL Workfront].
+Activez l’intégration de la [!UICONTROL Gestion des ressources numériques Workfront] à partir de la zone **[!UICONTROL Configuration]** de Workfront. Vous devez avoir un niveau d’accès d’administrateur ou d’administratrice système [!UICONTROL Workfront].
 
 ![Capture d’écran de la page de configuration [!UICONTROL Fournisseurs cloud].](assets/01-configure-the-integration-in-workfront.png)
 
