@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '405'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ La page du projet comporte de nombreuses fonctionnalités qui vous aideront à g
 ![Page du projet](assets/project-page-graphic-for-planner.png)
 
 1. **Cheminement de navigation :** naviguez dans la hiérarchie du programme et du portefeuille derrière le projet.
-2. **Type d’objet :** L’affichage du type d’objet sur la page d’entrée vous permet d’identifier ce que vous observez dans [!DNL Workfront]. Le terme &quot;projet&quot; peut être personnalisé par votre [!DNL Workfront] administrateur système.
-3. **Nom du projet :** Nom du projet que vous affichez. Cliquez sur le nom pour le modifier.
-4. **En-tête du projet :** Informations standard disponibles sur toutes les pages du projet.
+2. **Type d’objet :** afficher le type d’objet sur la page de destination permet d’identifier ce que vous consultez dans [!DNL Workfront]. Le terme « projet » peut être personnalisé par votre administrateur ou votre administratrice système [!DNL Workfront].
+3. **Nom du projet :** nom du projet que vous consultez. Cliquez sur le nom pour le modifier.
+4. **En-tête du projet :** informations standard disponibles sur toutes les pages du projet.
 5. **[!UICONTROL Pourcentage terminé] :** ces données sont automatiquement mises à jour en fonction des tâches accomplies dans le cadre du projet.
-6. **[!UICONTROL Propriétaire du projet] :** dans la plupart des organisations, il s’agit du chef de projet. C’est la personne responsable de la gestion du projet dans [!DNL Workfront] et s’assurer qu’il est terminé.
+6. **[!UICONTROL Propriétaire du projet] :** dans la plupart des organisations, il s’agit du chef de projet. Il s’agit de la personne responsable de la gestion du projet dans [!DNL Workfront] et qui doit s’assurer qu’il est terminé.
 7. **[!UICONTROL Date d’achèvement prévue] :** la date fixée par le ou la chef de projet dans le cadre du calendrier du projet.
 8. **[!UICONTROL Condition] :** une représentation visuelle de l’avancement du projet. [!DNL Workfront] peut configurer automatiquement la [!UICONTROL condition] en fonction du statut de la progression des tâches du projet. Par ailleurs, la [!UICONTROL condition] peut être définie manuellement dans les détails du projet.
 9. **[!UICONTROL Statut] :** indique le stade du processus auquel se trouve le projet : le projet est-il encore en cours de planification, est-il en cours de réalisation ou tous les travaux du projet sont-ils terminés ?
