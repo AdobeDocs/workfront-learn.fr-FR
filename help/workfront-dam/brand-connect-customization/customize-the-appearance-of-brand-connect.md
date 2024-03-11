@@ -11,9 +11,9 @@ jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '373'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ Ces widgets sont disponibles :
 
 ## Ajouter une barre de recherche
 
-Si vous concevez une page d’accueil personnalisée pour le [!UICONTROL Brand Connect], les utilisateurs doivent cliquer sur dans le [!UICONTROL Ressources] pour exécuter une recherche.
+Si vous concevez une page d’accueil personnalisée pour le [!UICONTROL Brand Connect] de votre organisation, les utilisateurs et utilisatrices doivent cliquer sur la zone [!UICONTROL Ressources] pour effectuer une recherche.
 
 Cependant, les administrateurs et administratrices système peuvent créer une barre de recherche à l’aide du widget HTML et de la balise HTML suivante :
 
