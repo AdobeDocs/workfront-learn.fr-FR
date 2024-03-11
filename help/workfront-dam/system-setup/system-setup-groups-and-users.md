@@ -11,9 +11,9 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -32,11 +32,11 @@ Dans cette vidéo, vous apprendrez à :
 
 ## Réviser des groupes, des utilisateurs et des utilisatrices
 
-Lorsque vous configurez votre [!UICONTROL Gestion des actifs numériques Workfront] système, il est important de tenir compte des rôles que les utilisateurs et les groupes jouent dans l’ensemble.
+Lorsque vous configurez votre système de [!UICONTROL gestion des ressources numériques Workfront], il est important de tenir compte des rôles que jouent les utilisateurs, les utilisatrices et les groupes dans l’ensemble.
 
 Les groupes contrôlent l’accès aux dossiers de ressources dans [!UICONTROL Workfront DAM]. Les paramètres du groupe contrôlent également ce que les utilisateurs et utilisatrices peuvent faire avec les ressources (affichage, téléchargement, modification, etc.) auxquelles ils sont autorisés à accéder.
 
-Lors de la création de groupes, il est essentiel de garder à l’esprit les dossiers de ressources auxquels les membres de ce groupe auront accès dans . [!UICONTROL Gestion des actifs numériques Workfront].
+Lors de la création de groupes, il est essentiel de garder à l’esprit les dossiers de ressources auxquels les personnes membres de ce groupe auront accès dans la [!UICONTROL gestion des ressources numériques Workfront].
 
 Les utilisateurs et utilisatrices sont les personnes qui ont un accès à [!UICONTROL Workfront DAM]. Une personne utilisatrice ne peut accéder à rien dans [!UICONTROL Workfront DAM] si elle n’est pas assignée à un groupe. Selon leurs besoins, les utilisateurs et utilisatrices peuvent appartenir à plusieurs groupes.
 
