@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1743'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve ap
 
 * Lorsque vous ajustez l’option Planifier à partir de sur un modèle, passez en revue et mettez à jour les contraintes de tâche.
 
-* Vérifiez l’équipe du projet sur le modèle et supprimez les utilisateurs qui ne seront pas associés au projet.
+* Examinez l’équipe de projet sur le modèle et supprimez les utilisateurs et utilisatrices qui ne seront pas associés au projet.
 
 </br>
 </br>
@@ -106,9 +106,9 @@ Utilisez le partage de projet sur un modèle de projet pour accorder automatique
 
 **Voici pourquoi : **
 
-L’accès à des projets spécifiques est accordé par le biais du projet lui-même. Si le même groupe de personnes doit toujours avoir accès aux projets créés avec un modèle spécifique, ajoutez-les sous l’option Partage de projet du modèle. Non seulement vous pouvez contrôler l’accès aux projets dès leur création, mais cela simplifie les efforts d’évolutivité si les autorisations doivent changer à l’avenir.
+L’accès à des projets spécifiques est accordé par le biais du projet lui-même. Si le même groupe de personnes doit toujours avoir accès aux projets créés avec un modèle spécifique, ajoutez-les sous l’option Partage de projet du modèle. Vous pouvez contrôler l’accès aux projets dès leur création pour optimiser les efforts d’évolutivité si les autorisations doivent être modifiées à l’avenir.
 
-Pour plus d’informations sur le partage de projets créés à l’aide d’un modèle, reportez-vous au chapitre intitulé &quot;Comment partager des projets créés à l’aide d’un modèle&quot; dans [Partage d’un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
+Pour obtenir des instructions sur le partage de projets créés à l’aide d’un modèle, reportez-vous au chapitre intitulé « Partager des projets créés à l’aide d’un modèle » dans [Partager un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html?lang=fr).
 
 **Note** : le partage de modèle donne accès au modèle lui-même. Une personne doit avoir au moins les autorisations d’affichage pour créer des projets avec le modèle.
 
@@ -121,11 +121,11 @@ Attribuez des fonctions ou des équipes à des tâches, et non à des personnes 
 
 **Voici pourquoi : **
 
-Lorsqu’un utilisateur individuel change de poste ou quitte l’entreprise, vous devrez mettre à jour manuellement les modèles de projet qui incluent cette personne. Cela demande du temps de la part des administrateurs ou administratrices du système ou du groupe ou des personnes chargées de la gestion du projet.
+Lorsqu’une personne change de poste ou quitte l’organisation, vous devez mettre à jour manuellement les modèles de projet qui incluent cette personne. Cela demande du temps de la part des administrateurs ou administratrices du système ou du groupe ou des personnes chargées de la gestion du projet.
 
-Si vous utilisez des rôles de tâche ou des équipes sur les modèles, les modifications de personnel n’auront pas d’effet direct sur vos modèles de projet, car toute personne à qui ce rôle de tâche ou cette équipe pourrait se voir attribuer le travail. Cela permet de s&#39;assurer que le travail ne passe pas à travers les fissures. L’attribution de fonctions facilite également l’attribution de tâches à des personnes individuelles, car Workfront peut vous montrer une liste de personnes auxquelles cette fonction a été attribuée.
+Si vous utilisez des fonctions ou des équipes dans les modèles, les changements de personnel n’auront pas d’effet direct sur vos modèles de projet, car toute personne assignée à cette fonction ou appartenant à cette équipe pourrait se voir confier le travail. Cela permet de s’assurer que le travail ne passe pas entre les mailles du filet. L’attribution de fonctions facilite également l’attribution de tâches à des personnes individuelles, car Workfront peut vous montrer une liste de personnes auxquelles cette fonction a été attribuée.
 
-En outre, les rôles de tâche sont utilisés par les outils de planification des ressources de Workfront pour vous aider à calculer les ressources et à planifier les tâches futures.
+En outre, les fonctions sont utilisées par les outils de planification des ressources de Workfront pour vous aider à calculer les ressources nécessaires et à planifier le travail futur.
 
 </br>
 </br>
@@ -148,7 +148,7 @@ Utilisez la description de la tâche pour capturer les petites étapes de la tâ
 
 **Voici pourquoi : **
 
-Si plusieurs tâches d’une ligne sont affectées au même rôle/au même individu de tâche, cela indique que ces tâches peuvent être combinées. Trop de tâches affectées à un utilisateur peuvent leur donner l’impression qu’il reste encore du travail à accomplir, ce qui peut avoir une incidence sur l’adoption de Workfront.
+Si plusieurs tâches d’une même ligne sont attribuées à la même fonction/personne, cela indique que ces tâches pourraient être combinées. Un trop grand nombre de tâches assignées à une personne peut lui donner l’impression d’avoir plus de travail à accomplir, ce qui peut affecter l’adoption de Workfront.
 
 </br>
 </br>
@@ -159,9 +159,9 @@ Assurez-vous que les tâches de modèle incluent les durées de tâche, les heur
 
 **Voici pourquoi : **
 
-Ces trois éléments (durée, heures planifiées et prédécesseurs) sont les éléments constitutifs de la chronologie du projet. Ces éléments sont essentiels pour savoir combien de temps durera le travail et quand il devra être effectué. Les outils de gestion des ressources Workfront utilisent des durées et des heures planifiées, ainsi que des affectations de rôles de tâche, pour calculer la capacité, la disponibilité des ressources, etc.
+Ces trois éléments (les durées, le nombre d’heures prévues et les personnes ayant travaillé sur la tâche par le passé) sont les éléments constitutifs du calendrier du projet. Ces éléments sont essentiels pour savoir combien de temps durera le travail et quand il devra être effectué. Les outils de gestion des ressources de Workfront utilisent les durées et le nombre d’heures prévues, ainsi que les attributions de fonctions, afin de calculer la capacité des ressources, leur disponibilité et bien plus encore.
 
-Si vous ne savez pas comment estimer les durées ou les heures planifiées pour la première fois, travaillez avec l’équipe du projet pour définir des estimations initiales. Une fois que vous avez utilisé le modèle, rencontrez l’équipe du projet pour déterminer les modifications qui pourraient être apportées afin de le rendre plus précis. Si les utilisateurs ouvrent une session dans Workfront, vous pouvez comparer les heures planifiées d’un projet avec les heures réelles pour déterminer où des ajustements sont nécessaires.
+Si vous ne savez pas comment estimer les durées ou le nombre d’heures prévues pour la première fois, travaillez avec l’équipe du projet pour définir des estimations initiales. Une fois le modèle utilisé, rencontrez à nouveau l’équipe de projet pour déterminer les modifications à apporter afin de rendre le modèle plus précis. Si les personnes enregistrent leur temps dans Workfront, vous pouvez comparer le nombre d’heures prévues d’un projet avec les heures effectives pour voir où des ajustements sont nécessaires.
 
 
 </br>
@@ -177,7 +177,7 @@ Veillez à ce que les informations standard pour tous les projets soient remplie
 
 Attachez des formulaires personnalisés de projet qui correspondent aux formulaires personnalisés de la demande afin d’extraire les informations soumises lors de la conversion de la demande en projet à l’aide du modèle.
 
-Pour plus d’informations sur la manière de joindre un formulaire personnalisé à un objet tel qu’un modèle de projet, voir [Joindre un formulaire personnalisé à un objet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html).
+Pour obtenir des instructions sur la manière de joindre un formulaire personnalisé à un objet tel qu’un modèle de projet, voir [Joindre un formulaire personnalisé à un objet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html?lang=fr).
 
 </br>
 </br>
@@ -188,9 +188,9 @@ Examinez et mettez régulièrement à jour les modèles de projet.
 
 **Voici pourquoi : **
 
-Au fur et à mesure que les processus et les équipes évoluent, les modèles de projet doivent être mis à jour. Créez une cadence régulière, par exemple trimestrielle, pour vérifier et voir les modèles qui ne sont pas activement utilisés. Vous pouvez les désactiver afin qu’ils soient toujours dans Workfront, mais qu’ils n’apparaissent pas dans les listes de sélection de modèles.
+Au fur et à mesure que les processus et les équipes évoluent, les modèles de projet doivent être mis à jour. Établissez un rythme régulier, par exemple trimestriel, pour vérifier quels sont les modèles qui ne sont pas activement utilisés. Vous pouvez les désactiver afin qu’ils soient toujours dans Workfront, mais qu’ils n’apparaissent pas dans les listes de sélection de modèles.
 
-Pour plus d’informations sur la désactivation d’un modèle de projet, voir [Désactivation d’un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+Pour obtenir des instructions sur la désactivation d’un modèle de projet, voir [Désactiver un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=fr).
 
 </br>
 </br>
@@ -202,7 +202,7 @@ Vérifiez les modèles pour vous assurer qu’ils contiennent toutes les informa
 
 **Voici pourquoi : **
 
-Comme les modèles seront utilisés à plusieurs reprises pour créer des projets, vous devrez vous assurer que tout est configuré correctement et complètement. Cela permet d’assurer la cohérence de tous les projets et d’obtenir des données précises pour l’établissement des rapports.
+Étant donné que les modèles seront utilisés à plusieurs reprises pour réaliser des projets, vous devez vous assurer que tout est configuré correctement et complètement. Cela permet d’assurer la cohérence de tous les projets et d’obtenir des données précises pour l’établissement des rapports.
 
 Outre les paramètres de la tâche tels que la durée et les heures planifiées, voici quelques éléments à vérifier avant de partager des modèles :
 
@@ -226,11 +226,11 @@ Outre les paramètres de la tâche tels que la durée et les heures planifiées,
 
 **Bonnes pratiques**
 
-Lorsque vous ajustez l’option Mode de planification sur un modèle, passez en revue et mettez à jour les contraintes de tâche.
+Lorsque vous ajustez l’option Mode planning sur un modèle, passez en revue et mettez à jour les contraintes de tâche.
 
 **Voici pourquoi : **
 
-Le mélange de différentes contraintes de tâches sur un projet peut entraîner des calculs de dates planifiées inattendus et déroutants. Par exemple, lorsque Date de début est sélectionnée pour l’option Mode de planification , toutes les tâches créées dans ce projet se voient attribuer par défaut la contrainte de tâche Dès que possible . Si vous basculez par la suite l’option Mode de planification sur Date d’achèvement, toutes les tâches créées ont par défaut une contrainte de tâche Aussi tardive que possible . Le mélange involontaire de tâches soumises à chacune de ces contraintes peut entraîner une confusion au niveau des dates prévues dans le calendrier du projet.
+Le mélange de différentes contraintes de tâches sur un projet peut entraîner des calculs de dates planifiées inattendus et déroutants. Par exemple, lorsque la date de début est sélectionnée pour l’option Mode planning, toutes les tâches créées dans ce projet se voient attribuer par défaut la contrainte de tâche Dès que possible. Si vous remplacez ensuite l’option Mode planning par Date d’achèvement, toutes les tâches créées sont assorties par défaut d’une contrainte de tâche Le plus tard possible. Le mélange involontaire de tâches soumises à chacune de ces contraintes peut entraîner une confusion au niveau des dates prévues dans le calendrier du projet.
 
 Pour mieux comprendre les contraintes de tâche et leur utilisation, voir [Comprendre et gérer les types de durée et les contraintes de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=fr).
 
@@ -239,12 +239,12 @@ Pour mieux comprendre les contraintes de tâche et leur utilisation, voir [Compr
 
 **Bonnes pratiques**
 
-Vérifiez l’équipe du projet sur le modèle et supprimez les utilisateurs qui ne travailleront pas avec le projet.
+Vérifiez l’équipe du projet sur le modèle et supprimez les utilisateurs et utilisatrices qui ne travailleront pas sur le projet.
 
 **Voici pourquoi : **
 
-Lorsque vous créez un modèle à partir d’un projet existant, à moins que vous ne choisissiez l’option Effacer les affectations lors de la création, Workfront met en relation les personnes auxquelles des tâches/problèmes ont été affectés sur le projet dans la section Personnes. Et lorsque vous travaillez avec votre modèle, vous pouvez supprimer ces personnes qui ont déjà été désignées ou modifier une affectation que vous avez effectuée vous-même sur le modèle.
+Lorsque vous créez un modèle à partir d’un projet existant, à moins que vous ne choisissiez l’option Effacer les affectations lors de la création, Workfront met en relation les personnes auxquelles des tâches/problèmes ont été affectés sur le projet dans la section Personnes. Et lorsque vous travaillez avec votre modèle, vous pouvez supprimer les personnes auxquelles vous aviez auparavant affecté un travail ou modifier une affectation que vous avez effectuée vous-même sur le modèle.
 
-Toutes ces personnes seront répertoriées comme faisant partie de l’équipe du projet, dans les sections Personnes et Planification du projet. Par conséquent, ils seront propagés à tous les projets créés à partir de ce modèle. Cela peut prêter à confusion pour l’utilisateur, car l’équipe du projet reçoit des notifications sur l’activité du projet, voit le projet dans la liste Projets actifs et obtient des autorisations sur le projet et ses tâches, problèmes et documents.
+Toutes ces personnes seront répertoriées comme faisant partie de l’équipe du projet, dans les sections Personnes et Planification du projet. Par conséquent, elles seront propagées à tous les projets créés à partir de ce modèle. Cela peut être source de confusion pour la personne, car, en tant que personne membre de l’équipe de projet, elle reçoit des notifications sur l’activité du projet, voit le projet dans la liste Projets auxquels je participe et obtient des autorisations sur le projet, ses tâches, ses problèmes et ses documents.
 
-Pour plus d’informations sur la modification de l’équipe de projet dans un modèle de projet, voir [Modification de l’équipe de projet dans un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).
+Pour obtenir des instructions sur la modification de l’équipe de projet dans un modèle de projet, voir [Modifier l’équipe de projet dans un modèle de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=fr).
