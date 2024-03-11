@@ -12,9 +12,9 @@ jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '279'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,5 +36,5 @@ Dans cette vidéo, vous apprendrez à créer un processus d’approbation à usa
 >
 >Vous pouvez mettre en place une approbation à usage unique pour les projets et les problèmes de la même manière que celle décrite pour les tâches dans la vidéo.
 >
->Si vous souhaitez mettre en place des approbations de problèmes automatiques, celles-ci ne peuvent être effectuées qu’à l’aide d’un processus d’approbation global et appliquées dans une rubrique de file d’attente. Voir [Créer une file d’attente des demandes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) pour plus d’informations sur cette procédure.
+>Si vous souhaitez mettre en place des approbations de problèmes automatiques, celles-ci ne peuvent être effectuées qu’à l’aide d’un processus d’approbation global et appliquées dans une rubrique de file d’attente. Voir [Créer une file d’attente des demandes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html?lang=fr) pour plus d’informations sur cette procédure.
 
