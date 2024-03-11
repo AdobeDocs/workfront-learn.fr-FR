@@ -12,15 +12,15 @@ jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # Paramètres pour les utilisateurs et les utilisatrices de BAT
 
-Avant de commencer à créer des utilisateurs dans [!DNL  Workfront], il est recommandé d’avoir votre [!DNL Workfront] et les paramètres du système de BAT sont terminés. Certains de ces paramètres s’appliquent aux profils d’utilisation au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définies avant la création de certains utilisateurs... vous pouvez modifier ces paramètres sur chaque profil utilisateur individuel.
+Avant de commencer à créer des utilisateurs et des utilisatrices dans [!DNL  Workfront], il est préférable d’avoir défini les paramètres globaux de [!DNL Workfront] et du système de BAT. Certains de ces paramètres s’appliquent aux profils d’utilisation au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définis avant la création de certains utilisateurs et utilisatrices. Vous pouvez modifier ces paramètres sur chaque profil individuel.
 
 
 Dans cette vidéo, vous apprendrez à :
