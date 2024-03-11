@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '620'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Envisagez d’utiliser des invites de rapport pour affiner les résultats d’un
 
 Réduisez le nombre de rapports que vous devez créer et élargissez l’utilisation des rapports que vous créez en incluant des invites, en particulier pour les rapports que vous exécutez fréquemment.
 
-Les invites vous permettent de filtrer &quot;sur le moment&quot; les ajouts sur un rapport sans modifier les configurations de filtre du rapport. Par exemple, vous avez un rapport qui recherche les tâches ayant un certain statut qui sont affectées à une équipe spécifique. Ajoutez des invites à ce rapport &quot;de base&quot; qui vous permettent de préciser la période des dates d’échéance des tâches, de voir uniquement les tâches auxquelles des documents sont joints ou de déterminer les tâches auxquelles un formulaire personnalisé particulier est associé.
+Les invites vous permettent d’ajouter des filtres « ponctuels » à un rapport sans modifier les paramètres de filtrage du rapport. Par exemple, vous avez un rapport qui recherche les tâches ayant un certain statut qui sont affectées à une équipe spécifique. Ajoutez des invites à ce rapport « de base » pour vous permettre de restreindre le délai des échéances des tâches, de ne voir que les tâches auxquelles des documents sont joints ou de repérer les tâches auxquelles un formulaire personnalisé particulier est joint.
 
 
 **Note** : certains utilisateurs ou utilisatrices peuvent trouver les invites déroutantes. Si c’est le cas, il est préférable d’opter pour plusieurs rapports avec des titres clairs.
@@ -86,7 +86,7 @@ Les caractères génériques basés sur l’utilisateur ou l’utilisatrice rend
 </br>
 </br>
 
-Pour plus d’informations sur l’utilisation des caractères génériques dans les rapports, voir [Création de filtres avec des caractères génériques basés sur l’utilisateur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
+Pour plus d’informations sur l’utilisation des caractères génériques dans les rapports, voir [Créer des filtres avec des caractères génériques basés sur l’utilisateur ou l’utilisatrice](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=fr).
 
 **Bonne pratique**
 
@@ -94,4 +94,4 @@ Créez des vues qui permettent l’édition en ligne.
 
 **Voici pourquoi : **
 
-Grâce à l’édition en ligne, les utilisateurs et les utilisatrices peuvent modifier les informations relatives à un élément directement à partir d’un rapport ou d’une liste. Cela permet d’économiser du temps car les utilisateurs n’ont pas à ouvrir l’objet pour apporter des modifications ou rebondir d’un objet à l’autre lors de la mise à jour de plusieurs éléments. Informez les utilisateurs et les utilisatrices que l’édition en ligne est pratique et rapide (deux éléments qui contribuent à l’adoption de Workfront par les utilisateurs et les utilisatrices).
+Grâce à l’édition en ligne, les utilisateurs et les utilisatrices peuvent modifier les informations relatives à un élément directement à partir d’un rapport ou d’une liste. Cela permet de gagner du temps, car les utilisateurs et les utilisatrices n’ont pas besoin d’ouvrir l’objet pour effectuer des modifications ou de passer d’un objet à l’autre lors des mises à jour de plusieurs éléments. Informez les utilisateurs et les utilisatrices que l’édition en ligne est pratique et rapide (deux éléments qui contribuent à l’adoption de Workfront par les utilisateurs et les utilisatrices).
