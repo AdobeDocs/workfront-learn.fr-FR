@@ -12,9 +12,9 @@ jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -30,5 +30,5 @@ Dans cette vidéo, vous apprendrez :
 
 ## À vous
 
-Examinez les workflows de BAT que vous avez déjà créés et réfléchissez aux discussions que vous avez eues avec les équipes à l’aide des workflows de révision et d’approbation. Des actions seront-elles nécessaires ? Si tel est le cas, mettez à jour les documents dans lesquels vous avez enregistré les workflows afin d’inclure les actions.
+Examinez les workflow de BAT que vous avez déjà créés et réfléchissez aux discussions que vous avez eues avec les équipes qui utilisent les workflows de révision et d’approbation. Des actions seront-elles nécessaires ? Si tel est le cas, mettez à jour les documents dans lesquels vous avez enregistré les workflows afin d’inclure les actions.
 
