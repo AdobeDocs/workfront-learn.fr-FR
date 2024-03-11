@@ -11,10 +11,10 @@ thumbnail: 336096.png
 jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
+workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 
 ## Charger une version à partir de la visionneuse de relecture
 
-Si une épreuve est ouverte dans la visionneuse de relecture, vous pouvez charger une version directement à partir du menu de version. Cliquez sur le lien [!UICONTROL Nouvelle version] pour être dirigé directement vers la page « [!UICONTROL Charger une nouvelle version] » et procédez au chargement.
+Si une épreuve est ouverte dans la visionneuse de relecture, vous pouvez charger une version directement à partir du menu de version. Cliquez sur le bouton [!UICONTROL Nouvelle version] lien à router directement vers le[!UICONTROL charger une nouvelle version]&quot; et terminez le chargement.
 
 ![Image de la visionneuse de relecture avec le menu de version développé dans le coin supérieur gauche et le lien [!UICONTROL Nouvelle version] en surbrillance.](assets/upload-version-from-viewer.png)
 
@@ -37,9 +37,9 @@ Si une épreuve est ouverte dans la visionneuse de relecture, vous pouvez charge
 
 >[!IMPORTANT]
 >
->Penser à rappeler à vos collaborateurs et collaboratrices que vous leur envoyez un BAT dans le cadre de votre formation Workfront.
+>N’oubliez pas de rappeler à vos collègues que vous leur envoyez un BAT dans le cadre de votre formation Workfront.
 
-Trouvez une épreuve que vous avez chargée dans Workfront. Chargez une nouvelle version de cette épreuve, affectez un nouveau modèle de workflow ou apportez des modifications au workflow existant.
+Trouvez un bon à tirer que vous avez téléchargé dans Workfront. Chargez une nouvelle version de cette épreuve, affectez un nouveau modèle de workflow ou apportez des modifications au workflow existant.
 
 <!--
 ### Learn more 
