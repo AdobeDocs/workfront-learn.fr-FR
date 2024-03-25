@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 71%
 
 ---
 
@@ -22,13 +23,14 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez :
 
-* Quatre étapes pour lancer un projet
-* La définition d’un projet dans [!DNL Workfront]
-* Les trois façons les plus courantes de créer un projet
+* Définition d’un projet dans Workfront
+* Étapes de base pour la mise en route et l’exécution d’un projet
+* Un peu sur les tâches et les problèmes
+* Bonne pratique pour commencer à créer des projets
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-L’utilisation d’un modèle de projet permet de lancer rapidement vos projets [!DNL  Workfront]. Planifiez ensuite votre projet en vous concentrant d’abord sur ces cinq domaines :
+Exécutez rapidement vos projets Workfront en utilisant un modèle de projet. Planifiez ensuite votre projet en vous concentrant d’abord sur ces cinq domaines :
 
 1. Tâches
 1. Durée
@@ -36,4 +38,4 @@ L’utilisation d’un modèle de projet permet de lancer rapidement vos projets
 1. Tâches antérieures
 1. Affectations
 
-Une fois que tout est prêt, faites passer le statut du projet à « En cours » pour le mettre en ligne. Au fur et à mesure de l’avancement du projet, vous voudrez suivre les tâches, les problèmes qui se posent, les questions auxquelles il faut répondre, etc. Rappelez-vous juste que... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront] !
+Une fois que tout est prêt, faites passer le statut du projet à « En cours » pour le mettre en ligne. Au fur et à mesure que le projet avancera, vous voudrez garder une trace du travail qui est accompli, des problèmes qui surgissent, des questions qui ont besoin de réponses, etc. Rappelez-vous juste que... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront] !
