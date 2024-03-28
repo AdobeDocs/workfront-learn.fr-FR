@@ -12,7 +12,7 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 100%
 
@@ -94,7 +94,7 @@ Pour les chefs de projet :
 * [!UICONTROL Lorsque le statut d&#39;un projet passe du statut idée/approuvé/rejeté/demandé/planifié à courant, envoyez un e-mail à l&#39;équipe]
 * [!UICONTROL Quand un projet passe d&#39;un statut de progression positive (Dans les délais) à un statut de progression négative (En retard), envoyer un e-mail au propriétaire du projet]
 * [!UICONTROL Envoyer un e-mail au propriétaire du projet lorsqu&#39;un événement est ajouté.]
-* [!UICONTROL Une tâche jalonnée est accomplie sur un projet que je possède]
+* [!UICONTROL Une tâche jalonnée est terminée dans un projet dont je suis propriétaire]
 
 
 <!---
