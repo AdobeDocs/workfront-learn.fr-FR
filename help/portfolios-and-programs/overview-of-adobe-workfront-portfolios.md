@@ -1,5 +1,5 @@
 ---
-title: Vue d’ensemble des portfolios
+title: Présentation des portefeuilles
 description: Découvrez le principe des portefeuilles dans Workfront et comment ils peuvent vous aider à définir les priorités de vos projets et à les comparer les uns aux autres.
 activity: use
 team: Technical Marketing
@@ -7,18 +7,18 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 100%
+source-wordcount: '585'
+ht-degree: 74%
 
 ---
 
-# Vue d’ensemble des portfolios
+# Présentation des portefeuilles
 
 Les gestionnaires ont souvent la tâche délicate de déterminer quels projets aideraient le mieux leur entreprise à atteindre ses objectifs. Cela implique de juger un projet actuel ou potentiel sur la base de critères importants pour ces objectifs. Ces critères peuvent inclure des éléments tels que le nombre de ressources nécessaires, le coût du projet par rapport à ses bénéfices, et la compréhension des risques qu’il implique. Grâce à ces informations, les gestionnaires peuvent décider quels projets doivent être menés à bien et à quel moment.
 
@@ -51,6 +51,26 @@ Lorsqu’un portfolio est créé, seul le créateur du portfolio ou le gestionna
 Ouvrez le portfolio et cliquez sur le menu à trois points, puis sélectionnez **[!UICONTROL Partage]**. Ajoutez les personnes, les équipes, les fonctions, les groupes ou les entreprises qui doivent y avoir accès. Déterminez ensuite le type d’accès que chaque utilisateur ou utilisatrice doit posséder : gérer ou afficher.
 
 ![Image de l’option [!UICONTROL Partage] dans un portfolio [!DNL Workfront]](assets/04-portfolio-management11.png)
+
+## Création d’un portfolio
+
+Pour créer un portfolio, cliquez sur **[!UICONTROL Portfolios]** dans le menu principal.
+
+![Image du menu principal ](assets/create-portfolio-1.png)
+
+Dans la zone Portfolios, cliquez sur **[!UICONTROL Nouveau Portfolio]**.
+
+![Image de la zone Portfolios ](assets/create-portfolio-2.png)
+
+Nommez le portfolio, puis cliquez sur **[!UICONTROL Nouveau projet]** pour ajouter un projet au portfolio. Vous pouvez créer un projet de différentes manières, comme vous pouvez le faire à partir du **[!UICONTROL Projets]** zone. Tout nouveau projet que vous créez à partir d’ici appartiendra à ce portfolio. Cliquez également sur **[!UICONTROL Projet existant]** pour sélectionner un ou plusieurs projets existants dans une liste.
+
+![Image du nouveau menu du projet ](assets/create-portfolio-3.png)
+
+## Créer un programme dans un portfolio
+
+Sélectionnez la variable **[!UICONTROL Programmes]** , puis cliquez sur **[!UICONTROL Nouveau programme]** pour créer un programme dans ce portfolio, ou cliquez sur **[!UICONTROL Programme existant]** pour voler des programmes existants d’autres portefeuilles.
+
+![Image du nouveau menu du programme ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic
