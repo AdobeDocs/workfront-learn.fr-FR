@@ -7,14 +7,15 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '453'
-ht-degree: 100%
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 91%
 
 ---
 
@@ -45,10 +46,10 @@ La page du projet comporte de nombreuses fonctionnalités qui vous aideront à g
 8. **[!UICONTROL Condition] :** une représentation visuelle de l’avancement du projet. [!DNL Workfront] peut configurer automatiquement la [!UICONTROL condition] en fonction du statut de la progression des tâches du projet. Par ailleurs, la [!UICONTROL condition] peut être définie manuellement dans les détails du projet.
 9. **[!UICONTROL Statut] :** indique le stade du processus auquel se trouve le projet : le projet est-il encore en cours de planification, est-il en cours de réalisation ou tous les travaux du projet sont-ils terminés ?
 10. **[!UICONTROL Nouvelle tâche] :** cliquez sur ce bouton pour créer une tâche dans le projet. La tâche est générée en bas de la liste.
-11. **[!UICONTROL Exporter] :** export du plan du projet vers un fichier PDF, une feuille de calcul ou un fichier délimité par des tabulations.
+11. **[!UICONTROL Exporter]:** Exportez la liste des tâches ou les tâches sélectionnées vers un fichier séparé par un PDF, une feuille de calcul ou des tabulations.
 12. **Menu du panneau gauche :** permet d’accéder à différentes informations sur le projet. Cliquez sur l’icône pour réduire le panneau si vous avez besoin d’un peu plus d’espace sur votre écran. Faites glisser les icônes dans un ordre qui vous aidera à travailler efficacement. Les options que vous voyez sont définies par votre administrateur ou administratrice système [!DNL Workfront].
 13. **Liste des tâches :** présente toutes les tâches qui composent votre plan de projet. Les informations visibles à propos de chaque tâche sont déterminées par la vue sélectionnée.
-14. **Panneau de résumé :** cliquez sur l’icône pour ouvrir ou fermer le panneau de résumé, qui fournit un aperçu rapide des informations relatives à la tâche sélectionnée.
+14. **Panneau Résumé :** Le panneau de résumé donne un aperçu rapide des informations sur la tâche sélectionnée. Cliquez sur l’icône pour ouvrir ou fermer.
 
 <!---
 learn more:
