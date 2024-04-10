@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 87%
@@ -46,9 +46,10 @@ La page du projet comporte de nombreuses fonctionnalités qui vous aideront à g
 8. **[!UICONTROL Condition] :** une représentation visuelle de l’avancement du projet. [!DNL Workfront] peut configurer automatiquement la [!UICONTROL condition] en fonction du statut de la progression des tâches du projet. Par ailleurs, la [!UICONTROL condition] peut être définie manuellement dans les détails du projet.
 9. **[!UICONTROL Statut] :** indique le stade du processus auquel se trouve le projet : le projet est-il encore en cours de planification, est-il en cours de réalisation ou tous les travaux du projet sont-ils terminés ?
 10. **[!UICONTROL Nouvelle tâche] :** cliquez sur ce bouton pour créer une tâche dans le projet. La tâche est générée en bas de la liste.
-11. **[!UICONTROL Exporter]:** Exportez la liste des tâches ou les tâches sélectionnées vers un fichier séparé par un PDF, une feuille de calcul ou des tabulations.
+11. **[!UICONTROL Exporter]:** Exportez la liste de tâches ou les tâches sélectionnées vers un fichier PDF, une feuille de calcul ou un fichier délimité par des tabulations.
 12. **Menu du panneau gauche :** permet d’accéder à différentes informations sur le projet. Cliquez sur l’icône pour réduire le panneau si vous avez besoin d’un peu plus d’espace sur votre écran. Faites glisser les icônes dans un ordre qui vous aidera à travailler efficacement. Les options que vous voyez sont définies par votre administrateur ou administratrice système [!DNL Workfront].
 13. **Liste des tâches :** présente toutes les tâches qui composent votre plan de projet. Les informations visibles à propos de chaque tâche sont déterminées par la vue sélectionnée.
-14. **Panneau Résumé :** Le panneau de résumé donne un aperçu rapide des informations sur la tâche sélectionnée. Cliquez sur l’icône pour ouvrir ou fermer.
-15. **Ajout de tâches** Cliquez ici pour ajouter une autre tâche au bas de la liste des tâches à l’aide de l’édition intégrée.
+14. **Panneau Résumé :** Le panneau de résumé donne un aperçu rapide des informations sur la tâche sélectionnée. Cliquez sur l’icône pour l’ouvrir ou la fermer.
+15. **Ajouter plus de tâches** Cliquez ici pour ajouter une autre tâche au bas de la liste des tâches à l’aide de la modification sur la ligne.
+
 
