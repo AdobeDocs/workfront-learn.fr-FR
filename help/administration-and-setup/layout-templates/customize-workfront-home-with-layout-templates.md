@@ -1,6 +1,6 @@
 ---
 title: Personnaliser l’[!UICONTROL Accueil] avec des modèles de disposition
-description: Découvrez comment personnaliser vos utilisateurs [!UICONTROL Accueil] Les zones d’accès, de suivi, d’approbation et de mise à jour fonctionnent rapidement et facilement.
+description: Découvrez comment personnaliser la zone [!UICONTROL Accueil] de vos utilisateurs et utilisatrices pour accéder au travail de façon simple et rapide, le suivre, l’approuver et le mettre à jour.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,22 +12,22 @@ jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
 source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
-# Personnaliser [!UICONTROL Espace de travail] avec des modèles de mise en page
+# Personnaliser l’[!UICONTROL Espace de travail Accueil] avec des modèles de disposition
 
-Découvrez comment personnaliser vos utilisateurs [!UICONTROL Accueil] Les zones d’accès, de suivi, d’approbation et de mise à jour fonctionnent rapidement et facilement.
+Découvrez comment personnaliser la zone [!UICONTROL Accueil] de vos utilisateurs et utilisatrices pour accéder au travail de façon simple et rapide, le suivre, l’approuver et le mettre à jour.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
 
 <br>
 </br>
 
-## Personnalisation de l’héritage [!UICONTROL Accueil] avec des modèles de mise en page
+## Personnaliser l’[!UICONTROL Accueil] hérité avec des modèles de disposition
 
 Dans cette vidéo, vous apprendrez à :
 
