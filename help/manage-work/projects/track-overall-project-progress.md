@@ -8,12 +8,13 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '231'
+ht-degree: 87%
 
 ---
 
@@ -29,7 +30,7 @@ Le [!UICONTROL pourcentage terminé] est basé sur l’avancement global des tâ
 >
 >Un paramètre global du système affecte le mode de calcul du pourcentage terminé du projet, en fonction des durées ou du nombre d’heures prévues pour les tâches.
 
-La [!UICONTROL Condition] du projet est appelée « intégrité du planning du projet ». Un certain nombre d’éléments entrent en ligne de compte dans le calcul de la condition. [!DNL Workfront] examine la [!UICONTROL date d’achèvement prévue] et la [!UICONTROL date d’achèvement projetée], ainsi que le chemin critique, pour calculer si le projet est [!UICONTROL dans les temps], [!UICONTROL à risque], ou [!UICONTROL en difficulté].
+La [!UICONTROL condition] du projet est appelée « intégrité du planning du projet ». Un certain nombre d’éléments entrent en ligne de compte dans le calcul de la condition. [!DNL Workfront] examine la [!UICONTROL date d’achèvement prévue] et la [!UICONTROL date d’achèvement projetée], ainsi que le chemin critique, pour calculer si le projet est [!UICONTROL dans les temps], [!UICONTROL à risque], ou [!UICONTROL en difficulté].
 
 ![L’en-tête du projet montrant une [!UICONTROL Condition]](assets/planner-fund-condition.png)
 
@@ -38,7 +39,13 @@ La [!UICONTROL Condition] du projet est appelée « intégrité du planning du 
 >Le fait que la condition du projet soit définie automatiquement par [!DNL Workfront] ou manuellement par une personne ayant des droits de gestion sur le projet est contrôlé par le paramètre [!UICONTROL Type de condition] dans la section [!UICONTROL Vue d’ensemble] de la page [!UICONTROL Détails du projet].
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## Tutoriels recommandés sur cette rubrique
+
+* [Prise en main de la gestion d’un projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Suivi de la progression du travail avec les mesures de projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Comprendre le [!UICONTROL Gantt] view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Comprendre le [!UICONTROL board] view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

@@ -3,10 +3,10 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2404'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -107,9 +107,9 @@ ht-degree: 99%
 + Gérer le travail {#manage-work}
    + Projets {#projects}
       + [Comprendre les bases de la création de projets](manage-work/projects/understand-basic-project-creation.md)
+      + [Parcourir la page du projet](manage-work/projects/navigate-the-project-page.md)
       + [Découvrir quatre façons de créer un projet](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Renseigner les détails du projet](manage-work/projects/fill-in-the-project-details.md)
-      + [Parcourir la page du projet](manage-work/projects/navigate-the-project-page.md)
       + [Commencer avec la planification d’un projet](manage-work/projects/getting-started-plan-a-project.md)
       + [Activer un projet](manage-work/projects/take-a-project-live.md)
       + [Commencer avec la gestion d’un projet](manage-work/projects/getting-started-manage-a-project.md)
@@ -153,7 +153,7 @@ ht-degree: 99%
       + [Réponses aux questions courantes sur les files d’attente de demandes](manage-work/request-queues/request-queue-faq.md)
 
    + Portefeuilles {#portfolios}
-      + [Présentation des portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Comprendre les portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Comprendre l’[!UICONTROL analyse de rentabilité]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Utiliser l’[!UICONTROL optimisateur de portfolio] pour établir des priorités et gérer le travail](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 99%
    + Analytique améliorée {#enhanced-analytics}
       + [Un moment avec le produit : l’[!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Commencer avec l’[!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Accès [!UICONTROL Analytics amélioré]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Accéder à [!UICONTROL Analytique améliorée]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Comprendre la navigation de base](reporting/enhanced-analytics/4-basic-navigation.md)
       + [Comprendre les graphiques de travail et des personnes](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Comprendre les filtres](reporting/enhanced-analytics/6-filters-overview.md)

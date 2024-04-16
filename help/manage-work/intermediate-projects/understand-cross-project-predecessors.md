@@ -12,25 +12,21 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 52%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 # Compendre les prédécesseurs multi-projets
 
->[!IMPORTANT]
->
->Prérequis :
+Les projets transversaux antérieurs représentent un moyen facile d’établir des dépendances entre les tâches dans différents projets. Par exemple, une entreprise de construction peut avoir un projet appelé **Construire la route d’accès au lotissement Summerhill**, et un autre projet appelé **Construire une maison témoin à Summerhill**. En amenant la première tâche dans **Construire une maison témoin** à avoir un projet transversal antérieur à la dernière tâche dans **Construire la route d’accès**, vous vous assurez que la route d’accès soit bien en place avant de commencer à construire la maison. Étant donné que les tâches sont liées, si le projet **Construire la route d’accès** est décalé, la date de début prévue pour **Créer une maison témoin** sera automatiquement décalée en conséquence.
+
+>[!PREREQUISITES]
 >
 >* [Découvrez comment séquencer des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=fr)
 >* Ou vous êtes déjà à l’aise avec les prédécesseurs dans vos projets.
-
->[!NOTE]
->
->Les prédécesseurs sur plusieurs projets sont un moyen facile d’établir des dépendances entre les tâches dans différents projets. Par exemple, une entreprise de construction peut avoir un projet appelé **Construire la route d&#39;accès au développement de logements à SummerHill**, et un autre projet appelé **Créer une maison modèle à Summercolline**. En effectuant la première tâche dans **Créer l’accueil du modèle** avoir un prédécesseur multi-projet de la dernière tâche dans **Route d&#39;accès**, vous vous assurez que la route d&#39;accès est bien en place avant de commencer à construire la maison. Étant donné que les tâches sont liées, si la variable **Route d&#39;accès** les diapositives du projet, la variable **Créer l’accueil du modèle** la date de début prévue sera automatiquement glissée en conséquence.
 
 
 Dans cette vidéo, vous apprendrez :

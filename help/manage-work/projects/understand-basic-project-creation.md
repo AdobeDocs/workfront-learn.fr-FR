@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 74%
 
 ---
 
@@ -30,12 +31,10 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Utilisez un modèle de projet Workfront pour lancer rapidement vos projets. Planifiez ensuite votre projet en vous concentrant d’abord sur ces cinq domaines :
+## Tutoriels recommandés sur cette rubrique
 
-1. Tâches
-1. Durée
-1. Heures prévues
-1. Tâches antérieures
-1. Affectations
+* [Parcourir la page du projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Découvrez quatre façons de créer un projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Renseignement des détails du projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-Une fois que tout est prêt, faites passer le statut du projet à « En cours » pour le mettre en ligne. Au fur et à mesure que le projet avancera, vous voudrez garder une trace du travail qui est accompli, des problèmes qui surgissent, des questions qui ont besoin de réponses, etc. Rappelez-vous juste que... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront] !
+
