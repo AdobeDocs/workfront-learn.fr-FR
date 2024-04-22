@@ -1,6 +1,6 @@
 ---
 title: Commencer avec la gestion d’un projet
-description: Découvrez votre rôle en tant que chef de projet et ce que vous devez prendre en compte lorsque vous surveillez le fonctionnement du projet.
+description: Découvrez comment surveiller l’avancement du projet, analyser en profondeur pour afficher les détails de la tâche et communiquer avec les parties prenantes.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 77%
+source-wordcount: '213'
+ht-degree: 60%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 77%
 
 Dans cette vidéo, vous apprendrez :
 
-* Éléments à prendre en compte lors de la surveillance du projet
-* Quel est votre rôle en tant que chef de projet ?
+* Comment surveiller la progression du projet
+* Découvrez comment descendre dans la hiérarchie pour afficher les détails de la tâche
+* Comment communiquer avec les parties prenantes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
