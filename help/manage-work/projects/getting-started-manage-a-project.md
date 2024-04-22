@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 87%
+source-wordcount: '211'
+ht-degree: 77%
 
 ---
 
@@ -41,7 +42,7 @@ Mais quelle que soit la manière dont vous gérez un projet, vous pouvez :
 * Communiquer avec vos parties prenantes.
 * Célébrer les victoires en chemin.
 
-En fin de compte, votre tâche principale consiste à mener le projet à son terme. [!DNL Workfront] peut vous aider à surveiller le travail effectué par le biais de la chronologie du projet ; des filtres, vues et regroupements ; des mises à jour ; des rapports… et plus encore.
+En fin de compte, votre tâche principale consiste à mener le projet à son terme. Adobe Workfront peut vous aider à surveiller le travail effectué par le biais de la chronologie du projet ; filtres, vues et regroupements ; mises à jour ; rapports ... et plus encore.
 
 <!---
 learn more urls
