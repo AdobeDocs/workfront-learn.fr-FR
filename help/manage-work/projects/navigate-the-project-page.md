@@ -14,9 +14,9 @@ jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '498'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -42,20 +42,20 @@ La page du projet comporte de nombreuses fonctionnalités qui vous aideront à g
 3. **Nom du projet :** nom du projet que vous consultez. Cliquez sur le nom pour le modifier.
 4. **En-tête du projet :** informations standard disponibles sur toutes les pages du projet.
 5. **[!UICONTROL Pourcentage terminé] :** ces données sont automatiquement mises à jour en fonction des tâches accomplies dans le cadre du projet.
-6. **[!UICONTROL Propriétaire du projet] :** dans la plupart des organisations, il s’agit du chef de projet. C’est la personne responsable de la gestion du projet dans [!DNL Workfront] et s’assurer qu’il est terminé.
+6. **[!UICONTROL Propriétaire du projet] :** dans la plupart des organisations, il s’agit du chef de projet. Il s’agit de la personne responsable de la gestion du projet dans [!DNL Workfront] et qui doit s’assurer qu’il est terminé.
 7. **[!UICONTROL Date d’achèvement prévue] :** la date fixée par le ou la chef de projet dans le cadre du calendrier du projet.
 8. **[!UICONTROL Condition] :** une représentation visuelle de l’avancement du projet. [!DNL Workfront] peut configurer automatiquement la [!UICONTROL condition] en fonction du statut de la progression des tâches du projet. Par ailleurs, la [!UICONTROL condition] peut être définie manuellement dans les détails du projet.
-9. **[!UICONTROL État]:** La variable [!UICONTROL État] indique où se trouve le projet dans le processus : est-ce que le projet est toujours en cours de planification, est-ce que le projet est en cours ou est-il terminé ?
-10. **[!UICONTROL Nouvelle tâche]:** Cliquez sur pour créer une tâche dans le projet. La tâche est générée en bas de la liste.
+9. **[!UICONTROL Statut] :** le [!UICONTROL statut] indique le stade du processus auquel se trouve le projet : le projet est-il encore en cours de planification, est-il en cours de réalisation ou est-il terminé ?
+10. **[!UICONTROL Nouvelle tâche] :** cliquez sur ce bouton pour créer une tâche dans le projet. La tâche est générée en bas de la liste.
 11. **[!UICONTROL Exporter] :** permet d’exporter la liste de tâches ou des tâches sélectionnées vers un fichier PDF, une feuille de calcul ou un fichier délimité par des tabulations.
-12. **Menu du panneau gauche :** permet d’accéder à différentes informations sur le projet. Cliquez sur l’icône Tâche en haut pour réduire le panneau si vous avez besoin d’un peu plus d’espace sur votre écran. Faites glisser les icônes dans un ordre qui vous aidera à travailler efficacement. Les options que vous voyez sont définies par votre administrateur ou administratrice système [!DNL Workfront].
+12. **Menu du panneau gauche :** permet d’accéder à différentes informations sur le projet. Cliquez sur l’icône de tâche en haut pour réduire le panneau si vous avez besoin d’un peu plus d’espace sur votre écran. Faites glisser les icônes dans un ordre qui vous aidera à travailler efficacement. Les options que vous voyez sont définies par votre administrateur ou administratrice système [!DNL Workfront].
 13. **Liste des tâches :** présente toutes les tâches qui composent votre plan de projet. Les informations visibles à propos de chaque tâche sont déterminées par la vue sélectionnée.
-14. **Panneau Résumé :** le panneau de résumé donne un aperçu rapide des informations sur la tâche sélectionnée. Cliquez sur l’icône du panneau récapitulatif pour ouvrir ou fermer.
+14. **Panneau Résumé :** le panneau de résumé donne un aperçu rapide des informations sur la tâche sélectionnée. Cliquez sur l’icône du panneau Résumé pour ouvrir ou fermer.
 15. **Ajouter des tâches** Cliquez ici pour ajouter une autre tâche au bas de la liste des tâches à l’aide de l’édition intégrée.
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Présentation de la création de projet de base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Découvrez quatre façons de créer un projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [Renseignement des détails du projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [Comprendre les bases de la création de projets](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Découvrir quatre façons de créer un projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Renseigner les détails du projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 

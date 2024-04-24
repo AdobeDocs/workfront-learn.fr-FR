@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ Dans cette vidéo, vous allez apprendre à communiquer avec toutes les parties p
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Prise en main de la gestion d’un projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Recherche de projets](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Partage d’un projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Présentation de l’équipe de projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)
+* [Commencer avec la gestion d’un projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Rechercher des projets](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Partager un projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Comprendre l’équipe de projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)
