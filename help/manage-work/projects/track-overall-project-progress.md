@@ -1,6 +1,6 @@
 ---
 title: Suivre l’avancement global du projet
-description: Découvrez en quoi les informations affichées dans l’en-tête du projet peuvent vous aider à suivre la progression et l’intégrité globales du projet.
+description: Découvrez 5 moyens rapides de suivre la progression générale du projet.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,40 +8,28 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '231'
-ht-degree: 100%
+source-git-commit: 99dfdc38fd2192da6a5ef46663634bd6070ee488
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 56%
 
 ---
 
 # Suivre l’avancement global du projet
 
-L’en-tête en haut d’un projet permet de voir le statut et l’intégrité du projet d’un simple coup d’œil.
+Dans cette vidéo, vous apprendrez à suivre la progression du projet à l’aide des éléments suivants :
 
-![Un en-tête de projet indiquant le [!UICONTROL Pourcentage terminé]](assets/planner-fund-percent-complete.png)
+* Pourcentage d’achèvement
+* Dates prévisionnelles
+* État de la condition et de la progression
+* Problèmes ouverts
+* La colonne Mise à jour de condition
 
-Le [!UICONTROL pourcentage terminé] est basé sur l’avancement global des tâches du projet. Le chiffre est plus précis lorsque les membres de l’équipe modifient le statut des tâches qui leur sont affectées et indiquent un pourcentage terminé.
-
->[!NOTE]
->
->Un paramètre global du système affecte le mode de calcul du pourcentage terminé du projet, en fonction des durées ou du nombre d’heures prévues pour les tâches.
-
-La [!UICONTROL condition] du projet est appelée « intégrité du planning du projet ». Un certain nombre d’éléments entrent en ligne de compte dans le calcul de la condition. [!DNL Workfront] examine la [!UICONTROL date d’achèvement prévue] et la [!UICONTROL date d’achèvement projetée], ainsi que le chemin critique, pour calculer si le projet est [!UICONTROL dans les temps], [!UICONTROL à risque], ou [!UICONTROL en difficulté].
-
-![L’en-tête du projet montrant une [!UICONTROL Condition]](assets/planner-fund-condition.png)
-
->[!NOTE]
->
->Le fait que la condition du projet soit définie automatiquement par [!DNL Workfront] ou manuellement par une personne ayant des droits de gestion sur le projet est contrôlé par le paramètre [!UICONTROL Type de condition] dans la section [!UICONTROL Vue d’ensemble] de la page [!UICONTROL Détails du projet].
-
-<!---
-Project percent complete overview
-Overview of project condition and condition type
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
 
 ## Tutoriels recommandés sur cette rubrique
 
