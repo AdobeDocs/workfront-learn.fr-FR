@@ -11,22 +11,21 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '286'
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '285'
 ht-degree: 100%
 
 ---
 
 # Comprendre le mode texte de base pour les regroupements
 
->[!IMPORTANT]
->
->Prérequis :
+>[!PREREQUISITES]
 >
 >* [Comprendre les éléments de reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=fr)
 >* [Comprendre les composants de reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=fr)
 >* [Créer un regroupement de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=fr)
+
 
 >[!TIP]
 >

@@ -11,22 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: ht
-source-wordcount: '152'
+exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
 
 # Créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système
 
->[!IMPORTANT]
->
->Prérequis :
+>[!PREREQUISITES]
 >
 >* [Créer une file d’attente des demandes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=fr)
 >* [Créer un flux de requêtes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=fr)
 >* Ou vous êtes déjà à l’aise avec la création d’une file d’attente des demandes qui utilise une règle de transmission et un formulaire personnalisé.
+
 
 Dans cette vidéo, vous apprendrez :
 
