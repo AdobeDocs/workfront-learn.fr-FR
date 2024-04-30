@@ -1,6 +1,6 @@
 ---
 title: Commencer avec la gestion d’un projet
-description: Découvrez comment surveiller l’avancement du projet, analyser en profondeur pour afficher les détails de la tâche et communiquer avec les parties prenantes.
+description: Découvrez comment surveiller la progression des projets, analyser en profondeur les détails des tâches et communiquer avec les parties prenantes.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -14,9 +14,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 72%
 
 Dans cette vidéo, vous apprendrez :
 
-* Comment surveiller la progression du projet
-* Découvrez comment descendre dans la hiérarchie pour afficher les détails de la tâche
-* Comment communiquer avec les parties prenantes
+* Surveillance de la progression des projets
+* Analyse en profondeur des détails des tâches
+* Communication avec les parties prenantes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
@@ -43,7 +43,7 @@ Mais quelle que soit la manière dont vous gérez un projet, vous pouvez :
 * Communiquer avec vos parties prenantes.
 * Célébrer les victoires en chemin.
 
-En fin de compte, votre tâche principale consiste à mener le projet à son terme. Adobe Workfront peut vous aider à surveiller le travail effectué par le biais de la chronologie du projet ; filtres, vues et regroupements ; mises à jour ; rapports ... et plus encore.
+En fin de compte, votre tâche principale consiste à mener le projet à son terme. Adobe Workfront peut vous aider à surveiller le travail effectué par le biais de la chronologie du projet ; des filtres, vues et regroupements ; des mises à jour ; des rapports… et plus encore.
 
 <!---
 learn more urls
