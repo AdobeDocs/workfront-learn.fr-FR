@@ -8,31 +8,26 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '201'
-ht-degree: 100%
+source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 64%
 
 ---
 
 # Afficher les informations sur le projet
 
-Que vous regardiez la page principale [!UICONTROL Projets] ou un projet individuel, affinez votre liste pour voir les informations dont vous avez besoin avec [!UICONTROL Filtres], [!UICONTROL Vues] et [!UICONTROL Regroupements].
+Dans cette vidéo, vous apprendrez à utiliser les filtres, vues et groupes pour afficher :
 
-Vous pouvez obtenir une vue d’ensemble de l’avancement de tous vos projets sur la page [!UICONTROL Projets].
+* Informations au niveau du projet
+* Informations au niveau de la tâche
+* Informations au niveau du problème
 
-![Page du projet avec affichage des filtres](assets/planner-fund-project-page-fvg-copy.png)
-
-Utilisez les [!UICONTROL filtres] pour réduire la liste en fonction de certains critères. Sélectionnez ensuite une [!UICONTROL Vue] pour afficher les colonnes d’informations pertinentes pour vos projets. Enfin, sélectionnez un [!UICONTROL regroupement] pour organiser les projets de la manière qui vous convient le mieux.
-
-Lorsque vous êtes dans la section [!UICONTROL Tâches] d’un projet, utilisez à nouveau [!UICONTROL Filtres], [!UICONTROL Vues], et [!UICONTROL Regroupements] pour vous aider à contrôler le travail effectué. Le fait de considérer des tâches plutôt que des projets vous offre un éventail de choix totalement différent.
-
-![Liste des tâches du projet avec des vues](assets/planner-fund-task-list-fvg.png)
-
-Un grand nombre de clientes et clients de [!DNL Workfront] créent des vues personnalisées qui exposent les informations des formulaires personnalisés et d’autres champs pertinents pour le travail effectué.
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
 ## Tutoriels recommandés sur cette rubrique
 
