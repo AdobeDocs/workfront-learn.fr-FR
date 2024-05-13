@@ -1,6 +1,6 @@
 ---
 title: 'Comprendre les actions : survoler, cliquer et faire glisser, cliquer'
-description: Découvrez comment obtenir plus d’informations en survolant un graphique, en créant un délai sur un graphique et en faisant apparaître des graphiques supplémentaires, le tout dans [!UICONTROL Analytique améliorée].
+description: Découvrez comment obtenir plus d’informations en survolant un graphique, en créant une période sur un graphique et en faisant apparaître des graphiques supplémentaires, le tout dans [!UICONTROL Analytique améliorée].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '307'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ Si vous cliquez sur certaines parties d’un graphique, d’autres graphiques ou
 * **Activité du projet** : cliquez sur le nom du projet pour développer le graphique et afficher l’activité du projet par utilisateur ou utilisatrice.
 * **Arborescence du projet** : cliquez sur la zone d’un projet pour afficher les graphiques d’avancement et de tâches en cours.
 * **Activité par équipe** : cliquez sur le nom de l’équipe pour développer le graphique afin que vous puissiez voir l’activité par utilisateur ou utilisatrice.
-* **Capacité des ressources** : cliquez sur le nom de l’équipe pour afficher le graphique Capacité de l’équipe.
 
 ## Qu’est-ce qu’une nuance plus sombre et plus claire signifie en ce qui concerne l’activité d’équipe ?
 

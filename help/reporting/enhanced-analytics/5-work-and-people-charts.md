@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '190'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Sélectionnez le type de graphique Analytics à afficher (travail ou personnes) 
 
 ![Image de la recherche de la fonction [!UICONTROL Analytics] dans [!DNL Workfront Classic]](assets/section-1-1.png)
 
-Lorsque vous accéderez aux graphiques de travail, vous verrez par défaut :
+Lorsque vous accédez aux graphiques de travail, vous voyez par défaut :
 
 1. Les statistiques KPI
 1. Feuille de route
@@ -47,5 +47,4 @@ Le graphique d’avancement et celui des tâches en cours apparaissent lorsque v
 Les graphiques de personnes sont composés des éléments suivants :
 
 1. Activité par équipe
-1. Capacité des ressources
 1. Activité de l’équipe

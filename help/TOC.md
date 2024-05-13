@@ -3,9 +3,9 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '2404'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '2399'
 ht-degree: 100%
 
 ---
@@ -258,7 +258,6 @@ ht-degree: 100%
       + [Vérifier les tâches en cours](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [Agir en effectuant des mises à jour](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [Comprendre le graphique d’activité par équipe](reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [Comprendre le graphique de capacité des ressources](reporting/enhanced-analytics/19-resource-capacity-chart.md)
       + [Comprendre les capacités de l’équipe](reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [Comprendre un cas d’utilisation de comparaison des KPI](reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [Comprendre un cas d’utilisation d’utilisateur final](reporting/enhanced-analytics/22-end-user-use.md)
