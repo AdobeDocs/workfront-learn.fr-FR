@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '109'
+source-git-commit: ab2b4848acc69b0c6f6cd89ec0c9bf4203c2d297
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -32,9 +32,10 @@ Dans cette vidéo, vous apprendrez :
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Créer des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html?lang=fr)
-* [Travailler avec des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html?lang=fr)
-* [Affecter des tâches à partir du plan de projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=fr)
-* [Comprendre la durée des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html?lang=fr)
-* [Découvrez comment séquencer des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=fr)
-* [Comprendre le nombre d’heures prévues](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html?lang=fr)
+* [Créer des tâches](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Travailler avec des tâches](/help/manage-work/tasks/work-with-tasks.md)
+* [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
+* [Découvrez comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
+* [Comprendre l’[!UICONTROL effort de travail]](/help/manage-work/tasks/understand-work-effort.md)

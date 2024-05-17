@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ Vous pouvez en savoir plus en ligne avec l’article [Commencer avec le graphiqu
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Commencer avec la gestion d’un projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Suivre l’avancement global du projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Suivre la progression du travail avec les mesures de projet](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendre la vue [!UICONTROL Panorama]](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Commencer avec la gestion d’un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Suivre l’avancement global du projet](/help/manage-work/projects/track-overall-project-progress.md)
+* [Suivre la progression du travail avec les mesures de projet](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Comprendre la vue [!UICONTROL Panorama]](/help/manage-work/projects/understand-the-board-view.md)

@@ -12,10 +12,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 63%
+source-wordcount: '69'
+ht-degree: 71%
 
 ---
 
@@ -31,6 +31,6 @@ Dans cette vidéo, vous apprendrez :
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Présentation des tâches parent-enfant](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [Affecter des tâches à partir du plan de projet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
-* [Comprendre la durée des tâches](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Comprendre les tâches parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
