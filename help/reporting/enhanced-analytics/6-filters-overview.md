@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Dans cette vidéo, vous apprendrez :
 
 ## Filtres de graphique des personnes
 
-Les graphiques de personnes sont basés sur les équipes locales. Elles indiquent l’activité d’autant d’équipes que vous sélectionnez dans votre filtre.
+Les graphiques de personnes sont basés sur les équipes locales. Ils indiquent l’activité des équipes sélectionnées dans votre filtre.
 
 ## Remarques supplémentaires
 
