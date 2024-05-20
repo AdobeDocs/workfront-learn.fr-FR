@@ -1,6 +1,6 @@
 ---
 title: Comprendre les tâches parent-enfant
-description: Découvrez comment les tâches sont structurées à l’aide d’une relation parent-enfant dans un projet Workfront.
+description: Découvrez la façon dont les tâches sont structurées en une relation parent-enfant dans un projet Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 

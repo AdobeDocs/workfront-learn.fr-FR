@@ -1,6 +1,6 @@
 ---
 title: Travailler avec des tâches
-description: Découvrez comment modifier des tâches existantes, ajouter et supprimer des tâches, et modifier l’ordre des tâches sur un projet dans Workfront.
+description: Apprenez à modifier les tâches existantes, à ajouter et à supprimer des tâches, ou encore à modifier l’ordre des tâches sur un projet dans Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
