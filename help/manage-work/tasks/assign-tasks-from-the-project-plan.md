@@ -1,6 +1,6 @@
 ---
 title: Affecter des tâches à partir du plan de projet
-description: Découvrez comment affecter des tâches dans un projet Adobe Workfront à l’aide de modifications en ligne, de modifications en masse, de rôles de tâche et d’équipes.
+description: Découvrez comment affecter des tâches dans un projet Adobe Workfront à l’aide de modifications en ligne, de modifications groupées, de fonctions et d’équipes.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
 source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 35%
 
 Dans cette vidéo, vous allez :
 
-* Découvrez comment affecter une tâche à l’aide de la modification en ligne
-* Découvrez comment attribuer plusieurs tâches à la même personne
-* Comprendre la valeur des rôles de tâche lors de l’attribution de tâches
+* Découvrir comment affecter une tâche à l’aide de modifications en ligne
+* Découvrir comment affecter plusieurs tâches à la même personne
+* Comprendre la valeur des fonctions lors de l’affectation de tâches
 * Comprendre la valeur des modèles de projet lors de l’affectation de tâches
 * Comprendre l’intérêt d’affecter des tâches aux équipes
 
