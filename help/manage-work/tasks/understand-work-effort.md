@@ -1,6 +1,6 @@
 ---
 title: Comprendre l’[!UICONTROL Effort de travail]
-description: Découvrez comment utiliser [!UICONTROL Effort professionnel] pour obtenir une estimation approximative des heures planifiées dans la chronologie de votre projet.
+description: Découvrez comment utiliser l’[!UICONTROL Effort de travail] pour obtenir une estimation approximative du nombre d’heures prévues dans la chronologie de votre projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 47%
 
 Dans cette vidéo, vous apprendrez :
 
-* Ce qu’est l’effort de travail et comment il peut vous aider à gérer les projets
-* Utilisation des efforts de travail
-* Comment créer une vue de tâche de l’effort de travail
+* Présentation de l’effort de travail et comment il peut vous aider à gérer les projets.
+* Utilisation de l’effort de travail
+* Création d’une vue de tâche de l’effort de travail
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
 
