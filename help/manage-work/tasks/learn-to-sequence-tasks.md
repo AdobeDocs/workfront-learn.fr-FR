@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 76%
 
 ---
 
@@ -23,10 +24,11 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez :
 
-* Définition d’un prédécesseur dans [!DNL  Workfront]
-* Comment les prédécesseurs ordonnent les tâches dans un projet
+* Fonctionnement d’un prédécesseur dans Workfront
 * Utilisation des durées et des prédécesseurs pour créer une chronologie
-* Modification ou saisie des prédécesseurs
+* Comment les prédécesseurs ordonnent les tâches dans un projet
+* Comment la définition d’une date de début de tâche affecte la contrainte de tâche
+* Comment entrer dans les prédécesseurs
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
