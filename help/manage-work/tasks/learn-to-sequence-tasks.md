@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 76%
 
 Dans cette vidéo, vous apprendrez :
 
-* Fonctionnement d’un prédécesseur dans Workfront
+* Présentation des tâches antérieures dans Workfront
 * Utilisation des durées et des prédécesseurs pour créer une chronologie
 * Comment les prédécesseurs ordonnent les tâches dans un projet
-* Comment la définition d’une date de début de tâche affecte la contrainte de tâche
-* Comment entrer dans les prédécesseurs
+* Effets de la définition d’une date de début de tâche sur la contrainte de tâche
+* Saisie des tâches antérieures
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 

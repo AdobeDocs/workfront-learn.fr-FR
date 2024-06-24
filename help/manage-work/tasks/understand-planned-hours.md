@@ -1,6 +1,6 @@
 ---
 title: Comprendre le nombre d’heures prévues
-description: Découvrez les heures planifiées, pourquoi les heures planifiées sont importantes pour votre projet et comment ajouter des heures planifiées aux tâches.
+description: Découvrez le nombre d’heures prévues, pourquoi ces heures sont importantes pour votre projet et comment en ajouter aux tâches.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 45%
+ht-degree: 70%
 
 ---
 
