@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
 # Comprendre la vue [!UICONTROL Gantt]
 
-Dans cette vidéo, vous apprendrez à utiliser :
+Dans cette vidéo, vous apprendrez à utiliser les éléments suivants :
 
 * Graphique de Gantt du projet
 * Graphique de Gantt de la tâche

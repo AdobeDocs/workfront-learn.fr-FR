@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '109'
+ht-degree: 100%
 
 ---
 
 # Comprendre la communication d’un projet
 
-Dans cette vidéo, vous apprendrez à communiquer avec tous les intervenants du projet en utilisant :
+Dans cette vidéo, vous allez apprendre à communiquer avec toutes les parties prenantes d’un projet grâce aux éléments suivants :
 
 * Une bonne planification du projet
 * Mises à jour
