@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 70%
 
 Dans cette vidéo, vous apprendrez :
 
-* Quelles sont les heures prévues dans Workfront ?
+* Définition du nombre d’heures prévues dans Workfront
 * Importance du nombre d’heures prévues pour votre projet
-* Comment estimer les heures planifiées
+* Estimation du nombre d’heures prévues
 * Ajout du nombre d’heures planifiées à des tâches
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
@@ -37,5 +37,5 @@ Dans cette vidéo, vous apprendrez :
 * [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
 * [Découvrez comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Comprendre l’[!UICONTROL effort de travail]](/help/manage-work/tasks/understand-work-effort.md)
-* [Présentation des feuilles de calcul](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
-* [Temps de connexion](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [Vue d’ensemble des feuilles de temps](https://experienceleague.adobe.com/fr/docs/workfront/using/timesheets/details/timesheets-overview)
+* [Consigner le temps](https://experienceleague.adobe.com/fr/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
