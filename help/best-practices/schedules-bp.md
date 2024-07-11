@@ -6,16 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '536'
-ht-degree: 100%
+source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
+workflow-type: tm+mt
+source-wordcount: '554'
+ht-degree: 67%
 
 ---
 
 # Bonne pratique - Plannings
 
-## En quoi consiste une « bonne pratique » Adobe Workfront ?
+## En quoi consiste une « bonne pratique » Adobe Workfront ?
 
 Les bonnes pratiques sont des directives qui présentent une ligne de conduite efficace. Vous pouvez facilement les adopter, ainsi que les utilisateurs et utilisatrices de votre entreprise, et elles peuvent être reproduites avec succès dans toute votre organisation.
 
@@ -23,9 +23,9 @@ En examinant ces recommandations, gardez à l’esprit que certaines des bonnes 
 
 ## Naviguer sur cette page
 
-En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
+En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques relatives à ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
+La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
 
 </br>
 </br>
@@ -36,7 +36,10 @@ La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après 
 
 * Le nombre total d’heures de travail pour chaque jour ouvrable du calendrier doit être égal au nombre d’heures par jour spécifié dans les préférences globales du projet.
 
-* Ajoutez un rappel au calendrier de l’administrateur ou de l’administratrice système d’Adobe Workfront pour mettre à jour les plannings à une date définie chaque année.
+* Ajoutez un rappel au calendrier de l’administrateur système Adobe Workfront pour mettre à jour les planifications à une heure définie chaque année.
+
+
+Pour plus d’informations sur la création et la gestion des planifications, voir [Création et gestion des plannings](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) tutoriel .
 
 </br>
 </br>
@@ -49,9 +52,9 @@ Limitez le nombre de plannings que vous créez dans Adobe Workfront.
 
 
 
-**Voici pourquoi**
+**Voici pourquoi : **
 
-Ne créez pas des dizaines de calendriers pour différents groupes, équipes ou personnes. Moins de programmes signifie moins de maintenance de la part des administrateurs et administratrices système ou de groupes.
+Ne créez pas des dizaines de plannings pour différents groupes, équipes ou individus. Moins de programmes signifie moins de maintenance de la part des administrateurs et administratrices système ou de groupes.
 
 
 
@@ -61,7 +64,7 @@ Des plannings distincts peuvent être nécessaires dans les cas suivant :
 
 * Vous avez des travailleurs et des travailleuses à temps partiel qui travaillent moins de 40 heures par semaine.
 
-* Les travailleurs et travailleuses ne travaillent pas 8 heures par jour, du lundi au vendredi, par exemple ceux qui travaillent le weekend ou qui travaillent quatre journées de 10 heures.
+* Les travailleurs ne travaillent pas 8 heures par jour, du lundi au vendredi, comme les travailleurs du week-end ou ceux qui travaillent 4 jours de 10 heures.
 
 </br>
 </br>
@@ -72,11 +75,11 @@ Le nombre total d’heures de travail pour chaque jour ouvrable du calendrier do
 
 
 
-**Voici pourquoi**
+**Voici pourquoi : **
 
-Si le nombre total d’heures de travail ne correspond pas, cela peut entraîner des calculs de date et d’heure apparemment incorrects dans le calendrier et les rapports de votre projet.
+Si le total des heures de travail ne correspond pas, cela peut entraîner des calculs de date et d’heure apparemment incorrects dans la chronologie et les rapports de votre projet.
 
-Par exemple, si la préférence du système est de huit heures par jour et que le calendrier assigné à un projet ne comporte que sept heures de travail par jour, vous remarquerez qu’une tâche d’une durée d’une journée prend plus d’une journée pour être achevée, parce qu’elle essaie de s’adapter aux huit heures.
+Par exemple, si la préférence système est de huit heures par jour et que le planning assigné à un projet ne comporte que sept heures de travail par jour, vous remarquerez qu’une tâche d’une durée d’un jour prend plus d’une journée, car elle tente de s’adapter aux huit heures.
 
 **Note** : les paramètres globaux du projet sont définis dans Configuration > Préférences du projet > Calculs du calendrier > Heures types par jour de travail.
 
@@ -86,8 +89,8 @@ Par exemple, si la préférence du système est de huit heures par jour et que 
 
 **Bonne pratique**
 
-Ajoutez un rappel au calendrier de l’administrateur ou de l’administratrice système d’Adobe Workfront pour mettre à jour les plannings à une date définie chaque année.
+Ajoutez un rappel au calendrier de l’administrateur système Adobe Workfront pour mettre à jour les planifications à une heure définie chaque année.
 
-**Voici pourquoi**
+**Voici pourquoi : **
 
-Mettez à jour les plannings de votre instance Workfront avec les jours fériés, les congés de l’entreprise et les autres jours où les utilisateurs et utilisatrices ne travailleront pas. Faites-le à une date fixe chaque année, soit à la fin de l’année, soit lorsque les plannings de congés sont publiés par les ressources humaines, afin que les calendriers des projets, la planification des ressources, etc. reflètent la disponibilité exacte des utilisateurs et des utilisatrices.
+Mettez à jour les plannings de votre instance Workfront avec les jours fériés, les jours fériés et les autres jours pendant lesquels les utilisateurs ne travailleront pas. Faites-le à une date fixe chaque année, soit à la fin de l’année, soit lorsque les plannings de congés sont publiés par les ressources humaines, afin que les calendriers des projets, la planification des ressources, etc. reflètent la disponibilité exacte des utilisateurs et des utilisatrices.
