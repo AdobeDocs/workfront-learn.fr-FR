@@ -3,8 +3,8 @@ user-guide-description: Tutoriels Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: ht
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 100%
 
@@ -141,7 +141,6 @@ ht-degree: 100%
       + [Mettre à jour une requête](manage-work/issues-requests/update-a-request.md)
       + [Convertir un problème/une demande en projet](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Convertir un problème/une requête en une tâche.](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Examiner et approuver les travaux numériques](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Rapport sur les problèmes](manage-work/issues-requests/report-on-issues.md)
 
    + Files d’attente de demandes {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 100%
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Créer un processus d’approbation à usage unique](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Joindre et modifier les processus d’approbation existants](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [Examiner et approuver les travaux numériques](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Déléguer des tâches, des problèmes et des approbations](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Appliquer des jalons](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [Afficher les jalons](manage-work/approval-processes-and-milestone-paths/view-milestones.md)

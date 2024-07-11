@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -34,6 +35,11 @@ Dans cette vidéo, vous apprendrez à :
 >
 >Les documents, BAT et éléments de travail (projets, tâches et problèmes) nécessitant des validations figurent dans les projets et rapports personnalisés en plus de [!DNL Workfront Home].
 
+## Tutoriels recommandés sur cette rubrique
+
+* [Créer un processus d’approbation à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Joindre et modifier les processus d’approbation existants](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---
