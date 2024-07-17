@@ -1,6 +1,6 @@
 ---
-title: Accès [!UICONTROL Analytics amélioré]
-description: Découvrez comment les administrateurs système et groupe accordent l’accès à [!UICONTROL Analytics amélioré] via un modèle de mise en page.
+title: Accéder à [!UICONTROL Analytique améliorée]
+description: Découvrez la façon dont les équipes d’administration système et de groupes accordent l’accès à [!UICONTROL Analytique améliorée] via un modèle de disposition.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -16,18 +16,18 @@ doc-type: video
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 
-# Accès à Enhanced Analytics
+# Accéder à Analytique améliorée
 
-Comme la plupart des autres fonctionnalités de Workfront, vous pouvez accéder à [!UICONTROL Analytics amélioré] dans le menu principal. Mais [!UICONTROL Analytics] ne figure pas par défaut dans le menu principal.
+Comme pour la plupart des autres fonctionnalités de Workfront, vous pouvez accéder à [!UICONTROL Analytique améliorée] depuis le menu principal. Toutefois, l’option [!UICONTROL Analytique] ne figure pas par défaut dans le menu principal.
 
-![Image du menu principal ](assets/analytics-on-main-menu.png)
+![Image du menu principal](assets/analytics-on-main-menu.png)
 
-Si vous ne le voyez pas ici, votre administrateur système ou groupe devra l’ajouter à votre place. Ils le feront dans un modèle de mise en page. La vidéo ci-dessous explique comment procéder.
+Si vous ne la voyez pas ici, votre équipe d’administration système ou de groupes devra l’ajouter pour vous. Elle utilisera pour cela un modèle de disposition. La vidéo ci-dessous explique comment procéder.
 
 
 ## Ajouter Analytics pour les modèles de disposition

@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 jira: KT-10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 [!DNL Workfront] recommande de modifier les statuts de problème existants dans votre système avant de commencer à créer de nouveaux statuts. Cela permet de limiter le nombre de statuts à conserver.
 
 1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
-1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau du menu de gauche.
+1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau de menu gauche.
 1. Sélectionnez **[!UICONTROL Statuts]**.
 1. Sélectionnez l’onglet **[!UICONTROL Problèmes]**.
 1. Assurez-vous que le champ en haut à droite est défini sur [!UICONTROL Statuts du système]. Cela garantit que le nouveau statut est disponible globalement partout dans votre instance [!DNL Workfront].

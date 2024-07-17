@@ -10,8 +10,8 @@ level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '320'
+workflow-type: tm+mt
+source-wordcount: '321'
 ht-degree: 100%
 
 ---
@@ -34,7 +34,7 @@ Par exemple, une équipe souhaite effectuer le suivi des risques d’un projet �
 Les types de problèmes sont renommés à l’échelle du système, de sorte que la modification s’applique à tous les utilisateurs et toutes les utilisatrices.
 
 1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
-1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau du menu de gauche.
+1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau de menu gauche.
 1. Sélectionnez **[!UICONTROL Statuts]**.
 1. Sélectionnez l’onglet **[!UICONTROL Problèmes]**.
 1. Assurez-vous que le menu en haut à droite est défini sur [!UICONTROL Statuts du système].

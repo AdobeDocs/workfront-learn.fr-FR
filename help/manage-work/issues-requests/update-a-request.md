@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Retrouver des requêtes que vous avez soumises
 * Effectuer une mise à jour dans le panneau Résumé
 * Ouvrir la page de demande ;
-* Mettez à jour une requête dans la variable [!UICONTROL Mises à jour] panel
+* Mettre à jour une requête dans le panneau [!UICONTROL Mises à jour]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

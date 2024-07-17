@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 100%
 
@@ -108,7 +108,7 @@ Avant de modifier ces paramètres, discutez de vos éventuels besoins de process
 Fenêtre des préférences des ![[!UICONTROL Tâches et problèmes] avec la section [!UICONTROL Lorsqu’une personne est affectée à un PROBLÈME] mise en surbrillance](assets/admin-fund-issue-prefs-access-1.png)
 
 1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
-1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau du menu de gauche.
+1. Développez la section **[!UICONTROL Préférences projet]** dans le panneau de menu gauche.
 1. Sélectionnez **[!UICONTROL Tâches et problèmes]**.
 1. Faites défiler l’écran jusqu’à la section **[!UICONTROL Accès]** et recherchez l’option « [!UICONTROL Lorsqu’une personne est affectée à un PROBLÈME] ».
 1. Définissez le type d’accès pour le problème lui-même : [!UICONTROL Voir], [!UICONTROL Contribuer], ou [!UICONTROL Gérer]. [!DNL Workfront] recommande de laisser les options avancées telles quelles.

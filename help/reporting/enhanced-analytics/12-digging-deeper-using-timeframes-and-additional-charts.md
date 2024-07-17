@@ -1,6 +1,6 @@
 ---
-title: Approfondir à l’aide de délais et de graphiques supplémentaires
-description: Apprenez à analyser en profondeur un projet dans le plan de vol pour faire apparaître le graphique d’avancement et le graphique des tâches en cours dans [!UICONTROL Analytique améliorée].
+title: Approfondir à l’aide des délais et des graphiques supplémentaires
+description: Apprenez à analyser en profondeur un projet dans le graphique de plan de vol pour faire apparaître dans [!UICONTROL Analytique améliorée] le graphique d’avancement et le graphique des tâches en cours.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -13,13 +13,13 @@ recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
-# Approfondir à l’aide de délais et de graphiques supplémentaires
+# Approfondir à l’aide des délais et des graphiques supplémentaires
 
 Dans cette vidéo, vous apprendrez :
 

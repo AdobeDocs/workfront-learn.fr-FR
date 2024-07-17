@@ -1,6 +1,6 @@
 ---
 title: Comprendre un cas d’utilisation d’utilisateur final
-description: Découvrez comment les utilisateurs et utilisatrices finaux peuvent utiliser les graphiques du plan de vol, d’avancement et de tâches en cours dans [!UICONTROL Analytique améliorée].
+description: Découvrez comment les utilisateurs et utilisatrices finaux peuvent utiliser les graphiques de plan de vol, d’avancement et de tâches en cours dans [!UICONTROL Analytique améliorée].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -13,7 +13,7 @@ recommendations: noDisplay,noCatalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 

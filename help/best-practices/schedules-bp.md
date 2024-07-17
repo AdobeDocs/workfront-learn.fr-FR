@@ -39,7 +39,7 @@ La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve ap
 * Ajoutez un rappel au calendrier de l’administrateur système Adobe Workfront pour mettre à jour les planifications à une heure définie chaque année.
 
 
-Pour plus d’informations sur la création et la gestion des planifications, voir [Création et gestion des plannings](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) tutoriel .
+Pour plus d’informations sur la création et la gestion des plannings, consultez le tutoriel [Créer et gérer des plannings](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) .
 
 </br>
 </br>

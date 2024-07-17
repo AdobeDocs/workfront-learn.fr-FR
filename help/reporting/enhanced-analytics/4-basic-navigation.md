@@ -12,7 +12,7 @@ jira: KT-8724
 recommendations: noDisplay,noCatalog
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Comprendre la navigation de base
 
-Pour naviguer vers [!UICONTROL Analytics] dans la nouvelle expérience Workfront, utilisez le bouton [!UICONTROL Menu principal].
+Pour naviguer vers [!UICONTROL Analytics] dans Workfront, utilisez le bouton [!UICONTROL Menu principal].
 
 ![Une image de la recherche de la fonction [!UICONTROL Analytics] dans le [!UICONTROL menu principal]](assets/Navigate-NWE.png) de Workfront.
 
