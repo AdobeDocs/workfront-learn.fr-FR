@@ -1,6 +1,6 @@
 ---
 title: Rapport sur les problèmes
-description: Découvrez comment centraliser les problèmes en créant un rapport.
+description: Découvrez comment créer des rapports présentant les problèmes en cours et les informations de conversion.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,41 +8,26 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 41%
 
 ---
 
 # Rapport sur les problèmes
 
-Découvrez comment centraliser les problèmes en créant un rapport.
+Dans cette vidéo, vous apprendrez à créer :
 
-## Centraliser les problèmes en créant un rapport
+* Rapport de problème présentant la résolution d’objets
+* Rapport de projet présentant les informations sur les problèmes convertis
 
-De nombreux responsables de trafic et de projets créent un rapport personnalisé [!UICONTROL Workfront] pour centraliser tous les problèmes entrants. Il est ainsi facile de suivre ce qui est nouveau et ce qui nécessite une attention particulière.
 
-Le rapport peut ensuite être ajouté à un tableau de bord, plaçant tout ce dont vous avez besoin pour effectuer votre travail dans une seule fenêtre [!UICONTROL Workfront].
-
-![Image de la colonne [!UICONTROL Objet de résolution] d’un rapport de problème.](assets/18-resolving-object-report.png)
-
-Pour afficher le nom de la tâche ou du projet vers lequel le problème a été converti, ajoutez la colonne « [!UICONTROL Objet de résolution] » dans la vue. Un « [!UICONTROL Objet de résolution] » est la tâche ou le projet créé lorsque vous convertissez un problème. Si un problème n’a pas été converti, le champ [!UICONTROL Objet de résolution] sera vide. Ce rapport vous permet de voir rapidement quels problèmes ont déjà été convertis, afin d&#39;éviter les doublons. Cliquez simplement sur le nom de l’objet de résolution pour l’ouvrir afin que vous puissiez suivre la progression du travail en cours.
-
-## Afficher les informations du problème initial dans les rapports
-
-Lorsqu’un problème est converti en projet ou en tâche, de nombreux détails du problème initial peuvent être inclus dans les rapports de projet ou de tâche. Le problème initial est alors appelé « [!UICONTROL Problème converti] ».
-
-Un rapport de projet ou de tâche peut afficher ces informations à l’aide de l’objet [!UICONTROL Créateur du problème converti] et de deux champs dédiés. Ces colonnes peuvent être ajoutées à une vue personnalisée sans passer par le mode texte :
-
-* [!UICONTROL Date d&#39;entrée de l&#39;événement converti]
-* [!UICONTROL Nom du problème converti]
-* [!UICONTROL Créateur du problème converti > Nom]
-
-![Image des informations de rapport de problèmes.](assets/19-text-mode-reporting-for-issues.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
 
 
 ## Tutoriels recommandés sur cette rubrique
