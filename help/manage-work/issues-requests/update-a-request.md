@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
 source-git-commit: e2a8ab1d8139008c145f584c8c2181a082d1923b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Retrouver des requêtes que vous avez soumises
 * Effectuer une mise à jour dans le panneau Résumé
-* Ouvrir la page de demande ;
+* Ouvrir la page de requête
 * Mettre à jour une requête dans le panneau [!UICONTROL Mises à jour]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
