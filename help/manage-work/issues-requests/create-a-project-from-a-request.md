@@ -1,6 +1,6 @@
 ---
 title: Convertir un problème/une demande en projet
-description: Découvrez comment lancer la conversion de la demande vers le projet, sélectionner le modèle de projet approprié et terminer la conversion.
+description: Découvrez comment lancer la conversion de la demande en projet, sélectionner le modèle de projet approprié et terminer la conversion.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 67%
 
 Dans cette vidéo, vous apprendrez à :
 
-* Lancer la conversion de la demande au projet
+* Initier la conversion de la demande en projet
 * Sélectionner le modèle de projet approprié
 * Réussir la conversion de la demande en projet
 

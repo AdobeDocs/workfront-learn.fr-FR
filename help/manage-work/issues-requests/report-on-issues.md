@@ -13,17 +13,17 @@ recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # Rapport sur les problèmes
 
-Dans cette vidéo, vous apprendrez à créer :
+Dans cette vidéo, vous apprendrez à créer les éléments suivants :
 
-* Rapport de problème présentant la résolution d’objets
+* Rapport de problème présentant des objets de résolution
 * Rapport de projet présentant les informations sur les problèmes convertis
 
 
