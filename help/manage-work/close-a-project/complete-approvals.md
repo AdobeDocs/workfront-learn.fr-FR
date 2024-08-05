@@ -8,30 +8,50 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-16T00:00:00Z
+last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 23ffb95ff506c7b3abc2202a689026f0c2ea21b2
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 100%
+source-wordcount: '283'
+ht-degree: 22%
 
 ---
 
 # Terminer les approbations
 
-Les approbations de tâches et de problèmes font partie de nombreux workflows. Mais les approbations non résolues vous empêcheront de définir le statut du projet sur Terminé.
+L’approbation des tâches et des problèmes fait partie de nombreux projets. Mais les approbations non résolues vous empêcheront de définir le statut du projet sur Terminé.
 
-Dans la section [!UICONTROL Tâche] de votre projet, sélectionnez une [!UICONTROL vue] qui inclut la colonne [!UICONTROL Statut]. Un coup d’œil rapide sur cette colonne permet de voir si une tâche a fait l’objet d’une approbation incomplète, avec la mention « [!UICONTROL - Approbation en attente] » après le nom du statut.
+Voici comment les trouver et les traiter.
 
-![Projet dont l’approbation est incomplète](assets/approval-pending.png)
+Dans la section [!UICONTROL Tâche] de votre projet, sélectionnez une [!UICONTROL Vue] qui inclut la colonne [!UICONTROL État], telle que la vue [!UICONTROL État]. Un rapide coup d’oeil vers le bas de cette colonne indique s’il existe une approbation incomplète sur une tâche avec les mots &quot;[!UICONTROL - Autorisation en attente]&quot; après le nom de l’état.
 
-Certains choix se présentent à vous :
+![Projet dont l’approbation est incomplète](assets/pending-approval-1.png)
 
-* **Terminer l’approbation -** Cela peut consister à rappeler aux autres l’approbation en suspens. Vous pouvez voir qui est affecté en tant qu’approbateur ou approbatrice en ouvrant la tâche et en cliquant sur l’onglet Approbations.
-* **Supprimer l’approbation -** Si l’approbation n’est pas nécessaire, il peut être plus facile de la supprimer. Votre capacité à le faire dépend de vos autorisations sur [!DNL Workfront].
-* **Modifier le statut -** Si l’approbation n’est pas nécessaire, vous pouvez sélectionner un statut sans approbation. Assurez-vous simplement que le statut équivaut à Terminé.
+Lorsque vous trouvez une tâche en attente d’approbation, vous avez le choix entre deux actions :
 
-![Projet montrant les approbateurs et approbatrices de tâches](assets/task-approvers.png)
+
+## Effectuer la validation
+
+Cela peut signifier rappeler à la personne affectée la validation en attente. Vous pouvez voir qui est désigné comme approbateur en ouvrant la tâche et en cliquant sur le menu à trois points dans la zone de validation.
+
+![Tâche montrant la zone d’approbation](assets/pending-approval-2.png)
+
+Une boîte de dialogue s’affiche avec l’approbateur affecté.
+
+![Tâche montrant l’approbateur affecté](assets/pending-approval-3.png)
+
+
+## Supprimer la validation
+
+Si l’approbation n’est pas nécessaire, vous pouvez la supprimer. Pour ce faire, vous devez d’abord rappeler la validation. Cliquez sur le bouton [!UICONTROL Rappeler] dans la zone des approbations. Le statut passe alors à son état précédent et vous permet de supprimer le processus d’approbation.
+
+![Tâche affichant le bouton de rappel](assets/pending-approval-5.png)
+
+Cliquez maintenant sur l’onglet [!UICONTROL Approbations] à gauche, puis sur le bouton [!UICONTROL Supprimer] en haut à droite.
+
+![Tâche montrant le bouton de suppression de l’approbation](assets/pending-approval-6.png)
+
+## Traitement des approbations de problèmes
 
 Si votre organisation utilise des problèmes pour effectuer le suivi des complications, modifier les commandes ou d’autres événements pendant les projets, procédez de la même façon dans la section [!UICONTROL Problèmes] de votre projet.
