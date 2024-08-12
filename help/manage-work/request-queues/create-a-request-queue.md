@@ -1,6 +1,6 @@
 ---
 title: Créer une file d’attente de demandes
-description: Découvrez comment configurer une file d’attente de demandes et établir les détails de la file d’attente. Suivez ces étapes pour aider votre entreprise à gérer la réception du travail.
+description: Découvrez comment configurer une file d’attente des demandes et établir les détails de la file d’attente. Suivez ces étapes pour aider votre entreprise à gérer la réception du travail.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -14,9 +14,9 @@ last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 

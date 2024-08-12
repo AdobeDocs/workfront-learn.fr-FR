@@ -12,41 +12,41 @@ last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 source-git-commit: 23ffb95ff506c7b3abc2202a689026f0c2ea21b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
 # Terminer les approbations
 
-L’approbation des tâches et des problèmes fait partie de nombreux projets. Mais les approbations non résolues vous empêcheront de définir le statut du projet sur Terminé.
+Les approbations de tâches et de problèmes font partie de nombreux projets. Mais les approbations non résolues vous empêcheront de définir le statut du projet sur Terminé.
 
 Voici comment les trouver et les traiter.
 
-Dans la section [!UICONTROL Tâche] de votre projet, sélectionnez une [!UICONTROL Vue] qui inclut la colonne [!UICONTROL État], telle que la vue [!UICONTROL État]. Un rapide coup d’oeil vers le bas de cette colonne indique s’il existe une approbation incomplète sur une tâche avec les mots &quot;[!UICONTROL - Autorisation en attente]&quot; après le nom de l’état.
+Dans la section [!UICONTROL Tâche] de votre projet, sélectionnez une [!UICONTROL vue] qui inclut la colonne [!UICONTROL Statut], telle que la vue [!UICONTROL Statut]. Un coup d’œil rapide sur cette colonne permet de voir si une tâche a fait l’objet d’une approbation incomplète, avec la mention « [!UICONTROL - Approbation en attente] » après le nom du statut.
 
 ![Projet dont l’approbation est incomplète](assets/pending-approval-1.png)
 
-Lorsque vous trouvez une tâche en attente d’approbation, vous avez le choix entre deux actions :
+Lorsque vous trouvez une tâche en attente d’approbation, vous avez le choix entre deux actions :
 
 
-## Effectuer la validation
+## Terminer l’approbation
 
-Cela peut signifier rappeler à la personne affectée la validation en attente. Vous pouvez voir qui est désigné comme approbateur en ouvrant la tâche et en cliquant sur le menu à trois points dans la zone de validation.
+Cela peut consister à rappeler à la personne affectée l’approbation en suspens. Vous pouvez voir qui est affecté en tant qu’approbateur ou approbatrice en ouvrant la tâche et en cliquant sur le menu à trois points dans la zone des approbations.
 
 ![Tâche montrant la zone d’approbation](assets/pending-approval-2.png)
 
-Une boîte de dialogue s’affiche avec l’approbateur affecté.
+Une zone montrant la personne approbatrice affectée s’affiche.
 
-![Tâche montrant l’approbateur affecté](assets/pending-approval-3.png)
+![Tâche montrant la personne approbatrice affectée](assets/pending-approval-3.png)
 
 
-## Supprimer la validation
+## Supprimer l’approbation
 
-Si l’approbation n’est pas nécessaire, vous pouvez la supprimer. Pour ce faire, vous devez d’abord rappeler la validation. Cliquez sur le bouton [!UICONTROL Rappeler] dans la zone des approbations. Le statut passe alors à son état précédent et vous permet de supprimer le processus d’approbation.
+Si l’approbation n’est pas nécessaire, vous pouvez la supprimer. Pour ce faire, vous devez d’abord rappeler l’approbation. Cliquez sur le bouton [!UICONTROL Rappeler] dans la zone des approbations. Le statut passe alors à son état précédent et vous permet de supprimer le processus d’approbation.
 
-![Tâche affichant le bouton de rappel](assets/pending-approval-5.png)
+![Tâche montrant le bouton de rappel](assets/pending-approval-5.png)
 
 Cliquez maintenant sur l’onglet [!UICONTROL Approbations] à gauche, puis sur le bouton [!UICONTROL Supprimer] en haut à droite.
 
