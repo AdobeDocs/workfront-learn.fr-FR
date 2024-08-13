@@ -1,6 +1,6 @@
 ---
 title: Comprendre les files d’attente de demandes
-description: Découvrez ce qu’est une file d’attente de requêtes, comment envoyer une requête par le biais d’une file d’attente de requêtes et comment les files d’attente de requêtes sont structurées.
+description: Découvrez ce qu’est une file d’attente des demandes, comment envoyer une demande par le biais d’une file d’attente des demandes et comment les files d’attente des demandes sont structurées.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 79365fbcd031ca3d65100574c8bef27929c8ffe6
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 50%
+ht-degree: 91%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 50%
 
 Dans cette vidéo, vous apprendrez :
 
-* Présentation de la file d’attente des demandes
-* Comment envoyer une requête par le biais d’une file d’attente de requêtes
+* Définition d’une file d’attente des demandes
+* Comment envoyer une demande par le biais d’une file d’attente des demandes
 * Comprendre la façon dont les files d’attente de demandes sont structurées
 
 
@@ -34,6 +34,6 @@ Dans cette vidéo, vous apprendrez :
 ## Tutoriels recommandés sur cette rubrique
 
 * [Créer une file d’attente de demandes](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Comprendre les paramètres d’une demande à acheminer](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Présentation des paramètres d’un flux de requêtes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Créer un flux de demandes](/help/manage-work/request-queues/create-a-request-flow.md)
 
