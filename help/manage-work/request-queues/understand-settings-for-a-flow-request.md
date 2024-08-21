@@ -1,6 +1,6 @@
 ---
-title: Présentation des paramètres d’un flux de requêtes
-description: Découvrez les flux de requêtes et comment en créer un à l’aide des règles de routage, des groupes de rubriques et des rubriques de file d’attente.
+title: Comprendre les paramètres d’un flux de requêtes
+description: Découvrez les flux de requêtes et leur création à l’aide des règles de routage, des groupes de rubriques et des rubriques de file d’attente.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -14,13 +14,13 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# Présentation des paramètres d’un flux de requêtes
+# Comprendre les paramètres d’un flux de requêtes
 
 Dans cette vidéo, vous apprendrez :
 

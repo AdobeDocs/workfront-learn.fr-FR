@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 99%
    + Files d’attente de demandes {#request-queues}
       + [Comprendre les files d’attente de demandes](manage-work/request-queues/understand-request-queues.md)
       + [Créer une file d’attente de demandes](manage-work/request-queues/create-a-request-queue.md)
-      + [Présentation des paramètres d’un flux de requêtes](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Comprendre les paramètres d’un flux de requêtes](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Créer un flux de demandes](manage-work/request-queues/create-a-request-flow.md)
       + [Créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Réponses aux questions courantes sur les files d’attente de demandes](manage-work/request-queues/request-queue-faq.md)
