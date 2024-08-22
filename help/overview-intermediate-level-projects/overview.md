@@ -7,28 +7,34 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-20T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ca218d2e86f45417b2165330f66057d50fd3d989
+source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
 
-# Présentation des projets de niveau intermédiaire
+# Présentation des projets de niveau intermédiaire {#overview}
 
 Les tutoriels ci-dessous vous donneront une compréhension approfondie des différents outils de gestion de projet de Workfront, ainsi que quelques conseils pratiques et bonnes pratiques.
 
 >[!PREREQUISITES]
 >
+>* Bonne compréhension de l’utilisation de Workfront
+>* Type de licence standard avec les droits de création de projets activés
 >* [Prise en main de Workfront pour les chefs de projet ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 >* [Gérer et fermer une présentation de projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners)
 >* [Présentation plus détaillée de la gestion du travail en tant que chef de projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners)
+
+## Audience cible
+
+Utilisateurs sous licence standard qui vont créer ou gérer des projets.
 
 ## Tutoriels
 
