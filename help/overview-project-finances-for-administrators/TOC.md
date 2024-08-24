@@ -5,10 +5,10 @@ breadcrumb-title: Présentation des Portfolios
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 32%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 0%
 # Présentation des finances du projet pour les administrateurs {#project-finances-for-administrators}
 
 + [Présentation des finances du projet pour les administrateurs](overview.md)
-+ [Comprendre les mesures de performances](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [ Configuration des valeurs par défaut des recettes et des coûts de la tâche](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [Configuration des taux d’exchange](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [Configuration des types de dépenses](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [Comprendre l’accès financier](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ Finances du projet pour les administrateurs {#project-finances-for-administrators}
+   + [Comprendre les mesures de performances](understand-performance-metrics.md)
+   + [Configurer des valeurs par défaut des revenus et des coûts d’une tâche](set-up-task-revenue-and-cost-defaults.md)
+   + [Configurer les taux de change](set-up-exchange-rates.md)
+   + [Configurer les types de dépenses](set-up-expense-types.md)
+   + [Comprendre l’accès financier](understand-financial-access.md)
 
 

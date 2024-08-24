@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 19%
@@ -36,6 +36,6 @@ Utilisateurs de licence standard qui vont gérer des projets dans des portfolios
 
 ## Tutoriels
 
-* [Comprendre les portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-* [Comprendre l’[!UICONTROL analyse de rentabilité]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-* [Utiliser l’[!UICONTROL optimisateur de portfolio] pour établir des priorités et gérer le travail](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+* [Comprendre les portfolios](overview-of-adobe-workfront-portfolios.md)
+* [Comprendre l’[!UICONTROL analyse de rentabilité]](introduction-to-the-business-case.md)
+* [Utiliser l’[!UICONTROL optimisateur de portfolio] pour établir des priorités et gérer le travail](prioritize-and-manage-work-with-portfolios.md)
