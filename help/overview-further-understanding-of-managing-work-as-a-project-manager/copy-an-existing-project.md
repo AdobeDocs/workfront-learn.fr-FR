@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
-exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
+hide: true
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -28,5 +28,6 @@ Accédez au projet que vous souhaitez copier et cliquez sur le menu à 3 points
 La fenêtre Copier le projet vous permet de modifier le titre et le statut, ainsi que d’effacer diverses données associées au projet, telles que des affectations, des documents et des données personnalisées.
 
 ![Copier les options du projet](assets/copy-existing-02.png)
+
 
 Le fait de sélectionner Effacer les affectations ou de définir le statut sur Planification empêche le projet copié d’envoyer des notifications d’affectation de tâches juste après la copie.

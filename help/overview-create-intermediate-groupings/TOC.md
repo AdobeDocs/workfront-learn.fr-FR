@@ -1,13 +1,13 @@
 ---
 user-guide-title: Présentation de la création de groupements intermédiaires
 user-guide-description: Découvrez le mode texte, la casse des chameaux et comment utiliser des blocs de code de mode de texte "plug and play" de base pour créer des regroupements qui vont au-delà des capacités du créateur standard.
-breadcrumb-title: Présentation des Portfolios
+breadcrumb-title: Présentation de la création de groupements intermédiaires
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 10%
 
 ---
