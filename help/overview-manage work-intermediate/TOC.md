@@ -2,14 +2,14 @@
 user-guide-title: Gérer le travail - intermédiaire
 user-guide-description: Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous devez savoir plus pour tirer le meilleur parti de Workfront.
 feature: Work Management
-breadcrumb-title: Présentation plus détaillée de la gestion du travail en tant que chef de projet
+breadcrumb-title: Gérer le travail - intermédiaire
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 65%
+source-wordcount: '180'
+ht-degree: 64%
 
 ---
 
@@ -49,11 +49,6 @@ ht-degree: 65%
       + [Convertir un problème/une demande en projet](create-a-project-from-a-request.md)
       + [Convertir un problème/une requête en une tâche.](convert-issues-to-other-work-items.md)
       + [Rapport sur les problèmes](report-on-issues.md)
-
-   + Calendriers du projet {#project-timelines}
-      + [Comprendre les calendriers du projet](understand-project-timelines.md)
-      + [Comprendre les types de dates et le statut de la progression](understand-task-dates-and-progress-status.md)
-      + [Suivre la progression à partir du calendrier du projet](track-work-progress-from-the-project-timeline.md)
 
    + creuser plus profondément {#digging-deeper}
       + [Comprendre et gérer les types de durée et les contraintes de tâche](understand-and-manage-duration-types-and-task-constraints.md)

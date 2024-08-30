@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Découvrez comment créer des chemins de jalon, appliquer les jalons aux tâches
 * [Appliquer les jalons](apply-milestones.md) - Découvrez comment appliquer un chemin de jalon à un projet et associer des tâches clés en tant qu’étapes de jalon dans le projet.
 * [Voir les jalons](view-milestones.md) - Découvrez comment afficher les jalons dans un projet Adobe Workfront et utiliser la vue des jalons dans la zone du projet.
 
+
 ## Utilisation des problèmes
 
 Découvrez comment gérer des tâches imprévues avec des problèmes, convertir des problèmes en d’autres tâches, gérer des affectations de problèmes et créer des rapports sur les problèmes.
@@ -86,13 +87,6 @@ Découvrez comment gérer des tâches imprévues avec des problèmes, convertir 
 * [Convertir un problème/une requête en tâche](convert-issues-to-other-work-items.md) - Découvrez comment convertir un problème en tâche.
 * [Rapport sur les problèmes](report-on-issues.md) - Découvrez comment créer un rapport de problèmes présentant les objets de résolution et un rapport de projet présentant les informations de problème converties.
 
-## Calendriers de projet
-
-Découvrez comment planifier des projets et suivre leur progression.
-
-* [Comprendre les calendriers du projet](understand-project-timelines.md) - Découvrez comment planifier des projets à partir d’une date de début ou de fin. Ensuite, découvrez comment la durée, les prédécesseurs et les contraintes de tâche affectent le plan du projet.
-* [Comprendre les types de date et l’état d’avancement](understand-task-dates-and-progress-status.md) - Découvrez comment sélectionner une vue pour comparer Workfront en  différents types de date et comment utiliser le champ d’état d’avancement.
-* [Suivez la progression à partir de la chronologie du projet](track-work-progress-from-the-project-timeline.md) - Découvrez comment suivre la progression du travail à partir de la chronologie du projet à l’aide du pourcentage de réalisation, de statut, d’affectations et de contraintes de tâche.
 
 ## creuser plus profondément
 
