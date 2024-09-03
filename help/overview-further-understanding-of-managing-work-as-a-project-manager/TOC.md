@@ -1,23 +1,24 @@
 ---
-user-guide-title: Gérer le travail - intermédiaire
+user-guide-title: Présentation plus détaillée de la gestion du travail en tant que chef de projet
 user-guide-description: Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous devez savoir plus pour tirer le meilleur parti de Workfront.
 feature: Work Management
-breadcrumb-title: Gérer le travail - intermédiaire
+breadcrumb-title: Présentation plus détaillée de la gestion du travail en tant que chef de projet
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 55%
 
 ---
 
 
-# Gérer le travail - intermédiaire {#manage-work-intermediate}
 
-+ [Gérer le travail - intermédiaire](overview.md)
-+ Gérer le travail - intermédiaire {#manage-work-intermediate}
+# Présentation plus détaillée de la gestion du travail en tant que chef de projet {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [Présentation plus détaillée de la gestion du travail en tant que chef de projet](overview.md)
++ Une meilleure compréhension de la gestion du travail en tant que chef de projet {#further-understanding-of-managing-work-as-a-project-manager}
    + Modèles de projet {#project-templates}
       + [Créer un modèle de projet et découvrir les plans directeurs](create-a-project-template.md)
       + [Créer un projet directement à partir d’un modèle](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 64%
       + [Convertir un problème/une requête en une tâche.](convert-issues-to-other-work-items.md)
       + [Rapport sur les problèmes](report-on-issues.md)
 
-   + creuser plus profondément {#digging-deeper}
-      + [Comprendre et gérer les types de durée et les contraintes de tâche](understand-and-manage-duration-types-and-task-constraints.md)
-      + [Compendre les prédécesseurs multi-projets](understand-cross-project-predecessors.md)
-      + [Prédécesseurs avancés](advanced-predecessors.md)
+   + Calendriers du projet {#project-timelines}
+      + [Comprendre les calendriers du projet](understand-project-timelines.md)
+      + [Comprendre les types de dates et le statut de la progression](understand-task-dates-and-progress-status.md)
+      + [Suivre la progression à partir du calendrier du projet](track-work-progress-from-the-project-timeline.md)
+
+

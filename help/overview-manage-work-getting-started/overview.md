@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
@@ -42,7 +42,6 @@ Découvrez ce qu’est un projet dans Adobe Workfront, comment le mettre en serv
 * [Découvrez quatre façons de créer un projet](understand-other-ways-to-create-projects.md) : découvrez comment créer un projet à partir d’un modèle, créer un projet à partir de zéro, copier un projet existant ou importer un fichier [!DNL Microsoft Project].
 * [Renseignez les détails du projet](fill-in-the-project-details.md) - Découvrez les champs de détails du projet qu’Adobe Workfront vous recommande de remplir lors de la création d’un projet.
 * [Parcourir la page du projet](navigate-the-project-page.md) - Découvrez comment afficher les détails d’un projet, les informations affichées dans la liste des tâches, l’emplacement de téléchargement des documents et comment afficher l’historique de mise à jour.
-
 
 ## Planification d’un projet
 
@@ -76,7 +75,6 @@ Découvrez comment effectuer le suivi du travail du projet et communiquer avec l
 * [Suivez la progression à partir de la chronologie du projet](track-work-progress-from-the-project-timeline.md) - Découvrez comment suivre la progression du travail à partir de la chronologie du projet à l’aide du pourcentage de réalisation, de statut, d’affectations et de contraintes de tâche.
 * [Comprendre la vue [!UICONTROL Gantt]](understand-the-gantt-view.md) - Découvrez comment utiliser le graphique [!UICONTROL Gantt] du projet et le graphique [!UICONTROL Gantt] de la tâche.
 * [Comprendre la [!UICONTROL vue Panorama]](understand-the-board-view.md) - Découvrez où trouver la vue Panorama et comment l’utiliser.
-
 
 ## Fermer un projet
 

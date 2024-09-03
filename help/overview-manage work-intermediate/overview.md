@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Découvrez comment créer et utiliser des modèles de projet.
 * [Désactiver un modèle de projet](deactivate-a-project-template.md) - Découvrez comment activer et désactiver un modèle de projet.
 * [Modifiez l’équipe de projet dans un modèle de projet](edit-the-project-team-in-a-project-template.md) - Découvrez comment éviter d’inclure involontairement des **membres de l’équipe de projet non** dans une équipe de projet de modèle et comment modifier l’équipe de projet de modèle.
 
-
 ## Comment créer et utiliser des processus de validation
 
 Découvrez comment créer des processus d’approbation, les joindre à des workflows, passer en revue le travail numérique et déléguer les validations.
@@ -64,7 +63,6 @@ Découvrez comment créer des processus d’approbation, les joindre à des work
 * [Comprendre les mises à jour et les notifications](understand-updates-and-notifications.md) - Découvrez comment effectuer des mises à jour sur les demandes d’approbation et trouver vos notifications.
 * [Déléguer les tâches, les problèmes et les approbations](delegate-approvals.md) - Découvrez comment déléguer les approbations pour les projets, les tâches, les problèmes et les Fiches d’évaluation à un autre utilisateur d’Adobe Workfront.
 
-
 ## Création et utilisation de jalons
 
 Découvrez comment créer des chemins de jalon, appliquer les jalons aux tâches et afficher des rapports de jalon.
@@ -72,7 +70,6 @@ Découvrez comment créer des chemins de jalon, appliquer les jalons aux tâches
 * [Créer des jalons](creating-milestones.md) - Découvrez les chemins de jalon, comment créer des jalons et comment ajouter des étapes de jalon à un projet.
 * [Appliquer les jalons](apply-milestones.md) - Découvrez comment appliquer un chemin de jalon à un projet et associer des tâches clés en tant qu’étapes de jalon dans le projet.
 * [Voir les jalons](view-milestones.md) - Découvrez comment afficher les jalons dans un projet Adobe Workfront et utiliser la vue des jalons dans la zone du projet.
-
 
 ## Utilisation des problèmes
 
@@ -86,7 +83,6 @@ Découvrez comment gérer des tâches imprévues avec des problèmes, convertir 
 * [Convertir un problème/une demande en projet](create-a-project-from-a-request.md) - Découvrez comment lancer la conversion de la demande vers le projet et sélectionner le modèle de projet approprié.
 * [Convertir un problème/une requête en tâche](convert-issues-to-other-work-items.md) - Découvrez comment convertir un problème en tâche.
 * [Rapport sur les problèmes](report-on-issues.md) - Découvrez comment créer un rapport de problèmes présentant les objets de résolution et un rapport de projet présentant les informations de problème converties.
-
 
 ## creuser plus profondément
 
