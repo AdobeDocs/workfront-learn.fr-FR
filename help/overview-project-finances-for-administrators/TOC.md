@@ -1,22 +1,22 @@
 ---
-user-guide-title: Présentation des finances du projet pour les administrateurs
-user-guide-description: Découvrez comment hiérarchiser les projets actuels et proposés en fonction de leur coût, de leur valeur, de leur risque et de leur alignement sur les objectifs de votre entreprise.
-breadcrumb-title: Présentation des finances du projet pour les administrateurs
+user-guide-title: Finances du projet pour les administrateurs et administratrices
+user-guide-description: Découvrez comment établir des paramètres financiers à l’échelle du système pour garantir la cohérence de la facturation et de la création de rapports dans l’ensemble de votre entreprise.
+breadcrumb-title: Finances du projet pour les administrateurs et administratrices
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 31%
+source-wordcount: '57'
+ht-degree: 63%
 
 ---
 
 
 
-# Présentation des finances du projet pour les administrateurs {#project-finances-for-administrators}
+# Finances du projet pour les administrateurs et administratrices {#project-finances-for-administrators}
 
-+ [Présentation des finances du projet pour les administrateurs](overview.md)
++ [Finances du projet pour les administrateurs et administratrices](overview.md)
 + Finances du projet pour les administrateurs {#project-finances-for-administrators}
    + [Comprendre les mesures de performances](understand-performance-metrics.md)
    + [Configurer des valeurs par défaut des revenus et des coûts d’une tâche](set-up-task-revenue-and-cost-defaults.md)
