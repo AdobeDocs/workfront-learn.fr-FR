@@ -1,6 +1,6 @@
 ---
-title: Création et gestion des règles de fonctionnement
-description: Découvrez comment créer et gérer des règles de fonctionnement.
+title: Créer et gérer les règles métier
+description: Découvrez comment créer et gérer les règles métier.
 feature: System Setup and Administration
 topic: Administration
 role: Admin
@@ -10,15 +10,15 @@ duration: 212
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16025
 source-git-commit: 0baf25d9aae087d97d7e81e9009eaabcd0b418cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Création et gestion des règles de fonctionnement
+# Créer et gérer les règles métier
 
-Découvrez comment créer et gérer des règles de fonctionnement.
+Découvrez comment créer et gérer les règles métier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on)
