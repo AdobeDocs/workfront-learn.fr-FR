@@ -7,12 +7,11 @@ level: Intermediate
 jira: KT-10889
 thumbnail: benefits-of-agile.png
 hide: true
-hidefromtoc: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -24,9 +23,9 @@ Comme son nom l’indique, la méthodologie agile permet aux équipes d’être 
 
 ![Flux de travail agile](assets/agile-work-stream.png)
 
-## Transparence dans le travail d’une équipe
+## Transparence dans le travail d&#39;une équipe
 
-Les équipes agiles organisent des réunions quotidiennes appelées « stand-up » pour s’assurer que l’équipe reste concentrée sur la liste prioritaire des fonctionnalités ou des produits à développer. Elles n’ont plus à subir la confusion de ne pas savoir sur quoi travaillent les autres membres de leur équipe. Elles gardent régulièrement un œil sur ce que l’équipe a accompli la veille, sur les problèmes ou les obstacles qu’elles pourraient avoir à résoudre et sur ce qu’elles prévoient de faire ce jour-là.
+Les équipes agiles utilisent des réunions quotidiennes appelées &quot;stand-up&quot; pour s’assurer que l’équipe reste concentrée sur la liste prioritaire des fonctionnalités ou produits à développer. Elles n’ont plus à subir la confusion de ne pas savoir sur quoi travaillent les autres membres de leur équipe. Elles gardent régulièrement un œil sur ce que l’équipe a accompli la veille, sur les problèmes ou les obstacles qu’elles pourraient avoir à résoudre et sur ce qu’elles prévoient de faire ce jour-là.
 
 
 

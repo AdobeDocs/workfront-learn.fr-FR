@@ -7,12 +7,11 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '774'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -22,7 +21,7 @@ La méthodologie Scrum englobe le modèle de flexibilité mais diffère des autr
 
 ## Vue d’ensemble de l’équipe Scrum
 
-Lorsque vous décidez de passer ou non à Scrum, vous devez examiner la structure de vos équipes pour voir si elles peuvent facilement passer à la nouvelle méthodologie. Une équipe Scrum comporte trois types de membres : une personne propriétaire de produit, une personne maîtresse Scrum et des personnes membres de l’équipe.
+Lorsque vous décidez de passer ou non à Scrum, vous devrez examiner la structure de vos équipes pour voir si elles peuvent facilement passer à la nouvelle méthodologie. Une équipe Scrum comporte trois types de membres : une personne propriétaire de produit, une personne maîtresse Scrum et des personnes membres de l’équipe.
 
 ![Membres de l’équipe Scrum](assets/scrumteammembers-01.png)
 
@@ -43,7 +42,7 @@ Une équipe est généralement interfonctionnelle et ses membres ont des fonctio
 
 ## Travailler en tant qu’équipe Scrum
 
-Une fois que vous aurez rassemblé ces personnes clés, elles suivront un nouveau style de workflow pour accomplir leur tâche et livrer un produit à la clientèle. Là encore, par rapport à la méthodologie traditionnelle ou en cascade, elles ne suivront plus un processus linéaire consistant à élaborer un plan pour un produit final, puis à passer par les étapes ou les phases nécessaires à la livraison de ce produit. Au lieu de cela, les équipes Scrum commencent par créer une file d’attente.
+Une fois que vous avez assemblé ces lecteurs clés, ils suivront un nouveau style de workflow pour réaliser leur travail et fournir un produit au client. Là encore, par rapport à la méthodologie traditionnelle ou en cascade, elles ne suivront plus un processus linéaire consistant à élaborer un plan pour un produit final, puis à passer par les étapes ou les phases nécessaires à la livraison de ce produit. Au lieu de cela, les équipes Scrum commencent par créer une file d’attente.
 
 
 
@@ -66,13 +65,13 @@ Une fois qu’ils ont créé leurs principales stories, ils doivent préparer le
 
 ### Planification de l’itération
 
-Une fois que la file d’attente a été établie et classée par ordre de priorité, il est temps de planifier l’itération. (De nombreuses organisations utilisent les mots « sprint » et « itération » de manière interchangeable.) L’équipe décide des stories à compléter en fonction des stories qui sont considérées comme prêtes à démarrer. L’équipe effectue des affectations et décide de la durée de l’itération.
+Une fois que le retard est préparé et mis en ordre de priorité, il est temps de planifier l’itération. (De nombreuses organisations utilisent les mots &quot;sprint&quot; et &quot;iteration&quot; de manière interchangeable.) L’équipe décide des stories à compléter en fonction des stories qui sont considérées comme prêtes à démarrer. L’équipe effectue des affectations et décide de la durée de l’itération.
 
 
 
 ### Exécuter l’itération
 
-Il est maintenant temps d’exécuter l’itération. Les membres de l’équipe commencent à faire leur travail comme le ferait une équipe traditionnelle, mais intègrent maintenant une réunion rapide et quotidienne appelée « stand-up ».
+Maintenant, il est temps d&#39;exécuter l&#39;itération. Les membres de l’équipe commencent à faire leur travail comme le ferait une équipe traditionnelle, mais intègrent maintenant une réunion rapide et quotidienne appelée « stand-up ».
 
 Les membres de l’équipe se lèveront littéralement pour cette courte réunion et répondront à trois questions :
 
@@ -87,7 +86,7 @@ Ces réunions maintiennent chaque personne sur la même longueur d’onde et fon
 
 ## Utiliser un graphique d’avancement et un storyboard pour suivre la progression
 
-Au fur et à mesure que l’équipe répond aux trois questions principales lors des réunions « stand-up », il est important qu’elle surveille et suive sa progression en vue de l’achèvement de l’itération. Cela permet aux membres de l’équipe de déterminer si ils avancent suffisamment vite dans leurs stories pour livrer toutes les fonctionnalités à temps à la fin de l’itération. Le processus Scrum comporte deux composants pour accomplir ceci.
+Lorsqu&#39;une équipe répond aux trois questions principales de son déroulement, il est important qu&#39;elle surveille et suive leur progression vers la fin de l&#39;itération. Cela permet aux membres de l’équipe de déterminer si ils avancent suffisamment vite dans leurs stories pour livrer toutes les fonctionnalités à temps à la fin de l’itération. Le processus Scrum comporte deux composants pour accomplir ceci.
 
 
 ### Storyboard

@@ -7,12 +7,11 @@ level: Intermediate
 jira: KT-10891
 thumbnail: what-is-kanban.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 100%
+ht-degree: 76%
 
 ---
 
@@ -21,7 +20,7 @@ ht-degree: 100%
 Contrairement à d’autres méthodologies agiles qui se concentrent sur un processus cyclique, la méthodologie Kanban vise un workflow optimisé. Kanban cherche à améliorer le flux de travail en visualisant le travail à l’aide d’un panneau Kanban, en fixant une limite à la quantité de travail pouvant être lancée en même temps et en analysant le flux pour apporter des améliorations continues.
 
 
-Jetons un coup d’œil à quelques-uns des éléments clés de Kanban.
+Jetons un coup d&#39;oeil à quelques-uns des éléments clés de Kanban.
 
 
 
@@ -33,7 +32,7 @@ Les acteurs clés d’une équipe Kanban sont similaires à ceux d’une équipe
 
 Il existe de nombreuses façons de mettre en forme un panneau Kanban. Les équipes travaillent à partir d’un panneau qui peut comporter un nombre illimité de colonnes. Chaque colonne représente le statut du travail en cours.
 
-Dans le panneau le plus simpliste, la première colonne peut être intitulée « à faire », la deuxième « en cours » et la troisième « terminé ».
+Dans le tableau le plus simpliste, la première colonne peut être &quot;à faire&quot;, la deuxième &quot;en cours&quot; et la troisième &quot;à terminer&quot;.
 
 ![Tableau noir et post-it](assets/agile4-01.png)
 
@@ -43,13 +42,13 @@ De nombreuses entreprises possèdent leur propre terminologie pour les noms de c
 
 ## Priorisation
 
-Les membres de l’équipe travaillent avec un ou une chef de produit ou un ou une chef de projet pour s’assurer que les stories de la liste d’attente et des autres colonnes de statut sont classées par ordre de priorité et que le travail continue d’avancer jusqu’à son achèvement. Le ou la chef de produit est toujours responsable de s’assurer que la voix du client ou de la cliente est entendue et que le produit s’oriente dans la bonne direction.
+Les membres de l’équipe travaillent avec un ou une chef de produit ou un ou une chef de projet pour s’assurer que les stories de la liste d’attente et des autres colonnes de statut sont classées par ordre de priorité et que le travail continue d’avancer jusqu’à son achèvement. Le chef de produit est toujours chargé de s’assurer que la voix du client est entendue et que le produit s’oriente dans la bonne direction.
 
 ![Tableau blanc de Kanban](assets/agile4-03.png)
 
 ## Limiter le travail en cours
 
-L’une des spécificités de Kanban tient au fait que les équipes ont une limite quant au nombre de stories qu’elles peuvent traiter à un moment donné. Les équipes choisissent un certain nombre de stories qu’elles sont prêtes à avoir dans leurs colonnes « à faire » et « en cours », et elles ne dépassent pas ce nombre afin d’éviter l’épuisement. Une fois qu’une story est passée à « terminé », une autre story de la liste d’attente prend sa place dans la colonne « à faire ».
+L’une des spécificités de Kanban tient au fait que les équipes ont une limite quant au nombre de stories qu’elles peuvent traiter à un moment donné. Les équipes choisissent une certaine quantité d&#39;histoires qu&#39;elles sont prêtes à avoir dans leurs colonnes &quot;à faire&quot; et &quot;en cours&quot;, et elles ne passent pas par ce nombre pour éviter le surmenage. Une fois qu’une histoire est passée à la &quot;fin&quot;, une histoire du journal prend sa place dans la colonne &quot;à faire&quot;.
 
 ## Amélioration continue
 
