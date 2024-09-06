@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
@@ -111,3 +111,4 @@ Créez autant de modèles de disposition que possible.
 **Voici pourquoi**
 
 Lorsque vous créez des modèles de disposition, essayez de les concevoir de manière à satisfaire les besoins du plus grand nombre possible de personnes faisant partie d’une équipe, d’un groupe, ayant la même fonction, etc. Un moins grand nombre de modèles de disposition implique moins de maintenance pour les administrateurs et administratrices système et de groupe.
+
