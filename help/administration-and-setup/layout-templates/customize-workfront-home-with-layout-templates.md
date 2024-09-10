@@ -15,7 +15,6 @@ source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
-
 ---
 
 # Personnaliser l’[!UICONTROL Espace de travail Accueil] avec des modèles de disposition
