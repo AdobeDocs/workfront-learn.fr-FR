@@ -9,12 +9,13 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: bb8afb53feb6dadcb5c561df5dbcbdd113669165
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -39,3 +40,7 @@ Dans cette vidéo, vous apprendrez :
 Pour savoir comment créer le **Rapport sur les commentaires commentaires de l’équipe d’administration** utilisé dans la vidéo, reportez-vous au tutoriel [Créer un rapport de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=fr) et recherchez l’activité **Créer un rapport sur les commentaires de l’équipe d’administration** à la suite de la vidéo.
 
 Pour savoir comment créer un formulaire personnalisé, reportez-vous au tutoriel [Créer et partager un formulaire personnalisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=fr).
+
+## Tutoriels recommandés sur cette rubrique
+
+* [Réponses aux questions courantes sur les files d’attente de demandes](/help/manage-work/request-queues/request-queue-faq.md)
