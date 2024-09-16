@@ -1,6 +1,6 @@
 ---
 title: Créer un flux de demandes
-description: Découvrez comment configurer des rubriques de file d’attente, des groupes de rubriques et des règles de routage pour faciliter la gestion des demandes et de la prise de travail.
+description: Découvrez comment configurer les rubriques de file d’attente, les groupes de rubriques et les règles de routage pour faciliter la gestion des demandes et de la réception du travail.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
 source-git-commit: ae55edf4d206e4eaa0874f2ba8504020cf8a85d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
