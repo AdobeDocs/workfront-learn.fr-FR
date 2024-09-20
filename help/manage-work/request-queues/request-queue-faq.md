@@ -11,8 +11,8 @@ jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 48%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 48%
 
 Dans l’onglet [!UICONTROL Détails de la file d’attente] de votre file d’attente des demandes/projet, assurez-vous que votre utilisateur ou utilisatrice répond aux critères du champ « Qui peut ajouter des demandes à cette file d’attente ? ».  
 
-Pour plus d’informations, visionnez cette vidéo :
+Pour plus d’informations, visionnez cette vidéo :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
 
 **J’ai donné aux utilisateurs et aux utilisatrices l’accès à la file d’attente, mais maintenant ils peuvent aussi voir le projet de file d’attente des demandes. Pourquoi ?**
 
-Dans &quot;Qui peut ajouter des requêtes à cette file d’attente ?&quot; Si vous sélectionnez &quot;Personnes ayant accès à ce projet&quot;, toute personne à qui vous accordez des droits d’affichage pour utiliser la file d’attente de demandes pourra également afficher la file d’attente de demandes dans une liste de projets. Pour éviter cela, utilisez l’option &quot;Personnes dans la société de ce projet&quot; ou &quot;Personnes dans le groupe de ce projet&quot;.
+Dans la liste « Qui peut ajouter des demandes à cette file d’attente ? », si vous sélectionnez « Personnes ayant accès à ce projet », alors toute personne à qui vous accordez des droits d’affichage pour utiliser la file d’attente des demandes pourra également afficher la file d’attente des demandes dans une liste de projets. Pour éviter cela, utilisez l’option « Personnes dans la société de ce projet » ou « Personnes dans le groupe de ce projet ».
 
 **Puis-je transformer une demande en projet ?**
 
 Oui. Vous pouvez convertir des problèmes en tâches ou en projets en fonction des besoins.
 
-Ces tutoriels vous montrent comment :
+Ces tutoriels vous montrent comment :
 
 * [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 
@@ -44,7 +44,7 @@ Ces tutoriels vous montrent comment :
 
 Vous pouvez utiliser le champ [!UICONTROL Rechercher] dans la barre de navigation ou la trouver répertoriée dans la zone [!UICONTROL Projets].
 
-Si vous ouvrez une requête à partir de la file d’attente des demandes, vous pouvez cliquer sur le nom du projet dans la zone des chemins de navigation.
+Si vous ouvrez une demande à partir de la file d’attente des demandes, vous pouvez cliquer sur le nom du projet dans la zone des chemins de navigation.
 
 **Puis-je transférer les informations d’un formulaire personnalisé de demande vers un formulaire personnalisé de projet ?**
 
@@ -60,7 +60,7 @@ Joignez le formulaire personnalisé à la demande. Lorsque vous convertissez la 
 
 Vous pouvez accéder aux champs du **[!UICONTROL Problème converti]** et les sources de champ **[!UICONTROL Créateur du problème converti]** pour ajouter ces informations aux rapports de projet et de tâche.
 
-Pour plus d’informations, visionnez cette vidéo :
+Pour plus d’informations, visionnez cette vidéo :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
 
@@ -71,15 +71,15 @@ Si le filtre de votre projet inclut **File d’Attente > Est publique > Est éga
 
 Si le filtre de votre projet inclut **File d’attente > Est publique > N’est pas égal à > Aucun**, votre rapport affiche uniquement les projets qui **SONT** des files d’attente des demandes.
 
-Pour plus d’informations, visionnez cette vidéo :
+Pour plus d’informations, visionnez cette vidéo :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
 
-**Est-il préférable de créer un état personnalisé de la file d’attente des demandes ?**
+**Est-il judicieux de créer un statut personnalisé pour la file d’attente des demandes ?**
 
-Certains clients créent un état personnalisé de la file d’attente des demandes qui correspond à Actuel. Ils peuvent ensuite exécuter un rapport présentant toutes les files d’attente de requête ou exclure facilement les files d’attente d’un rapport. Bien que cela ait l’avantage d’être plus convivial que d’utiliser **Queue&quot;Is Public&quot;Not Equal&quot;None**, cela présente l’inconvénient que les personnes qui créent des files d’attente de demandes peuvent oublier de l’utiliser, puisque l’état actuel fonctionne également et est ce qu’elles verront dans la plupart des documents de formation. Pour cette raison, de nombreux clients choisissent de ne pas utiliser un état personnalisé de la file d’attente des demandes.
+La clientèle peut créer un statut personnalisé pour la file d’attente des demandes. Ce dernier correspond à Actuel. Elle peut ensuite exécuter un rapport présentant toutes les files d’attente des demandes ou exclure facilement les files d’attente d’un rapport. Bien que cette méthode ait l’avantage d’être plus conviviale que l’utilisation de **File d’attente>>Est publique>>Non égale>>Aucune**, elle présente également l’inconvénient pour les personnes qui créent des files d’attente d’oublier de l’utiliser, étant donné que le statut Actuel fonctionne tout aussi bien et que c’est ce qu’elles voient dans la plupart des documents de formation. Pour cette raison, la clientèle choisit généralement de ne pas utiliser un statut personnalisé pour la file d’attente des demandes.
 
-Cependant, si vous utilisez déjà l’état File d’attente des demandes dans votre entreprise et que vous souhaitez simplement vous assurer qu’il est utilisé correctement (ou pour corriger les cas où il ne l’est pas), vous pouvez créer le rapport **File d’attente des demandes actives** décrit dans la vidéo ci-dessus, et modifier le filtre pour **Projet&quot;État égal à&quot;Égal à actuel** à **Projet&quot;État>État>Égal&quot;> Current**. Vous affichez ainsi toutes les files d’attente de requête actives qui utilisent l’état actuel au lieu de l’état de file d’attente de requête que vous souhaitez qu’elles utilisent. Sélectionnez tous les projets qui s’affichent et effectuez une modification en masse pour modifier les états en File d’attente des demandes.
+Cependant, si vous utilisez déjà le statut File d’attente des demandes dans votre entreprise et que vous souhaitez simplement vous assurer qu’il est utilisé correctement (ou pour corriger les cas où il ne l’est pas), vous pouvez créer le rapport **File d’attente des demandes actives** décrit dans la vidéo ci-dessus, et modifier le filtre de **Projet>>Statut égal à>>Égal>>Actuel** à **Projet>>Statut>>Égal>>Actuel**. Vous affichez ainsi toutes les files d’attente des demandes actives qui utilisent le statut Actuel au lieu du statut de file d’attente des demandes que vous souhaitez qu’elles utilisent. Sélectionnez tous les projets qui s’affichent et effectuez une modification en masse pour modifier les statuts en File d’attente des demandes.
 
 ## Tutoriels recommandés sur cette rubrique
 
