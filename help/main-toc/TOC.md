@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+source-git-commit: b0114985964736fb7bb234c581cb56930714915c
 workflow-type: tm+mt
-source-wordcount: '2417'
+source-wordcount: '2420'
 ht-degree: 99%
 
 ---
@@ -155,7 +155,7 @@ ht-degree: 99%
       + [Utiliser l’[!UICONTROL optimisateur de portfolio] pour établir des priorités et gérer le travail](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
-      + [Créer un processus d’approbation à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Créer un processus d’approbation global et à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Joindre et modifier les processus d’approbation existants](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Examiner et approuver les travaux numériques](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
