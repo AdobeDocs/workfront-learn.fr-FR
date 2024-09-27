@@ -10,9 +10,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '709'
+ht-degree: 100%
 
 ---
 
@@ -50,9 +50,9 @@ Si vous ouvrez une demande à partir de la file d’attente des demandes, vous p
 
 Oui. Lorsque vous créez un formulaire personnalisé, sélectionnez à la fois [!UICONTROL Projet] et [!UICONTROL Problème] comme types d’objet. Vous pouvez également modifier un formulaire personnalisé de projet pour inclure le type d’objet de problème et vice versa.
 
-![Image montrant comment sélectionner 2 types d&#39;objet lors de la création d&#39;un formulaire personnalisé](assets/faq-image-1.png)
+![Image montrant comment sélectionner 2 types d’objet lors de la création d’un formulaire personnalisé](assets/faq-image-1.png)
 
-![Image montrant comment sélectionner 2 types d&#39;objet lors de la modification d&#39;un formulaire personnalisé](assets/faq-image-2.png)
+![Image montrant comment sélectionner 2 types d’objet lors de la modification d’un formulaire personnalisé](assets/faq-image-2.png)
 
 Joignez le formulaire personnalisé à la demande. Lorsque vous convertissez la demande en projet, le formulaire personnalisé est automatiquement joint au nouveau projet et les valeurs contenues dans tous les champs apparaissent à la fois dans les formulaires personnalisés de demande et de projet.
 
