@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ Dans cette vidéo, vous apprendrez :
 ## Tâche - Filtrer les tâches marquées « J’ai fait ma part ».
 
 Le mode texte suivant exclut les tâches marquées « J’ai fait ma part ». Il vous suffit de créer un filtre de tâche, d’ajouter les règles de filtrage de votre choix, puis de passer en mode texte et de coller le code ci-dessous après tout mode texte que vous voyez dans le filtre.
+
+
+>[!WARNING]
+>
+> Cette opération n’est pas destinée à être utilisée dans les filtres du calendrier.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## Tâche - Afficher toutes les tâches que j’ai assignées à d’autres personnes
 
 Créez un rapport de tâche avec les filtres que vous souhaitez, puis allez dans l’onglet Filtre et cliquez sur Passer en mode texte. Ajoutez ce code à ce qui existe déjà :
+
+>[!WARNING]
+> 
+> Cette opération n’est pas destinée à être utilisée dans les filtres du calendrier.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
