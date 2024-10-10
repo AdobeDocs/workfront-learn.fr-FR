@@ -1,6 +1,6 @@
 ---
 title: Déléguer des tâches, des problèmes et des approbations
-description: Découvrez comment déléguer à un autre utilisateur de Workfront des affectations de tâche et d’émission, ainsi que des approbations pour les projets, les tâches et les problèmes.
+description: Découvrez comment déléguer des affectations de tâche et de problème, ainsi que des approbations pour les projets, les tâches et les problèmes à un autre utilisateur ou une autre utilisatrice de Workfront.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -14,22 +14,22 @@ jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
 source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
 # Déléguer des tâches, des problèmes et des approbations
 
-Découvrez comment déléguer à un autre utilisateur de Workfront des affectations de tâche et d’émission, ainsi que des approbations pour les projets, les tâches et les problèmes.
+Découvrez comment déléguer des affectations de tâche et de problème, ainsi que des approbations pour les projets, les tâches et les problèmes à un autre utilisateur ou une autre utilisatrice de Workfront.
 
 Dans cette vidéo, vous apprendrez à :
 
-* Activation de la délégation dans la configuration
+* Activer la délégation dans la configuration
 * Déléguer des affectations de tâches et de problèmes
-* Déléguer les validations des projets, tâches et problèmes
-* Identification des validations déléguées
+* Déléguer les approbations des projets, tâches et problèmes
+* Identifier des approbations déléguées
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
