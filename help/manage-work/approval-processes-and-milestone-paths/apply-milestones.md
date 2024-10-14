@@ -1,6 +1,6 @@
 ---
 title: Appliquer des jalons
-description: Découvrez comment appliquer des chemins de jalon à un projet et associer des tâches clés comme étapes de jalon dans le projet.
+description: Découvrez comment appliquer des chemins jalonnés à un projet et associer des tâches clés en tant qu’étapes de jalon du projet.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -38,4 +38,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * [Afficher les jalons](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Créer des jalons](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Activité Vue Milestone dans Créer une vue de base](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Activité de vue jalonnée dans Créer une vue de base](/help/reporting/basic-reporting/create-a-basic-view.md)

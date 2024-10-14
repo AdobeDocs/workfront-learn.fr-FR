@@ -1,6 +1,6 @@
 ---
 title: Afficher les jalons
-description: Découvrez comment afficher des jalons dans un projet et utiliser la vue du jalon dans la zone [!UICONTROL Projet].
+description: Découvrez comment afficher les jalons dans un projet et utiliser la vue jalonnée dans la zone [!UICONTROL Projet].
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -14,9 +14,9 @@ jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 63%
 Dans cette vidéo, vous apprendrez à :
 
 * Afficher des jalons dans un projet spécifique
-* Lire la vue du jalon dans une liste de projets
+* Lire la vue Jalon dans une liste de projets
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)
 
