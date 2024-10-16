@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
+source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
 workflow-type: tm+mt
-source-wordcount: '2414'
+source-wordcount: '2408'
 ht-degree: 99%
 
 ---
@@ -301,7 +301,6 @@ ht-degree: 99%
 
 + Objectifs Workfront {#workfront-goals}
    + Définir une vision pour votre organisation {#establish-a-vision-and-strategy}
-      + [Comprendre la vision sous-jacente aux objectifs Workfront](/help/workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [Comprendre le fonctionnement des objectifs Workfront](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Comprendre comment les objectifs Workfront s’inscrivent dans votre cycle de travail](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Définir une vision et une stratégie pour votre organisation](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
