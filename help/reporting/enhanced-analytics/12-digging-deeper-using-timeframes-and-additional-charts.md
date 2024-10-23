@@ -1,6 +1,6 @@
 ---
 title: Approfondir à l’aide des délais et des graphiques supplémentaires
-description: Apprenez à analyser en profondeur un projet dans le graphique de plan de vol pour faire apparaître dans [!UICONTROL Analytique améliorée] le graphique d’avancement et le graphique des tâches en cours.
+description: Découvrez comment approfondir une analyse d’un projet dans le diagramme du plan de vol pour faire apparaître le graphique de Burndown et le graphique des tâches en vol dans [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -12,10 +12,10 @@ jira: KT-8730
 recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 100%
+ht-degree: 67%
 
 ---
 

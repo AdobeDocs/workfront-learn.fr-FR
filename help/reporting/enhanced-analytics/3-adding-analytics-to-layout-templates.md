@@ -1,6 +1,6 @@
 ---
-title: Accéder à [!UICONTROL Analytique améliorée]
-description: Découvrez la façon dont les équipes d’administration système et de groupes accordent l’accès à [!UICONTROL Analytique améliorée] via un modèle de disposition.
+title: Accès à [!UICONTROL Enhanced Analytics]
+description: Découvrez comment les administrateurs système et groupe accordent l’accès à [!UICONTROL Enhanced Analytics] via un modèle de mise en page.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -13,17 +13,17 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
 
 
-# Accéder à Analytique améliorée
+# Accès aux analyses améliorées
 
-Comme pour la plupart des autres fonctionnalités de Workfront, vous pouvez accéder à [!UICONTROL Analytique améliorée] depuis le menu principal. Toutefois, l’option [!UICONTROL Analytique] ne figure pas par défaut dans le menu principal.
+Comme la plupart des autres fonctionnalités de Workfront, vous accédez à [!UICONTROL Analyses améliorées] à partir du menu principal. Toutefois, l’option [!UICONTROL Analytique] ne figure pas par défaut dans le menu principal.
 
 ![Image du menu principal](assets/analytics-on-main-menu.png)
 

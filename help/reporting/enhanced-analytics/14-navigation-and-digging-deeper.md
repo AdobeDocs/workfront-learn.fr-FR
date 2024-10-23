@@ -1,6 +1,6 @@
 ---
 title: Exploration approfondie de la navigation
-description: Découvrez comment déterminer rapidement le temps que les personnes qui travaillent consacrent à chaque projet dans [!UICONTROL Analytique améliorée].
+description: Découvrez comment déterminer rapidement le temps que les travailleurs consacrent à chaque projet dans [!UICONTROL Analyses améliorées].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -12,10 +12,10 @@ jira: KT-8733
 doc-type: video
 recommendations: noDisplay,noCatalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Comprendre l’accès et la révision du graphique d’avancement
-description: Découvrez comment accéder au graphique d’avancement et comprendre la relation entre les heures restantes, l’état du projet et la vitesse du projet dans [!UICONTROL Analytique améliorée].
+description: Découvrez comment accéder au graphique de charge et comprendre la relation entre les heures restantes, la condition du projet et la vitesse du projet dans [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -12,10 +12,10 @@ jira: KT-8734
 recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
