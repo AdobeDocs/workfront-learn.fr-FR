@@ -1,6 +1,6 @@
 ---
 title: 'Comprendre les actions : survoler, cliquer et faire glisser, cliquer'
-description: Découvrez comment obtenir plus d’informations en survolant un graphique, en créant une période sur un graphique et en affichant des graphiques supplémentaires, le tout dans [!UICONTROL Analyses améliorées].
+description: Découvrez comment obtenir plus d’informations en survolant un graphique, en créant une période sur un graphique et en faisant apparaître des graphiques supplémentaires, le tout dans [!UICONTROL Analytique améliorée].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Prise en main de [!UICONTROL Enhanced Analytics]
+title: Commencer avec [!UICONTROL Analytique améliorée]
 description: Découvrez les champs devant être mis à jour en priorité dans Workfront afin de permettre aux analyses améliorées de vous montrer l’avancement de vos équipes et projets.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Prise en main de [!UICONTROL Enhanced Analytics]
+# Commencer avec [!UICONTROL Analytique améliorée]
 
 Les analyses améliorées peuvent vous montrer l’avancement de vos équipes et projets dans Workfront, ainsi que ce qui s’est passé dans les projets précédents et dont vous pourriez tirer parti pour planifier de futurs projets.
 

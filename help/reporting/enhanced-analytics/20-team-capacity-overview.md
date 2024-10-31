@@ -1,6 +1,6 @@
 ---
 title: Comprendre les capacités de l’équipe
-description: Découvrez comment le graphique de capacité de l’équipe dans [!UICONTROL Enhanced Analytics] indique quand une équipe locale a été suraffectée ou sous-affectée.
+description: Découvrez comment le graphique de capacité de l’équipe dans [!UICONTROL Analytique améliorée] indique qu’une équipe interne connaît une surattribution ou une sous-attribution.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '385'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

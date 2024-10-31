@@ -1,6 +1,6 @@
 ---
 title: Comprendre un cas d’utilisation de comparaison des KPI
-description: Découvrez comment comparer des KPI dans [!UICONTROL l’analyse améliorée] à partir de la plage de dates actuelle à une plage de dates antérieure, et comment comparer des KPI à deux filtres différents.
+description: Découvrez comment comparer les KPI de la période actuelle avec une période antérieure dans [!UICONTROL Analytique améliorée] et comment comparer les KPI avec deux filtres différents.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

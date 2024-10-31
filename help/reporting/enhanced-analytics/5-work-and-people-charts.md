@@ -1,6 +1,6 @@
 ---
 title: Comprendre les graphiques de travail et de personnes
-description: Dans [!UICONTROL Analyse améliorée], les graphiques de travail vous montrent l’activité du point de vue du projet et de la tâche, tandis que les graphiques de personnes vous montrent l’activité du point de vue d’une équipe d’accueil.
+description: Dans [!UICONTROL Analytique améliorée], les graphiques de travail vous présentent l’activité du point de vue des projets et des tâches, tandis que les graphiques de personnes vous présentent l’activité du point de vue d’une équipe interne.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 

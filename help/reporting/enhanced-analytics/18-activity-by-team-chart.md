@@ -1,6 +1,6 @@
 ---
 title: Comprendre le graphique d’activité par équipe
-description: Le graphique Activité par équipe dans [!UICONTROL Analyse améliorée] vous permet de comprendre comment les équipes d’accueil de votre entreprise passent leur temps dans Workfront.
+description: Le graphique Activité par équipe dans [!UICONTROL Analytique améliorée] vous permet de comprendre la façon dont les équipes internes de votre organisation passent leur temps dans Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10045
 recommendations: noDisplay,noCatalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
