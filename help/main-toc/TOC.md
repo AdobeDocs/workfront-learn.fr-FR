@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '2408'
+source-wordcount: '2407'
 ht-degree: 99%
 
 ---
@@ -238,8 +238,8 @@ ht-degree: 99%
 
    + Analytique améliorée {#enhanced-analytics}
       + [Un moment avec le produit à propos de [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [Prise en main de [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Accès à [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Commencer avec [!UICONTROL Analytique améliorée]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+      + [Accéder à [!UICONTROL Analytique améliorée]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Comprendre la navigation de base](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [Comprendre les graphiques de travail et des personnes](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Comprendre les filtres](/help/reporting/enhanced-analytics/6-filters-overview.md)
@@ -629,7 +629,7 @@ ht-degree: 99%
    + [Sandbox de prévisualisation](/help/best-practices/preview-sandbox-bp.md)
    + [Préférences pour les projets, tâches et problèmes](/help/best-practices/project-task-issue-preferences-bp.md)
    + [Modèles de projet](/help/best-practices/project-templates-bp.md)
-   + [Workfront Proof](/help/best-practices/proofing-bp.md)
+   + [Relecture](/help/best-practices/proofing-bp.md)
    + [File d’attente des demandes](/help/best-practices/request-queues-bp.md)
    + [Planificateur de ressources](/help/best-practices/resource-planner-bp.md)
    + [Pools de ressources](/help/best-practices/resource-pools-bp.md)
