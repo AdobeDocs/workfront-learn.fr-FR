@@ -8,9 +8,9 @@ last-substantial-update: 2024-11-06T00:00:00Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1182'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve ap
 
 * Prenez le temps de créer des modèles de workflow de relecture.
 
-* Désactivez le paramètre &quot;Envoyer des emails à partir de Workfront lorsqu’un commentaire est fait sur un BAT&quot; dans les configurations Workfront.
+* Désactivez le paramètre « Envoyer des e-mails depuis Workfront en cas de saisie d’un commentaire sur une épreuve » dans les paramètres de Workfront.
 
 * Utilisez uniquement les rôles Lecture seule ou Réviseur ou réviseuse pour le paramètre « Rôles pour les personnes non destinataires qui ouvrent un BAT de document » dans Workfront.
 
@@ -73,7 +73,7 @@ Non seulement les modèles accélèrent et rationalisent le processus de créati
 
 **Bonne pratique**
 
-Désactivez le paramètre &quot;Envoyer des emails à partir de Workfront lorsqu’un commentaire est fait sur un BAT&quot; dans les configurations Workfront.
+Désactivez le paramètre « Envoyer des e-mails depuis Workfront en cas de saisie d’un commentaire sur une épreuve » dans les paramètres de Workfront.
 
 
 
@@ -113,7 +113,7 @@ Ajustez les paramètres back-end de l’épreuve pour que les utilisateurs et le
 
 **Voici pourquoi : **
 
-La valeur par défaut est un format d’horloge de 24 heures, ce qui peut dérouter ceux qui ne le connaissent pas. Pour modifier le format, accédez au menu principal de Workfront > Vérification > Paramètres du compte > Utilisateurs. Double-cliquez sur un utilisateur pour en sélectionner un, puis modifiez le champ Format de date dans la section Paramètres personnels . Vous devez sélectionner chaque utilisateur un par un pour le modifier.
+La valeur par défaut est un format d’horloge sur 24 heures, ce qui peut dérouter ceux qui ne le connaissent pas. Pour modifier le format, accédez au menu principal de Workfront > Relecture > Paramètres du compte > Utilisateurs et utilisatrices. Double-cliquez sur une personne pour la sélectionner, puis modifiez le champ Format de date dans la section Paramètres personnels. Vous devez sélectionner chaque personne, une à une, pour la modifier.
 
 </br>
 </br>
