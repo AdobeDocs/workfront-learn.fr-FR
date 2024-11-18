@@ -1,6 +1,6 @@
 ---
 title: Comprendre les types de dates et le statut de la progression
-description: Découvrez les dates prévues, prévues et réelles et comment elles sont utilisées pour calculer l’état de progression.
+description: Découvrez les dates prévues, projetées et réelles et la façon dont elles sont utilisées pour calculer le statut de progression.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: 816fd351752ee8334f13324711d363406e4d60d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -24,14 +24,14 @@ ht-degree: 53%
 
 Dans cette vidéo, vous découvrirez :
 
-* dates prévues, prévues et réelles, et
-* Utilisation pour calculer l’état de progression
+* les dates prévues, projetées et réelles, et
+* leur utilisation pour calculer le statut de progression
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Il est important que les utilisateurs passent de **[!UICONTROL New]** à **[!UICONTROL En cours]** lorsqu’ils démarrent une tâche afin que la [!UICONTROL Date de début réelle] soit correcte. Mais si elles oublient de le faire lorsqu’elles démarrent la tâche, elles peuvent à tout moment revenir en arrière et modifier la [!UICONTROL date de début effectif].
+>Il est important que les personnes changent le statut de **[!UICONTROL Nouveau]** à **[!UICONTROL En cours]** lorsqu’elles commencent une tâche afin que la [!UICONTROL Date de début effective] soit correcte. Mais si elles oublient de le faire lorsqu’elles démarrent la tâche, elles peuvent à tout moment revenir en arrière et modifier la [!UICONTROL date de début effectif].
 
 
 ## Tutoriels recommandés sur cette rubrique
