@@ -1,6 +1,6 @@
 ---
 title: Charger les ressources
-description: Chargez des documents, des bons à tirer et d’autres ressources dans le projet avant de le fermer pour vous assurer que toutes les données pertinentes sont associées au projet.
+description: Chargez des documents et des bons à tirer sur le projet avant de le fermer pour vous assurer que toutes les données pertinentes sont associées au projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,31 +8,26 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 41%
 
 ---
 
 # Charger les ressources
 
-Avant de clôturer un projet [!DNL Workfront], assurez-vous que tous les fichiers pertinents sont joints dans la section [!UICONTROL Documents]. Chargez-les sous la forme d’un document ou d’un BAT, conformément aux directives de votre organisation.
+Dans cette vidéo, vous découvrirez comment vérifier les validations sur les documents et les bons à tirer.
 
-Vous devrez peut-être importer le document ou le BAT en tant que version d’un fichier existant.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
 
-Si votre organisation utilise les validations de BAT, assurez-vous que celles-ci sont toutes remplies en jetant un coup d’œil rapide aux icônes de progression.
+## Tutoriels recommandés sur cette rubrique
 
-![Page Documents affichant les icônes de progression des BAT](assets/planner-fund-proof-progress-icons.png)
-
-Et si votre organisation utilise les validations de documents, sélectionnez chaque élément de la liste et vérifiez les détails du document pour voir si les validations sont terminées.
-
-![Résumé latéral sur la page Documents affichant la validation du document](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->
+* [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
+* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
+* [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Consigner et réviser les heures](/help/manage-work/close-a-project/log-and-review-hours.md)
