@@ -12,15 +12,15 @@ jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 last-substantial-update: 2024-11-20T00:00:00Z
 source-git-commit: b330f75bfd45bd6ae6402307eb56e154e6b268e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # Comprendre en quoi les administrateurs et administratrices de groupe sont nécessaires
 
-Découvrez comment les administrateurs système peuvent tirer parti des administrateurs de groupe pour gérer efficacement les paramètres et permettre aux groupes de mieux contrôler leurs processus de travail.
+Découvrez comment les équipes d’administration système peuvent tirer parti des administrateurs et administratrices de groupes afin de gérer efficacement les paramètres et de permettre aux groupes de mieux contrôler leurs processus de travail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
 

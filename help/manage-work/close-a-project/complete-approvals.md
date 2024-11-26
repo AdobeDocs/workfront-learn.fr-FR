@@ -1,6 +1,6 @@
 ---
 title: Terminer les approbations
-description: Découvrez comment identifier les approbations incomplètes et les résoudre afin de pouvoir fermer votre projet.
+description: Découvrez comment identifier les approbations incomplètes et les résoudre afin de pouvoir clôturer votre projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
 source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 46%
 
 Dans cette vidéo, vous apprendrez :
 
-* Comment trouver les validations de tâches non résolues et les traiter
-* Comment trouver les approbations de problèmes non résolues et les traiter
+* Recherche des approbations de tâches non résolues et traitement de celles-ci
+* Recherche des approbations de problèmes non résolus et traitement de celles-ci
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
