@@ -1,6 +1,6 @@
 ---
 title: Charger les ressources
-description: Chargez des documents et des bons à tirer sur le projet avant de le fermer pour vous assurer que toutes les données pertinentes sont associées au projet.
+description: Chargez des documents et des épreuves dans le projet avant de le fermer pour vous assurer que toutes les données pertinentes lui sont associées.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,15 +13,15 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # Charger les ressources
 
-Dans cette vidéo, vous découvrirez comment vérifier les validations sur les documents et les bons à tirer.
+Dans cette vidéo, vous découvrirez comment vérifier les approbations sur les documents et les épreuves.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
 
