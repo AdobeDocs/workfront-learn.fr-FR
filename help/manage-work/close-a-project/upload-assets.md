@@ -9,24 +9,30 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,noCatalog
-last-substantial-update: 2024-11-22T00:00:00Z
+last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: b983732e7796c718bd14fd58ad57a3311829a2ef
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 78%
 
 ---
 
 # Charger les ressources
 
-Dans cette vidéo, vous découvrirez comment vérifier les approbations sur les documents et les épreuves.
+Dans cette vidéo, vous apprendrez à :
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
+* Vérifier les validations sur les BAT
+* Vérifier les validations des documents
+* Téléchargement d’un document
+* Recherche d’une formation sur le transfert de BAT
+
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 
+* [Charger un BAT avec un workflow de base](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
 * [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
 * [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
