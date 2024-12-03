@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8774
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: d4e4a273-f712-4104-8c6b-ab7d29175451
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,4 +33,3 @@ Dans cette vidéo, vous apprendrez :
 * [Créer des tâches](/help/manage-work/tasks/how-to-create-tasks.md)
 * [Travailler avec des tâches](/help/manage-work/tasks/work-with-tasks.md)
 * [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-
