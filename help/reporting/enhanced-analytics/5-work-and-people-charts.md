@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 85%
 
 ---
 
 # Comprendre les graphiques de travail et de personnes
 
-Les graphiques de travail vous présentent l’activité du point de vue des projets et des tâches, tandis que les graphiques de personnes vous présentent l’activité du point de vue d’une équipe d’accueil.
+Les graphiques de travail vous montrent l’activité du point de vue du projet et de la tâche, tandis que le graphique Personnes vous montre l’activité du point de vue de l’équipe d’accueil.
 
 Sélectionnez le type de graphique Analytics à afficher (travail ou personnes) dans le menu du panneau de gauche.
 
@@ -40,11 +40,8 @@ Le graphique d’avancement et celui des tâches en cours apparaissent lorsque v
 * Cliquez sur un projet dans la vue Plan en cours et une vue du Graphique d’avancement de ce projet s’affichera en dessous.
 * Cliquez sur un projet dans la vue Arborescence. Le Graphique d’avancement et la vue Tâches en cours apparaîtront alors en dessous.
 
-## Graphiques de personnes
+## Graphique personnel
 
-![Image de la recherche de la fonction [!UICONTROL Analytics] dans [!DNL Workfront Classic]](assets/section-1-2.png)
+![Une image de la recherche de la fonction [!UICONTROL Analytics] dans [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Les graphiques de personnes sont composés des éléments suivants :
 
-1. Activité par équipe
-1. Activité de l’équipe
