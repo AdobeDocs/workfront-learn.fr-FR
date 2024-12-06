@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 89%
 
 ---
 
@@ -40,8 +40,15 @@ Le graphique d’avancement et celui des tâches en cours apparaissent lorsque v
 * Cliquez sur un projet dans la vue Plan en cours et une vue du Graphique d’avancement de ce projet s’affichera en dessous.
 * Cliquez sur un projet dans la vue Arborescence. Le Graphique d’avancement et la vue Tâches en cours apparaîtront alors en dessous.
 
-## Graphique personnel
+## Graphique des personnes - Activité par équipe
 
-![Une image de la recherche de la fonction [!UICONTROL Analytics] dans [!DNL Workfront Classic]](assets/section-1-2.png)
+![Image montrant un graphique d’activité par équipe avec des chiffres sur les zones décrites dans les puces ci-dessous](assets/section-3-1.png)
 
+Sur le graphique, vous pouvez voir :
+
+1. Les noms des équipes domestiques à gauche.
+1. Les dates dans la partie inférieure proviennent de la période sélectionnée.
+1. Les zones violettes indiquent que les personnes affectées au projet se sont connectées ce jour-là, une nuance plus sombre indiquant un nombre plus élevé de personnes se connectant.
+1. Les zones roses montrent que les personnes ont modifié le statut d’une tâche pour le projet ce jour-là, avec une nuance plus foncée indiquant un nombre plus élevé de statuts de tâche changeant.
+1. Les zones bleues indiquent que les personnes ont terminé une tâche pour le projet, une nuance plus foncée indiquant un nombre plus élevé de tâches en cours d’exécution.
 
