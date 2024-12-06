@@ -15,7 +15,7 @@ exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 78%
 
 Dans cette vidéo, vous apprendrez à :
 
-* Vérifier les validations sur les BAT
-* Vérifier les validations des documents
-* Téléchargement d’un document
-* Recherche d’une formation sur le transfert de BAT
+* vérifier les validations sur les épreuves ;
+* vérifier les validations des documents ;
+* charger un document ;
+* rechercher une formation sur le chargement d’épreuve.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
