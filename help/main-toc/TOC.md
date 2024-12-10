@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2396'
 ht-degree: 99%
 
 ---
@@ -176,12 +176,10 @@ ht-degree: 99%
 
    + Fermer un projet {#close-a-project}
       + [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
-      + [Fermer les tâches et les problèmes](/help/manage-work/close-a-project/close-tasks-and-issues.md)
       + [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
       + [Charger les ressources](/help/manage-work/close-a-project/upload-assets.md)
       + [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Consigner et réviser les heures](/help/manage-work/close-a-project/log-and-review-hours.md)
-      + [Fermer une activité de projet](/help/manage-work/close-a-project/close-a-project-activity.md)
 
    + Finances du projet pour les utilisateurs et utilisatrices {#project-finances-users}
       + [Mettre à jour et réviser les finances](/help/manage-work/project-finances/update-and-review-finances.md)

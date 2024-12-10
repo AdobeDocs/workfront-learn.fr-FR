@@ -11,19 +11,13 @@ level: Beginner
 last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 50%
 
 ---
 
 # Fermer les tâches et les problèmes
 
-L’une des premières étapes pour fermer un projet [!DNL Workfront] consiste à vérifier que toutes les tâches et tous les problèmes comportent le statut Terminé ou un statut équivalent.
-
-Si le champ [!UICONTROL Pourcentage terminé] dans l’en-tête du projet affiche 100 %, vous savez que toutes vos tâches sont marquées comme étant terminées à 100 %. Cependant, une tâche qui est [!UICONTROL Terminée - En attente d’approbation] sera toujours considérée comme étant à 100 %, n’oubliez donc pas de la vérifier. Voir [Terminer les approbations](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) pour tous les conseils sur les approbations.
-
-Si vous avez des problèmes non terminés, même ceux qui sont en attente d’approbation, un chiffre apparaît à côté de l’onglet Problèmes pour en indiquer le nombre. Si le nombre est égal à zéro, il n’y a pas de problème non résolu.
-
-![Projet affichant le [!UICONTROL Pourcentage terminé] et les problèmes ouverts](assets/close-tasks-and-issues.png)
+Le tutoriel &quot;Fermer les tâches et problèmes&quot; a été supprimé, puisque le contenu est déjà inclus entre &quot;Modifier l’état du projet pour terminer&quot; et &quot;Terminer les approbations&quot;.
