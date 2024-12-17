@@ -12,15 +12,15 @@ jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # Comprendre les graphiques de travail et de personnes
 
-Les graphiques de travail vous montrent l’activité du point de vue du projet et de la tâche, tandis que le graphique Personnes vous montre l’activité du point de vue de l’équipe d’accueil.
+Les graphiques de travail vous présentent l’activité du point de vue des projets et des tâches, tandis que les graphiques de personnes vous présentent l’activité du point de vue d’une équipe interne.
 
 Sélectionnez le type de graphique Analytics à afficher (travail ou personnes) dans le menu du panneau de gauche.
 
@@ -40,7 +40,7 @@ Le graphique d’avancement et celui des tâches en cours apparaissent lorsque v
 * Cliquez sur un projet dans la vue Plan en cours et une vue du Graphique d’avancement de ce projet s’affichera en dessous.
 * Cliquez sur un projet dans la vue Arborescence. Le Graphique d’avancement et la vue Tâches en cours apparaîtront alors en dessous.
 
-## Graphique des personnes - Activité par équipe
+## Graphique de personnes - Activité par équipe
 
 ![Image montrant un graphique d’activité par équipe avec des chiffres sur les zones décrites dans les puces ci-dessous](assets/section-3-1.png)
 
