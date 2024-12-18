@@ -11,9 +11,11 @@ team: Technical Marketing
 jira: KT-8951
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+recommendations: noDisplay,catalog
+exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -26,3 +28,11 @@ Vous apprendrez à :
 * Partager des projets créés à l’aide d’un modèle
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+
+## Tutoriels recommandés sur cette rubrique
+
+* [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Créer un projet directement à partir d’un modèle](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Copier un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

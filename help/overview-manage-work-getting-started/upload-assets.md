@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # Charger les ressources
 
-Avant de clôturer un projet [!DNL Workfront], assurez-vous que tous les fichiers pertinents sont joints dans la section [!UICONTROL Documents]. Chargez-les sous la forme d’un document ou d’un BAT, conformément aux directives de votre organisation.
+Dans cette vidéo, vous apprendrez à :
 
-Vous devrez peut-être importer le document ou le BAT en tant que version d’un fichier existant.
+* vérifier les validations sur les épreuves ;
+* vérifier les validations des documents ;
+* charger un document ;
+* rechercher une formation sur le chargement d’épreuve.
 
-Si votre organisation utilise les validations de BAT, assurez-vous que celles-ci sont toutes remplies en jetant un coup d’œil rapide aux icônes de progression.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![Page Documents affichant les icônes de progression des BAT](assets/planner-fund-proof-progress-icons.png)
+## Tutoriels recommandés sur cette rubrique
 
-Et si votre organisation utilise les validations de documents, sélectionnez chaque élément de la liste et vérifiez les détails du document pour voir si les validations sont terminées.
+* [Charger un BAT avec un workflow de base](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
+* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
+* [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Consigner et réviser les heures](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![Résumé latéral sur la page Documents affichant la validation du document](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

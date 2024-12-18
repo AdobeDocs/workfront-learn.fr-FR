@@ -1,6 +1,6 @@
 ---
 title: Créer un projet directement à partir d’un modèle
-description: Découvrez comment créer un projet en commençant avec un modèle déjà créé.
+description: Découvrez comment créer un projet en commençant par un modèle déjà créé.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,11 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10156
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 93%
 
 ---
 
@@ -37,3 +39,12 @@ La fenêtre des détails vous permet d’apporter des modifications aux paramèt
 
 
 ![Modèles favoris de nouveau projet](assets/direct-template-03.png)
+
+## Tutoriels recommandés sur cette rubrique
+
+* [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Partager un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copier un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

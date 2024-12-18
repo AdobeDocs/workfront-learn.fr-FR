@@ -1,15 +1,15 @@
 ---
 user-guide-title: Gérer le travail - Prise en main
-user-guide-description: Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous devez savoir plus pour tirer le meilleur parti de Workfront.
+user-guide-description: Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous êtes presque prêt à tirer le meilleur parti de Workfront.
 feature: Work Management
 breadcrumb-title: Gérer le travail - Prise en main
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 71%
+source-wordcount: '196'
+ht-degree: 69%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 71%
 # Gérer le travail - Prise en main {#manage-work-getting-started}
 
 + [Gérer le travail - Prise en main](overview.md)
-+ Gérer le travail - Prise en main {#manage-work-getting-started}
-   + Création d’un projet {#create-a-project}
++ Gérer le travail - {#manage-work-getting-started} de prise en main
+   + Création d’un {#create-a-project} de projet
       + [Comprendre les bases de la création de projets](understand-basic-project-creation.md)
       + [Convertir un problème/une demande en projet](create-a-project-from-a-request.md)
       + [Découvrir quatre façons de créer un projet](understand-other-ways-to-create-projects.md)
@@ -35,11 +35,11 @@ ht-degree: 71%
       + [Découvrez comment séquencer des tâches](learn-to-sequence-tasks.md)
       + [Comprendre le nombre d’heures prévues](understand-planned-hours.md)
       + [Comprendre les calendriers du projet](understand-project-timelines.md)
-      + [Comprendre les types de date et l’état d’avancement](understand-task-dates-and-progress-status.md)
+      + [Comprendre les types de date et le statut de progression](understand-task-dates-and-progress-status.md)
       + [Comprendre l’[!UICONTROL effort de travail]](understand-work-effort.md)
       + [Activer un projet](take-a-project-live.md)
 
-   + Gérer un projet {#manage-a-project}
+   + Gestion d’un {#manage-a-project} de projet
       + [Commencer avec la gestion d’un projet](getting-started-manage-a-project.md)
       + [Rechercher des projets](find-projects.md)
       + [Partager un projet](share-a-project.md)
@@ -54,11 +54,9 @@ ht-degree: 71%
 
    + Fermer un projet {#close-a-project}
       + [Faire passer le statut du projet sur « terminé »](change-the-project-status.md)
-      + [Fermer les tâches et les problèmes](close-tasks-and-issues.md)
       + [Terminer les approbations](complete-approvals.md)
       + [Charger les ressources](upload-assets.md)
       + [Enregistrer les leçons apprises](lessons-learned-from-closing-a-project.md)
       + [Consigner et réviser les heures](log-and-review-hours.md)
       + [Mettre à jour et réviser les finances](update-and-review-finances.md)
-      + [Fermer une activité de projet](close-a-project-activity.md)
 

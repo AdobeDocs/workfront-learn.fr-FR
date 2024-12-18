@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 80%
 
 ---
 
 # Consigner et réviser les heures
 
-Si l’enregistrement des heures effectives fait partie du workflow de votre organisation, vous pouvez consulter ces heures dans la section [!UICONTROL Heures] (sélectionnez-la dans le menu du panneau de gauche) sur le projet. Cela indique toutes les heures enregistrées pour les tâches individuelles et le projet lui-même. Vous pouvez également consigner les heures à partir de cette page.
+Dans cette vidéo, vous apprendrez à :
 
-![Page Heures affichant les entrées d’heure](assets/planner-fund-log-and-review-hours.png)
+* Vérifier les heures consignées dans un projet
+* Approuver les heures du projet si nécessaire
 
->[!NOTE]
->
->Votre organisation peut vous demander d’approuver des heures par le biais de feuille de temps [!DNL Workfront]. Vérifiez avec votre équipe [!DNL Workfront] interne pour voir quel processus vous devez utiliser.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Tutoriels recommandés sur cette rubrique
+
+* [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
+* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
+* [Charger les ressources](/help/manage-work/close-a-project/upload-assets.md)
+* [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

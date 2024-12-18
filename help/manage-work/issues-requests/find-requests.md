@@ -10,11 +10,12 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 recommendations: noDisplay,catalog
+doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+workflow-type: tm+mt
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -31,9 +32,8 @@ Vous apprendrez à trouver ces demandes aux emplacements suivants :
 * Dans un tableau de bord personnalisé
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
 
-Pour savoir comment créer des rapports personnalisés et les placer dans un tableau de bord, reportez-vous au [Cours de création de rapports de base](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html?lang=fr).
 
 ## Tutoriels recommandés sur cette rubrique
 

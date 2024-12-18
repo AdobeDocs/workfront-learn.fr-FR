@@ -10,24 +10,30 @@ role: User
 level: Beginner
 jira: KT-10135
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 58%
 
 ---
 
 # Enregistrer les leçons apprises
 
-Dans le cadre de la clôture d’un projet, certains clientes et clients de Workfront incluent une tâche « leçons apprises ». Cette tâche peut être utilisée de différentes manières.
+Dans cette vidéo, vous découvrirez les avantages de :
 
-* Utilisez une tâche « leçons apprises » pour représenter une réunion. Capturez les notes de réunion dans les mises à jour de la tâche.
-* Vous pouvez également joindre un formulaire personnalisé à la tâche ou au projet pour capturer les informations « leçons apprises » dont vous avez besoin.
+* Création d’une tâche « enseignements tirés »
+* Ajout d’un formulaire personnalisé « enseignements tirés » à votre projet
+* Créer des rapports personnalisés de type « enseignements tirés »
+* Créer un projet de « leçons apprises »
 
-Les formulaires personnalisés permettent notamment de générer des rapports [!DNL Workfront] complètement personnalisés en utilisant tous les champs du formulaire pour examiner et gérer les informations, en identifiant les leçons apprises pour de nombreux types ou ensembles de projets.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-Si votre entreprise dispose d’un processus de post-projet plus complexe qui comporte suffisamment d’étapes pour être considéré comme un projet à part entière, il peut être préférable de créer un projet distinct dans [!DNL Workfront].
+## Tutoriels recommandés sur cette rubrique
 
-Grâce à cette méthode, vous pouvez clôturer le projet utilisé pour le produit à livrer, ce qui permet d’obtenir des rapports plus précis sur les projets terminés. Utilisez ensuite un projet post-projet distinct pour effectuer le suivi des étapes qui suivent.
-
-Échangez avec votre équipe [!DNL Workfront] interne pour en savoir plus sur le processus de post-projet de votre entreprise.
+* [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
+* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
+* [Charger les ressources](/help/manage-work/close-a-project/upload-assets.md)
+* [Consigner et réviser les heures](/help/manage-work/close-a-project/log-and-review-hours.md)

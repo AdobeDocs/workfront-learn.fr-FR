@@ -11,10 +11,12 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -31,3 +33,9 @@ Dans cette vidéo, vous apprendrez :
 ## Découvrez comment créer une vue personnalisée pour afficher et modifier le statut actif des modèles de projet.
 
 Pour créer une vue de modèle de projet avec une colonne de statut actif, voir l’activité **Vue de statut actif du modèle de projet** activité dans [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr).
+
+## Tutoriels recommandés sur cette rubrique
+
+* [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Partager un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
