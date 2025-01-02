@@ -1,6 +1,6 @@
 ---
 title: Enregistrer les leçons apprises
-description: Découvrez comment tirer parti des "leçons apprises" lors de la fermeture d’un projet.
+description: Découvrez comment tirer parti des « leçons apprises » lors de la clôture d’un projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,20 +14,20 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
 # Enregistrer les leçons apprises
 
-Dans cette vidéo, vous verrez les avantages de :
+Dans cette vidéo, vous découvrirez comment tirer parti des actions suivantes :
 
-* Créer une tâche &quot;leçons apprises&quot;
-* Ajout d’un formulaire personnalisé &quot;leçons retenues&quot; à votre projet
-* Création de rapports personnalisés &quot;leçons retenues&quot;
-* Créer un projet &quot;leçons retenues&quot;
+* Création d’une tâche « leçons apprises »
+* Ajout d’un formulaire personnalisé « leçons apprises » à votre projet
+* Création de rapports personnalisés « leçons apprises »
+* Création d’un projet « leçons apprises »
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
