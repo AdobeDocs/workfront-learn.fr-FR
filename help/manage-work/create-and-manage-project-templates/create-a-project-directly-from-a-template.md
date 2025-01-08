@@ -1,6 +1,6 @@
 ---
 title: Créer un projet directement à partir d’un modèle
-description: Découvrez comment créer un projet en commençant par un modèle déjà créé.
+description: Découvrez comment créer un projet à partir d’un modèle existant.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,9 +12,9 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
