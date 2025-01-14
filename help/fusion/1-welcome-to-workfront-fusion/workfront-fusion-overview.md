@@ -1,6 +1,7 @@
 ---
 title: Vue d’ensemble de la formation à Workfront Fusion
 description: Découvrez le guide d’activité d’Adobe Workfront Fusion et comment obtenir un compte de lecteur de test Workfront.
+short-description: Chaque section de Workfront Fusion contient plusieurs tutoriels, chacun d’eux présentant les concepts que vous devez connaître avant de passer au tutoriel suivant.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '426'
+ht-degree: 94%
 
 ---
 

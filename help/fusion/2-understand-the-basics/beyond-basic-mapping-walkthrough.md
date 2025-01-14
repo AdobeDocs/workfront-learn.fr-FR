@@ -1,6 +1,7 @@
 ---
 title: Au-delà de la présentation du mappage de base
 description: Modifiez certains champs de projet dans le scénario que vous avez créé précédemment à l’aide des formules du panneau de mappage dans  [!DNL Adobe Workfront Fusion].
+short-description: Dans cette présentation vidéo, vous pouvez modifier le nom du projet, la date de début prévue et la priorité à partir de la « conception de scénario initiale » que vous avez créée dans la première présentation à l’aide des formules du panneau de mappage.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 
