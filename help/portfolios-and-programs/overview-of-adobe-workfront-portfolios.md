@@ -1,6 +1,6 @@
 ---
 title: Comprendre les portfolios
-description: Découvrez ce que sont les portefeuilles et comment ils peuvent vous aider à comparer et à hiérarchiser vos projets.
+description: Découvrez les portfolios et comment ils peuvent vous aider à comparer et à hiérarchiser vos projets.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,9 +13,9 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: 14e43ba0c7f04e26db0b3b6d306d48e170c6bbeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 45%
 
 Dans cette vidéo, vous apprendrez :
 
-* Quels sont les portefeuilles ?
-* Comment ils peuvent vous aider à comparer et à hiérarchiser vos projets.
-* Comment créer un portfolio.
+* ce que sont les portfolios ;
+* comment ils peuvent vous aider à comparer et à hiérarchiser vos projets ;
+* comment créer un portfolio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
 
