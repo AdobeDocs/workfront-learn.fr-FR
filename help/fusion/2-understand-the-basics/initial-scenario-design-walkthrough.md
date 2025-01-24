@@ -1,7 +1,7 @@
 ---
 title: Présentation de la conception du scénario initial
 description: Apprenez à créer des dossiers et de nouveaux scénarios, à utiliser le concepteur de scénarios et à créer un scénario de base sur  [!DNL Adobe Workfront Fusion].
-short-description: Vous pouvez regarder une vidéo de présentation d’exercice sur la création de scénarios.
+short-description: Vous pouvez regarder une vidéo de présentation avec des exercices sur la création de scénarios.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

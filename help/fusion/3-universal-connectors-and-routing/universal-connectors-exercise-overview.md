@@ -1,7 +1,7 @@
 ---
 title: Vue d’ensemble de l’exercice des connecteurs universels
 description: Apprenez à exploiter la puissance des connecteurs universels, à vous connecter à une API externe et à extraire des informations d’un tableau, le tout dans  [!DNL Adobe Workfront Fusion].
-short-description: Dans cette vidéo, vous apprendrez à tirer parti de la puissance des connecteurs universels, à vous connecter à une API externe et à utiliser l’éditeur de formule pour extraire des informations d’un tableau .
+short-description: Dans cette vidéo, vous apprendrez à tirer parti de la puissance des connecteurs universels, à vous connecter à une API externe et à utiliser l’éditeur de formule pour extraire des informations d’un tableau.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
