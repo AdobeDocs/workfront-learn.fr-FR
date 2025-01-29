@@ -1,7 +1,7 @@
 ---
 title: Mécanismes de sécurisation des scénarios
 description: Découvrez les mécanismes de sécurisation des scénarios, des modules, des fichiers et des webhooks, le tout dans  [!DNL Adobe Workfront Fusion].
-short-description: Comme les scénarios de longue durée peuvent ralentir le rythme de votre travail, Workfront Fusion a été conçue avec des mécanismes de sécurisation qui préservent les performances et limitent le temps d’exécution, la taille des données et d’autres paramètres de scénario
+short-description: Comme les longs scénarios peuvent ralentir le rythme de votre travail, Workfront Fusion a été conçu avec des mécanismes de sécurisation permettant de préserver les performances, pour limiter le temps d’exécution, la taille des données et d’autres paramètres de scénario.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 

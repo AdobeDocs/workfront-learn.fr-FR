@@ -1,7 +1,7 @@
 ---
 title: Panneau de mappage et éditeur de formule
 description: Découvrez plus en détail l’utilisation du panneau de mappage, l’éditeur de formules et des exemples de formules courantes dans  [!DNL Adobe Workfront Fusion].
-short-description: Dans cette vidéo, vous découvrirez plus d’informations sur l’utilisation du panneau de mappage et sur l’utilisation de l’éditeur de formule.
+short-description: Dans cette vidéo, vous découvrirez plus en détail l’utilisation du panneau de mappage et de l’éditeur de formule.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
