@@ -11,9 +11,9 @@ jira: KT-9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Pour de simples modifications de données, utilisez la fonction Switch pour tran
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on&enablevpops)
 
 
 

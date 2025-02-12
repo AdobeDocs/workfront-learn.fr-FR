@@ -11,7 +11,7 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Dans cette vidéo, vous allez :
 * Découvrez comment les informations des ressources sont affichées dans cette vue
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops)
 
 Pour l’option Vue par fonction, la colonne Budgété est affichée par défaut. Elle reprend le nombre estimé de ressources nécessaires pour un projet à partir d’une analyse de rentabilité, si celle-ci a été remplie. Cela signifie également que la colonne Net utilise, par défaut, les chiffres de la colonne Budgété pour vous indiquer la quantité de ressources restantes.
 

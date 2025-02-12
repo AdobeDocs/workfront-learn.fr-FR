@@ -1,6 +1,6 @@
 ---
-title: Créer un regroupement de base
-description: Découvrez ce qu’est un regroupement, comment en créer un et comment en partager un avec d’autres utilisateurs et utilisatrices dans Workfront.
+title: Création d’activités de regroupement de base
+description: Pratiquez la création de regroupements de base avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# Créer un regroupement de base
 
-Dans cette vidéo, vous apprendrez :
-
-* Définition d’un regroupement dans Workfront
-* Création d’un regroupement
-* Et partage d’un regroupement avec d’autres utilisateurs et utilisatrices de Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## Activité : créer un regroupement de base
+# Activité : créer un regroupement de base
 
 Créez un regroupement de problèmes qui sera utilisé dans un rapport pour suivre les demandes passant par une file d’attente des demandes. Ce regroupement permet de visualiser facilement les types de problèmes/demandes similaires regroupés par priorité. Nommez le regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
 

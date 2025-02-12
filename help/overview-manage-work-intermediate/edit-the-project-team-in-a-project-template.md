@@ -14,7 +14,7 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: c2f06ee1-efbd-4c65-aca7-d844cb08f52f
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * comment éviter d’inclure involontairement des personnes membres de l’équipe qui ne font **pas** partie du projet dans une équipe de projet de modèle ;
 * comment modifier l’équipe de projet du modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 

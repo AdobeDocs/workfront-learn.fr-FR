@@ -11,9 +11,9 @@ jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '263'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Dans cette vidéo, vous allez :
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

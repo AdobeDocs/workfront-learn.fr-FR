@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 100%
+source-wordcount: '288'
+ht-degree: 96%
 
 ---
 
@@ -25,15 +25,17 @@ Dans cette vidéo, vous apprendrez :
 * Composants clés des rapports Workfront
 * Utilisation de ces composants dans un élément de création de rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
 
 ## Composants de création de rapports
+
+[Cliquez ici](/help/assets/reporting-components.pdf) pour télécharger un fichier PDF de cette page.
 
 ![Image de l’écran de création d’un filtre](assets/reporting-components-1.png)
 
 **A - Source du champ**
 
-Les options de source du champ dépendent du type d’objet sélectionné. Souvent, la source du champ est l’élément de Workfront auquel appartient une information spécifique (autrement dit, le nom du champ). Parfois, la source du champ est identique au type d’objet.
+Les options source du champ dépendent du type d’objet sélectionné. Souvent, la source du champ est l’élément de Workfront auquel appartient une information spécifique (autrement dit, le nom du champ). Parfois, la source du champ est identique au type d’objet.
 La source du champ détermine les noms des champs disponibles.
 
 Exemples : [!UICONTROL Projet], [!UICONTROL Tâche], [!UICONTROL Problème], [!UICONTROL Affecté à]

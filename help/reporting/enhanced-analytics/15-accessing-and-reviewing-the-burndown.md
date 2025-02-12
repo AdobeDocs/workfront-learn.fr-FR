@@ -12,9 +12,9 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '293'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment accéder au graphique d’avancement
 * Comment comprendre la relation entre les heures restantes, l’état d’un projet et la vitesse d’un projet
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops)
 
 ## Le suivi de la vitesse d’un projet
 

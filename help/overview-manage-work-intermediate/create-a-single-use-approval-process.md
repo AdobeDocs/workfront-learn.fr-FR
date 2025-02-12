@@ -1,6 +1,6 @@
 ---
 title: Créer un processus d’approbation global et à usage unique
-description: Découvrez comment créer un processus d’approbation global et à usage unique pour un projet, une tâche ou un événement.
+description: Découvrez comment créer un processus d’approbation global et à usage unique pour un projet, une tâche ou un problème.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -12,10 +12,10 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '442'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Dans les deux cas, lorsque le statut de l’objet passe à un statut spécifié 
 
 Dans cette vidéo, vous apprendrez à créer un processus d’approbation globale et un processus d’approbation à usage unique sur un projet, une tâche ou un problème.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

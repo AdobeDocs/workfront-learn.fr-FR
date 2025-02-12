@@ -13,10 +13,10 @@ jira: KT-8772
 hide: true
 doc-type: video
 exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment une [!UICONTROL vue] peut vous aider à afficher les informations dont vous avez besoin.
 * Définition de la date de début ou d’échéance
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 

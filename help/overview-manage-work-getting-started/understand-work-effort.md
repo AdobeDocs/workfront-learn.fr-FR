@@ -13,10 +13,10 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 hide: true
 exl-id: 09a06302-1cce-4023-bd73-5b8dbe6531e4
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * Utilisation de l’effort de travail
 * Création d’une vue de tâche de l’effort de travail
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
 
 Pour plus d’informations sur l’[!UICONTROL Effort de travail], voir l’article [Vue d’ensemble de l’Effort de travail](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=fr).
 

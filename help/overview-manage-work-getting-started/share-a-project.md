@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
 exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment partager un projet en le plaçant dans un portfolio
 * Bonnes pratiques relatives au partage d’un projet
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 

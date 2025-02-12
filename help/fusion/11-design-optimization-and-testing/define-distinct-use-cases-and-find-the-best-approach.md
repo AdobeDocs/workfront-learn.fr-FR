@@ -11,9 +11,9 @@ jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez à :
 * Déterminer la conception adaptée aux performances élevées
 * Remettre en question les hypothèses et donner les meilleurs conseils aux parties prenantes
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops)
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 

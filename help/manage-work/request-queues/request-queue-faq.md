@@ -9,9 +9,9 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '709'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ Dans l’onglet [!UICONTROL Détails de la file d’attente] de votre file d’a
 
 Pour plus d’informations, visionnez cette vidéo :
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
 
 **J’ai donné aux utilisateurs et aux utilisatrices l’accès à la file d’attente, mais maintenant ils peuvent aussi voir le projet de file d’attente des demandes. Pourquoi ?**
 
@@ -62,7 +62,7 @@ Vous pouvez accéder aux champs du **[!UICONTROL Problème converti]** et les so
 
 Pour plus d’informations, visionnez cette vidéo :
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
 
 
 **Quel est le meilleur moyen de filtrer les files d’attente des demandes dans un rapport ?**
@@ -73,7 +73,7 @@ Si le filtre de votre projet inclut **File d’attente > Est publique > N’est 
 
 Pour plus d’informations, visionnez cette vidéo :
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
 
 **Est-il judicieux de créer un statut personnalisé pour la file d’attente des demandes ?**
 

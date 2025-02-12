@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,13 +28,13 @@ Dans cette vidéo, vous apprendrez à :
 * Créer et modifier des groupes
 * Ajouter et modifier des utilisateurs et des utilisatrices
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## Réviser des groupes, des utilisateurs et des utilisatrices
 
 Lorsque vous configurez votre système de [!UICONTROL gestion des ressources numériques Workfront], il est important de tenir compte des rôles que jouent les utilisateurs, les utilisatrices et les groupes dans l’ensemble.
 
-Les groupes contrôlent l’accès aux dossiers de ressources dans [!UICONTROL Workfront DAM]. Les paramètres du groupe contrôlent également ce que les utilisateurs et utilisatrices peuvent faire avec les ressources (affichage, téléchargement, modification, etc.) auxquelles ils sont autorisés à accéder.
+Les groupes contrôlent l’accès aux dossiers de ressources dans [!UICONTROL Workfront DAM]. Les paramètres de groupe contrôlent également ce que les utilisateurs peuvent faire avec les ressources (affichage, téléchargement, modification, etc.) auxquelles ils ont accès.
 
 Lors de la création de groupes, il est essentiel de garder à l’esprit les dossiers de ressources auxquels les personnes membres de ce groupe auront accès dans la [!UICONTROL gestion des ressources numériques Workfront].
 

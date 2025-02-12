@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 100%
@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez à :
 * Personnaliser la barre de navigation et le pied de page
 * Personnaliser la page d’accueil et la page de connexion
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
 
 ## Paramètre d’[!UICONTROL Apparence] supplémentaire
 

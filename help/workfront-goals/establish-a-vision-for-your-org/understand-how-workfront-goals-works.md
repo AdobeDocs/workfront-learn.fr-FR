@@ -1,5 +1,5 @@
 ---
-title: Comprendre le fonctionnement de  [!DNL Workfront Goals]
+title: 'Comprendre le fonctionnement de  [!DNL Workfront Goals] '
 description: Apprenez à articuler le « quoi » et le « pourquoi » pendant la phase de planification, des exemples d’objectifs et le champ d’influence.
 activity: use
 feature: Workfront Goals,Get Started with Workfront
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous découvrirez :
 * Des exemples d’objectifs
 * Le champ d’influence
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops)
 
 ## Désigner des personnes responsables
 

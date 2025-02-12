@@ -13,9 +13,9 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * comment éviter d’inclure involontairement des personnes membres de l’équipe qui ne font **pas** partie du projet dans une équipe de projet de modèle ;
 * comment modifier l’équipe de projet du modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 

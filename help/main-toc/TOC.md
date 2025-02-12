@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2405'
 ht-degree: 99%
 
 ---
@@ -200,6 +200,7 @@ ht-degree: 99%
       + [Créer une vue de base](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Ajouter une mise en forme conditionnelle de base à une vue](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Créer un filtre de base](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [Comprendre la nouvelle expérience de filtres](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Créer des activités de filtre de base](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Créer un rapport simple](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [Créer un rapport de tâche](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -235,7 +236,7 @@ ht-degree: 99%
       + [À votre tour de créer un rapport de calendrier.](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Analytique améliorée {#enhanced-analytics}
-      + [Un moment avec le produit à propos de [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [Un moment avec le produit sur l’[!UICONTROL analytique améliorée]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Commencer avec [!UICONTROL Analytique améliorée]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Accéder à [!UICONTROL Analytique améliorée]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Comprendre la navigation de base](/help/reporting/enhanced-analytics/4-basic-navigation.md)
@@ -580,7 +581,7 @@ ht-degree: 99%
 
 + Agile {#agile}
 
-   + Présentation de la gestion du travail mobile {#intro-to-agile}
+   + Présentation des {#intro-to-agile} de gestion du travail Agile
       + [Avantages de l’utilisation d’Agile](/help/agile/benefits-of-using-agile.md)
       + [En quoi consiste la méthodologie Scrum et comment fonctionne-t-elle ?](/help/agile/what-is-the-scrum-methodology.md)
       + [En quoi consiste la méthodologie Kanban et comment fonctionne-t-elle ?](/help/agile/what-is-the-kanban-methodology.md)
@@ -649,5 +650,5 @@ ht-degree: 99%
 
 + [Gestion des requêtes](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Comprendre le graphique de capacité des ressources](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [Création d’activités de regroupement de base](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

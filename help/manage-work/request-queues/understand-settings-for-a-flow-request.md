@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Le processus d’acheminement des demandes spécifique à la gestion des files d’attente
 * Création et utilisation des règles de routage, des groupes de rubriques et des rubriques de file d’attente
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 

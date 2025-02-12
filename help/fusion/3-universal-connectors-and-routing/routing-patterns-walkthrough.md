@@ -11,9 +11,9 @@ jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Utilisez le module Définir la variable pour envoyer un nombre à travers plusie
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on&enablevpops)
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

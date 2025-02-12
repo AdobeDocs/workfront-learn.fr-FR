@@ -14,10 +14,10 @@ jira: KT-10134
 hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * Recherche des approbations de tâches non résolues et traitement de celles-ci
 * Recherche des approbations de problèmes non résolus et traitement de celles-ci
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 

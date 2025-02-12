@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Accéder aux graphiques de mesures du projet
 * Personnaliser les informations dans les graphiques
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
 
 ## Tutoriels recommandés sur cette rubrique
 

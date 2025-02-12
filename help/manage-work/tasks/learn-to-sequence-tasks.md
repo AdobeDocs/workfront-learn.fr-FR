@@ -13,9 +13,9 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez :
 * Effets de la définition d’une date de début de tâche sur la contrainte de tâche
 * Saisie des tâches antérieures
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
 <!---
 Learn more urls

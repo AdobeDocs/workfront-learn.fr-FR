@@ -8,7 +8,7 @@ jira: KT-10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 100%
@@ -40,7 +40,7 @@ Dans cette vidéo, vous apprendrez à :
 - Sélectionner la méthodologie Scrum
 - Déterminer les paramètres de l’équipe Scrum
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops)
 
 Vous disposez déjà d’une équipe dans Workfront que vous souhaitez convertir en équipe Agile ? Pas de problème! Accédez à Paramètres de l’équipe et cochez la case « Ceci est une équipe Agile ».
 

@@ -12,9 +12,9 @@ jira: KT-8731
 recommendations: noDisplay,catalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 
 * Comment comparer des projets en fonction des personnes connectées, des modifications de statut des tâches et des tâches terminées
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops)
 
 ## À comparer du travail dans le projet
 

@@ -11,9 +11,9 @@ jira: KT-9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Prenez l’habitude de stocker les exécutions incomplètes et découvrez la val
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on&enablevpops)
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
