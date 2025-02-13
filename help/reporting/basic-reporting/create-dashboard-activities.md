@@ -1,6 +1,6 @@
 ---
-title: Créer des tableaux de bord
-description: Découvrez comment combiner plusieurs rapports de liste, des graphiques, des calendriers et des pages web externes dans un tableau de bord dans Workfront.
+title: Créer des activités de tableau de bord
+description: Entraînez-vous à créer des tableaux de bord, avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# Créer des tableaux de bord
+# Créer des activités de tableau de bord
 
-Dans cette vidéo, vous apprendrez :
-
-* Fonctionnement d’un tableau de bord dans Workfront
-* Comment créer un tableau de bord
-* Recherche et utilisation des tableaux de bord
-* Partage d’un tableau de bord avec d’autres utilisateurs et utilisatrices de Workfront
-* Impression d’un tableau de bord
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+Entraînez-vous à créer des tableaux de bord, avec des instructions étape par étape.
 
 ## Activité 1 : Créer un tableau de bord
 

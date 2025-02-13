@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# Activité : créer un regroupement de base
+# Création d’activités de regroupement de base
+
+Pratiquez la création de regroupements de base avec des instructions étape par étape.
+
+## Activité 1 : Création d’un regroupement de files d’attente des demandes
 
 Créez un regroupement de problèmes qui sera utilisé dans un rapport pour suivre les demandes passant par une file d’attente des demandes. Ce regroupement permet de visualiser facilement les types de problèmes/demandes similaires regroupés par priorité. Nommez le regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
 
@@ -28,7 +32,7 @@ Regroupez le rapport des problèmes en fonction des éléments suivants :
 1. Rubrique de la file d’attente
 1. Priorité de la demande
 
-## Réponse
+## Réponse 1
 
 ![Une image de l’écran de création d’un nouveau regroupement](assets/grouping-exercise.png)
 

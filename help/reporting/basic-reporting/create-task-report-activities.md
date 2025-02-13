@@ -1,6 +1,6 @@
 ---
-title: Créer un rapport de tâche
-description: 'Apprenez à créer un rapport de tâches avec un filtre complexe et à trouver les rapports que vous créez dans Workfront. Activité : créer un rapport de notes avec des invites.'
+title: Créer des activités de rapport de tâche
+description: Exercez-vous à créer des rapports de tâche, avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 99%
+source-wordcount: '889'
+ht-degree: 96%
 
 ---
 
-# Créer un rapport de tâche
+# Créer des activités de rapport de tâche
 
-Dans cette vidéo, vous apprendrez :
-
-* Comment créer un rapport de tâche avec un filtre complexe
-* Comment rechercher les rapports que vous créez
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+Exercez-vous à créer des rapports de tâche, avec des instructions étape par étape.
 
 >[!TIP]
 >

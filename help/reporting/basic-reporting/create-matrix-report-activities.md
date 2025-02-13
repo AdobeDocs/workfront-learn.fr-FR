@@ -1,6 +1,6 @@
 ---
-title: Créer un rapport de matrice
-description: Découvrez quand un rapport de matrice peut être utile et comment créer un rapport de matrice dans Workfront.
+title: Création d’activités de rapport de matrice
+description: Pratiquez la création de rapports matriciels, avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# Créer un rapport de matrice
+# Création d’activités de rapport de matrice
 
-Dans cette vidéo, vous apprendrez :
-
-* Quand un rapport de matrice peut être utile
-* et comment créer un rapport de matrice
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Pratiquez la création de rapports matriciels, avec des instructions étape par étape.
 
 ## Activité 1 : Création d’un rapport de matrice
 

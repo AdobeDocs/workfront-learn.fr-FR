@@ -1,6 +1,6 @@
 ---
-title: Ajouter une mise en forme conditionnelle de base à une vue
-description: Découvrez comment utiliser les règles de colonne pour modifier la couleur du texte, la mise en forme et les couleurs d’arrière-plan dans un rapport ou une vue, en fonction des critères que vous avez définis.
+title: Ajouter une mise en forme conditionnelle de base aux activités d’affichage
+description: Entraînez-vous à ajouter une mise en forme conditionnelle de base aux vues, avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# Ajouter une mise en forme conditionnelle de base à une vue
+# Ajouter une mise en forme conditionnelle de base aux activités d’affichage
 
-La mise en forme conditionnelle s’effectue en créant des règles de colonne. Celles-ci vous permettent de mettre en forme une colonne selon les critères de votre choix.
-
-Dans cette vidéo, vous apprendrez :
-
-* En quoi consiste la mise en forme conditionnelle dans une vue
-* Comment créer et modifier une mise en forme conditionnelle
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+Entraînez-vous à ajouter une mise en forme conditionnelle de base aux vues, avec des instructions étape par étape.
 
 ## Résumé
 

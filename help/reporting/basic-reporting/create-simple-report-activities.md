@@ -1,6 +1,6 @@
 ---
-title: Créer un rapport simple
-description: Découvrez comment créer un rapport simple à l’aide d’un filtre, d’une vue et d’un regroupement existants dans Workfront.
+title: Créer des activités de rapport simples
+description: Exercez-vous à créer des rapports simples, avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,22 +9,17 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 79%
+source-wordcount: '225'
+ht-degree: 66%
 
 ---
 
-# Créer un rapport simple
+# Créer des activités de rapport simples
 
-Dans cette vidéo, vous apprendrez à :
-
-* Créer un rapport simple à l’aide d’un filtre, d’une vue et d’un regroupement existants
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+Exercez-vous à créer des rapports simples, avec des instructions étape par étape.
 
 ## Activité 1 : Créer un rapport de tâche simple
 

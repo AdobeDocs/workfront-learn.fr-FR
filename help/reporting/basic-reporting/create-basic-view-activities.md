@@ -1,6 +1,6 @@
 ---
-title: Créer une vue de base
-description: Découvrez ce qu’est une vue, comment créer une vue et comment partager une vue avec d’autres utilisateurs et utilisatrices dans Workfront.
+title: Création d’activités d’affichage de base
+description: Pratiquez la création de vues de base avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# Créer une vue de base
+# Création d’activités d’affichage de base
 
-Dans cette vidéo, vous apprendrez :
-
-* Présentation d’une vue dans Workfront
-* Création et modification d’une vue
-* Partage d’une vue avec d’autres utilisateurs et utilisatrices de Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Pratiquez la création de vues de base avec des instructions étape par étape.
 
 ## Activité 1 : créer une vue de statut de tâche
 
@@ -43,7 +36,7 @@ Créez une vue de tâche nommée « Vue du statut de la tâche » avec les col
 * [!UICONTROL Statut de progression]
 * [!UICONTROL Icônes de statut]
 
-## Réponse 1
+## Réponse de l’activité 1
 
 ![Une image de l’écran pour créer une vue du statut de la tâche](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ Créez une vue de tâche nommée « Vue de jalon » avec les colonnes suivante
 * [!UICONTROL Pourcentage d&#39;achèvement]
 
 
-## Réponse 2
+## Réponse de l’activité 2
 
 ![Une image de l’écran pour créer une vue de jalon](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ Créez une vue de tâche nommée « Vue des types de durée et des contraintes 
 
 Modifiez le [!UICONTROL Format du champ] des colonnes [!UICONTROL Début le] et [!UICONTROL Échéance le] pour afficher la date et l’heure.
 
-## Réponse 3
+## Réponse de l’activité 3
 
 ![Une image de l’écran montrant la vue des types de durée et des contraintes de tâche](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ Créez une vue de modèle de projet nommée « Standard + statut actif » avec
 * [!UICONTROL Est actif]
 
 
-## Réponse 4
+## Réponse de l’activité 4
 
 ![Image de l’écran qui montre une vue du statut actif d’un modèle de projet](assets/view-activity-4.png)
 

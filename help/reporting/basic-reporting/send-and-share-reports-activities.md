@@ -1,6 +1,6 @@
 ---
-title: Envoyer et partager des rapports
-description: Découvrez comment envoyer des rapports aux utilisateurs, aux utilisatrices, aux équipes ou à toute adresse e-mail, et comment partager des rapports avec n’importe qui dans Workfront.
+title: Activités d’envoi et de partage de rapports
+description: Envoyez et partagez des rapports, avec des instructions étape par étape.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '179'
+ht-degree: 79%
 
 ---
 
-# Envoyer et partager des rapports
+# Activités d’envoi et de partage de rapports
 
-Dans cette vidéo, vous apprendrez :
-
-* Envoyer des rapports aux utilisateurs, aux utilisatrices, aux équipes ou à toute adresse e-mail
-* Partager des rapports avec n’importe qui
-* Ce que les destinataires peuvenconsulter et faire avec un rapport Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+Envoyez et partagez des rapports, avec des instructions étape par étape.
 
 ## Activité 1 : Envoi d’un rapport
 
