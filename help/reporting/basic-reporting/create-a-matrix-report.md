@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '268'
 ht-degree: 79%
 
 ---
@@ -27,13 +27,17 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Activité 1 : Création d’un rapport de matrice
+## Création d’activités de rapport de matrice
+
+[Cliquez ici](/help/assets/create-matrix-report-activities.pdf) pour télécharger un fichier PDF de cette page.
+
+### Activité 1 : Création d’un rapport de matrice
 
 Créez un rapport de matrice indiquant le nombre de demandes dans chaque statut, triées par file d’attente. Cela vous donne un aperçu rapide de la quantité de travail qui arrive et de la façon dont vous suivez le rythme.
 
 Vous souhaitez que les files d’attente des demandes apparaissent dans les regroupements de lignes. Le statut apparaît dans les regroupements de colonnes. Nommez votre rapport « Demandes par statut et file d’attente des demandes ».
 
-## Réponse 1
+### Réponse 1
 
 1. Sélectionnez **[!UICONTROL Rapports]** dans le **[!UICONTROL menu principal]**.
 1. Cliquez sur l’option **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Problème]**.

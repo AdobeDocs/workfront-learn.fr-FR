@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '255'
 ht-degree: 79%
 
 ---
@@ -26,7 +26,11 @@ Dans cette vidéo, vous apprendrez à :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Activité 1 : Créer un rapport de tâche simple
+## Créer des activités de rapport simples
+
+[Cliquez ici](/help/assets/create-simple-report-activities.pdf) pour télécharger un fichier PDF de cette page.
+
+### Activité 1 : Créer un rapport de tâche simple
 
 Vous souhaitez suivre toutes vos tâches actives dans un seul rapport. Créez un rapport de tâche nommé « Mes tâches actuelles » en procédant comme suit :
 
@@ -35,7 +39,7 @@ Vous souhaitez suivre toutes vos tâches actives dans un seul rapport. Créez un
 * Filtre = Mes tâches actives
 * Description = Tâches incomplètes sur les projets en cours où je suis propriétaire de la tâche, regroupées par projet.
 
-## Réponse 1
+### Réponse 1
 
 1. Accédez au **[!UICONTROL Menu Principal]** et sélectionnez **[!UICONTROL Rapports]**.
 1. Cliquez sur le menu déroulant **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Rapport de tâches]**.

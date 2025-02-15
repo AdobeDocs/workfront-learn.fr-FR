@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '243'
+ht-degree: 70%
 
 ---
 
@@ -28,7 +28,11 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Activité : créer un regroupement de base
+## Création d’activités de regroupement de base
+
+[Cliquez ici](/help/assets/create-basic-grouping-activities.pdf) pour télécharger un fichier PDF de cette page.
+
+### Activité 1 : Créer un regroupement de base
 
 Créez un regroupement de problèmes qui sera utilisé dans un rapport pour suivre les demandes passant par une file d’attente des demandes. Ce regroupement permet de visualiser facilement les types de problèmes/demandes similaires regroupés par priorité. Nommez le regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
 
@@ -38,7 +42,7 @@ Regroupez le rapport des problèmes en fonction des éléments suivants :
 1. Rubrique de la file d’attente
 1. Priorité de la demande
 
-## Réponse
+### Réponse 1
 
 ![Une image de l’écran de création d’un nouveau regroupement](assets/grouping-exercise.png)
 

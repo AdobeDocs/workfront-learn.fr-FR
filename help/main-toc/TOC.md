@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2394'
+ht-degree: 99%
 
 ---
 
@@ -645,19 +645,4 @@ ht-degree: 97%
 + Workfront pour les cadres {#workfront-for-executives}
    + [Workfront pour les cadres](/help/workfront-for-executives/workfront-for-executives.md)
 
-
-
-<!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
---->
-
-+ [Création d’activités de regroupement de base](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
-+ [Création d’activités d’affichage de base](/help/reporting/basic-reporting/create-basic-view-activities.md)
-+ [Ajouter une mise en forme conditionnelle de base aux activités d’affichage](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
-+ [Créer des activités de rapport simples](/help/reporting/basic-reporting/create-simple-report-activities.md)
-+ [Créer des activités de rapport de tâche](/help/reporting/basic-reporting/create-task-report-activities.md)
-+ [Créer des rapports avec des activités graphiques](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
-+ [Création d’activités de rapport de matrice](/help/reporting/basic-reporting/create-matrix-report-activities.md)
-+ [Créer des activités de tableau de bord](/help/reporting/basic-reporting/create-dashboard-activities.md)
-+ [Activités d’envoi et de partage de rapports](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 
