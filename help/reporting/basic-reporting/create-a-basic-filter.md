@@ -1,6 +1,6 @@
 ---
-title: Créer un filtre de base
-description: Découvrez ce qu’est un filtre, comment le créer et comment le partager avec d’autres utilisateurs dans Workfront.
+title: Création d’un filtre de base
+description: Découvrez ce qu’est un filtre, comment en créer un et comment le partager avec d’autres utilisateurs et utilisatrices dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,11 +14,11 @@ doc-type: video
 source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-# Créer un filtre de base
+# Création d’un filtre de base
 
 Créez un filtre de base dans l’expérience de filtres héritée.
 

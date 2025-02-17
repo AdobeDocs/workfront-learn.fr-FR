@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 70%
+ht-degree: 95%
 
 ---
 
@@ -30,11 +30,11 @@ Dans cette vidéo, vous apprendrez :
 
 ## Création d’activités de regroupement de base
 
-[Cliquez ici](/help/assets/create-basic-grouping-activities.pdf) pour télécharger un fichier PDF de cette page.
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-basic-grouping-activities.pdf).
 
 ### Activité 1 : Créer un regroupement de base
 
-Créez un regroupement de problèmes qui sera utilisé dans un rapport pour suivre les demandes passant par une file d’attente des demandes. Ce regroupement permet de visualiser facilement les types de problèmes/demandes similaires regroupés par priorité. Nommez le regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
+Créez un regroupement de problèmes qui sera utilisé dans un rapport pour suivre les demandes passant par une file d’attente des demandes. Ce regroupement permet de visualiser facilement les types de problèmes/demandes similaires regroupés par priorité. Nommez le regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
 
 Regroupez le rapport des problèmes en fonction des éléments suivants :
 
@@ -47,11 +47,11 @@ Regroupez le rapport des problèmes en fonction des éléments suivants :
 ![Une image de l’écran de création d’un nouveau regroupement](assets/grouping-exercise.png)
 
 1. Dans un rapport de liste de problèmes, allez dans le menu **[!UICONTROL Regroupement]** et sélectionnez **[!UICONTROL Nouveau regroupement]**.
-1. Nommez votre regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
+1. Nommez votre regroupement « File d’attente des demandes, Rubrique de file d’attente, Priorité ».
 1. Cliquez sur **[!UICONTROL Ajouter un regroupement]**.
-1. Dans le champ [!UICONTROL D’abord par], Saisissez « nom du projet », puis sélectionnez **[!UICONTROL Nom]** sous la source du champ Projet.
+1. Dans le champ [!UICONTROL D’abord par], saisissez « nom du projet », puis sélectionnez **[!UICONTROL Nom]** dans la source du champ Projet.
 1. Cliquez sur **[!UICONTROL Ajouter un autre regroupement]**.
-1. Dans le champ [!UICONTROL Et puis par], saisissez « queue », puis sélectionnez **[!UICONTROL Nom]** sous la source de champ [!UICONTROL Rubrique de file d’attente].
+1. Dans le champ [!UICONTROL Puis par], saisissez « file d’attente », puis sélectionnez **[!UICONTROL Nom]** dans la source du champ [!UICONTROL Rubrique de file d’attente].
 1. Cliquez sur **[!UICONTROL Ajouter un autre regroupement]**.
-1. Dans le champ [!UICONTROL Et puis par], saisissez « priorité », puis sélectionnez **[!UICONTROL Priorité]** sous la source du champ [!UICONTROL Problème].
+1. Dans le champ [!UICONTROL Puis par], saisissez « priorité », puis sélectionnez **[!UICONTROL Priorité]** dans la source du champ [!UICONTROL Problème].
 1. Cliquez sur **[!UICONTROL Enregistrer le regroupement]**.
