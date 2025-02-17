@@ -11,9 +11,9 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Dans cette vidéo, vous apprendrez à :
 
 Lorsque vous configurez votre système de [!UICONTROL gestion des ressources numériques Workfront], il est important de tenir compte des rôles que jouent les utilisateurs, les utilisatrices et les groupes dans l’ensemble.
 
-Les groupes contrôlent l’accès aux dossiers de ressources dans [!UICONTROL Workfront DAM]. Les paramètres de groupe contrôlent également ce que les utilisateurs peuvent faire avec les ressources (affichage, téléchargement, modification, etc.) auxquelles ils ont accès.
+Les groupes contrôlent l’accès aux dossiers de ressources dans [!UICONTROL Workfront DAM]. Les paramètres du groupe contrôlent également ce que les utilisateurs et utilisatrices peuvent faire avec les ressources (affichage, téléchargement, modification, etc.) auxquelles ils ou elles ont accès.
 
 Lors de la création de groupes, il est essentiel de garder à l’esprit les dossiers de ressources auxquels les personnes membres de ce groupe auront accès dans la [!UICONTROL gestion des ressources numériques Workfront].
 
