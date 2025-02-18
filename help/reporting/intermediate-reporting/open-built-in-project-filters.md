@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
@@ -26,14 +26,17 @@ Dans cette vidéo, vous apprendrez à :
 * Examiner les filtres de projet intégrés pour voir comment ils sont créés
 * Créer votre propre filtre de projet en utilisant ce que vous avez appris
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
+## Comprendre les activités de filtres de projet intégrés
 
-## Activité : créer un filtre de projet
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/understand-built-in-project-filters-activities.pdf).
+
+### Activité : créer un filtre de projet
 
 Vous voulez voir tous les projets actifs que vous possédez, où « actif » signifie que le statut du projet équivaut à Planification ou En cours. Dans la zone Projets, créez un filtre de projet intitulé « Projets actifs dont je suis propriétaire ».
 
-## Réponse
+### Réponse
 
 Votre filtre devrait ressembler à ceci :
 

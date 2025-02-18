@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '649'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '665'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +40,11 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Un mode texte « plug and play » de base que vous pouvez utiliser dans vos vues
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+
+## Comprendre le mode Texte de base pour les activités de vues
+
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/understand-basic-text-mode-for-views-activities.pdf).
 
 ## Tâche - Vue 4 parents
 

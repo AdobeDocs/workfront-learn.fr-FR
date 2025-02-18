@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '285'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '301'
+ht-degree: 97%
 
 ---
 
@@ -39,7 +39,11 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Un mode texte « plug and play » de base que vous pouvez utiliser dans vos groupements
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+
+## Comprendre le mode Texte de base pour les activités de regroupement
+
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf).
 
 ## Tâche - Regroupement de 4 parents
 
