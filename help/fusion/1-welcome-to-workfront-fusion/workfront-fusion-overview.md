@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: ht
-source-wordcount: '426'
-ht-degree: 100%
+source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
+workflow-type: tm+mt
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -36,7 +36,7 @@ Dans certains tutoriels, vous créerez un scénario à partir de zéro. Dans d�
 
 Pour réaliser les exercices des parcours de formation de Workfront Fusion, vous aurez besoin d’un lecteur test de Workfront. Si vous disposez déjà d’un lecteur de test, nous vous en recommandons un nouveau pour cette formation.
 
-Demandez un environnement d’entraînement en remplissant [ce formulaire](https://forms.office.com/r/f1J8HRGrNY). Si vous ne parvenez pas à accéder au formulaire, envoyez votre nom, votre adresse e-mail et le nom de votre entreprise à wfttstdr@adobe.com.
+Demandez un essai en remplissant [ce formulaire](https://forms.office.com/r/f1J8HRGrNY). Si vous ne parvenez pas à accéder au formulaire, envoyez votre nom, votre adresse e-mail et le nom de votre entreprise à wfttstdr@adobe.com.
 
 ### Accéder à Workfront Fusion pour l’entraînement
 
@@ -44,11 +44,11 @@ Workfront ne propose pas de lecteurs de test pour Workfront Fusion. Pour vous e
 
 ### Instructions pas à pas pour effectuer les exercices de présentation
 
-Des instructions pas à pas sont données pour réaliser les exercices de présentation. Vous pouvez y accéder à partir de la barre de navigation de gauche sous Fusion > Exercices ou utiliser le lien fourni au bas d’un tutoriel de présentation.
+Il existe des instructions détaillées sur la plupart des exercices de présentation. Vous les trouverez dans la barre de navigation de gauche juste après le tutoriel de présentation.
 
 ### Exercices pratiques facultatifs
 
-Les exercices pratiques et les défis sont fournis à la suite de certains exercices de présentation.
+Les exercices pratiques et les défis sont fournis à la suite de certains des exercices de présentation.
 
 Il existe plusieurs façons de résoudre les exercices pratiques. L’objectif est de vous mettre au défi d’essayer d’atteindre un objectif de scénario sans avoir à suivre les étapes ou la « bonne réponse », car c’est ce que vous devrez faire lors de la création d’un scénario dans votre entreprise.
 
@@ -59,5 +59,7 @@ Les défis sont pour les personnes qui veulent essayer quelque chose qui impliqu
 ### Obtenir de l’aide
 
 Les instructions pas à pas sont fournies pour vous aider à accomplir les exercices de présentation.
+
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
 
 Il existe également une [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) où vous pouvez poser des questions.
