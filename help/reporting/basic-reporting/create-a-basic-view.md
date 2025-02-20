@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '835'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Création d’activités d’affichage de base
+## Créer des activités de visualisation de base
 
-[Cliquez ici](/help/assets/create-basic-view-activities.pdf) pour télécharger un fichier PDF de cette page.
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-basic-view-activities.pdf).
 
 ### Activité 1 : créer une vue de statut de tâche
 
@@ -47,7 +47,7 @@ Créez une vue de tâche nommée « Vue du statut de la tâche » avec les col
 * [!UICONTROL Statut de progression]
 * [!UICONTROL Icônes de statut]
 
-### Réponse 1
+### Réponse 1
 
 ![Une image de l’écran pour créer une vue du statut de la tâche](assets/view-exercise.png)
 
@@ -80,7 +80,7 @@ Créez une vue de tâche nommée « Vue de jalon » avec les colonnes suivante
 * [!UICONTROL Pourcentage d&#39;achèvement]
 
 
-### Réponse 2
+### Réponse 2
 
 ![Une image de l’écran pour créer une vue de jalon](assets/view-milestone-exercise-1.png)
 
@@ -112,7 +112,7 @@ Créez une vue de tâche nommée « Vue des types de durée et des contraintes 
 
 Modifiez le [!UICONTROL Format du champ] des colonnes [!UICONTROL Début le] et [!UICONTROL Échéance le] pour afficher la date et l’heure.
 
-### Réponse 3
+### Réponse 3
 
 ![Une image de l’écran montrant la vue des types de durée et des contraintes de tâche](assets/view-activity-3.png)
 
@@ -150,7 +150,7 @@ Créez une vue de modèle de projet nommée « Standard + statut actif » avec
 * [!UICONTROL Est actif]
 
 
-### Réponse 4
+### Réponse 4
 
 ![Image de l’écran qui montre une vue du statut actif d’un modèle de projet](assets/view-activity-4.png)
 

@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez :
 
 ## Créer des activités de rapport de tâche
 
-[Cliquez ici](/help/assets/create-task-report-activities.pdf) pour télécharger un fichier PDF de cette page.
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-task-report-activities.pdf).
 
 >[!TIP]
 >
@@ -68,7 +68,7 @@ Insérez des invites pour les éléments suivants :
 * Nom du projet
 * Type d&#39;audit
 
-## Réponse 1
+## Réponse 1
 
 1. Sélectionnez **[!UICONTROL Rapports]** dans le **[!UICONTROL menu principal]**.
 1. Cliquez sur le bouton **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Note]**.
@@ -162,7 +162,7 @@ Filtrez sur l’identifiant du projet de file d’attente des demandes où se tr
 
 
 
-## Réponse 2
+## Réponse 2
 
 1. Sélectionnez **[!UICONTROL Rapports]** dans le **[!UICONTROL menu principal]**.
 1. Cliquez sur le menu **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Problème]**.

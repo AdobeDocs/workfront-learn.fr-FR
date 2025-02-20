@@ -12,9 +12,9 @@ jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '225'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,15 +28,15 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Activités d’envoi et de partage de rapports
+## Envoyer et partager des activités de rapports
 
-[Cliquez ici](/help/assets/send-and-share-reports-activities.pdf) pour télécharger un fichier PDF de cette page.
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/send-and-share-reports-activities.pdf).
 
-### Activité 1 : Envoi d’un rapport
+### Activité 1 : envoyer un rapport
 
 Envoyez-vous un rapport tous les lundis à 5 heures du matin dans une feuille de calcul Excel. Il s’agit d’un excellent moyen de collecter automatiquement les rapports hebdomadaires que vous pourrez ensuite utiliser pour déterminer les tendances.
 
-### Réponse 1
+### Réponse 1
 
 ![Image de l’écran permettant de configurer des diffusions répétées de rapports](assets/send-a-report.png)
 

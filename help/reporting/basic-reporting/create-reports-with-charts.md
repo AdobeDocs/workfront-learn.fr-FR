@@ -12,9 +12,9 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Créer des rapports avec des activités graphiques
+## Créer des rapports avec des activités de graphiques
 
-[Cliquez ici](/help/assets/create-reports-with-charts-activities.pdf) pour télécharger un fichier PDF de cette page.
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-reports-with-charts-activities.pdf).
 
-### Activité 1 : Ajouter un graphique à un rapport
+### Activité 1 : ajouter un graphique à un rapport
 
 La fin du trimestre approche et vous souhaitez savoir si les projets récemment achevés ont respecté leur budget. Créez un rapport qui montre le coût prévu par rapport au coût réel pour les projets. Vous ne voulez afficher que les projets qui ont été achevés au cours du dernier trimestre. Ajoutez un graphique en colonnes combiné avec des couleurs personnalisées.
 
-### Réponse 1
+### Réponse 1
 
 1. Sélectionnez **[!UICONTROL Rapports]** dans le **[!UICONTROL menu principal]**.
 1. Cliquez sur le bouton **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Projet]**.
@@ -62,6 +62,6 @@ La fin du trimestre approche et vous souhaitez savoir si les projets récemment 
 1. Pour l’[!UICONTROL axe inférieur (X)], choisissez [!UICONTROL Projet] > [!UICONTROL Nom].
 1. Cliquez sur le bouton **[!UICONTROL Graphique combiné]** et sélectionnez [!UICONTROL Projet] > [!UICONTROL Coût réel] dans le champ **[!UICONTROL Valeur]**.
 1. Cliquez sur la flèche à côté de la case de couleur pour modifier la couleur de [!UICONTROL Coût réel]. Sélectionnez l’une des couleurs qui s’affichent ou cliquez sur la case située dans le coin inférieur droit pour afficher la palette de couleurs.
-1. Cliquez sur **[!UICONTROL Enregistrer + Fermer]**. Lorsque vous êtes invité à saisir un nom de rapport, appelez-le « Coût prévu / coût réel par projet terminé le trimestre dernier ».
+1. Cliquez sur **[!UICONTROL Enregistrer + Fermer]**. Lorsque l’on vous invite à saisir un nom de rapport, appelez-le « Coût prévu par rapport au coût réel par projet terminé le dernier trimestre ».
 
-   ![Image de l’écran avec ajout d’un graphique à un rapport](assets/chart-report-chart.png)
+   ![Image de l’écran d’ajout d’un graphique à un rapport](assets/chart-report-chart.png)

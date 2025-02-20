@@ -12,9 +12,9 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -28,18 +28,18 @@ Dans cette vidéo, vous apprendrez à :
 
 ## Créer des activités de rapport simples
 
-[Cliquez ici](/help/assets/create-simple-report-activities.pdf) pour télécharger un fichier PDF de cette page.
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-simple-report-activities.pdf).
 
-### Activité 1 : Créer un rapport de tâche simple
+### Activité 1 : créer un rapport de tâche simple
 
-Vous souhaitez suivre toutes vos tâches actives dans un seul rapport. Créez un rapport de tâche nommé « Mes tâches actuelles » en procédant comme suit :
+Vous souhaitez suivre toutes vos tâches actives dans un seul rapport. Créez un rapport de tâche nommé « Mes tâches actives » à l’aide des éléments suivants :
 
 * Colonnes (vues) = Standard
 * Regroupements = Projet
 * Filtre = Mes tâches actives
 * Description = Tâches incomplètes sur les projets en cours où je suis propriétaire de la tâche, regroupées par projet.
 
-### Réponse 1
+### Réponse 1
 
 1. Accédez au **[!UICONTROL Menu Principal]** et sélectionnez **[!UICONTROL Rapports]**.
 1. Cliquez sur le menu déroulant **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Rapport de tâches]**.
@@ -55,10 +55,8 @@ Vous souhaitez suivre toutes vos tâches actives dans un seul rapport. Créez un
 
    ![Image de l’écran de création de filtres dans un rapport de tâche](assets/simple-task-report-filters.png)
 
-1. Ouvrez **[!UICONTROL Paramètres des rapports]** et nommez le rapport « Mes tâches actuelles ».
-1. Dans le champ Description , saisissez « Incomplet »
-tâches sur les projets actuels dont je suis la tâche
-propriétaire, regroupé par projet. »
+1. Ouvrez **[!UICONTROL Paramètres du rapport]** et nommez le rapport « Mes tâches actives ».
+1. Dans le champ Description, saisissez « Tâches incomplètes sur les projets actifs où je suis propriétaire de la tâche, regroupées par projet ».
 
    ![Image de l’écran des paramètres du rapport dans un rapport de tâche](assets/simple-task-report-report-settings.png)
 

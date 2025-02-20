@@ -12,9 +12,9 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '471'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Ajouter une mise en forme conditionnelle de base aux activités d’affichage
+## Ajouter une mise en forme conditionnelle de base à des activités de visualisation
 
-[Cliquez ici](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) pour télécharger un fichier PDF de cette page.
+Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf).
 
 ### Résumé
 
@@ -46,7 +46,7 @@ Pour créer une mise en forme conditionnelle :
    * Texte de remplacement
    * Afficher une icône
 
-### Activité 1 : Ajouter une mise en forme conditionnelle à une vue
+### Activité 1 : ajouter une mise en forme conditionnelle à une vue
 
 Créez une vue de tâches nommée « Standard + Progression » en utilisant la vue Standard existante et en ajoutant cette mise en forme conditionnelle sur la colonne [!UICONTROL Nom].
 
@@ -55,7 +55,7 @@ Créez une vue de tâches nommée « Standard + Progression » en utilisant l
 
 Cela vous aidera à repérer les tâches en difficulté sans avoir à inclure la colonne du statut de progression dans votre vue.
 
-### Réponse 1
+### Réponse 1
 
 ![Image de l’écran de création d’une nouvelle règle de colonne](assets/conditional-formatting-exercise.png)
 
