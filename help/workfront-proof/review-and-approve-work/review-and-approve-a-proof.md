@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '768'
-ht-degree: 100%
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
+workflow-type: tm+mt
+source-wordcount: '727'
+ht-degree: 91%
 
 ---
 
@@ -47,13 +47,13 @@ Une fois que vous pouvez commencer votre vérification, il vous suffit de clique
 
 ### Ouvrir un BAT à partir de l’[!UICONTROL Accueil]
 
-Si vous travaillez sur [!DNL Workfront] et que l’on vous a demandé d&#39;approuver un BAT, vous aurez une affectation dans la [!UICONTROL liste de travail] de l’[!UICONTROL Accueil] de [!DNL Workfront]. Il est plus pratique de sélectionner uniquement [!UICONTROL Approbations] dans le [!UICONTROL Filtre] afin de vous focaliser sur ce type de travail.
+Si vous travaillez dans [!DNL Workfront] et qu’on vous a demandé d’approuver une épreuve, vous trouverez une affectation dans le widget [!UICONTROL Mes approbations] de [!DNL Workfront] [!UICONTROL Accueil].
 
-![Image de l’[!UICONTROL Accueil] de [!DNL Workfront] avec le filtre [!UICONTROL Approbations] activé et un BAT sélectionné dans la liste.](assets/open-proof-from-home.png)
+![Image du widget [!UICONTROL Mes approbations] dans [!DNL Workfront] [!UICONTROL Accueil].](assets/open-proof-from-home.png)
 
-Notez que les BAT apparaissent dans l’[!UICONTROL Accueil] de [!DNL Workfront] uniquement si vous êtes responsable de leur approbation. S’il vous a été demandé de ne faire qu’une vérification du BAT, celui-ci n’apparaîtra pas dans l’ [!UICONTROL Accueil] de [!DNL Workfront] lorsque vous sélectionnerez [!UICONTROL Validations]dans la liste des filtres.
+Notez que les BAT apparaissent dans l’[!UICONTROL Accueil] de [!DNL Workfront] uniquement si vous êtes responsable de leur approbation. Si vous venez d’être invité à examiner uniquement l’épreuve, elle n’apparaîtra pas dans [!DNL Workfront] [!UICONTROL Accueil].
 
-Sélectionnez l’approbation du BAT dans la [!UICONTROL liste de travail], puis cliquez sur le lien [!UICONTROL Accéder au BAT] pour l’ouvrir dans le visualiseur de BAT.
+Cliquez sur le lien [!UICONTROL Accéder à l’épreuve] pour l’ouvrir dans la visionneuse de relecture.
 
 Selon les workflows de votre organisation en matière de BAT et de projets, il se peut que vous voyiez une affectation de tâche sur l’[!UICONTROL Accueil] de [!DNL Workfront] au lieu d’une demande d’approbation de BAT. Dans ce cas, ouvrez le BAT à partir de la section [!UICONTROL Documents] de la tâche elle-même (reportez-vous ci-dessous pour les instructions).
 
