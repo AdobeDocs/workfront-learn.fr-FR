@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Créer des activités de rapport de tâche
-
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-task-report-activities.pdf).
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/crea
 >Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
 >Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
 
+## Activités « Créer un rapport de tâche »
 
 
-## Activité 1 : créer un rapport de notes avec des invites
+### Activité 1 : créer un rapport de notes avec des invites
 
 Créez un rapport de notes que vous pouvez utiliser pour rechercher les notes des utilisateurs et utilisatrices (c’est-à-dire les commentaires ou les mises à jour) ou les notes du système en fonction du contenu de la note, de l’auteur ou de l’autrice, de la date d’entrée, du nom du projet ou du type d’audit. Nommez le rapport « Recherche de notes ».
 
@@ -68,7 +66,7 @@ Insérez des invites pour les éléments suivants :
 * Nom du projet
 * Type d&#39;audit
 
-## Réponse 1
+### Réponse 1
 
 1. Sélectionnez **[!UICONTROL Rapports]** dans le **[!UICONTROL menu principal]**.
 1. Cliquez sur le bouton **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Note]**.
@@ -111,7 +109,7 @@ Insérez des invites pour les éléments suivants :
 1. Cochez la case pour **[!UICONTROL Afficher les invites dans les tableaux de bord]**.
 1. Enregistrez et fermez votre rapport.
 
-## Activité 2 : créer un rapport de commentaires de l’équipe d’administration
+### Activité 2 : créer un rapport de commentaires de l’équipe d’administration
 
 Il s’agit d’un rapport des problèmes qui affiche tous les problèmes d’une file d’attente des demandes de commentaires créée pour les administrateurs et administratrices système. Découvrez comment créer cette file d’attente des demandes dans le tutoriel [Créer une file d’attente des demandes de commentaires de l’équipe d’administration système](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=fr).
 
@@ -162,7 +160,7 @@ Filtrez sur l’identifiant du projet de file d’attente des demandes où se tr
 
 
 
-## Réponse 2
+### Réponse 2
 
 1. Sélectionnez **[!UICONTROL Rapports]** dans le **[!UICONTROL menu principal]**.
 1. Cliquez sur le menu **[!UICONTROL Nouveau rapport]** et sélectionnez **[!UICONTROL Problème]**.

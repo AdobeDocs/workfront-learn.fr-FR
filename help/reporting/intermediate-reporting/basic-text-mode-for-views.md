@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '656'
 ht-degree: 98%
 
 ---
@@ -42,15 +42,13 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## Comprendre le mode Texte de base pour les activités de vues
+## Activités « Comprendre le mode Texte de base pour les vues »
 
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/understand-basic-text-mode-for-views-activities.pdf).
-
-## Tâche - Vue 4 parents
+### Tâche - Vue 4 parents
 
 Créez d’abord une colonne pour le Nom de la tâche et le Nom du parent, puis utilisez le mode texte suivant pour créer les trois autres colonnes.
 
-### Tâche - Nom du parent du parent
+#### Tâche - Nom du parent du parent
 
 ```
 displayname=Parent of Parent Name
@@ -64,7 +62,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### Tâche - Nom du parent du parent du parent
+#### Tâche - Nom du parent du parent du parent
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -78,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### Tâche - Nom du parent du parent du parent du parent
+#### Tâche - Nom du parent du parent du parent du parent
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -94,9 +92,9 @@ valueformat=HTML
 
 ![Une image d’écran montrant la vue 4 parents](assets/4-parents-view.png)
 
-## Utilisateur ou utilisatrice : itérations affichant des listes dans les vues d’utilisateur
+### Utilisateur ou utilisatrice : itérations affichant des listes dans les vues d’utilisateur
 
-### Utilisateur ou utilisatrice : toutes les fonctions
+#### Utilisateur ou utilisatrice : toutes les fonctions
 
 ```
 displayname=All job roles
@@ -108,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### Utilisateur ou utilisatrice : toutes les fonctions présentant l’affichage principal
+#### Utilisateur ou utilisatrice : toutes les fonctions présentant l’affichage principal
 
 ```
 displayname=All Job Roles showing primary
@@ -120,7 +118,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### Utilisateur ou utilisatrice : toutes les équipes
+#### Utilisateur ou utilisatrice : toutes les équipes
 
 ```
 displayname=All teams
@@ -137,7 +135,7 @@ valueformat=HTML
 >Un champ Équipe est accessible par le biais de l’interface utilisateur. Il affiche toutes les équipes, séparées par des virgules, mais l’utilisation du mode texte ci-dessus affiche chaque équipe sur une ligne distincte.
 
 
-### Utilisateur ou utilisatrice : tous les groupes
+#### Utilisateur ou utilisatrice : tous les groupes
 
 ```
 displayname=All groups
@@ -149,7 +147,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### Utilisateur ou utilisatrice : tous les groupes affichant le groupe d’accueil
+#### Utilisateur ou utilisatrice : tous les groupes affichant le groupe d’accueil
 
 ```
 displayname=All groups showing home group
@@ -162,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### Utilisateur ou utilisatrice : subordonnés directs
+#### Utilisateur ou utilisatrice : subordonnés directs
 
 ```
 displayname=Direct reports
@@ -174,7 +172,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### Utilisateur ou utilisatrice : congés futurs
+#### Utilisateur ou utilisatrice : congés futurs
 
 ```
 displayname=Future PTO
@@ -190,7 +188,7 @@ width=150
 
 ![Une image d’écran affichant la vue Listes d’utilisateurs et utilisatrices](assets/user-lists-view-large.png)
 
-## Tâche : affichage des affectations de tâche et utilisation du statut
+### Tâche : affichage des affectations de tâche et utilisation du statut
 
 ```
 displayname=Assignments and Status
@@ -207,9 +205,9 @@ width=150
 ![Une image d’écran affichant la vue Affectations et statut](assets/assignments-and-status-view.png)
 
 
-## Tâche : affichage du rôle et de l’attribution sur plusieurs affectations de tâche
+### Tâche : affichage du rôle et de l’attribution sur plusieurs affectations de tâche
 
-### Tâche : rôle + heures
+#### Tâche : rôle + heures
 
 ```
 displayname=Role+hours
@@ -221,7 +219,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### Tâche : affectation + pourcentage d’affectation
+#### Tâche : affectation + pourcentage d’affectation
 
 ```
 displayname=Assignment+percent
@@ -235,9 +233,9 @@ type=iterate
 
 ![Une image d’écran affichant la vue Affectations et rôles](assets/assignments-roles-and-percent-view.png)
 
-## Tâches : prédécesseurs et successeurs sur plusieurs projets
+### Tâches : prédécesseurs et successeurs sur plusieurs projets
 
-### Filtre de tâche (facultatif)
+#### Filtre de tâche (facultatif)
 
 **Me montrer toutes les tâches ayant au moins un prédécesseur sur plusieurs projets ou au moins un successeur sur plusieurs projets sur les projets en cours**
 
@@ -254,7 +252,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### Tâche : afficher les noms des prédécesseurs et le projet dans lequel est le prédécesseur
+#### Tâche : afficher les noms des prédécesseurs et le projet dans lequel est le prédécesseur
 
 ```
 displayname=Predecessor names
@@ -268,7 +266,7 @@ valueformat=HTML
 width=150
 ```
 
-### Tâche : afficher les noms des successeurs et le projet dans lequel est le successeur
+#### Tâche : afficher les noms des successeurs et le projet dans lequel est le successeur
 
 ```
 displayname=Successor names
@@ -282,7 +280,7 @@ valueformat=HTML
 width=150
 ```
 
-### Tâche : afficher la date d’achèvement prévue des prédécesseurs
+#### Tâche : afficher la date d’achèvement prévue des prédécesseurs
 
 ```
 displayname=Predecessor projected completion dates
@@ -297,7 +295,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### Tâche : afficher le statut de la progression des prédécesseurs
+#### Tâche : afficher le statut de la progression des prédécesseurs
 
 ```
 displayname=Predecessor progress status
@@ -312,7 +310,7 @@ valueformat=HTML
 width=90
 ```
 
-### Tâche : afficher le pourcentage d’achèvement du projet du prédécesseur sur plusieurs projets
+#### Tâche : afficher le pourcentage d’achèvement du projet du prédécesseur sur plusieurs projets
 
 ```
 displayname=Predecessor project percent complete
@@ -329,7 +327,7 @@ width=150
 ![Une image d’écran montrant la vue des prédécesseurs et successeurs sur plusieurs projets](assets/cross-project-predecessors-and-successors.png)
 
 
-## Tâche : itération montrant toutes les personnes affectées et qui a affecté chacune d’elles
+### Tâche : itération montrant toutes les personnes affectées et qui a affecté chacune d’elles
 
 ```
 displayname=All assignees and requesters
@@ -343,7 +341,7 @@ valueformat=HTML
 
 ![Une image d’écran montrant toutes les personnes affectées et qui a affecté chacune d’elles](assets/all-assignees-and-requesters.png)
 
-## Tâche/projet : itération montrant tous les formulaires personnalisés sur un projet ou une tâche
+### Tâche/projet : itération montrant tous les formulaires personnalisés sur un projet ou une tâche
 
 ```
 displayname=All Forms Assigned
@@ -358,7 +356,7 @@ valueformat=HTML
 ![Une image d’écran montrant tous les formulaires personnalisés d’un projet](assets/all-custom-forms-on-a-project.png)
 
 
-## Projet : itération montrant tous les contacts principaux pour les éléments à résoudre dans la vue projet
+### Projet : itération montrant tous les contacts principaux pour les éléments à résoudre dans la vue projet
 
 ```
 displayname=Requestor
@@ -374,7 +372,7 @@ width=150
 
 ![Une image d’écran montrant les contacts principaux des éléments à résoudre](assets/primary-contacts-for-resolvables.png)
 
-## Projet : itération présentant tous les membres de l’équipe de projet
+### Projet : itération présentant tous les membres de l’équipe de projet
 
 ```
 displayname=Project Team Members
@@ -389,7 +387,7 @@ valueformat=HTML
 
 ![Capture d’écran montrant tous les membres de l’équipe de projet](assets/all-project-team-members.png)
 
-## Projet : itération indiquant entryDate de tous les problèmes résolvables d’un projet.
+### Projet : itération indiquant entryDate de tous les problèmes résolvables d’un projet.
 
 ```
 displayname=Resolvables entry date
@@ -407,7 +405,7 @@ valueformat=HTML
 
 ![Capture d’écran affichant l’entryDate de tous les problèmes résolvables d’un projet](assets/resolvables-entry-date.png)
 
-## Projet : afficher le groupe d’accueil de la personne ayant demandé le projet d’origine.
+### Projet : afficher le groupe d’accueil de la personne ayant demandé le projet d’origine.
 
 ```
 displayname=Requestor home group
@@ -421,7 +419,7 @@ valueformat=HTML
 
 ![Capture d’écran montrant le groupe d’accueil de la personne ayant demandé le projet](assets/requestor-home-group.png)
 
-## Projet : indiquer si le projet est une file d’attente des demandes.
+### Projet : indiquer si le projet est une file d’attente des demandes.
 
 ```
 querysort=queueDef:isPublic
@@ -439,7 +437,7 @@ displayname=Public Selection
 
 ![Capture d’écran indiquant si le projet est une file d’attente des demandes](assets/project-is-a-request-queue.png)
 
-## Problème : itération indiquant tous les membres de l’équipe de projets de résolution.
+### Problème : itération indiquant tous les membres de l’équipe de projets de résolution.
 
 ```
 displayname=Resolve Project: Team Members
@@ -455,7 +453,7 @@ width=150
 
 ![Capture d’écran montrant tous les membres de l’équipe de projet de résolution](assets/all-resolve-project-team-members.png)
 
-## Problème : itération montrant toutes les équipes du contact principal du problème.
+### Problème : itération montrant toutes les équipes du contact principal du problème.
 
 ```
 displayname=Requestor Teams
@@ -471,7 +469,7 @@ width=150
 
 ![Capture d’écran montrant toutes les équipes du contact principal](assets/all-primary-contact-teams.png)
 
-## Document : itération affichant le dossier dans un rapport de document.
+### Document : itération affichant le dossier dans un rapport de document.
 
 ```
 displayname=Folder
@@ -485,7 +483,7 @@ valueformat=HTML
 
 ![Capture d’écran affichant un dossier dans un rapport de document](assets/folder-in-a-document-report.png)
 
-## Document : itération affichant le dossier parent dans un rapport de document.
+### Document : itération affichant le dossier parent dans un rapport de document.
 
 ```
 displayname=Parent Folder
@@ -499,7 +497,7 @@ valueformat=HTML
 
 ![Capture d’écran affichant le dossier parent dans un rapport de document](assets/parent-folder-in-a-document-report.png)
 
-## Document : dates de validation du document.
+### Document : dates de validation du document.
 
 ```
 displayname=Document approval dates
@@ -517,9 +515,9 @@ section=0
 
 ![Capture d’écran affichant la vue des dates d’approbation du document](assets/document-approval-dates.png)
 
-## Approbations d&#39;épreuve
+### Approbations d&#39;épreuve
 
-### Approbation du BAT : afficher le nom du projet.
+#### Approbation du BAT : afficher le nom du projet.
 
 ```
 displayname=Project Name
@@ -528,7 +526,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### Approbation du BAT : afficher le nom de la tâche.
+#### Approbation du BAT : afficher le nom de la tâche.
 
 ```
 displayname=Task Name

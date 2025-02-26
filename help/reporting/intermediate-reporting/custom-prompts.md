@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 98%
+source-wordcount: '198'
+ht-degree: 97%
 
 ---
 
@@ -28,11 +28,10 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Créer des activités d’invites personnalisées
+## Activités « Créer des invites personnalisées »
 
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-custom-prompts-activities.pdf).
 
-## Activité : création d’invites personnalisées
+### Activité : création d’invites personnalisées
 
 1. Créez une invite personnalisée qui affiche les statuts de projet suivants dans le menu déroulant de l’invite :
    * Planification
@@ -41,7 +40,7 @@ Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/crea
    * Immobilisé
 1. Modifiez l’invite pour afficher les projets en cours qui doivent être exécutés ce mois-ci.
 
-## Réponses
+### Réponses
 
 1. Les invites personnalisées doivent ressembler à ceci et présenter le mode texte suivant :
 

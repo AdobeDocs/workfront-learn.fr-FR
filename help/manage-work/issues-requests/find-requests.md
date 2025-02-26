@@ -1,6 +1,6 @@
 ---
 title: Rechercher et gérer des demandes
-description: Découvrez comment utiliser les tableaux de bord, l’[!UICONTROL Accueil], la zone [!UICONTROL Demandes] et la page [!UICONTROL Équipes] pour trouver les demandes entrantes effectuées par le biais d’une file d’attente des demandes.
+description: La vidéo sur la gestion des requêtes dans la page d’accueil de Workfront explique comment utiliser les filtres, gérer les affectations d’équipe, créer des rapports et des tableaux de bord personnalisés et clarifier la signification de « my » dans différents contextes pour une gestion efficace des requêtes.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,31 +8,37 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-10T00:00:00Z
+last-substantial-update: 2025-02-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '350'
+ht-degree: 10%
 
 ---
 
 # Rechercher et gérer des demandes
 
-Dans cette vidéo, vous découvrirez comment trouver les demandes pour lesquelles vous avez une affectation, les demandes que vous avez créées et les demandes que vous gérez.
+Cette vidéo explique comment rechercher et gérer des requêtes dans Workfront. &#x200B; Il couvre quatre domaines principaux :
 
-Vous apprendrez à trouver ces demandes aux emplacements suivants :
-
-* [!UICONTROL Page d’accueil] Workfront
-* La zone [!UICONTROL Demandes]
-* La page [!UICONTROL Équipes]
-* Dans un tableau de bord personnalisé
+* **Accueil Workfront :** les utilisateurs comme Mary Smith, artiste de production, peuvent voir les demandes qui leur sont assignées. &#x200B; Joan Harris, qui fait souvent des demandes, peut trouver des demandes terminées en attente de son approbation. &#x200B;
+* **Zone de demande :** les utilisateurs et utilisatrices peuvent filtrer les demandes pour afficher celles qu’ils ou elles ont créées&#x200B; Le terme « mon » dans la zone de requête fait référence aux problèmes que j’ai créés, en tant qu’utilisateur connecté. &#x200B;
+* **Page Équipes :** les utilisateurs peuvent afficher les demandes d’équipe non affectées et s’affecter eux-mêmes ou affecter d’autres personnes. &#x200B; Ils peuvent également utiliser l’équilibreur de charge de travail pour gérer les affectations d’équipe en fonction des charges de travail actuelles. &#x200B;
+* **Rapports et tableaux de bord personnalisés :** les utilisateurs et les utilisatrices peuvent créer des rapports personnalisés pour suivre les demandes, avec un contrôle sur les noms, les filtres, les vues et les regroupements. &#x200B; Cela permet un suivi clair des requêtes par priorité, créateur, contact principal, personne désignée et statut. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+
+## Principaux points à retenir
+
+* **Recherche de demandes dans la page d’accueil de Workfront :** les utilisateurs peuvent afficher les demandes qui leur sont affectées ou celles qui sont en attente de leur approbation, selon leur rôle. &#x200B;
+* **Utilisation de filtres dans la zone de requête :** des filtres tels que « mes requêtes » et « mes requêtes ouvertes » permettent aux utilisateurs et aux utilisatrices de voir les requêtes qu’ils ou elles ont créées. &#x200B;
+* **Gestion des demandes sur la page Équipes :** les utilisateurs peuvent afficher les demandes d’équipe non affectées et les affecter à eux-mêmes ou à d’autres personnes à l’aide de l’équilibreur de charge de travail pour gérer les affectations des membres de l’équipe en fonction de leur charge de travail actuelle. &#x200B;
+* **Rapports et tableaux de bord personnalisés :** les utilisateurs et les utilisatrices peuvent créer des rapports personnalisés pour suivre les demandes. Cela permet d’personnaliser les noms, les filtres, les vues et les regroupements, ce qui permet de gérer et de classer les demandes de manière efficace. &#x200B;
+* **Comprendre « Mon » dans les filtres :** le terme « mon » dans l’Accueil fait référence aux problèmes qui me sont affectés. Le terme « mon » dans la zone de demande fait référence aux problèmes que j’ai demandés. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique

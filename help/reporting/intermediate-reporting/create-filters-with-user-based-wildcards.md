@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 48%
+source-wordcount: '348'
+ht-degree: 47%
 
 ---
 
@@ -40,15 +40,13 @@ Dans cette vidéo, vous apprendrez à :
 >Vous devez toujours utiliser le qualificatif de filtre Égal lorsque vous utilisez des caractères génériques basés sur l’utilisateur ou l’utilisatrice.
 
 
-## Création de filtres avec des activités de caractères génériques basées sur l’utilisateur
-
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-filters-with-user-based-wildcards-activities.pdf).
+## Activités « Créer des filtres avec des caractères génériques basés sur l’utilisateur »
 
 ### Activité 1
 
 Vous avez un peu de temps supplémentaire cette semaine, alors vous voulez voir s&#39;il y a quelqu&#39;un dans votre équipe qui pourrait utiliser de l&#39;aide pour ses affectations. Créez un filtre de tâches pour rechercher les tâches qui sont dues cette semaine et qui ne sont pas terminées.
 
-### Réponse 1
+### Réponse 1
 
 Vous êtes génial pour aider vos coéquipiers ! Une fois le filtre configuré comme l’image ci-dessous, vous trouverez les tâches suivantes :
 

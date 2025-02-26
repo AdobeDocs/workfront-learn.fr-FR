@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 3310ca62542d2cb596c6fd50a740bae2bb6345f2
-workflow-type: ht
-source-wordcount: '288'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 98%
 
 ---
 
@@ -27,9 +27,7 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
-## Composants de création de rapports
-
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/reporting-components.pdf).
+## Référence rapide des composants de rapports
 
 ![Image de l’écran de création d’un filtre](assets/reporting-components-1.png)
 

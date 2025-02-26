@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '334'
+ht-degree: 98%
 
 ---
 
@@ -27,9 +27,7 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Créer des rapports avec des activités de graphiques
-
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/create-reports-with-charts-activities.pdf).
+## Activités « Créer des rapports avec des graphiques »
 
 ### Activité 1 : ajouter un graphique à un rapport
 

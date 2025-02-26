@@ -12,9 +12,9 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '433'
 ht-degree: 98%
 
 ---
@@ -43,11 +43,10 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Comprendre le mode Texte de base pour les activités de filtres
+## Activités « Comprendre le mode texte de base pour les filtres »
 
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/understand-basic-text-mode-for-filters-activities.pdf).
 
-## Tâche - Filtrer les tâches marquées « J’ai fait ma part ».
+### Tâche - Filtrer les tâches marquées « J’ai fait ma part ».
 
 Le mode texte suivant exclut les tâches marquées « J’ai fait ma part ». Il vous suffit de créer un filtre de tâche, d’ajouter les règles de filtrage de votre choix, puis de passer en mode texte et de coller le code ci-dessous après tout mode texte que vous voyez dans le filtre.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Tâche - Afficher toutes les tâches en attente d’approbation
+### Tâche - Afficher toutes les tâches en attente d’approbation
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Tâche - Afficher toutes les tâches que j’ai approuvées
+### Tâche - Afficher toutes les tâches que j’ai approuvées
 
 Créez un rapport de tâche avec les filtres que vous souhaitez, puis allez dans l’onglet Filtre et cliquez sur Passer en mode texte. Ajoutez ce code à ce qui existe déjà :
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Tâche - Afficher toutes les tâches qui ont au moins un prédécesseur inter-projets
+### Tâche - Afficher toutes les tâches qui ont au moins un prédécesseur inter-projets
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Tâche - Afficher toutes les tâches que j’ai assignées à d’autres personnes
+### Tâche - Afficher toutes les tâches que j’ai assignées à d’autres personnes
 
 Créez un rapport de tâche avec les filtres que vous souhaitez, puis allez dans l’onglet Filtre et cliquez sur Passer en mode texte. Ajoutez ce code à ce qui existe déjà :
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Cela vous montrera toutes les tâches pour lesquelles la personne connectée a assigné au moins l’une des personnes assignées actuelles. Si les personnes assignées ont été assignées par plusieurs personnes, seul le nom de la première personne qui a assigné une personne apparaîtra comme « Demandé par » sur la page de destination de la tâche.
 
-## Tâche - Afficher toutes les tâches qui sont terminées - En attente d’approbation
+### Tâche - Afficher toutes les tâches qui sont terminées - En attente d’approbation
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## Problème - Afficher tous les problèmes qui sont terminés - En attente d’approbation
+### Problème - Afficher tous les problèmes qui sont terminés - En attente d’approbation
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## Projet - Afficher tous les projets qui sont terminés - En attente d’approbation
+### Projet - Afficher tous les projets qui sont terminés - En attente d’approbation
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## Note - Afficher tous les commentaires dans lesquels je fais l’objet d’un balise
+### Note - Afficher tous les commentaires dans lesquels je fais l’objet d’un balise
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## Rapport sur les paramètres/champs personnalisés - Afficher les champs personnalisés qui ne sont pas liés à un formulaire personnalisé (très utile pour les efforts de nettoyage)
+### Rapport sur les paramètres/champs personnalisés - Afficher les champs personnalisés qui ne sont pas liés à un formulaire personnalisé (très utile pour les efforts de nettoyage)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

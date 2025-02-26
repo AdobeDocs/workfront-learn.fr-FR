@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '292'
 ht-degree: 97%
 
 ---
@@ -41,11 +41,9 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Comprendre le mode Texte de base pour les activités de regroupement
+## Activités « Comprendre le mode Texte de base pour les regroupements »
 
-Pour télécharger un fichier PDF de cette page, [cliquez ici](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf).
-
-## Tâche - Regroupement de 4 parents
+### Tâche - Regroupement de 4 parents
 
 Le mode texte suivant regroupe les tâches en fonction de quatre niveaux de parents au maximum et laisse les parents qui n’existent pas vides.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![Image d’écran montrant les tâches du projet regroupées par 4 parents](assets/4-parents-grouping.png)
 
 
-## Tâche - Regroupement en pourcentage terminé
+### Tâche - Regroupement en pourcentage terminé
 
 Le mode texte suivant regroupe les tâches en fonction de leur pourcentage terminé. Les tâches sont regroupées dans l’une des catégories suivantes :
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![Image d’écran montrant les tâches du projet regroupées par pourcentage terminé](assets/percent-complete-grouping.png)
 
-## Tâche - statusEquatesWith, puis statut
+### Tâche - statusEquatesWith, puis statut
 
 Le mode texte suivant regroupe les tâches par statusEquatesWith, puis par statut.
 
@@ -108,7 +106,7 @@ textmode=true
 ![Image d’écran montrant les tâches de projet regroupées par statusEquatesWith](assets/status-equates-with.png)
 
 
-## Approbation de BAT - Regroupement par nom de projet
+### Approbation de BAT - Regroupement par nom de projet
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![Image d’écran montrant les approbations du BAT regroupées par nom de projet](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Approbation de BAT - Regroupement par nom de document
+### Approbation de BAT - Regroupement par nom de document
 
 ```
 group.0.displayname=Document Name
