@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 99%
@@ -27,14 +27,13 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## Activités « Créer un rapport de tâche »
 
 >[!TIP]
 >
 >Consultez nos recommandations dans notre [Guide d’utilisation des rapports client Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Vous y trouverez des instructions détaillées pour 10 rapports, prêts à être créés dès aujourd’hui dans votre environnement.
 >Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
 >Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
-
-## Activités « Créer un rapport de tâche »
 
 
 ### Activité 1 : créer un rapport de notes avec des invites

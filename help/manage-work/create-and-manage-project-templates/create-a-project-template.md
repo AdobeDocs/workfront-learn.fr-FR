@@ -1,6 +1,6 @@
 ---
 title: Créer un modèle de projet et découvrir les [!UICONTROL Blueprints]
-description: Apprenez à créer un modèle de projet de zéro et à partir d’un projet existant, et comprenez comment les [!UICONTROL Blueprints] peuvent vous donner accès à une multitude de modèles de projets utiles créés par les expertes et les experts de Workfront.
+description: La vidéo sur la création de modèles dans Workfront montre comment créer des modèles de projet, les utiliser pour de nouveaux projets, enregistrer des projets existants en tant que modèles, utiliser des plans directeurs préconfigurés et affecter des tâches à des fonctions pour une gestion efficace des ressources.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '377'
-ht-degree: 100%
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+workflow-type: tm+mt
+source-wordcount: '640'
+ht-degree: 50%
 
 ---
 
-# Créez un modèle de projet et découvrez les [!UICONTROL Blueprints].
+# Créer un modèle de projet et découvrir les [!UICONTROL Blueprints]
+
 
 Apprenez à créer un modèle de projet de zéro et à partir d’un projet existant, et comprenez comment les [!UICONTROL Blueprints] peuvent vous donner accès à une multitude de modèles de projets utiles créés par les expertes et les experts de Workfront.
 
 ## Créer un modèle de projet
 
-Dans cette vidéo, vous apprendrez à :
+* La vidéo fournit un guide détaillé sur la création et l’utilisation de modèles pour la production vidéo marketing. Il commence par expliquer comment créer un nouveau modèle à partir de zéro, lui donner un nom et l’enregistrer. &#x200B; Le processus comprend trois étapes principales : créer des tâches, configurer la chronologie à l’aide de durées et de prédécesseurs, et effectuer des affectations à des fonctions plutôt qu’à des utilisateurs individuels. &#x200B; La vidéo met l’accent sur l’organisation des tâches à l’aide des relations parent-enfant pour une meilleure synthèse et efficacité. &#x200B;
+* Une fois le modèle créé, il peut être utilisé pour produire de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. &#x200B; Il montre également comment affecter des fonctions à des tâches à l&#39;aide des fonctionnalités de planification et de planification des ressources. &#x200B;
+* La vidéo explique comment enregistrer un projet existant en tant que nouveau modèle, ce qui permet de mettre à jour et d’améliorer le workflow. &#x200B; Il souligne l’importance de la gestion des modèles pour éviter toute confusion et garantir une exécution de projet rationalisée. &#x200B;
 
-* Créer un modèle à partir de zéro
-* Créer un modèle à partir d’un projet existant
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## Principaux points à retenir
+
+**Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions. &#x200B;
+**Organisation des tâches :** utilisez les relations parent-enfant pour organiser les tâches de manière efficace, en fournissant un résumé et une structure clairs pour le projet. &#x200B;
+**Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches. &#x200B;
+**Affectations basées sur les rôles :** affectez des tâches à des fonctions plutôt qu’à des utilisateurs individuels pour utiliser efficacement les fonctionnalités de planification et de planification des ressources. &#x200B;
+**Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour incorporer des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace. &#x200B;
+
 
 ## Modèles créés avec les [!UICONTROL Blueprints]
 
