@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 70%
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 Dans cette vidéo, vous apprendrez à :
 
 * Présentation des caractères génériques basés sur la date
-* Comprenez la différence entre Workfront et deux caractères génériques basés sur la date
+* Comprendre la différence entre les deux caractères génériques Workfront basés sur la date
 * Ajouter un caractère générique basé sur la date à un filtre
 * Créer une date personnalisée à l’aide de caractères génériques, d’attributs, d’opérateurs et de modificateurs
 * Créer une période personnalisée à l’aide de caractères génériques
@@ -46,4 +46,4 @@ Dans cette vidéo, vous apprendrez à :
 
 1. Filtrage de la date d’achèvement prévue du problème entre [!UICONTROL $$TODAY-1d] et [!UICONTROL $$TODAY].
 1. Filtrage de la date de fin prévue du projet entre [!UICONTROL $$TODAYb-1w] et [!UICONTROL $$TODAYe-1w].
-1. Ce rapport recherche les tâches qui vous sont affectées et qui ne sont pas encore terminées (en d&#39;autres termes, dont le pourcentage d&#39;achèvement est inférieur à 100), et qui sont en retard ou dues aujourd&#39;hui. La règle de filtrage pour la date d&#39;achèvement prévue des tâches indique d&#39;examiner les tâches dont la date d&#39;échéance est égale ou antérieure à la date d&#39;aujourd&#39;hui.
+1. Ce rapport recherche les tâches qui vous ont été affectées et qui ne sont pas encore terminées (en d’autres termes, dont le pourcentage de réalisation est inférieur à 100), et qui sont en retard ou qui doivent être terminées aujourd’hui. La règle de filtrage de la date d’achèvement prévue des tâches indique d’examiner les tâches dont la date d’échéance est égale ou antérieure à la date du jour.

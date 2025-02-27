@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 47%
+ht-degree: 98%
 
 ---
 
@@ -29,11 +29,11 @@ Dans cette vidéo, vous apprendrez à :
 
 >[!TIP]
 >
->Utilisez la source et le nom du champ Utilisateurs de l’affectation >> ID lorsque vous créez des filtres qui examinent les informations relatives à l’affectation des tâches ou des problèmes.  Cette option examine tous les   les utilisateurs affectés à la tâche ou à l’événement, pas seulement le « propriétaire » ou la personne désignée principale.
+>Utilisez la source et le nom du champ Utilisateurs de l’affectation >> ID lorsque vous créez des filtres qui examinent les informations relatives à l’affectation des tâches ou des problèmes.  Cette option permet d’examiner les utilisateurs et les utilisatrices affectés à la tâche ou au problème, et pas seulement le ou la « propriétaire » ou la personne désignée principale.
 
 >[!TIP]
 >
->Utilisez l’identifiant $$USER.ID (au lieu de votre nom), même lorsque vous créez des filtres pour vous-même. Ainsi, si quelqu’un voit un filtre que vous exécutez et dit « Partagez-le avec moi », le filtre est déjà configuré afin que chaque personne qui l’utilise voie ses propres informations.
+>Utilisez l’identifiant $$USER.ID (au lieu de votre nom), même lorsque vous créez des filtres pour vous-même. Ainsi, si quelqu’un voit un filtre que vous utilisez et demande : « partagez-le avec moi », le filtre est déjà configuré de sorte que chaque personne qui l’utilise voie ses propres informations.
 
 >[!TIP]
 >
@@ -42,18 +42,18 @@ Dans cette vidéo, vous apprendrez à :
 
 ## Activités « Créer des filtres avec des caractères génériques basés sur l’utilisateur »
 
-### Activité 1
+### Activité 1
 
-Vous avez un peu de temps supplémentaire cette semaine, alors vous voulez voir s&#39;il y a quelqu&#39;un dans votre équipe qui pourrait utiliser de l&#39;aide pour ses affectations. Créez un filtre de tâches pour rechercher les tâches qui sont dues cette semaine et qui ne sont pas terminées.
+Vous disposez d’un peu de temps supplémentaire cette semaine, vous voulez donc voir si une personne de votre équipe a besoin d’aide pour réaliser ses tâches. Créez un filtre de tâche pour trouver les tâches qui arrivent à échéance cette semaine et qui ne sont pas terminées.
 
 ### Réponse 1
 
-Vous êtes génial pour aider vos coéquipiers ! Une fois le filtre configuré comme l’image ci-dessous, vous trouverez les tâches suivantes :
+Merci infiniment d’aider les personnes de votre équipe ! Lorsque le filtre est configuré comme dans l’image ci-dessous, vous trouverez les tâches suivantes :
 
-* qui n&#39;ont pas été terminés (ce qui signifie qu&#39;ils n&#39;ont pas un statut [!UICONTROL Terminé] ou un statut équivalent à [!UICONTROL Terminé]) ;
-* qui se trouvent dans des projets avec un statut [!UICONTROL Actuel] (après tout, vous ne souhaitez pas rechercher des tâches pour des projets qui ne sont pas encore lancés) ;
+* les tâches qui n’ont pas été achevées (ce qui signifie qu’elles n’ont pas le statut [!UICONTROL Terminé] ou un statut équivalent) ;
+* les tâches qui se trouvent dans des projets dont le statut est [!UICONTROL En cours] (le but n’est pas de trouver des tâches pour des projets qui n’ont pas encore été lancés) ;
 * Les tâches qui sont affectées à une personne de votre équipe d’origine, tel que défini par les paramètres d’équipe Workfront ;
-* Et dont la date de fin est fixée à un moment de cette semaine (cette règle a utilisé le filtre de date prédéfini pour définir « cette semaine »).
+* et les tâches dont la date d’achèvement est prévue pour cette semaine (cette règle utilise le filtre de date prédéfinie, réglé sur « cette semaine »).
 
 ![Une image de l’écran de création d’un filtre de tâches avec un caractère générique basé sur l’utilisateur ou l’utilisatrice](assets/user-wildcard-exercise-answer.png)
 
