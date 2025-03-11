@@ -1,5 +1,5 @@
 ---
-title: Comprendre les calendriers du projet
+title: Présentation des chronologies de projet
 description: Découvrez comment affecter des tâches, utiliser les graphiques Gantt et les fonctions de chemin critique, surveiller les projets par le biais de vues, planifier les tâches efficacement et appliquer des contraintes pour une planification de projet optimale.
 activity: use
 feature: Work Management
@@ -13,18 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
+source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 7%
+source-wordcount: '701'
+ht-degree: 6%
 
 ---
 
 # Comprendre les calendriers du projet
 
-* La vidéo présente un aperçu de la planification et de la gestion de projets à l’aide de Workfront. Il explique comment les tâches parents regroupent plusieurs sous-tâches, qui sont affectées à des fonctions et ultérieurement à des utilisateurs possédant les compétences nécessaires. &#x200B; Les prédécesseurs indiquent les relations séquentielles entre les tâches, tandis que les tâches sans prédécesseurs peuvent être effectuées en parallèle. &#x200B; Le graphique Gantt offre une chronologie visuelle et la fonction Chemin critique met en évidence les tâches qui peuvent retarder le projet en cas de glissement. &#x200B;
-* La vidéo présente également différentes vues dans Workfront, telles que la vue standard pour la planification et la vue de statut pour la surveillance de la progression, qui inclut des indicateurs de progression, des commentaires, des documents, des problèmes, des approbations, le chemin critique et les jalons. L’activité récente peut être suivie pour afficher les mises à jour et les notes. &#x200B;
-* La planification peut être effectuée à partir d’une date de début ou d’achèvement, Workfront calculant les dates correspondantes en fonction de la durée des tâches et des prédécesseurs. &#x200B; La vidéo recommande de planifier à partir d’une date de début les dates d’achèvement critiques afin de laisser une certaine marge. &#x200B; Les contraintes de tâche, telles que « le plus tôt possible » et « le plus tard possible », sont également couvertes, montrant comment elles affectent la planification des tâches. &#x200B; Vous pouvez créer des vues personnalisées pour afficher les contraintes de tâche. &#x200B;
+Ce que vous apprendrez :
+
+* Obtenez un aperçu de la planification et de la gestion de projets à l’aide de Workfront. Découvrez comment les tâches parents regroupent plusieurs sous-tâches, qui sont affectées à des fonctions et ultérieurement à des utilisateurs disposant des compétences nécessaires. Les prédécesseurs indiquent les relations séquentielles entre les tâches, tandis que les tâches sans prédécesseurs peuvent être effectuées en parallèle. Le graphique Gantt offre une chronologie visuelle et la fonction Chemin critique met en évidence les tâches qui peuvent retarder le projet en cas de glissement.
+* Différentes vues dans Workfront, telles que la vue standard pour la planification et la vue de statut pour la surveillance de la progression, qui inclut des indicateurs de progression, des commentaires, des documents, des événements, des approbations, le chemin critique et les jalons. L’activité récente peut être suivie pour afficher les mises à jour et les notes.
+* La planification peut être effectuée à partir d’une date de début ou d’achèvement, Workfront calculant les dates correspondantes en fonction de la durée des tâches et des prédécesseurs. La vidéo recommande de planifier à partir d’une date de début les dates d’achèvement critiques afin de laisser une certaine marge. Les contraintes de tâche, telles que « le plus tôt possible » et « le plus tard possible », sont également couvertes, montrant comment elles affectent la planification des tâches. Vous pouvez créer des vues personnalisées pour afficher les contraintes de tâche.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
