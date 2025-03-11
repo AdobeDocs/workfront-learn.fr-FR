@@ -1,6 +1,6 @@
 ---
 title: Parcourir la page du projet
-description: Découvrez comment afficher les détails d’un projet, les informations qui apparaissent dans la liste des tâches, l’endroit où charger des documents et la façon de consulter l’historique des mises à jour dans  [!DNL  Workfront].
+description: Découvrez comment parcourir et gérer efficacement la page du projet Workfront à l’aide de fonctionnalités telles que l’en-tête du projet, la navigation dans le chemin de navigation, la liste des tâches, les mises à jour et les sections du document.
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg
@@ -13,23 +13,36 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
-workflow-type: ht
-source-wordcount: '504'
-ht-degree: 100%
+source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+workflow-type: tm+mt
+source-wordcount: '803'
+ht-degree: 55%
 
 ---
 
 # Parcourir la page du projet
 
-Dans cette vidéo, vous apprendrez :
+Cette vidéo présente un aperçu de la navigation et de la gestion de la page du projet dans Workfront. &#x200B; Les principales fonctionnalités sont les suivantes :
 
-* Affichage des détails du projet
-* Quelles informations s’affichent dans la liste des tâches
-* L’endroit où charger les documents
-* Consultation de l’historique des mises à jour
+* **En-tête de projet :** affiche des informations essentielles telles que le pourcentage d’achèvement, le gestionnaire de projet, la date d’achèvement prévue, le statut du projet et le statut. &#x200B; Le statut permet de suivre l’étape du projet et déclenche des notifications. &#x200B;
+* **Navigation dans le chemin de navigation :** affiche l’emplacement du projet dans le programme et le portefeuille de l’entreprise, avec des liens cliquables pour une navigation facile. &#x200B;
+* **Favoris et menu :** les favoris marquent le projet d’un signet pour un accès rapide, tandis que le menu offre des options telles que la modification des détails, la copie du projet et le recalcul des chronologies. &#x200B;
+* **Liste des tâches :** représente les étapes du plan de projet. &#x200B; Utilisez les filtres rapides pour localiser les tâches, la modification en ligne pour les modifications rapides et le panneau Résumé de la tâche pour obtenir des informations détaillées. &#x200B; Cliquez sur le nom d’une tâche pour ouvrir sa page dédiée. &#x200B;
+* **Panneau de gauche :** permet d’accéder à différentes sections du projet, comme des détails, des mises à jour et des documents. &#x200B; Le panneau peut être personnalisé par l’administrateur système. &#x200B;
+* **Section Mises à jour :** centralise la communication sur le projet, en permettant le balisage des utilisateurs, la réponse aux commentaires et l’affichage des mises à jour cumulées à partir de tâches, d’événements et de documents. &#x200B;
+* **Section Documents :** permet de charger et de gérer des fichiers et des épreuves liés au projet. &#x200B; Les documents joints aux tâches sont cumulés au niveau du projet pour un accès plus facile. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+
+## Principaux points à retenir
+
+* **Présentation de l’en-tête de projet :** accédez rapidement aux détails clés du projet, tels que le pourcentage achevé, le gestionnaire de projet, la date d’échéance, le statut et la condition. &#x200B; Le statut contrôle également les notifications et les étapes de workflow. &#x200B;
+* **Gestion des tâches :** utilisez la liste des tâches pour suivre les étapes du projet, appliquer des filtres rapides pour rechercher des tâches et apporter des modifications sur la ligne. &#x200B; Accédez aux informations détaillées sur la tâche via le panneau de résumé ou la page de tâche. &#x200B;
+* **Navigation dans le chemin de navigation :** parcourez la hiérarchie du projet au sein de l’organisation à l’aide de liens cliquables dans le chemin de navigation. &#x200B;
+* **Mises à jour centralisées :** toutes les mises à jour des tâches, des événements et des documents sont cumulées dans la section des mises à jour des projets, ce qui simplifie la communication et le suivi. &#x200B;
+* **Organisation du document :** chargez et gérez les fichiers et les BAT liés au projet dans la section Documents, en veillant à ce que les documents pertinents soient joints aux tâches pour une collaboration rationalisée. &#x200B;
+
 
 ## Principaux éléments de la page du projet
 
