@@ -1,6 +1,6 @@
 ---
 title: Rechercher des projets
-description: Découvrez comment trouver facilement et rapidement des projets.
+description: Simplifiez la gestion des projets avec des filtres, des outils de recherche, des listes récentes, des favoris, des projets épinglés et des rapports ou tableaux de bord personnalisés pour un accès rapide et organisé aux projets.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '47'
-ht-degree: 100%
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 21%
 
 ---
 
@@ -25,6 +25,15 @@ ht-degree: 100%
 Dans cette vidéo, vous découvrirez comment trouver rapidement et facilement des projets.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+
+## Principaux points à retenir
+
+**Filtres et options de recherche :** utilisez les filtres et les outils de recherche, y compris la recherche avancée, pour localiser rapidement des projets spécifiques en fonction de noms, de descriptions ou de champs de données personnalisés. &#x200B;
+**Liste Récents :** les projets récemment consultés apparaissent automatiquement dans la liste Récents, qui peut afficher jusqu’à 20 projets pour un accès rapide. &#x200B;
+**Favoris :** marquez les projets comme favoris en cliquant sur l’icône en forme d’étoile. &#x200B; Les favoris restent accessibles jusqu’à leur suppression manuelle, ce qui les rend idéaux pour les projets fréquemment consultés. &#x200B;
+**Épingler des projets :** épingler des projets pour les garder facilement accessibles. &#x200B; Les projets épinglés restent visibles jusqu’à ce que vous les désépingliez.
+**Rapports et tableaux de bord personnalisés :** créez des rapports et des tableaux de bord personnalisés pour organiser tous les projets pertinents et y accéder efficacement. &#x200B;
+
 
 ## Tutoriels recommandés sur cette rubrique
 
