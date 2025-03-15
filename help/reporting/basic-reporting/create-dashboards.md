@@ -11,10 +11,10 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 64%
+source-wordcount: '645'
+ht-degree: 61%
 
 ---
 
@@ -51,7 +51,7 @@ Créez ce rapport en effectuant une copie du rapport « Rechercher des notes �
 
 ### Réponse 1
 
-1. Exécutez le rapport que vous avez créé dans l’activité « Créer un rapport de note ».
+1. Exécutez le rapport que vous avez créé dans l&#39;activité « Créer un rapport de note ». Vous ne l&#39;avez pas encore créé ? Cliquez ici pour voir l’activité dans le tutoriel [Créer un rapport de tâche](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Cliquez sur **[!UICONTROL Actions de rapport]** et sélectionnez **[!UICONTROL Copier]**. [!DNL Workfront] crée un rapport nommé « Recherche de notes (Copie) ».
 1. Accédez à **[!UICONTROL Actions de rapport]** et sélectionnez **[!UICONTROL Modifier]**. Cliquez sur **[!UICONTROL Paramètres du rapport]** et remplacez le nom par « Rechercher des notes dans ce projet ».
 1. Cliquez sur [!UICONTROL Invites de rapport] et supprimez l’invite [!UICONTROL Projet] > [!UICONTROL Nom] de la liste.
