@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 12%
@@ -46,11 +46,11 @@ Vous pouvez en savoir plus en ligne avec l’article [Commencer avec le graphiqu
 
 ## Principaux points à retenir
 
-**Vue d’ensemble :** les graphiques Gantt offrent une vue d’ensemble complète des tâches, des projets et des portefeuilles, ce qui facilite la compréhension des relations et du partage des ressources entre les projets. &#x200B;
-**Suivi de la progression :** les indicateurs de statut de progression (vert, jaune, rouge et bleu clair) permettent de surveiller les délais des projets et des tâches, en indiquant les statuts ponctuel, à risque, en retard ou en retard. &#x200B;
-**Gestion des jalons :** les losanges et les lignes des jalons indiquent visuellement les dates d’achèvement clés, ce qui permet de suivre la progression des jalons dans les projets. &#x200B;
-**Informations sur les tâches antérieures :** les tâches antérieures spécifiques à un projet et interprojets peuvent être facilement vérifiées, afin de garantir la clarté et la gestion des dépendances. &#x200B;
-**Options de personnalisation :** les utilisateurs peuvent afficher les dates réelles, les dates prévues, les lignes de base, les affectations, etc., en adaptant la vue du graphique Gantt à leurs besoins spécifiques.
+* **Vue d’ensemble :** les graphiques Gantt offrent une vue d’ensemble complète des tâches, des projets et des portefeuilles, ce qui facilite la compréhension des relations et du partage des ressources entre les projets. &#x200B;
+* **Suivi de la progression :** les indicateurs de statut de progression (vert, jaune, rouge et bleu clair) permettent de surveiller les délais des projets et des tâches, en indiquant les statuts ponctuel, à risque, en retard ou en retard. &#x200B;
+* **Gestion des jalons :** les losanges et les lignes des jalons indiquent visuellement les dates d’achèvement clés, ce qui permet de suivre la progression des jalons dans les projets. &#x200B;
+* **Informations sur les tâches antérieures :** les tâches antérieures spécifiques à un projet et interprojets peuvent être facilement vérifiées, afin de garantir la clarté et la gestion des dépendances. &#x200B;
+* **Options de personnalisation :** les utilisateurs peuvent afficher les dates réelles, les dates prévues, les lignes de base, les affectations, etc., en adaptant la vue du graphique Gantt à leurs besoins spécifiques.
 
 
 ## Tutoriels recommandés sur cette rubrique

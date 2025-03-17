@@ -12,10 +12,10 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 6%
+source-wordcount: '357'
+ht-degree: 7%
 
 ---
 
@@ -24,22 +24,22 @@ ht-degree: 6%
 La vidéo explique comment partager efficacement des projets dans Workfront pour s’assurer que les parties prenantes et les collaborateurs disposent de la visibilité et de l’accès nécessaires. &#x200B; Workfront simplifie le partage en attribuant automatiquement les droits d’accès appropriés en fonction des rôles :
 
 **Partage automatique :**
-* Les créateurs de projets disposent de droits gérés pour afficher et modifier le projet, les tâches et les événements. &#x200B;
-* Les collaborateurs affectés à des tâches obtiennent des droits d&#39;affichage pour l&#39;ensemble du projet et des droits de contributeur pour leurs tâches. &#x200B;
-* Les sponsors du projet peuvent afficher le projet, tandis que les gestionnaires de ressources peuvent le gérer, mais ne peuvent pas le supprimer. &#x200B;
+* Les créateurs de projets disposent de droits gérés pour afficher et modifier le projet, les tâches et les événements.
+* Les collaborateurs affectés à des tâches obtiennent des droits d&#39;affichage pour l&#39;ensemble du projet et des droits de contributeur pour leurs tâches.
+* Les sponsors du projet peuvent afficher le projet, tandis que les gestionnaires de ressources peuvent le gérer, mais ne peuvent pas le supprimer.
 
 **Partage manuel :**
-* Les projets peuvent être partagés avec des individus, des équipes, des fonctions, des groupes ou des entreprises. &#x200B;
-* Les bonnes pratiques incluent la création d’équipes avec le partage en tête et l’utilisation de portfolios ou de programmes pour hériter des autorisations sur plusieurs projets. &#x200B;
+* Les projets peuvent être partagés avec des individus, des équipes, des fonctions, des groupes ou des entreprises.
+* Les bonnes pratiques incluent la création d’équipes avec le partage en tête et l’utilisation de portfolios ou de programmes pour hériter des autorisations sur plusieurs projets.
 
 **Partage en bloc et de modèles :**
 * La modification en bloc permet de partager des ajustements pour plusieurs projets. &#x200B;
 * Les paramètres de partage peuvent être préconfigurés dans les modèles de projet pour gagner du temps. &#x200B;
 
 **Valeurs système par défaut :**
-* Les administrateurs système ou les administrateurs de groupe peuvent modifier les paramètres de partage par défaut, par exemple en accordant des droits de contributeur aux membres de l’équipe affectés aux tâches. &#x200B;
+* Les administrateurs système ou les administrateurs de groupe peuvent modifier les paramètres de partage par défaut, par exemple en accordant des droits de contributeur aux membres de l’équipe affectés aux tâches.
 
-La vidéo met l’accent sur l’utilisation d’équipes et de modèles pour une gestion du partage efficace et souligne le rôle des administrateurs dans la personnalisation des préférences de partage. &#x200B;
+La vidéo met l’accent sur l’utilisation d’équipes et de modèles pour une gestion du partage efficace et souligne le rôle des administrateurs dans la personnalisation des préférences de partage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 

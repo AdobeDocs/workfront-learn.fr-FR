@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 11%
@@ -29,11 +29,11 @@ La vidéo explique comment suivre la progression du projet à l’aide des mesur
 
 ## Principaux points à retenir
 
-**Accès aux mesures du projet :** accédez à l’onglet Mesures dans le panneau de gauche de votre projet pour suivre la progression. &#x200B; Vous devrez peut-être faire défiler l’écran vers le bas et cliquer sur « Afficher plus » pour le localiser. &#x200B;
-**Indicateurs clés de performance (KPI) :** la zone des KPI affiche les tâches terminées, incomplètes et en retard. &#x200B; Cliquer sur les indicateurs permet d’afficher des tâches spécifiques. &#x200B;
-**Graphiques de tâches et de problèmes :** les graphiques regroupent les tâches ou les problèmes par statut ou priorité, en indiquant le rapport entre les tâches terminées et les tâches incomplètes. &#x200B; Le survol des colonnes révèle des quantités. &#x200B;
-**Mesures par personne désignée :** affichez les tâches par personne désignée en fonction de leur statut (terminé, incomplet, à venir ou en retard). &#x200B; Les préférences sont enregistrées pour les visites ultérieures. &#x200B;
-**Exportation des mesures :** exportez la page de mesures sous forme de fichier PNG en cliquant sur le bouton Exporter dans le coin supérieur droit de l’écran. &#x200B;
+* **Accès aux mesures du projet :** accédez à l’onglet Mesures dans le panneau de gauche de votre projet pour suivre la progression. &#x200B; Vous devrez peut-être faire défiler l’écran vers le bas et cliquer sur « Afficher plus » pour le localiser. &#x200B;
+* **Indicateurs clés de performance (KPI) :** la zone des KPI affiche les tâches terminées, incomplètes et en retard. &#x200B; Cliquer sur les indicateurs permet d’afficher des tâches spécifiques. &#x200B;
+* **Graphiques de tâches et de problèmes :** les graphiques regroupent les tâches ou les problèmes par statut ou priorité, en indiquant le rapport entre les tâches terminées et les tâches incomplètes. &#x200B; Le survol des colonnes révèle des quantités. &#x200B;
+* **Mesures par personne désignée :** affichez les tâches par personne désignée en fonction de leur statut (terminé, incomplet, à venir ou en retard). &#x200B; Les préférences sont enregistrées pour les visites ultérieures. &#x200B;
+* **Exportation des mesures :** exportez la page de mesures sous forme de fichier PNG en cliquant sur le bouton Exporter dans le coin supérieur droit de l’écran. &#x200B;
 
 
 

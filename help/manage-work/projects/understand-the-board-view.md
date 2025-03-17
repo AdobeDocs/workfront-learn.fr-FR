@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 10%
@@ -27,11 +27,11 @@ La vidéo explique la fonctionnalité d’affichage du tableau dans Workfront, q
 
 ## Principaux points à retenir
 
-**Vue d’ensemble du tableau :** la vue Tableau de Workfront offre une interface de style Kanban pour afficher et gérer les tâches de projet, fournissant une alternative à la vue traditionnelle de la liste des tâches. &#x200B;
-**Gestion des tâches :** les tâches peuvent être triées, regroupées et déplacées dans ou entre des colonnes, les mises à jour de statut étant appliquées automatiquement lorsque les tâches sont déplacées. &#x200B;
-**Création de tâche :** de nouvelles cartes peuvent être créées directement dans la vue Tableau, qui génère de nouvelles tâches dans le projet. &#x200B; Ces tâches peuvent être modifiées et affectées immédiatement. &#x200B;
-**Personnalisation :** les colonnes et les cartes de la vue Tableau peuvent être configurées pour répondre aux besoins du projet, ce qui améliore la flexibilité de l’organisation des tâches. &#x200B;
-**Intégration à la liste des tâches :** les modifications apportées à l’affichage du tableau, telles que les mises à jour de l’état des tâches ou la création de nouvelles tâches, sont répercutées dans l’affichage de la liste des tâches, assurant ainsi une intégration transparente entre les affichages. &#x200B;
+* **Vue d’ensemble du tableau :** la vue Tableau de Workfront offre une interface de style Kanban pour afficher et gérer les tâches de projet, fournissant une alternative à la vue traditionnelle de la liste des tâches. &#x200B;
+* **Gestion des tâches :** les tâches peuvent être triées, regroupées et déplacées dans ou entre des colonnes, les mises à jour de statut étant appliquées automatiquement lorsque les tâches sont déplacées. &#x200B;
+* **Création de tâche :** de nouvelles cartes peuvent être créées directement dans la vue Tableau, qui génère de nouvelles tâches dans le projet. &#x200B; Ces tâches peuvent être modifiées et affectées immédiatement. &#x200B;
+* **Personnalisation :** les colonnes et les cartes de la vue Tableau peuvent être configurées pour répondre aux besoins du projet, ce qui améliore la flexibilité de l’organisation des tâches. &#x200B;
+* **Intégration à la liste des tâches :** les modifications apportées à l’affichage du tableau, telles que les mises à jour de l’état des tâches ou la création de nouvelles tâches, sont répercutées dans l’affichage de la liste des tâches, assurant ainsi une intégration transparente entre les affichages. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique

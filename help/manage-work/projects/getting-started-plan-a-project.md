@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 12%
+source-wordcount: '273'
+ht-degree: 14%
 
 ---
 
 # Commencer avec la planification d’un projet
 
-* La vidéo fournit des conseils sur la planification efficace d’un projet dans Workfront. &#x200B; Il souligne l&#39;importance de jeter des bases solides pour que le projet se termine à temps et soit couronné de succès. &#x200B; Les étapes clés comprennent la compréhension de cinq champs essentiels : Tâches, Affectations, Durées, Heures prévues et Prédécesseurs. &#x200B; Ces champs permettent des ajustements rapides et précis du plan de projet. &#x200B;
-* Avant d’apporter des modifications, assurez-vous que le statut du projet est défini sur « Planification » afin d’éviter toute notification inutile à l’équipe. &#x200B; Utilisez la vue standard ou les vues personnalisées pour vous concentrer sur les informations essentielles. &#x200B; Définissez avec précision la date de début du projet, en vous assurant qu’elle est réaliste et correspond à la disponibilité de l’équipe.
-* La vidéo souligne l’importance de calendriers réalistes, de la disponibilité de l’équipe et d’une planification précise pour créer une base solide pour la réussite du projet. &#x200B;
+La vidéo fournit des conseils sur la planification efficace d’un projet dans Workfront. &#x200B; Il souligne l&#39;importance de jeter des bases solides pour que le projet se termine à temps et soit couronné de succès. &#x200B; Les étapes clés comprennent la compréhension de cinq champs essentiels : Tâches, Affectations, Durées, Heures prévues et Prédécesseurs. &#x200B; Ces champs permettent des ajustements rapides et précis du plan de projet. &#x200B;
+
+La vidéo souligne l’importance de calendriers réalistes, de la disponibilité de l’équipe et d’une planification précise pour créer une base solide pour la réussite du projet. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
