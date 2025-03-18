@@ -1,6 +1,6 @@
 ---
 title: Convertir un problème/une demande en projet
-description: Découvrez comment lancer la conversion de la demande en projet, sélectionner le modèle de projet approprié et terminer la conversion.
+description: Simplifiez la gestion de projets dans Workfront en convertissant les problèmes en projets avec des modèles, en personnalisant les détails des projets, en gérant les options de résolution de problèmes et en assurant la visibilité et l’accès à des workflows transparents.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -12,22 +12,26 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+workflow-type: tm+mt
+source-wordcount: '233'
+ht-degree: 14%
 
 ---
 
 # Convertir un problème/une demande en projet
 
-Dans cette vidéo, vous apprendrez à :
-
-* Initier la conversion de la demande en projet
-* Sélectionner le modèle de projet approprié
-* Réussir la conversion de la demande en projet
+La vidéo explique comment convertir un problème ou une demande en projet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
+
+## Principaux points à retenir
+
+* **Processus de conversion :** pour convertir un événement ou une demande en projet, sélectionnez l’événement, utilisez le menu à trois points et choisissez une option de conversion, de préférence à l’aide d’un modèle. &#x200B;
+* **Sélection de modèle :** l’utilisation d’un modèle est recommandée par souci de cohérence et de facilité. &#x200B; Vous pouvez vérifier et sélectionner le modèle approprié en fonction des exigences du projet. &#x200B;
+* **Détails du projet :** le nom et la description du projet sont copiés à partir du problème par défaut, mais peuvent être modifiés. &#x200B; Les formulaires personnalisés issus du problème sont également transférés au projet. &#x200B;
+* **Résolution du problème :** vous pouvez choisir de conserver le problème d’origine lié au projet, en l’empêchant d’être marqué comme résolu jusqu’à ce que le projet soit terminé. &#x200B; Vous pouvez également supprimer le problème lors de la conversion. &#x200B;
+* **Accès et visibilité :** vous pouvez accorder l’accès au projet au demandeur. &#x200B; Le projet converti est visible dans la colonne « converti en », indiquant s’il a été converti en tâche ou en projet. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique

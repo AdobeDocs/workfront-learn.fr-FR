@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 14%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 9%
 
 Cette vidéo explique comment rechercher et gérer des requêtes dans Workfront. &#x200B; Il couvre quatre domaines principaux :
 
-* **Accueil Workfront :** les utilisateurs comme Mary Smith, artiste de production, peuvent voir les demandes qui leur sont assignées. &#x200B; Joan Harris, qui fait souvent des demandes, peut trouver des demandes terminées en attente de son approbation. &#x200B;
-* **Zone de demande :** les utilisateurs et utilisatrices peuvent filtrer les demandes pour afficher celles qu’ils ou elles ont créées&#x200B; Le terme « mon » dans la zone de requête fait référence aux problèmes que j’ai créés, en tant qu’utilisateur connecté. &#x200B;
-* **Page Équipes :** les utilisateurs peuvent afficher les demandes d’équipe non affectées et s’affecter eux-mêmes ou affecter d’autres personnes. &#x200B; Ils peuvent également utiliser l’équilibreur de charge de travail pour gérer les affectations d’équipe en fonction des charges de travail actuelles. &#x200B;
-* **Rapports et tableaux de bord personnalisés :** les utilisateurs et les utilisatrices peuvent créer des rapports personnalisés pour suivre les demandes, avec un contrôle sur les noms, les filtres, les vues et les regroupements. &#x200B; Cela permet un suivi clair des requêtes par priorité, créateur, contact principal, personne désignée et statut. &#x200B;
+* Page d&#39;accueil Workfront
+* Zone de demande
+* Page Équipes &#x200B;
+* Rapports et tableaux de bord personnalisés
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
