@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
+source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2418'
 ht-degree: 98%
 
 ---
@@ -335,6 +335,7 @@ ht-degree: 98%
    + [Créer un espace de travail](/help/workfront-planning/create-a-workspace.md)
    + [Création et gestion d’un type d’enregistrement](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Créer et gérer des vues de tableau](/help/workfront-planning/create-and-manage-table-views.md)
+   + [Avantages de la planification Workfront pour les équipes de conception d’expérience utilisateur](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Intégrations {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
