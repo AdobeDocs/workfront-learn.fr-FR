@@ -1,6 +1,6 @@
 ---
 title: Comprendre les bases de la création de projets
-description: Découvrez comment créer, gérer et terminer des projets efficacement, gérer les problèmes inattendus et explorer les conseils adaptés aux débutants pour maîtriser les fonctionnalités essentielles de gestion de projet. ​
+description: Découvrez comment créer, gérer et terminer des projets efficacement, gérer les problèmes inattendus et explorer les conseils adaptés aux personnes qui débutent, afin de leur permettre de maîtriser les fonctionnalités essentielles de gestion de projet.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
