@@ -1,6 +1,6 @@
 ---
 title: Créer un processus d’approbation global et à usage unique
-description: Découvrez comment créer un processus d’approbation global et à usage unique pour un projet, une tâche ou un problème.
+description: Améliorez les workflows d’approbation en utilisant des processus d’approbation globaux et à usage unique pour les tâches, les projets ou les événements, en implémentant des approbations à plusieurs niveaux et par étapes et en promouvant l’efficacité par la réutilisation dans les modèles de projet.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 25%
 
 ---
 
 # Créer un processus d’approbation global et à usage unique
 
-Les processus d’approbation des projets, des tâches et des problèmes permettent au ou à la chef de projet d’obtenir la confirmation d’un expert ou d’une experte que le travail a été effectué correctement avant de continuer. La personne responsable du projet peut créer un processus d’approbation pour chaque situation (processus d’approbation à usage unique) ou choisir parmi une liste de processus d’approbation, qui peuvent être nombreux, créés antérieurement pour répondre à des besoins communs (processus d’approbation globaux ou existants).
-
-Dans les deux cas, lorsque le statut de l’objet passe à un statut spécifié dans le processus d’approbation, l’approbateur ou l’approbatrice est informé de diverses manières qu’il ou elle doit examiner le travail et l’approuver ou le rejeter. Étant donné que l’ensemble du projet peut être interrompu dans l’attente d’une approbation, les approbateurs ou les approbatrices doivent savoir à l’avance qu’ils ou elles peuvent être invités à donner leur approbation. Si un approbateur ou une approbatrice est absent(e) du bureau pour quelque raison que ce soit, il ou elle peut déléguer ses approbations à un remplaçant qualifié ou une remplaçante qualifiée. Voir [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md) pour plus de détails.
-
-Dans cette vidéo, vous apprendrez à créer un processus d’approbation globale et un processus d’approbation à usage unique sur un projet, une tâche ou un problème.
+La vidéo explique comment créer et gérer des processus d’approbation pour les projets, les tâches ou les événements, en faisant la distinction entre les processus d’approbation globaux et à usage unique.
+La vidéo présente la création de processus d’approbation, la définition des approbateurs, la configuration des statuts et l’utilisation d’étapes pour les approbations à plusieurs niveaux.
+&#x200B;Il souligne la flexibilité des processus globaux et à usage unique pour gérer efficacement les approbations de tâches.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## Principaux points à retenir
+
+* **Types de processus d’approbation :** il existe deux types de processus d’approbation : les processus d’approbation globaux (partagés entre les tâches, projets ou événements) et les processus d’approbation à usage unique (spécifiques à une seule tâche, un seul projet ou un seul événement).
+* **Processus d&#39;approbation globaux :** ils sont créés dans la section Configuration > Processus > Approbations et peuvent être déclenchés par des statuts spécifiques. &#x200B; Ils peuvent impliquer plusieurs approbateurs ou des approbations intermédiaires.
+* **Processus d’approbation à usage unique :** ils sont spécifiques à un objet et ne peuvent pas être partagés. &#x200B; Ils peuvent être créés à partir de zéro ou en modifiant un processus d’approbation global et en le convertissant.
+* **Approbations à plusieurs niveaux :** les processus d’approbation peuvent inclure plusieurs approbateurs simultanément ou par étapes, assurant des approbations séquentielles avant d’avertir l’approbateur suivant.
+* **Réutilisation :** les processus d’approbation à usage unique peuvent être copiés avec des tâches, des projets ou des événements, ou inclus dans des modèles de projet, ce qui permet une réplication facile entre les projets.
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ Dans cette vidéo, vous apprendrez à créer un processus d’approbation global
 >
 >Vous pouvez mettre en place une approbation à usage unique pour les projets et les problèmes de la même manière que celle décrite pour les tâches dans la vidéo.
 
-## Application d’approbations de problèmes automatiques dans une file d’attente de demandes
-
-Si vous souhaitez configurer des approbations de problèmes automatiques dans une file d’attente des demandes, celles-ci ne peuvent être effectuées qu’à l’aide d’un processus d’approbation global et sont appliquées dans une [!UICONTROL rubrique de file d’attente].
-
-Lors de la création ou de la modification d’une [!UICONTROL rubrique de file d’attente], sélectionnez le processus d’approbation globale dans le champ **[!UICONTROL Approbation par défaut]**.
-
-![Image montrant comment sélectionner un processus d’approbation par défaut dans une rubrique de file d’attente](assets/automatic-issue-approval-1.png)
-
-Vous devrez peut-être modifier le processus d’approbation des problèmes pour vous assurer que le **[!UICONTROL statut précédent]** n’est pas ce sur quoi le problème est défini lorsque l’approbation est rejetée. En effet, le statut précédent est **[!UICONTROL Nouveau]**, et il s’agit également du statut qui déclenche le processus d’approbation. Il s’agit donc de celui sur lequel il sera défini lors de l’approbation. Pour éviter toute confusion lorsque l’approbation du problème est refusée, il est préférable de définir le statut sur **[!UICONTROL Impossible de résoudre]** ou un statut personnalisé créé à cet effet.
-
-![Image montrant la modification du statut à utiliser lorsque le problème est rejeté](assets/automatic-issue-approval-2.png)
 
 
 ## Tutoriels recommandés sur cette rubrique
@@ -56,4 +52,5 @@ Vous devrez peut-être modifier le processus d’approbation des problèmes pour
 * [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Comprendre les processus d’approbation propres à chaque groupe](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Créer un flux de demandes](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Appliquer un processus d&#39;approbation des événements dans une file d&#39;attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

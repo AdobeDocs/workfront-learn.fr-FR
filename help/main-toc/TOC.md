@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '2418'
-ht-degree: 98%
+source-wordcount: '2427'
+ht-degree: 97%
 
 ---
 
@@ -156,6 +156,7 @@ ht-degree: 98%
 
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Créer un processus d’approbation global et à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Appliquer un processus d&#39;approbation des événements dans une file d&#39;attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Examiner et approuver les travaux numériques](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Appliquer des jalons](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
