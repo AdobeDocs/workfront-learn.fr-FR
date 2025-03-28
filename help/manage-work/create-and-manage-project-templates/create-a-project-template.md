@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 54%
@@ -35,11 +35,11 @@ Apprenez à créer un modèle de projet de zéro et à partir d’un projet exis
 
 ## Principaux points à retenir
 
-**Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions. &#x200B;
-**Organisation des tâches :** utilisez les relations parent-enfant pour organiser les tâches de manière efficace, en fournissant un résumé et une structure clairs pour le projet. &#x200B;
-**Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches. &#x200B;
-**Affectations basées sur les rôles :** affectez des tâches à des fonctions plutôt qu’à des utilisateurs individuels pour utiliser efficacement les fonctionnalités de planification et de planification des ressources. &#x200B;
-**Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour incorporer des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace. &#x200B;
+* **Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions. &#x200B;
+* **Organisation des tâches :** utilisez les relations parent-enfant pour organiser les tâches de manière efficace, en fournissant un résumé et une structure clairs pour le projet. &#x200B;
+* **Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches. &#x200B;
+* **Affectations basées sur les rôles :** affectez des tâches à des fonctions plutôt qu’à des utilisateurs individuels pour utiliser efficacement les fonctionnalités de planification et de planification des ressources. &#x200B;
+* **Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour incorporer des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace. &#x200B;
 
 
 ## Modèles créés avec les [!UICONTROL Blueprints]
