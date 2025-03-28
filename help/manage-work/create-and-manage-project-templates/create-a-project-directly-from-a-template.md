@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 20%
@@ -28,11 +28,11 @@ La vidéo explique comment créer un projet à partir d’un modèle. &#x200B; S
 
 ## Principaux points à retenir
 
-**Accès aux modèles :** vous avez besoin de droits pour ouvrir un modèle afin de créer un projet à partir de celui-ci. &#x200B;
-**Option de raccourci :** utiliser un modèle peut être un raccourci pratique par rapport à démarrer un projet à partir de zéro. &#x200B;
-**Menu à trois points :** ouvrez le modèle et sélectionnez « Créer un projet » dans le menu à trois points. &#x200B;
-**Modifier les détails du projet :** après avoir sélectionné « Créer un projet », vous pouvez modifier les détails du projet avant de le finaliser. &#x200B;
-**Finaliser la création :** cliquez sur « Créer un projet » lorsque vous êtes prêt à terminer le processus. &#x200B;
+* **Accès aux modèles :** vous avez besoin de droits pour ouvrir un modèle afin de créer un projet à partir de celui-ci. &#x200B;
+* **Option de raccourci :** utiliser un modèle peut être un raccourci pratique par rapport à démarrer un projet à partir de zéro. &#x200B;
+* **Menu à trois points :** ouvrez le modèle et sélectionnez « Créer un projet » dans le menu à trois points. &#x200B;
+* **Modifier les détails du projet :** après avoir sélectionné « Créer un projet », vous pouvez modifier les détails du projet avant de le finaliser. &#x200B;
+* **Finaliser la création :** cliquez sur « Créer un projet » lorsque vous êtes prêt à terminer le processus. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique

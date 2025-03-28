@@ -1,6 +1,6 @@
 ---
 title: Copier un projet existant
-description: Découvrez comment créer une copie d’un projet existant.
+description: Dupliquez facilement des projets à l’aide de l’option « Copier » dans le menu à trois points, en renommant et en définissant le statut sur « Planification », en copiant des données et des formulaires personnalisés, et en transférant les événements séparément via l’onglet Événements pour une configuration de projet personnalisée.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,29 +8,35 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+doc-type: video
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+workflow-type: tm+mt
+source-wordcount: '318'
+ht-degree: 9%
 
 ---
 
 # Copier un projet existant
 
-Parfois, au lieu d’utiliser un modèle pour créer un projet, vous avez simplement besoin de copier un projet pour une autre utilisation ponctuelle. Pour ce faire, vous devez disposer d’une licence standard, avec l’accès Modifier et Créer aux projets.
+La vidéo explique comment copier un projet au lieu d’utiliser un modèle. &#x200B; Pour copier un projet, ouvrez le projet souhaité, cliquez sur le menu à trois points en regard du nom du projet, puis sélectionnez « Copier » &#x200B; Dans la fenêtre Copier le projet , vous pouvez renommer le projet et modifier son statut, généralement sous la forme « Planification » afin d’éviter d’envoyer des notifications aux utilisateurs affectés. &#x200B; Vous pouvez choisir de copier les affectations, la progression, les données personnalisées, etc. &#x200B;
+Pour finaliser, cliquez sur « Copier le projet » &#x200B;
+Les événements ne peuvent pas être copiés directement pendant ce processus car ils ne sont pas considérés comme du travail prévu. &#x200B; Pour copier des événements, accédez à l’onglet Événements, sélectionnez les événements souhaités, puis utilisez l’option « Copier dans » pour les transférer vers le nouveau projet. &#x200B;
 
-Accédez au projet que vous souhaitez copier et cliquez sur le menu à 3 points situé à côté du nom du projet. Sélectionnez ensuite Copier.
 
-![Option de menu « Copier le projet »](assets/copy-existing-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
 
-La fenêtre Copier le projet vous permet de modifier le titre et le statut, ainsi que d’effacer diverses données associées au projet, telles que des affectations, des documents et des données personnalisées.
+## Principaux points à retenir
 
-![Options de copie de projet](assets/copy-existing-02.png)
+* **Copie d’un projet :** ouvrez le projet, cliquez sur le menu à trois points en regard du nom du projet, puis sélectionnez « Copier » pour le dupliquer. &#x200B;
+* **Ajustement des paramètres du projet :** renommez le projet et redéfinissez son statut sur « Planification » pour éviter d’envoyer des notifications aux utilisateurs affectés.
+* **Copie sélective :** vous pouvez choisir de copier les affectations, la progression ou les données personnalisées. &#x200B; La désélection de ces options permet d’effectuer une personnalisation dans le nouveau projet.
+* **Gestion des données personnalisées :** si les données personnalisées sont désélectionnées, les formulaires sont copiés sans leurs données. &#x200B; Laissez la case cochée pour copier à la fois les formulaires et leurs données. &#x200B;
+* **Copier les événements séparément :** les événements ne sont pas copiés pendant le processus de duplication du projet. &#x200B; Pour les copier, accédez à l’onglet Événements, sélectionnez les événements souhaités, puis utilisez l’option « Copier dans » pour les transférer vers le nouveau projet. &#x200B;
 
-Le fait de sélectionner Effacer les affectations ou de définir le statut sur Planification empêche le projet copié d’envoyer des notifications d’affectation de tâches juste après la copie.
 
 ## Tutoriels recommandés sur cette rubrique
 
