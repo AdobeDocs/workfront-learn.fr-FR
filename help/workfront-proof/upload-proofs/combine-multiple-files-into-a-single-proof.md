@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
+source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: '453'
+ht-degree: 92%
 
 ---
 
@@ -30,12 +30,13 @@ La solution consiste à demander à une seule personne de charger tous les PDF 
 Pour combiner les BAT :
 
 1. Ouvrez la section [!UICONTROL Documents] du projet, de la tâche ou du problème auquel le BAT doit être joint.
-2. Glissez-déposez les fichiers dans la zone de chargement ou naviguez jusqu’à eux. [!DNL Workfront] permet de combiner jusqu’à 50 fichiers.
-3. Activez l’option pour [!UICONTROL Combiner tous les fichiers compatibles en un seul BAT].
-4. Saisissez un nom pour le BAT combiné. Ce champ est obligatoire.
-5. Si vous le souhaitez, vous pouvez modifier l’ordre dans lequel les fichiers seront combinés en effectuant un glisser-déposer dans la liste de chargement.
-6. Ajoutez les destinataires des BAT, fixez une date limite, etc.
-7. Cliquez sur [!UICONTROL Créer un BAT] pour terminer le chargement.
+1. Cliquez sur **Ajouter > Épreuve**.
+1. Glissez-déposez les fichiers dans la zone de chargement ou naviguez jusqu’à eux. [!DNL Workfront] permet de combiner jusqu’à 50 fichiers.
+1. Sous **Épreuve unique**, activez l’option Combiner tous les fichiers compatibles en une seule épreuve.
+1. Saisissez un nom pour le BAT combiné. Ce champ est obligatoire.
+1. Si vous le souhaitez, vous pouvez modifier l’ordre dans lequel les fichiers seront combinés en effectuant un glisser-déposer dans la liste de chargement.
+1. Ajoutez les destinataires des BAT, fixez une date limite, etc.
+1. Cliquez sur [!UICONTROL Créer un BAT] pour terminer le chargement.
 
 ![Une image de la fenêtre [!UICONTROL Nouveau BAT] avec la liste des fichiers chargés et les sections [!UICONTROL BAT unique] en surbrillance.](assets/combine-proofs.png)
 
@@ -59,7 +60,7 @@ Nous sommes désolés, mais il n’est pas possible de combiner des fichiers lor
 >N’oubliez pas de rappeler à vos collègues que vous leur envoyez un BAT dans le cadre de votre formation Workfront.
 
 
-Trouvez trois ou quatre fichiers (PDF, fichier texte, etc.) sur votre ordinateur.
+Recherchez trois ou quatre fichiers (PDF, fichier texte, etc.) sur votre ordinateur.
 
 1. Ouvrez un projet, une tâche ou un problème que vous utilisez pour votre entraînement dans Workfront.
 1. Chargez les fichiers, en les combinant dans un seul BAT.
