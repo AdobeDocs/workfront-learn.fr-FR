@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '464'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -43,7 +43,7 @@ Pour créer une mise en forme conditionnelle :
    * Texte de remplacement
    * Afficher une icône
 
-## Activités « Ajouter une mise en forme conditionnelle de base à une vue »
+## Activités Ajouter une mise en forme conditionnelle de base à une vue
 
 ### Activité 1 : ajouter une mise en forme conditionnelle à une vue
 

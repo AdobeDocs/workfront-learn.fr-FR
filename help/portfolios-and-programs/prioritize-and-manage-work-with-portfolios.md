@@ -15,7 +15,7 @@ exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ La vidéo souligne l’importance de remplir des dossiers commerciaux pour des c
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points clés à retenir
 
 * **Dossiers commerciaux complets pour des comparaisons équitables :** assurez-vous que tous les projets ont terminé et envoyé des dossiers commerciaux avant de les comparer dans l’outil d’optimisation de Portfolio afin d’éviter les données manquantes et les évaluations inexactes. &#x200B;
 * **Filtrer les projets par statut :** utilisez des filtres pour vous concentrer sur les statuts spécifiques des projets (par exemple, demandé, approuvé, actuel) afin de rationaliser les comparaisons et la prise de décision. &#x200B;

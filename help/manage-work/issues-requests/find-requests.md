@@ -16,13 +16,13 @@ exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 14%
+ht-degree: 83%
 
 ---
 
 # Rechercher et gérer des demandes
 
-Cette vidéo explique comment rechercher et gérer des requêtes dans Workfront. &#x200B; Il couvre quatre domaines principaux :
+Cette vidéo explique comment rechercher et gérer des demandes dans Workfront. Elle couvre quatre domaines principaux :
 
 * Page d&#39;accueil Workfront
 * Zone de demande
@@ -32,13 +32,13 @@ Cette vidéo explique comment rechercher et gérer des requêtes dans Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points clés à retenir
 
-* **Recherche de demandes dans la page d’accueil de Workfront :** les utilisateurs peuvent afficher les demandes qui leur sont affectées ou celles qui sont en attente de leur approbation, selon leur rôle. &#x200B;
-* **Utilisation de filtres dans la zone de requête :** des filtres tels que « mes requêtes » et « mes requêtes ouvertes » permettent aux utilisateurs et aux utilisatrices de voir les requêtes qu’ils ou elles ont créées. &#x200B;
-* **Gestion des demandes sur la page Équipes :** les utilisateurs peuvent afficher les demandes d’équipe non affectées et les affecter à eux-mêmes ou à d’autres personnes à l’aide de l’équilibreur de charge de travail pour gérer les affectations des membres de l’équipe en fonction de leur charge de travail actuelle. &#x200B;
-* **Rapports et tableaux de bord personnalisés :** les utilisateurs et les utilisatrices peuvent créer des rapports personnalisés pour suivre les demandes. Cela permet d’personnaliser les noms, les filtres, les vues et les regroupements, ce qui permet de gérer et de classer les demandes de manière efficace. &#x200B;
-* **Comprendre « Mon » dans les filtres :** le terme « mon » dans l’Accueil fait référence aux problèmes qui me sont affectés. Le terme « mon » dans la zone de demande fait référence aux problèmes que j’ai demandés. &#x200B;
+* **Recherche de demandes dans la page d’accueil de Workfront :** les personnes peuvent afficher les demandes qui leur sont affectées ou celles qui sont en attente de leur approbation, selon leur rôle.
+* **Utilisation de filtres dans la zone de demandes :** des filtres tels que « mes demandes » et « mes demandes ouvertes » permettent aux utilisateurs et aux utilisatrices de voir les demandes qu’ils ou elles ont créées.
+* **Gestion des demandes sur la page Équipes :** les personnes peuvent afficher les demandes d’équipe non affectées et les affecter à elles-mêmes ou à d’autres personnes à l’aide de l’équilibreur de charge de travail pour gérer les affectations des membres de l’équipe en fonction de leur charge de travail actuelle.
+* **Rapports et tableaux de bord personnalisés :** les utilisateurs et les utilisatrices peuvent créer des rapports personnalisés pour suivre les demandes. Cela permet de personnaliser les noms, les filtres, les vues et les regroupements, afin de gérer et de classer les demandes de manière efficace.
+* **Comprendre « mon/ma/mes » dans les filtres :** le terme « mon/ma/mes » dans l’Accueil fait référence aux problèmes qui me sont affectés. Le terme « mon/ma/mes » dans la zone de demandes fait référence aux problèmes que j’ai demandés.
 
 
 ## Tutoriels recommandés sur cette rubrique
