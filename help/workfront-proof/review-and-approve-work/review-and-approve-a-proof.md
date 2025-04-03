@@ -12,9 +12,9 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '727'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ Une fois que vous pouvez commencer votre vérification, il vous suffit de clique
 
 ### Ouvrir un BAT à partir de l’[!UICONTROL Accueil]
 
-Si vous travaillez dans [!DNL Workfront] et qu’on vous a demandé d’approuver une épreuve, vous trouverez une affectation dans le widget [!UICONTROL Mes approbations] de [!DNL Workfront] [!UICONTROL Accueil].
+Si vous utilisez [!DNL Workfront] et qu’il vous a été demandé d’approuver une épreuve, vous aurez une affectation dans le widget [!UICONTROL Mes approbations] de l’[!UICONTROL Accueil] [!DNL Workfront].
 
-![Image du widget [!UICONTROL Mes approbations] dans [!DNL Workfront] [!UICONTROL Accueil].](assets/open-proof-from-home.png)
+![Image du widget [!UICONTROL Mes approbations] de l’[!UICONTROL Accueil] [!DNL Workfront].](assets/open-proof-from-home.png)
 
-Notez que les BAT apparaissent dans l’[!UICONTROL Accueil] de [!DNL Workfront] uniquement si vous êtes responsable de leur approbation. Si vous venez d’être invité à examiner uniquement l’épreuve, elle n’apparaîtra pas dans [!DNL Workfront] [!UICONTROL Accueil].
+Notez que les épreuves apparaissent dans l’[!UICONTROL Accueil] de [!DNL Workfront] uniquement si vous êtes responsable de leur approbation. Si vous devez réviser uniquement l’épreuve, elle n’apparaîtra pas dans l’[!UICONTROL Accueil] [!DNL Workfront].
 
-Cliquez sur le lien [!UICONTROL Accéder à l’épreuve] pour l’ouvrir dans la visionneuse de relecture.
+Cliquez sur le lien [!UICONTROL Accéder à l’épreuve] pour ouvrir la visionneuse de relecture.
 
 Selon les workflows de votre organisation en matière de BAT et de projets, il se peut que vous voyiez une affectation de tâche sur l’[!UICONTROL Accueil] de [!DNL Workfront] au lieu d’une demande d’approbation de BAT. Dans ce cas, ouvrez le BAT à partir de la section [!UICONTROL Documents] de la tâche elle-même (reportez-vous ci-dessous pour les instructions).
 
