@@ -1,6 +1,6 @@
 ---
 title: Comprendre les taux de facturation multiples
-description: Découvrez comment remplacer les taux de facturation système dans un projet.
+description: Personnalisez et gérez les taux de facturation des fonctions au niveau du projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,49 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 100%
+source-wordcount: '173'
+ht-degree: 10%
 
 ---
 
+
 # Comprendre les taux de facturation multiples
 
-Dans [!DNL Workfront], un ou une chef de projet a la possibilité de modifier les taux de facturation du système dans le cadre d’un projet spécifique. Auparavant, lorsque le nouveau taux de facturation était appliqué au projet, il affectait non seulement les heures futures, mais également les heures déjà enregistrées du projet.
+La vidéo explique comment gérer et personnaliser les taux de facturation des fonctions au sein d’un projet. &#x200B;Il met l’accent sur la flexibilité permettant de définir plusieurs taux de facturation pour la même fonction et d’assurer des ajustements précis basés sur l’heure. &#x200B;
 
-Grâce à la nouvelle fonctionnalité de taux de facturation multiple de [!DNL Workfront], le ou la chef de projet peut décider de la période pendant laquelle un taux de facturation doit être appliqué. Ainsi, si un taux a été négocié ou modifié, le ou la chef de projet peut déterminer quand ce taux doit prendre effet.
 
-## Modifier le taux de facturation
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
 
-1. Accédez à la page de destination du projet. Sélectionnez **[!UICONTROL Taux de facturation]** dans le panneau de gauche.
+## Points clés à retenir
 
-   ![Image de sélection du [!UICONTROL Taux de facturation] dans [!DNL Workfront]](assets/project-finances-1.png)
 
-1. Dans l’onglet **[!UICONTROL Taux de facturation]**, cliquez sur le bouton **[!UICONTROL Ajouter un taux de facturation]**. Sélectionnez **[!UICONTROL Nouveau taux de facturation]** dans la liste déroulante.
+* **Taux de facturation par défaut :** l’administrateur système définit un taux de facturation par défaut pour chaque fonction, mais il peut être personnalisé pour des projets individuels. &#x200B;
+* **Flexibilité des taux de facturation :** vous pouvez créer plusieurs taux de facturation pour la même fonction au sein d’un projet, ce qui permet des ajustements personnalisés. &#x200B;
+* **Taux spécifiques à la période :** les taux de facturation peuvent être définis pour des périodes spécifiques en ajoutant des dates de début et de fin, afin de garantir une application précise des taux pendant les différentes phases du projet. &#x200B;
+* **Personnalisation facile :** les modifications apportées aux taux de facturation sont simples : sélectionnez la fonction, saisissez le nouveau taux et enregistrez les mises à jour directement depuis l’onglet « Taux de facturation ». &#x200B;
 
-   ![Image de sélection du [!UICONTROL Nouveau taux de facturation] dans [!DNL Workfront]](assets/project-finances-2.png).
+## Tutoriels recommandés sur cette rubrique
 
-1. La boîte de dialogue [!UICONTROL Nouveau taux de facturation] apparaît. Dans la liste déroulante **[!UICONTROL Fonction]**, sélectionnez la fonction pour laquelle le nouveau taux de facturation sera appliqué.
+* [Rechercher des informations financières](/help/manage-work/project-finances/find-financial-information.md)
+* [Mettre à jour les finances](/help/manage-work/project-finances/update-and-review-finances.md)
+&lt;!—* [Comprendre les taux de facturation multiples](/help/manage-work/project-finances/multiple-billing-rates.md)—>
 
-   ![Image de sélection des fonctions avec un nouveau taux de facturation dans [!DNL Workfront]](assets/project-finances-3.png)
-
-1. Une fois la fonction sélectionnée, le champ [!UICONTROL Taux de facturation par défaut] et [!UICONTROL Taux de facturation 1] apparaît. Saisissez le nouveau taux de facturation dans le champ [!UICONTROL Taux de facturation 1]. Si ce taux de facturation s’applique à l’ensemble du projet (heures passées, présentes et futures enregistrées), cliquez sur le bouton **[!UICONTROL Enregistrer]**.
-
-   ![Image d’enregistrement d’un nouveau taux de facturation applicable à l’ensemble du projet dans [!DNL Workfront]](assets/project-finances-5.png)
-
-1. Si le nouveau taux de facturation ne s’applique que pendant une certaine période, cliquez sur le bouton **[!UICONTROL Ajouter taux]**. Les champs [!UICONTROL Date de fin du taux de facturation 1] et [!UICONTROL Taux de facturation 2] apparaissent. Saisissez la date de fin pour le [!UICONTROL Taux de facturation 1]. Vous ne pouvez pas saisir de date de début pour le [!UICONTROL Taux de facturation 1], car le système suppose qu’il a démarré au début du projet.
-
-   ![Image de création d’un nouveau taux de facturation s’appliquant à une certaine période, à partir du début du projet dans [!DNL Workfront]](assets/project-finances-6.png).
-
-1. Si ce n’est pas le cas :
-
-   * Saisissez le taux de facturation par défaut pour le [!UICONTROL Taux de facturation 1].
-   * Sélectionnez la Date de fin pour le [!UICONTROL Taux de facturation 1] ([!UICONTROL Taux de facturation par défaut]).
-   * La date de début pour le [!UICONTROL Taux de facturation 2] est automatiquement définie sur le jour suivant la fin du [!UICONTROL Taux de facturation 1].
-   * Saisissez le taux de facturation souhaité dans la section [!UICONTROL Taux de facturation 2].
-   * Continuez à ajouter des taux de facturation si nécessaire, en cliquant sur le bouton **[!UICONTROL Ajouter taux]**.
-   * Lorsque vous avez terminé, cliquez sur **[!UICONTROL Enregistrer]**.
-   * Tous les taux de facturation s’affichent dans l’onglet [!UICONTROL Taux de facturation] du projet.
-
-   ![Image de création de nouveaux taux de facturation qui s’appliquent aux différentes périodes dans [!DNL Workfront]](assets/project-finances-7.png).
