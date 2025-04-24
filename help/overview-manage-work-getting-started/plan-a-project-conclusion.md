@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-10152
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
@@ -28,7 +28,7 @@ L’utilisation d’un modèle de projet permet à vos projets [!DNL  Workfront]
 
 Une fois que tout est prêt, faites passer le statut du projet à « En cours » pour le mettre en ligne. Au fur et à mesure que le projet avancera, vous voudrez garder une trace du travail qui est accompli, des problèmes qui surgissent, des questions qui ont besoin de réponses, etc. Rappelez-vous juste que... vous pouvez trouver et gérer toutes ces informations dans [!DNL Workfront] !
 
-<!---
+<!--
 footer urls for the LP
 Plan a project 
 Edit projects
@@ -39,4 +39,4 @@ Task duration and duration types
 Use task predecessors 
 Modify multiple user assignments in a task list
 Notifications: Information about work assigned to me 
---->
+-->

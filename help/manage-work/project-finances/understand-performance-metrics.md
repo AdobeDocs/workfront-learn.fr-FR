@@ -1,6 +1,6 @@
 ---
 title: Comprendre les mesures de performances
-description: 'Découvrez comment utiliser les mesures de performances : [!UICONTROL Méthode d’index de performance] ([!UICONTROL PIM]) et [!UICONTROL Estimation à l’achèvement] ([!UICONTROL EAC]).'
+description: Découvrez des mesures de performance financière adaptables avec des méthodes de calcul flexibles, des valeurs par défaut globales et des remplacements au niveau du projet, ce qui permet aux administrateurs et aux chefs de projet d’adapter efficacement les mesures financières aux besoins du projet.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,56 +10,47 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 100%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
 # Comprendre les mesures de performances
 
-Deux mesures de performances utilisées par les personnes chargées de la gestion de projet sont la [!UICONTROL Méthode d’index de performance] ([!UICONTROL PIM]) et l’[!UICONTROL Estimation à l’achèvement] ([!UICONTROL EAC]). Les valeurs par défaut du système peuvent être définies dans [!DNL Workfront] et s’appliquent aux projets nouvellement créés. La mesure [!UICONTROL PIM] peut ensuite être modifiée sur des projets individuels.
+La vidéo présente les mesures et paramètres de performance financière pour la gestion de projet. &#x200B; Les points clés sont les suivants :
 
-**[!UICONTROL MIP]**
+**Présentation des mesures de performance :** des mesures telles que l’indice de performance des coûts, l’indice de performance des prévisions, l’indice de performance des prévisions de coûts et l’achèvement estimé sont disponibles dans l’onglet Détails du projet et dans la section Finances. &#x200B; La documentation relative aux calculs est accessible via les liens de la bulle d’informations.
 
-Les paramètres de la mesure [!UICONTROL PIM] contrôlent comment [!DNL Workfront] calcule d’autres mesures de performances de projet, telles que les mesures [!UICONTROL Indice de performance des coûts] ([!UICONTROL CPI]), [!UICONTROL Indice de performance de la planification des coûts] ([!UICONTROL CSI]), [!UICONTROL Planification de l’index de performance] ([!UICONTROL SPI]), et [!UICONTROL Estimation à l’achèvement] ([!UICONTROL EAC]).
+**Méthode d&#39;indice de performance (PIM) :** le gestionnaire de projet peut sélectionner la méthode de calcul de l&#39;indice de performance des coûts (ICP) et de l&#39;estimation à l&#39;achèvement (CRE), basée sur les heures (achèvement en heures) ou basée sur les coûts (achèvement en argent). &#x200B; Les administrateurs système peuvent définir la méthode par défaut globalement, mais les chefs de projet peuvent l’ajuster pour des projets individuels. &#x200B;
 
-Les options pour la mesure [!UICONTROL PIM] sont Basé sur les heures et Basé sur les coûts.
+**Calcul de l’estimation à l’achèvement (EAC) :** administrateurs et administratrices système peuvent définir globalement la méthode de calcul par défaut, avec deux options :
+* **Cumul à partir des tâches/sous-tâches :** ajoute les valeurs d’estimation à l’achèvement des tâches enfants, mais exclut les heures ajoutées directement aux tâches parents ou au niveau du projet. &#x200B;
+* **Calculé au niveau du projet :** inclut les valeurs d’estimation à l’achèvement des tâches enfants et les heures ajoutées directement aux tâches parents ou au niveau du projet. Il s’agit de la valeur par défaut recommandée. &#x200B;
 
-* **Basé sur les heures** : Workfront utilise le nombre d’heures prévues pour calculer le CPI et l’EAC du projet. L’EAC du projet s’affiche sous la forme d’un nombre, en heures.
-* **Basé sur les coûts** : Workfront utilise le coût prévu de la main-d’œuvre pour calculer le CPI et l’EAC du projet. L’EAC apparaît comme une valeur monétaire. Lorsque vous utilisez cette option, assurez-vous que les personnes désignées pour les tâches (utilisateurs et utilisatrices et/ou fonctions) sont associées aux taux de coût.
+La vidéo souligne la flexibilité et le contrôle mis à la disposition des administrateurs système et des chefs de projet dans la gestion des mesures et des calculs de performance. &#x200B;
 
-**[!UICONTROL CRE]**
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
 
-L’[!UICONTROL EAC] représente le coût total prévu de votre tâche ou de votre projet lorsqu’il sera achevé. Les options sont calculées au niveau du projet et cumulées à partir des tâches/sous-tâches.
+## Points clés à retenir
 
-* **Calculer au niveau du projet** : l’[!UICONTROL EAC] pour la tâche parent et le projet est déterminé à l’aide des heures réelles/du coût réel de la main-d’œuvre dans les formules de l’[!UICONTROL EAC]. Le calcul inclut les heures effectives/les coûts et les dépenses ajoutées directement à la tâche ou au projet parent.
-* **Cumuler à partir des tâches/sous-tâches** : l’[!UICONTROL EAC] pour la tâche parent et le projet est déterminé en additionnant l’[!UICONTROL EAC] pour chaque tâche enfant. Ce calcul exclut les heures effectives/les coûts ajoutés directement à une tâche ou à un projet parent.
 
-Les calculs de l’[!UICONTROL EAC] sont répertoriés dans la section [Calculer l’estimation à l’achèvement (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=fr).
+* **Accès aux mesures de performance :** les mesures clés telles que l’indice de performance des coûts (ICP), l’indice de performance des calendriers (IHP) et l’estimation à l’achèvement (EAC) se trouvent sous l’onglet Détails du projet dans la section Finances. La documentation est disponible via les liens de la bulle d’informations. &#x200B;
+* **Méthode d’indice de performance** les chefs de projet peuvent choisir entre des méthodes de calcul des mesures basées sur les heures ou sur les coûts, tandis que les administrateurs et administratrices système peuvent définir une valeur par défaut globale.
+* **Options de calcul Estimation à l&#39;achèvement :** Deux méthodes sont disponibles :
+   * Cumul à partir de tâches/sous-tâches (exclut les heures ajoutées directement aux tâches parents ou au niveau du projet). &#x200B;
+   * Calculé au niveau du projet (inclut les heures ajoutées directement aux tâches parents ou au niveau du projet). Cette dernière est recommandée. &#x200B;
+* **Paramètres globaux ou paramètres au niveau du projet :** les administrateurs système peuvent définir des valeurs par défaut globales pour la méthode d’indice de performance et les calculs d’estimation à l’achèvement, mais les chefs de projet peuvent remplacer le paramètre de méthode d’indice de performance pour des projets individuels. &#x200B;
+* **Flexibilité dans la gestion des mesures :** le système fournit des outils permettant aux administrateurs et aux chefs de projet de personnaliser et de gérer efficacement les mesures de performances, tout en s’adaptant aux besoins spécifiques du projet.
 
-**Mesures de performances : paramètres**
+## Tutoriels recommandés sur cette rubrique
 
-Pour définir les valeurs par défaut du système de la [!UICONTROL PIM] et de l’[!UICONTROL EAC] :
-
-1. Sélectionnez **[!UICONTROL Configuration]** dans le menu principal.
-1. Cliquez sur **[!UICONTROL Préférences du projet]** dans le menu du panneau de gauche, puis cliquez sur **[!UICONTROL Projets]**.
-1. Dans la section [!UICONTROL Statut du projet], recherchez [!UICONTROL Méthode d’index de performance]. Sélectionnez Basé sur les heures ou Basé sur les coûts.
-1. Pour [!UICONTROL Estimation à l’achèvement], sélectionnez Calculer au niveau du projet ou Cumuler à partir des tâches/sous-tâches.
-1. Cliquez sur **[!UICONTROL Enregistrer]** au bas de la fenêtre.
-
-![Image de l’écran [!UICONTROL Préférences du projet]](assets/setting-up-finances-1.png)
-
-**Définir la [!UICONTROL PIM] sur des projets individuels**
-
-1. Accédez à la page de destination d’un projet.
-1. Cliquez sur **[!UICONTROL Détails du projet]** dans le panneau de gauche.
-1. Ouvrez la section **[!UICONTROL Finance]**.
-1. Double-cliquez sur le texte sous **[!UICONTROL Méthode d’index de performance]** pour le modifier.
-1. Sélectionnez Basé sur les heures ou Basé sur les coûts.
-1. Cliquez sur **[!UICONTROL Enregistrer]** les modifications pour terminer.
-
-![Image de l’écran [!UICONTROL Détails du projet]](assets/setting-up-finances-2.png)
-
-La [!UICONTROL PIM] peut être définie sur un modèle de projet, dans la section [!UICONTROL Finance] des détails du modèle.
+<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
+* [Configurer des valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configurer les taux de change](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Configurer les types de dépenses](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Comprendre l’accès financier](/help/manage-work/project-finances/understand-financial-access.md)

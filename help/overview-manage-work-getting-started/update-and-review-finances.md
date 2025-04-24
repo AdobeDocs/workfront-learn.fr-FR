@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: 6be2fc928ec02513ff27189d590dd1f09298bb27
+exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 92%
@@ -19,7 +20,7 @@ ht-degree: 92%
 
 # Mettre à jour et réviser les finances
 
-Si votre entreprise utilise [!DNL Workfront] pour suivre les informations financières liées au projet, l’examen des dépenses et la création de dossiers de facturation peuvent faire partie de votre processus de clôture d’un projet.
+Si votre entreprise utilise [!DNL Workfront] pour suivre les informations financières liées au projet, l’examen des dépenses et la création d’enregistrements de facturation peuvent faire partie de votre processus de clôture d’un projet.
 
 >[!NOTE]
 >
@@ -44,11 +45,11 @@ Un coup d’œil sur les informations relatives aux [!UICONTROL Finances] dans [
 
 ![Section Finances de la fenêtre [!UICONTROL Détails du projet] d’un projet ](assets/finance-section-project-details.png)
 
-La plupart des informations financières contenues dans les [!UICONTROL Détails du projet] sont définies lors de la création du projet, et les chiffres que vous voyez ici sont basés sur ces informations. Alors que vous fermez un projet, il n&#39;y a vraiment rien que vous ayez besoin de mettre à jour ou d&#39;ajouter dans les détails financiers.
+La plupart des informations financières contenues dans les [!UICONTROL Détails du projet] sont définies lors de la création du projet, et les chiffres que vous voyez ici sont basés sur ces informations. Ainsi, lorsque vous fermez un projet, il n&#39;y a vraiment rien que vous devez mettre à jour ou ajouter dans les détails financiers.
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->

@@ -12,7 +12,7 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -33,8 +33,8 @@ Dans cette vidéo, vous apprendrez à :
 >Comme indiqué dans la vidéo, il est important que les personnes changent le statut de **[!UICONTROL Nouveau]** à **[!UICONTROL En cours]** lorsqu’elles commencent une tâche afin que la [!UICONTROL Date de début effectif] soit correcte. Mais si elles oublient de le faire lorsqu’elles démarrent la tâche, elles peuvent à tout moment revenir en arrière et modifier la [!UICONTROL date de début effectif].
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->

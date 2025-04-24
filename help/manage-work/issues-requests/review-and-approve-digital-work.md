@@ -12,10 +12,10 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -33,7 +33,7 @@ La vidéo met l’accent sur la flexibilité dans la révision et l’approbatio
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points clés à retenir
 
 * **Gestion centralisée de la validation :** tous les éléments en attente de validation sont accessibles dans le widget « En attente de ma validation » de la zone d’Accueil. &#x200B;
 * **Options de révision flexibles :** vous pouvez approuver ou rejeter directement à partir de la zone d’Accueil ou cliquer sur le nom de l’élément pour consulter les détails avant de prendre une décision. &#x200B;
@@ -52,11 +52,11 @@ La vidéo met l’accent sur la flexibilité dans la révision et l’approbatio
 * [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
-<!---
+<!--
 learn more URLS
 Approving work
 Home area for Reviewers
 Guides
 Home overview for Reviewers
 Issue page overview
---->
+-->

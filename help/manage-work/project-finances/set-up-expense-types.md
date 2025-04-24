@@ -10,46 +10,33 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 28%
 
 ---
 
 # Configurer les types de dépenses
 
-Les dépenses dans [!DNL Workfront] représentent les coûts non liés à la main d’œuvre associés aux projets et autres tâches. Il peut s’agir, par exemple, de frais de déplacement pour rendre visite à un client ou une cliente ou de l’achat de fournitures nécessaires à la réalisation d’une séance photo. Ces dépenses doivent être consignées dans le projet, de sorte que les coûts prévus et les coûts réels puissent être calculés et signalés pour n’importe quel projet.
+La vidéo explique comment gérer les types de dépenses dans Workfront, en se concentrant sur leur création, leur utilisation et leur suppression.
 
-[!DNL Workfront] dispose de types de dépenses préconfigurés qui peuvent être utilisés lors de la saisie des dépenses. Les valeurs par défaut ne peuvent être ni supprimées ni modifiées, mais de nouvelles valeurs peuvent être ajoutées.
 
-* Publicité
-* Conseils
-* Loisirs
-* Général
-* Matériaux
-* Impression
-* Expédition
-* Voyage
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-Un administrateur ou une administratrice système peut ajouter les types de dépenses nécessaires à son organisation. Ces types de dépenses supplémentaires peuvent être modifiés, masqués ou supprimés afin de prendre en charge les rapports financiers nécessaires à votre organisation.
+## Points clés à retenir
 
-Les chefs de projet, les cadres et d’autres personnes peuvent générer des rapports de dépenses en regroupant les dépenses individuelles par type, si nécessaire, pour des tâches, des projets, des programmes ou des portefeuilles dans [!DNL Workfront]. Les données financières du projet deviennent beaucoup plus gérables à l’aide des types de dépenses.
+* **Types de dépense préconfigurés :** Workfront inclut des types de dépense préconfigurés qui ne peuvent pas être supprimés, masqués ou modifiés, ce qui garantit leur cohérence dans l’ensemble du système.
+* **Types de dépense personnalisés :** les administrateurs système peuvent créer leurs propres types de dépense, qui sont modifiables, supprimables et à l’échelle du système. Il peut s’agir d’unités calculées, telles que les taux par kilométrage.
+* **Création de dépense :** lors de la création d’une dépense, les utilisateurs sélectionnent un type de dépense et saisissent des détails (par exemple, le kilométrage). Le système calcule alors automatiquement le montant prévu en fonction du taux défini.
+* **Suppression de types de dépense :** les types de dépense personnalisés ne peuvent être supprimés qu’après avoir été remplacés dans toutes les instances où ils sont utilisés. Un rapport peut être généré pour identifier ces instances.
 
-## Créer un type de dépense
+## Tutoriels recommandés sur cette rubrique
 
-**Sélectionnez [!UICONTROL Configuration] dans le menu principal.**
-
-1. Cliquez sur **[!UICONTROL Types de dépenses]** dans le menu du panneau de gauche.
-1. Cliquez sur le bouton **[!UICONTROL Nouveau type de dépense]**.
-1. Nommez le type de dépense.
-1. Ajoutez une description, si nécessaire.
-1. Cliquez sur le bouton **[!UICONTROL Enregistrer]**.
-
-![Image de la création d’un [!UICONTROL type de dépense]](assets/setting-up-finances-6.png)
-
-## Utiliser les types de dépenses
-
-Les options de dépenses apparaissent dans le menu déroulant **[!UICONTROL Type de dépense]** lorsque les utilisateurs et les utilisatrices créent une dépense sur un projet ou une tâche dans [!DNL Workfront].
-
-![Image de l’ajout d’une nouvelle dépense](assets/setting-up-finances-7.png)
+* [Comprendre les mesures de performances](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurer des valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configurer les taux de change](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Comprendre l’accès financier](/help/manage-work/project-finances/understand-financial-access.md)

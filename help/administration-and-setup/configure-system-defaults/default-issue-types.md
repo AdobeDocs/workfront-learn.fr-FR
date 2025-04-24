@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 Étant donné que chaque type de problème suit différents types d’informations, chaque type peut nécessiter des workflows uniques afin d’être résolu. Personnalisez les statuts de chaque type de problème pour qu’ils correspondent au workflow de ce type de problème.
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## Statuts par défaut
 
@@ -42,9 +42,9 @@ Six autres statuts communs à la gestion des problèmes sont fournis avec [!DNL
 * Achèvement vérifié
 * Impossible de résoudre
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 Le statut d’un problème peut être consulté et modifié dans les [!UICONTROL Détails du problème]. Vous pouvez également modifier le statut d’un problème dans l’en-tête de la page de problème, tout à droite.
@@ -55,9 +55,9 @@ Vous pouvez ajouter la colonne [!UICONTROL Statut] à une vue ou à un rapport p
 
 ![[!UICONTROL Colonne Statut] dans une [!UICONTROL Vue]](assets/admin-fund-issue-status-view.png).
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 Examinons les principes de base du statut pour les problèmes :
 

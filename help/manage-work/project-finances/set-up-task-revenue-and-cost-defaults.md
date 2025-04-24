@@ -1,6 +1,6 @@
 ---
 title: Configurer des valeurs par défaut des revenus et des coûts d’une tâche
-description: Découvrez la façon dont le type de revenu et le type de coût sont utilisés pour calculer les informations financières prévues et réelles d’une tâche.
+description: Découvrez où le type de revenus et les types de coûts sont utilisés et comment configurer les valeurs par défaut du système.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 16%
 
 ---
 
+
 # Configurer des valeurs par défaut des revenus et des coûts d’une tâche
 
-Le type de revenu et le type de coût servent à calculer les informations financières prévues et réelles d’une tâche. Les informations par défaut pour chacune de ces catégories peuvent être définies à l’échelle du système, de sorte qu’elles s’appliquent à chaque nouvelle tâche créée. Les informations peuvent être modifiées sur des projets individuels ou définies sur des modèles de projet.
+Découvrez où le type de revenus et les types de coûts sont utilisés et comment configurer les valeurs par défaut du système.
 
-**Cinq types de revenus par défaut sont disponibles :**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* Non facturable
-* Utilisateur, par heure
-* Rôle par heure
-* Fixe par heure
-* Revenus fixes
+## Points clés à retenir
 
-**Quatre types de coûts par défaut sont également disponibles :**
+* **Affichage des données de coûts et de revenus :** informations sur les coûts et les revenus des tâches sont accessibles en ouvrant la tâche, en sélectionnant les informations relatives à la tâche et en faisant défiler l’écran jusqu’à la section Finances. &#x200B;
+* **Définition de valeurs par défaut pour les tâches :** les administrateurs système peuvent définir les types de coûts et de revenus par défaut pour les chefs de projet en accédant à « Configuration > Préférences du projet > Tâches et événements » &#x200B;
+* **Valeur par défaut du type de revenu commun :** « Rôle par heure » est une valeur par défaut typique pour le type de revenu, ce qui permet d’enregistrer le temps consigné comme pouvant être facturé si l’utilisateur a une fonction avec un taux de revenu. &#x200B;
+* **Impact des paramètres de revenus :** si le type de revenus est défini sur « Non facturable », aucun revenu ne sera enregistré pour la tâche. &#x200B;
+* **Type de coût commun par défaut :** « Utilisateur par heure » est souvent utilisé comme type de coût par défaut, en extrayant les données de coût directement du profil de l’utilisateur pour un suivi efficace. &#x200B;
 
-* Aucun coût
-* Fixe par heure
-* Utilisateur, par heure
-* Rôle par heure
 
->[!NOTE]
->
->Lorsque les types de revenus ou de coûts sont définis sur Non facturable ou Pas de coût, les estimations de revenus et de coûts ne sont pas générées pour la tâche. Par conséquent, le travail sur la tâche ne participe pas aux revenus ou aux coûts du projet.
+## Tutoriels recommandés sur cette rubrique
 
-## Définir les valeurs par défaut des revenus et des coûts
-
-Sélectionnez **[!UICONTROL Configuration]** dans le menu principal.
-
-1. Cliquez sur **[!UICONTROL Préférences du projet]** dans le menu du panneau de gauche.
-1. Cliquez ensuite sur **[!UICONTROL Tâches et problèmes]**.
-1. Dans la section [!UICONTROL Nouvelle tâche par défaut], sélectionnez le [!UICONTROL Type de revenu] et le [!UICONTROL Type de coût] souhaités.
-1. Lorsque vous avez terminé, cliquez sur Enregistrer.
-
-![Une image de configuration des valeurs par défaut des revenus et des coûts](assets/setting-up-finances-3.png)
+* [Comprendre les mesures de performances](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurer les taux de change](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Configurer les types de dépenses](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Comprendre l’accès financier](/help/manage-work/project-finances/understand-financial-access.md)

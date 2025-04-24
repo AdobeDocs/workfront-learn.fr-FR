@@ -11,8 +11,8 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -34,6 +34,6 @@ Certaines options relatives à la consignation de la durée dépendent de la man
 * Vous risquez peut-être de ne pas pouvoir consigner la durée les jours suivants.
 * Il se peut que vous deviez sélectionner un type d’heure dans le menu déroulant afin de préciser davantage la façon dont vous avez utilisé votre temps. Ce type d’heure peut également indiquer si votre temps était facturable ou non facturable. Veillez à sélectionner le type d’heure avant de saisir la durée en cliquant sur le bouton [!UICONTROL Consigner la durée].
 
-<!---
+<!--
 learn more URLs
---->
+-->

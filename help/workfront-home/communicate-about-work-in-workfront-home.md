@@ -11,8 +11,8 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -34,14 +34,14 @@ Dans cette vidéo, vous apprendrez à :
 * « Taguez» les autres utilisateurs et utilisatrices de [!UICONTROL Workfront] avec le @name pour vous assurer qu’ils ou elles sont au courant de la mise à jour. C’est la meilleure façon de s’assurer que des personnes spécifiques voient les informations les plus récentes. Vous pouvez « taguer » des utilisateurs ou utilisatrices individuel(le)s ou une équipe dans une mise à jour.
 * Rappelez-vous que l&#39;équivalent du fameux e-mail « répondre à tous » est lorsque vous taguez une équipe ou un groupe et que vous continuez à répondre dans le fil de discussion. Faites attention à cela pour éviter de subir des désagréments. Vous pouvez diriger la balise au-dessus ou au-dessous, tout en restant dans le contexte de l’objet.
 
-<!---
+<!--
 paragraph below needs a hyperlink to an article
---->
+-->
 
 * Si aucune tâche ne vous a été affectée, mais que vous souhaitez recevoir des notifications, abonnez-vous à la tâche. Pour en savoir plus, consulter l’article S’abonner aux éléments de [!UICONTROL Workfront] dans la nouvelle expérience [!UICONTROL Workfront].
 * Publiez les mises à jour un jour spécifique de la semaine afin que tout le monde sache quand chercher les informations les plus récentes.
 * Utilisez les outils de texte enrichi pour formater vos mises à jour. Faites en sorte que les informations apparaissent en gras ou créez un résumé facile à lire avec des puces.
 
-<!---
+<!--
 learn more URLs
---->
+-->
