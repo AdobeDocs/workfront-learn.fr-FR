@@ -16,7 +16,7 @@ exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 75%
+ht-degree: 76%
 
 ---
 
@@ -37,7 +37,7 @@ Dans cette vidéo, vous apprendrez :
 
 ## Découvrez comment créer une vue personnalisée pour afficher et modifier le statut actif des modèles de projet.
 
-Pour créer une vue de modèle de projet avec une colonne de statut actif, voir l’activité **Vue de statut actif du modèle de projet** activité dans [Créer une vue de base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
+Pour créer une vue de modèle de projet avec une colonne de statut actif, voir l’activité **Vue de statut actif du modèle de projet** activité dans [Créer une vue de base](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutoriels recommandés sur cette rubrique
 
