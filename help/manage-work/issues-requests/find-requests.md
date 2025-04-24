@@ -1,6 +1,6 @@
 ---
 title: Rechercher et gérer des demandes
-description: Découvrez comment utiliser des filtres, gérer les affectations d’équipe, créer des rapports et des tableaux de bord personnalisés et clarifier la signification de « mon » dans différents contextes pour une gestion des demandes efficace.
+description: Découvrez comment utiliser les filtres, gérer les affectations d’équipe, créer des rapports et des tableaux de bord personnalisés, ou encore clarifier la signification de « mon/ma/mes » dans différents contextes pour une gestion efficace des demandes.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -14,9 +14,9 @@ doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 83%
 Cette vidéo explique comment rechercher et gérer des demandes dans Workfront. Elle couvre quatre domaines principaux :
 
 * Page d&#39;accueil Workfront
-* Zone de demande
-* Page Équipes &#x200B;
+* Zone de demandes
+* Page Équipes
 * Rapports et tableaux de bord personnalisés
 
 
@@ -45,7 +45,7 @@ Cette vidéo explique comment rechercher et gérer des demandes dans Workfront. 
 
 * [Comprendre les files d’attente de demandes](/help/manage-work/request-queues/understand-request-queues.md)
 * [Effectuer une demande](/help/manage-work/issues-requests/make-a-request.md)
-* [Mettre à jour une requête](/help/manage-work/issues-requests/update-a-request.md)
+* [Mettre à jour une demande](/help/manage-work/issues-requests/update-a-request.md)
 * [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problème/une requête en une tâche.](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 

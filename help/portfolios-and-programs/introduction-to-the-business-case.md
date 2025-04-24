@@ -1,6 +1,6 @@
 ---
 title: Comprendre l’[!UICONTROL analyse de rentabilité]
-description: Préparez des dossiers commerciaux complets dans Workfront pour classer les projets par priorité en incluant des informations détaillées sur les projets, les dépenses, la main-d’œuvre et l’analyse des risques, des cartes de performance et des formulaires personnalisés pour une gestion de portefeuille éclairée.
+description: Préparez des analyses de rentabilité complètes dans Workfront pour classer les projets par priorité en incluant des informations détaillées sur les projets, les dépenses, l’analyse de la main-d’œuvre et des risques, des cartes de score et des formulaires personnalisés pour une gestion de portefeuille éclairée.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,28 +13,28 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 # Comprendre l’[!UICONTROL analyse de rentabilité]
 
-La vidéo explique l’importance d’une analyse de rentabilité dans la gestion de projet. Il souligne que le fait de remplir l&#39;analyse de rentabilisation aide les gestionnaires à analyser et à prioriser les projets en concurrence pour les mêmes ressources. &#x200B; Une fois terminé, l’envoi de l’analyse de rentabilité modifie le statut du projet en « Demandé » et calcule son score global à des fins de comparaison dans l’outil d’optimisation de Portfolio. &#x200B; Bien qu’aucun des champs ne soit obligatoire, des informations plus détaillées améliorent la prise de décision. &#x200B;
+La vidéo explique l’importance d’une analyse de rentabilité dans la gestion de projets. Elle souligne que bien remplir l’analyse de rentabilité permet aux responsables d’analyser et de hiérarchiser les projets en concurrence pour les mêmes ressources. Une fois remplie, l’envoi de l’analyse de rentabilité modifie le statut du projet en « Demandé » et calcule son score global à des fins de comparaison dans l’outil Optimisation du portfolio. Bien qu’aucun des champs ne soit obligatoire, des informations plus détaillées améliorent la prise de décisions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points clés à retenir
 
-La vidéo présente les sections clés de l’analyse de rentabilité, notamment :
+La vidéo présente les sections principales de l’analyse de rentabilité, notamment :
 
-* **Informations sur le projet :** informations générales telles que le sponsor du projet et le bénéfice prévu, qui estime le gain financier potentiel de l’achèvement du projet. &#x200B;
-* **Dépenses :** coûts non liés à la main-d’œuvre, tels que les déplacements ou la location de kiosques, qui ont une incidence sur le coût budgété et la valeur nette. &#x200B;
-* **Établissement du budget de ressources :** estimations de main-d’œuvre extraites du planificateur de ressources, ce qui nécessite la configuration de pools de ressources dans Workfront. &#x200B;
-* **Risques :** l’identification des risques, l’estimation de leur coût et de leur probabilité, et le calcul de leur impact sur la valeur nette. &#x200B;
-* **Cartes de performance :** outils permettant d’évaluer dans quelle mesure un projet s’aligne sur les objectifs du portefeuille, en utilisant des questions et des valeurs prédéfinies par les administrateurs système. &#x200B;
-* **Custom Forms :** formulaires facultatifs adaptés à l’analyse de rentabilité. &#x200B;
+* **Informations sur le projet :** informations générales telles que le sponsor du projet et le bénéfice prévu, qui estime le gain financier potentiel de l’achèvement du projet.
+* **Dépenses :** coûts non liés à la main-d’œuvre, tels que les frais de déplacement ou la location de stands, qui ont une incidence sur le coût budgété et la valeur nette.
+* **Établissement du budget de ressources :** estimations de main-d’œuvre extraites du Planificateur de ressources, nécessitant la configuration de groupes de ressources dans Workfront.
+* **Risques :** l’identification des risques, l’estimation de leur coût et de leur probabilité, et le calcul de leur impact sur la valeur nette.
+* **Cartes de score :** outils permettant d’évaluer dans quelle mesure un projet s’aligne sur les objectifs du portfolio, utilisant des questions et des valeurs définies par les administrateurs et administratrices système.
+* **Formulaires personnalisés :** formulaires facultatifs adaptés à l’analyse de rentabilité.
 
 
 ## Tutoriels recommandés sur cette rubrique

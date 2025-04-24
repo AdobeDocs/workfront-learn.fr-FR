@@ -1,6 +1,6 @@
 ---
 title: Créer des tableaux de bord
-description: Organisez et affichez les données de projet avec les tableaux de bord Workfront, qui peuvent être personnalisés, facilement accessibles, partagés et imprimés pour une gestion de projet et une collaboration transparentes.
+description: Organisez et affichez les données de projet avec les tableaux de bord Workfront, qui peuvent être personnalisés, facilement accessibles, partagés et imprimés pour une gestion de projets et une collaboration transparentes.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,26 +12,26 @@ jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # Créer des tableaux de bord
 
 La vidéo fournit un guide complet sur la compréhension et l’utilisation des tableaux de bord dans Workfront.
-&#x200B;Il explique qu’un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées en un seul endroit.
+Elle explique qu’un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées en un seul endroit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Points clés à retenir
 
-* **Tableaux de bord dans Workfront :** un tableau de bord est un ensemble de rapports qui permet aux utilisateurs d’organiser et d’afficher les données associées, telles que les projets, les tâches et les événements, dans une vue centralisée. &#x200B;
-* **Création de tableaux de bord :** les tableaux de bord peuvent être personnalisés en sélectionnant une disposition, en ajoutant des rapports, des calendriers personnalisés ou des pages externes et en les organisant pour un affichage optimal. &#x200B; Les utilisateurs peuvent également personnaliser les colonnes qui apparaissent dans les rapports côte à côte dans le tableau de bord. &#x200B;
-* **Accès aux tableaux de bord :** tableaux de bord se trouvent sous « Mes tableaux de bord », « Tableaux de bord partagés » ou « Tous les tableaux de bord » dans la zone Tableaux de bord. &#x200B; Les tableaux de bord fréquemment utilisés peuvent être épinglés ou ajoutés aux favoris pour un accès rapide. &#x200B;
-* **Partage de tableaux de bord :** les tableaux de bord peuvent être partagés avec d’autres utilisateurs de Workfront, y compris tous les rapports figurant dans le tableau de bord, via le menu « Actions du tableau de bord ». &#x200B;
-* **Impression des tableaux de bord :** les tableaux de bord peuvent être imprimés directement à partir du menu « Actions du tableau de bord », ce qui facilite le partage de copies physiques des données. &#x200B;
+* **Tableaux de bord dans Workfront :** un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées, telles que les projets, les tâches et les problèmes, dans une vue centralisée.
+* **Création de tableaux de bord :** les tableaux de bord peuvent être personnalisés en sélectionnant une disposition, en ajoutant des rapports, des calendriers personnalisés ou des pages externes et en les organisant pour un affichage optimal. Les utilisateurs et utilisatrices peuvent également personnaliser les colonnes qui apparaissent dans les rapports côte à côte dans le tableau de bord.
+* **Accès aux tableaux de bord :** les tableaux de bord se trouvent sous « Mes tableaux de bord », « Tableaux de bord partagés » ou « Tous les tableaux de bord » dans la zone Tableaux de bord. Les tableaux de bord fréquemment utilisés peuvent être épinglés ou ajoutés aux favoris pour un accès rapide.
+* **Partage de tableaux de bord :** les tableaux de bord peuvent être partagés avec d’autres utilisateurs et utilisatrices de Workfront, y compris tous les rapports figurant dans le tableau de bord, via le menu « Actions du tableau de bord ».
+* **Impression des tableaux de bord :** les tableaux de bord peuvent être imprimés directement à partir du menu « Actions du tableau de bord », ce qui facilite le partage de copies physiques des données.
 
 
 ## Activités Créer un tableau de bord
@@ -49,7 +49,7 @@ Créez ce rapport en effectuant une copie du rapport « Rechercher des notes �
 
 ### Réponse 1
 
-1. Exécutez le rapport que vous avez créé dans l&#39;activité « Créer un rapport de note ». Vous ne l&#39;avez pas encore créé ? Cliquez ici pour voir l’activité dans le tutoriel [Créer un rapport de tâche](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Exécutez le rapport que vous avez créé dans l’activité « Créer un rapport de note ». Vous ne l’avez pas encore créé ? Cliquez ici pour voir l’activité dans le tutoriel [Créer un rapport de tâche](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Cliquez sur **[!UICONTROL Actions de rapport]** et sélectionnez **[!UICONTROL Copier]**. [!DNL Workfront] crée un rapport nommé « Recherche de notes (Copie) ».
 1. Accédez à **[!UICONTROL Actions de rapport]** et sélectionnez **[!UICONTROL Modifier]**. Cliquez sur **[!UICONTROL Paramètres du rapport]** et remplacez le nom par « Rechercher des notes dans ce projet ».
 1. Cliquez sur [!UICONTROL Invites de rapport] et supprimez l’invite [!UICONTROL Projet] > [!UICONTROL Nom] de la liste.

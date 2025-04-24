@@ -11,9 +11,9 @@ thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ La solution consiste à demander à une seule personne de charger tous les PDF 
 Pour combiner les BAT :
 
 1. Ouvrez la section [!UICONTROL Documents] du projet, de la tâche ou du problème auquel le BAT doit être joint.
-1. Cliquez sur **Ajouter > Épreuve**.
+1. Cliquez sur **Ajouter > Épreuve**.
 1. Glissez-déposez les fichiers dans la zone de chargement ou naviguez jusqu’à eux. [!DNL Workfront] permet de combiner jusqu’à 50 fichiers.
-1. Sous **Épreuve unique**, activez l’option Combiner tous les fichiers compatibles en une seule épreuve.
+1. Sous **Épreuve unique**, activez l’option pour Combiner tous les fichiers compatibles en une seule épreuve.
 1. Saisissez un nom pour le BAT combiné. Ce champ est obligatoire.
 1. Si vous le souhaitez, vous pouvez modifier l’ordre dans lequel les fichiers seront combinés en effectuant un glisser-déposer dans la liste de chargement.
 1. Ajoutez les destinataires des BAT, fixez une date limite, etc.

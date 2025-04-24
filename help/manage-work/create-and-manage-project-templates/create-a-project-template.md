@@ -1,5 +1,5 @@
 ---
-title: Créer un modèle de projet et en savoir plus sur les [!UICONTROL plans directeurs]
+title: Créer un modèle de projet et découvrir les [!UICONTROL plans directeurs]
 description: Apprenez à créer un modèle de projet de zéro et à partir d’un projet existant, et comprenez comment les [!UICONTROL Blueprints] peuvent vous donner accès à une multitude de modèles de projets utiles créés par les expertes et les experts de Workfront.
 activity: use
 feature: Work Management
@@ -14,9 +14,9 @@ jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
@@ -27,19 +27,19 @@ Apprenez à créer un modèle de projet de zéro et à partir d’un projet exis
 
 ## Créer un modèle de projet
 
-* La vidéo fournit un guide détaillé sur la création et l’utilisation de modèles pour la production vidéo marketing. Il commence par expliquer comment créer un nouveau modèle à partir de zéro, lui donner un nom et l’enregistrer. &#x200B; Le processus comprend trois étapes principales : créer des tâches, configurer la chronologie à l’aide de durées et de prédécesseurs, et effectuer des affectations à des fonctions plutôt qu’à des utilisateurs individuels. &#x200B; La vidéo met l’accent sur l’organisation des tâches à l’aide des relations parent-enfant pour une meilleure synthèse et efficacité. &#x200B;
-* Une fois le modèle créé, il peut être utilisé pour produire de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. &#x200B; Il montre également comment affecter des fonctions à des tâches à l&#39;aide des fonctionnalités de planification et de planification des ressources. &#x200B;
-* La vidéo explique comment enregistrer un projet existant en tant que nouveau modèle, ce qui permet de mettre à jour et d’améliorer le workflow. &#x200B; Il souligne l’importance de la gestion des modèles pour éviter toute confusion et garantir une exécution de projet rationalisée. &#x200B;
+* La vidéo fournit un guide détaillé sur la création et l’utilisation de modèles pour la production de vidéos marketing. Elle commence par expliquer comment créer un modèle à partir de zéro, lui donner un nom et l’enregistrer. Le processus comprend trois étapes principales : créer des tâches, configurer la chronologie à l’aide de durées et de prédécesseurs, et effectuer des affectations à des fonctions plutôt qu’à des personnes individuelles. La vidéo souligne l’organisation des tâches à l’aide des relations parent-enfant pour une meilleure synthèse et efficacité.
+* Une fois le modèle créé, il peut être utilisé pour générer de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. Elle montre également comment affecter des fonctions à des tâches à l’aide des fonctionnalités de planification et de planification des ressources.
+* La vidéo explique comment enregistrer un projet existant en tant que nouveau modèle, ce qui permet de mettre à jour et d’améliorer le workflow. Elle souligne l’importance de la gestion des modèles pour éviter toute confusion et garantir une exécution de projet rationalisée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## Principaux points à retenir
+## Points clés à retenir
 
-* **Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions. &#x200B;
-* **Organisation des tâches :** utilisez les relations parent-enfant pour organiser les tâches de manière efficace, en fournissant un résumé et une structure clairs pour le projet. &#x200B;
-* **Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches. &#x200B;
-* **Affectations basées sur les rôles :** affectez des tâches à des fonctions plutôt qu’à des utilisateurs individuels pour utiliser efficacement les fonctionnalités de planification et de planification des ressources. &#x200B;
-* **Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour incorporer des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace. &#x200B;
+* **Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions.
+* **Organisation des tâches :** utilisez les relations parent-enfant pour organiser efficacement les tâches, en fournissant un résumé et une structure clairs pour le projet.
+* **Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches.
+* **Affectations basées sur les fonctions :** affectez des tâches à des fonctions plutôt qu’à des personnes pour utiliser efficacement les fonctionnalités de planification et de planification des ressources.
+* **Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour apporter des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace.
 
 
 ## Modèles créés avec les [!UICONTROL Blueprints]
