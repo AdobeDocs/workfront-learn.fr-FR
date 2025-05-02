@@ -14,9 +14,9 @@ last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
@@ -29,14 +29,14 @@ La vidéo explique comment gérer les types de dépenses dans Workfront, en se c
 
 ## Points clés à retenir
 
-* **Types de dépense préconfigurés :** Workfront inclut des types de dépense préconfigurés qui ne peuvent pas être supprimés, masqués ou modifiés, ce qui garantit leur cohérence dans l’ensemble du système.
-* **Types de dépense personnalisés :** les administrateurs système peuvent créer leurs propres types de dépense, qui sont modifiables, supprimables et à l’échelle du système. Il peut s’agir d’unités calculées, telles que les taux par kilométrage.
-* **Création de dépense :** lors de la création d’une dépense, les utilisateurs sélectionnent un type de dépense et saisissent des détails (par exemple, le kilométrage). Le système calcule alors automatiquement le montant prévu en fonction du taux défini.
-* **Suppression de types de dépense :** les types de dépense personnalisés ne peuvent être supprimés qu’après avoir été remplacés dans toutes les instances où ils sont utilisés. Un rapport peut être généré pour identifier ces instances.
+* **Types de dépenses préconfigurés :** Workfront inclut des types de dépenses préconfigurés qui ne peuvent pas être supprimés, masqués ou modifiés, ce qui garantit leur cohérence dans l’ensemble du système.
+* **Types de dépenses personnalisés :** les administrateurs et administratrices système peuvent créer leurs propres types de dépenses, qui sont modifiables, supprimables et à l’échelle du système. Il peut s’agir d’unités calculées, telles que les taux d’indemnités kilométriques.
+* **Création de dépense :** lors de la création d’une dépense, les personnes sélectionnent un type de dépense et saisissent des détails (par exemple, le kilométrage). Le système calcule alors automatiquement le montant prévu en fonction du taux défini.
+* **Suppression des types de dépenses :** les types de dépenses personnalisés ne peuvent être supprimés qu’après avoir été remplacés dans toutes les instances où ils sont utilisés. Un rapport peut être généré pour identifier ces instances.
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Comprendre les mesures de performances](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [Configurer des valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Comprendre les mesures de performance](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurer les valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [Configurer les taux de change](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Comprendre l’accès financier](/help/manage-work/project-finances/understand-financial-access.md)

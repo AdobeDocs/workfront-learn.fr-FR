@@ -1,5 +1,5 @@
 ---
-title: Afficher l’allocation et filtrer le planificateur de ressources
+title: Afficher l’utilisation et filtrer le planificateur de ressources
 description: Découvrez comment afficher l’allocation des utilisateurs et utilisatrices et filtrer le planificateur de ressources.
 feature: Resource Management
 type: Tutorial
@@ -11,13 +11,13 @@ thumbnail: view-utilization.png
 jira: KT-10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
 source-git-commit: 065e0f03540cc8fd69d066dbb9c687d9feaff5bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
 ht-degree: 100%
 
 ---
 
-# Afficher l’allocation et filtrer le planificateur de ressources
+# Afficher l’utilisation et filtrer le planificateur de ressources
 
 Grâce au planificateur de ressources, vous bénéficiez d’une vue d’ensemble claire des projets qui vous intéressent et d’un aperçu en temps réel de la manière dont vos effectifs s’associent pour les exécuter.
 

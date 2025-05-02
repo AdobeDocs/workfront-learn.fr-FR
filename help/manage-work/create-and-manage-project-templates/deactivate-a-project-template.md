@@ -14,9 +14,9 @@ jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez :
 
 >[!NOTE]
 >
->Si vous décidez de supprimer un modèle, les projets que vous avez créés à l’aide de ce modèle ne seront pas affectés. Les modèles supprimés seront déplacés vers la Corbeille pendant 30 jours et ne pourront être récupérés que par l’administrateur système.
+>Si vous décidez de supprimer un modèle, les projets que vous avez créés à l’aide de ce modèle ne seront pas affectés. Les éléments supprimés seront déplacés vers la Corbeille pendant 30 jours et ne pourront être récupérés que par l’administration système.
 
 
 

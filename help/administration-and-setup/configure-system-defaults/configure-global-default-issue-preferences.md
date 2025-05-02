@@ -10,9 +10,9 @@ level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
 source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '885'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -22,13 +22,13 @@ Plusieurs paramètres à l’échelle du système définissent les valeurs par d
 
 Il est recommandé de conserver les valeurs par défaut globales telles quelles et permettre aux chefs et cheffes de projet d’effectuer les ajustements dont ils ou elles ont besoin au niveau du projet ou dans les modèles de projet.
 
-Les préférences du problème global peuvent être ajustées, mais il est recommandé que vous et votre consultant [!DNL Workfront] discutiez des paramètres nécessaires pour les workflows, les processus et les besoins de création de rapports de votre entreprise. Votre consultant ou votre consultante peut également vous aider à comprendre ce qui se passera si certains paramètres sont modifiés.
+Les préférences globales des problèmes peuvent être ajustées, mais il est recommandé de définir avec votre consultant ou votre consultante [!DNL Workfront] les paramètres nécessaires pour les workflows, les processus et les besoins en reporting de votre organisation. Votre consultant ou votre consultante peut également vous aider à comprendre ce qui se passera si certains paramètres sont modifiés.
 
-Les préférences relatives aux problèmes permettent aux administrateurs et administratrices système de contrôler les options de conversion des problèmes en tâches ou en projets, le mode de calcul des dates réelles et les personnes qui ont accès au projet lorsque des problèmes sont attribués. Voyons où se trouvent ces paramètres en [!DNL Workfront].
+Les préférences relatives aux problèmes permettent aux administrateurs et administratrices système de contrôler les options de conversion des problèmes en tâches ou en projets, le mode de calcul des dates réelles et les personnes qui ont accès au projet lorsque des problèmes sont attribués. これらの設定が [!DNL Workfront] のどこにあるか見てみましょう。
 
 ## Préférences de problèmes converties
 
-Ces paramètres contrôlent ce qui se passe lorsqu’un événement est converti en tâche ou en projet dans [!DNL Workfront].
+Ces paramètres contrôlent ce qui se passe lorsqu’un problème est converti en tâche ou en projet dans [!DNL Workfront].
 
 Fenêtre des préférences ![[!UICONTROL Tâches et problèmes] avec la section [!UICONTROL Problèmes] mise en surbrillance](assets/admin-fund-issue-prefs-converting.png).
 
@@ -39,7 +39,7 @@ Fenêtre des préférences ![[!UICONTROL Tâches et problèmes] avec la section 
 1. Cliquez sur les options de votre choix.
 1. Enregistrez lorsque vous avez terminé.
 
-Examinons les options de cette section afin que vous puissiez choisir les options appropriées pour votre organisation.
+Examinons les options de cette section afin que vous puissiez choisir celles appropriées pour votre organisation.
 
 * **[!UICONTROL Mettre à jour automatiquement le statut des problèmes pouvant être résolus lorsque le statut de l’objet de résolution change]**
 
@@ -49,7 +49,7 @@ Examinons les options de cette section afin que vous puissiez choisir les option
 
   Lorsque cette option est désactivée, le statut de l’objet de résolution est automatiquement configuré sur le statut par défaut plutôt que sur le statut personnalisé.
 
-  Pour que ce paramètre ait un effet, l&#39;option « [!UICONTROL Conserver le problème d&#39;origine et lier sa résolution à la tâche] » doit être sélectionnée.
+  Pour que cette configuration soit effective, l’option « [!UICONTROL Conserver le problème d’origine et lier sa résolution à la tâche] » doit être sélectionnée.
 
 * **[!UICONTROL Conserver le problème d’origine et lier sa résolution à la tâche/projet]**
 
@@ -65,7 +65,7 @@ Examinons les options de cette section afin que vous puissiez choisir les option
 
 * **[!UICONTROL Autoriser la modification de ces paramètres pendant la conversion]**
 
-  Lorsque cette option est sélectionnée, les paramètres par défaut de « [!UICONTROL  Conserver l’événement d’origine ] » et « [!UICONTROL  Autoriser le contact par Principal ] » peuvent être modifiés par l’utilisateur ou l’utilisatrice qui convertit l’événement. Si vous souhaitez que les valeurs par défaut restent inchangées, désélectionnez cette option.
+  Lorsque cette option est sélectionnée, cela signifie que les paramètres par défaut pour « [!UICONTROL Conserver le problème d’origine] » et « [!UICONTROL Autoriser le créateur ou la créatrice] » peuvent être modifiés par l’utilisateur ou l’utilisatrice qui convertit le problème. Si vous souhaitez que les valeurs par défaut restent inchangées, désélectionnez cette option.
 
 <!--
 learn more URLs
@@ -76,11 +76,11 @@ Create and customize system-wide statuses
 
 ## Préférences des dates réelles
 
-Plusieurs types de dates sont utilisés dans [!DNL Workfront]. Les dates réelles sont un « horodatage » généré par [!DNL Workfront] lorsque certains changements de statut se produisent.
+Plusieurs types de dates sont utilisés dans [!DNL Workfront]. Les dates réelles sont un « horodatage » généré par [!DNL Workfront] lorsque certains statuts sont modifiés.
 
 L’horodatage [!UICONTROL Date de début effectif] est créé lorsque le statut du problème passe de Nouveau à un autre statut. L’horodatage de la [!UICONTROL Date d’achèvement réelle] est utilisé quand le statut du problème passe au statut indiquant qu’il est fermé.
 
-Il est important de noter que cette préférence contrôle les paramètres de date réels pour les tâches et les événements.
+Il est important de noter que cette préférence contrôle les paramètres de date réelle pour les tâches et les problèmes.
 
 La fenêtre de préférences ![[!UICONTROL Tâches et problèmes] avec la section [!UICONTROL Dates réelles] mise en surbrillance](assets/admin-fund-issue-prefs-actual-dates.png)
 
@@ -101,7 +101,7 @@ Configure system-wide task and issue preferences
 
 ## Accès aux problèmes
 
-Les paramètres [!UICONTROL Access] pour les événements contrôlent l’accès accordé à un utilisateur ou une utilisatrice lorsqu’un événement lui est affecté dans Workfront. Ces paramètres contrôlent l’accès au problème lui-même, en plus de l’accès au projet auquel le problème est associé.
+Les paramètres d’[!UICONTROL accès] pour les problèmes permettent de contrôler l’accès accordé à un utilisateur ou une utilisatrice lors de l’affectation d’un problème dans Workfront. Ces paramètres contrôlent l’accès au problème lui-même, en plus de l’accès au projet auquel le problème est associé.
 
 Avant de modifier ces paramètres, discutez de vos éventuels besoins de processus ou de workflow avec vos consultants et consultantes [!DNL Workfront] et votre équipe de gouvernance interne.
 
@@ -110,10 +110,10 @@ Fenêtre des préférences des ![[!UICONTROL Tâches et problèmes] avec la sect
 1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
 1. Développez la section **[!UICONTROL Préférences projet]** dans le panneau de menu gauche.
 1. Sélectionnez **[!UICONTROL Tâches et problèmes]**.
-1. Faites défiler l’écran jusqu’à la section **[!UICONTROL Accès]** et recherchez l’option « [!UICONTROL  Lorsqu’un utilisateur est affecté à un événement ] ».
+1. Faites défiler l’écran jusqu’à la section **[!UICONTROL Accès]** et recherchez l’option « [!UICONTROL Lorsqu’une personne est affectée à un PROBLÈME] ».
 1. Définissez le type d’accès pour le problème lui-même : [!UICONTROL Voir], [!UICONTROL Contribuer], ou [!UICONTROL Gérer]. [!DNL Workfront] recommande de laisser les options avancées telles quelles.
 1. Cochez la case si la personne désignée pour le problème doit également avoir accès au projet.
-1. Sélectionnez ensuite le type d’accès pour le projet : [!UICONTROL Voir], [!UICONTROL Contribuer], ou [!UICONTROL Gérer]. Lorsque vous définissez les [!UICONTROL options avancées], gardez à l’esprit les workflows de votre entreprise et les besoins en matière d’accès.
+1. Sélectionnez ensuite le type d’accès pour le projet : [!UICONTROL Voir], [!UICONTROL Contribuer], ou [!UICONTROL Gérer]. Lorsque vous définissez les [!UICONTROL Options avancées], tenez compte des workflows et des besoins d’accès de votre organisation.
 1. Enregistrez lorsque vous avez terminé.
 
 Fenêtre ![[!UICONTROL Accès] montrant les options [!UICONTROL Contribuer]](assets/admin-fund-issue-prefs-access-2.png)

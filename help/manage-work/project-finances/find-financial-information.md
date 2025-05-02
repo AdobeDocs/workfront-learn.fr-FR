@@ -1,6 +1,6 @@
 ---
 title: Rechercher des informations financières
-description: Découvrez comment accéder, analyser et gérer efficacement les données financières des projets et des tâches, couvrant les budgets, les revenus, les coûts et les mesures de performances au niveau des projets et des tâches.
+description: Découvrez comment trouver, analyser et gérer efficacement les données financières des projets et des tâches, couvrant les budgets, les revenus, les coûts et les mesures de performances au niveau des projets et des tâches.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
@@ -14,25 +14,25 @@ last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d6a69745a75e326f99b19be633ced01badabd5ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 # Rechercher des informations financières
 
-La vidéo explique comment accéder aux informations financières des projets et tâches et les gérer. &#x200B;Il offre une vue d’ensemble complète de la navigation et de la compréhension des données financières au niveau des projets et des tâches. &#x200B;
+La vidéo explique comment accéder aux informations financières des projets et tâches afin de les gérer.Elle offre une vue d’ensemble complète pour consulter et comprendre les données financières au niveau des projets et des tâches.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
 
 ## Points clés à retenir
 
-* **Accès aux informations financières :** les informations financières d’un projet se trouvent sur la page des finances, accessible via « Détails du projet », tandis que les données financières au niveau de la tâche se trouvent sous « Détails de la tâche ».
-* **Champs modifiables :** les utilisateurs disposant des droits appropriés peuvent modifier des champs tels que le budget, les avantages prévus, les avantages réels, les revenus fixes et les coûts fixes.
-* **Calculs du système :** les revenus et coûts prévus et réels sont automatiquement calculés en fonction des données enregistrées pour chaque tâche.
-* **Mesures de performances :** les indices de coût et de planning s’affichent et les utilisateurs peuvent consulter les méthodes de calcul en cliquant sur l’icône d’informations. &#x200B; La méthode d’indice de performance choisie détermine si l’achèvement estimé s’affiche en heures ou en argent.
-* **Suivi des dépenses :** les dépenses font partie des coûts et peuvent être affichées au niveau des tâches et des projets, ce qui fournit une vue complète des données financières.
+* **Accès aux informations financières :** les informations financières d’un projet se trouvent sur la page des finances, accessible via « Détails du projet », tandis que les données financières au niveau de la tâche se trouvent sous « Détails de la tâche ».
+* **Champs modifiables :** les personnes disposant des droits appropriés peuvent modifier des champs tels que le budget, le bénéfice prévu, le bénéfice réel, les revenus fixes et les coûts fixes.
+* **Calculs du système :** les revenus et coûts prévus et réels sont automatiquement calculés en fonction des données enregistrées pour chaque tâche.
+* **Mesures de performances :** les indices de coût et de prévision s’affichent. Les méthodes de calcul s’affichent en cliquant sur l’icône d’informations. La méthode d’indice de performances choisie détermine si l’achèvement estimé s’affiche en heures ou en devises.
+* **Suivi des dépenses :** les dépenses font partie des coûts et peuvent être affichées au niveau des tâches et des projets, ce qui fournit une vue complète des données financières.
 
 
 ## Tutoriels recommandés sur cette rubrique
