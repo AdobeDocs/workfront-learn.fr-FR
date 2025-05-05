@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment partager un projet en le plaçant dans un portfolio
 * Bonnes pratiques relatives au partage d’un projet
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423147/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

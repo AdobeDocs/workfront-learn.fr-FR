@@ -22,7 +22,7 @@ ht-degree: 100%
 
 La vidéo explique comment convertir un problème ou une demande en tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445432/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

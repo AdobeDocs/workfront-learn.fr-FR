@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez comment :
 
 * L’historique d’exécution vous aide à prendre en charge et à dépanner Workfront Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417309/?quality=12&learn=on&enablevpops&captions=fre_fr)

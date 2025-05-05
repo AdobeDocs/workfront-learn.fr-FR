@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer un rapport de tâche avec un filtre complexe
 * Comment rechercher les rapports que vous créez
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448344/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Créer un rapport de tâche
 

@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez à :
 * Créer et modifier des groupes
 * Ajouter et modifier des utilisateurs et des utilisatrices
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414467/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Réviser des groupes, des utilisateurs et des utilisatrices
 

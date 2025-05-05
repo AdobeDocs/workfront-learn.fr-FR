@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * Présentation des fonctions et modules Switch et de leurs différences
 * Quand utiliser une fonction Switch plutôt qu’un module Switch
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417443/?quality=12&learn=on&enablevpops&captions=fre_fr)

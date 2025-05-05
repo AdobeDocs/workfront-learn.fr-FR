@@ -32,7 +32,7 @@ Cependant, certains d’entre vous sont peut-être plus avancés qu’ils ne le 
 
 ## Quatre étapes de degré de gestion des ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420161/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 ## Et après ?

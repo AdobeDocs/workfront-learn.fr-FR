@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 
 * Comment déterminer rapidement le temps que les personnes qui travaillent consacrent à chaque projet
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437801/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## La durée de consultation des projets
 

@@ -27,7 +27,7 @@ Le nombre d’heures prévues est essentiel à la gestion des ressources dans Wo
 Il aide également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec le personnel.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445335/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 ## Points clés à retenir

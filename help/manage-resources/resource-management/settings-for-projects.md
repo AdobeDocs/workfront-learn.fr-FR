@@ -24,4 +24,4 @@ Dans ce tutoriel vidéo, vous apprendrez :
 
 * Comment optimiser les outils de gestion des ressources - durées et dates prévues, nombre d&#39;heures prévues et affectations de tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420173/?quality=12&learn=on&enablevpops&captions=fre_fr)

@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Collaborer avec une Lightbox
 * Partager le contenu d’une Lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420179/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Dossiers et Lightbox
 

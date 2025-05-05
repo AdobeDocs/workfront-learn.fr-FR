@@ -27,4 +27,4 @@ Dans cette vidéo, vous apprendrez à :
 * Créer des règles relatives aux téléchargements
 * Afficher les rapports et les journaux d’audit
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414461/?quality=12&learn=on&enablevpops&captions=fre_fr)

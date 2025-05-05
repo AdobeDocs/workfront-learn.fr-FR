@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Sélectionnez le mode Graphique pour obtenir une vue détaillée de l’affectation des utilisateurs et utilisatrices.
 * Afficher les ventilations des affectations quotidiennes des utilisateurs et utilisatrices
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413838/?quality=12&learn=on&enablevpops&captions=fre_fr)

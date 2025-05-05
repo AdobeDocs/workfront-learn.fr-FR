@@ -27,4 +27,4 @@ Dans cette vidéo, vous apprendrez à :
 * Se connecter à une API externe
 * Utiliser l’éditeur de formules pour extraire les informations d’un tableau
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416541/?quality=12&learn=on&enablevpops&captions=fre_fr)

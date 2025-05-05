@@ -31,7 +31,7 @@ ht-degree: 100%
 La vidéo explique l’application d’un processus d’approbation par défaut lors de la création d’une file d’attente des demandes. Lorsqu’une demande est créée, elle commence avec le statut « Nouveau - Approbation en attente » et une notification d’approbation est envoyée à la personne en charge de l’approbation. Si elle est approuvée, le statut passe à « Nouveau », ce qui permet aux personnes affectées de commencer le travail. En cas de rejet, le statut peut revenir incorrectement à « Nouveau » en raison d’une erreur courante dans la configuration du processus d’approbation. 
 La vidéo montre que le processus d’approbation est déclenché lorsque le statut est défini sur « Nouveau », qui est le statut par défaut des nouvelles demandes. En cas de rejet, le système redéfinit par défaut le statut sur le précédent, ce qui n’est pas idéal pour les nouvelles demandes. À la place, un autre statut, tel que « Impossible de résoudre », doit être choisi. La vidéo indique également qu’aucun statut « Rejeté » n’est fourni par défaut, mais qu’un administrateur ou une administratrice système peut en créer un si nécessaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455026/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

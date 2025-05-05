@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * comment partager un modèle de projet en accordant des droits d’activation et de désactivation ;
 * comment activer et désactiver un modèle de projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444992/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 >[!NOTE]
 >

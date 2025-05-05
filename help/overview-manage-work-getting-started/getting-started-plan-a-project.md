@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment une [!UICONTROL vue] peut vous aider à afficher les informations dont vous avez besoin.
 * Définition de la date de début ou d’échéance
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448569/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

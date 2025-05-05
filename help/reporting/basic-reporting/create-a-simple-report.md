@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Créer un rapport simple à l’aide d’un filtre, d’une vue et d’un regroupement existants
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413120/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Créer un rapport simple
 

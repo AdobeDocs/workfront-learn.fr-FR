@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez à :
 * Appliquer un modèle de métadonnées à un dossier
 * Définir les autorisations de dossier
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414419/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Fonctionnement des versions des ressources
 

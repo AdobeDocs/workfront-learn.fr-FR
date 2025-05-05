@@ -52,4 +52,4 @@ Dans cette vidéo, vous apprendrez à effectuer les opérations suivantes dans v
 * Enregistrer des heures
 * Marquer la fin de votre travail
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420644/?quality=12&learn=on&enablevpops&captions=fre_fr)

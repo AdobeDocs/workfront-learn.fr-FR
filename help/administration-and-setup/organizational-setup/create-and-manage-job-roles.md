@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez :
 * Création des fonctions.
 * Application des fonctions aux utilisateurs et utilisatrices afin que les tâches adéquates leur soient assignées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452428/?quality=12&learn=on&enablevpops&captions=fre_fr)

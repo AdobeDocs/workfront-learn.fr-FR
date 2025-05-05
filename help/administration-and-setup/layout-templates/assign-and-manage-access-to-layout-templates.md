@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Affecter des modèles de disposition à des utilisateurs ou utilisatrices, des groupes ou des équipes
 * Contrôler les personnes pouvant gérer l’accès aux modèles de disposition
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432326/?quality=12&learn=on&enablevpops&captions=fre_fr)

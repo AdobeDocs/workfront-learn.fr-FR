@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 * Modifier la terminologie de [!DNL Goals] pour l’adapter à votre organisation
 * Ajouter [!DNL Goals] au [!UICONTROL menu principal] de [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416490/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!--
 Learn more graphic

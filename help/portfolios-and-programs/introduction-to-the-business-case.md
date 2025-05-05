@@ -23,7 +23,7 @@ ht-degree: 100%
 
 La vidéo explique l’importance d’une analyse de rentabilité dans la gestion de projets. Elle souligne que bien remplir l’analyse de rentabilité permet aux responsables d’analyser et de hiérarchiser les projets en concurrence pour les mêmes ressources. Une fois remplie, l’envoi de l’analyse de rentabilité modifie le statut du projet en « Demandé » et calcule son score global à des fins de comparaison dans l’outil Optimisation du portfolio. Bien qu’aucun des champs ne soit obligatoire, des informations plus détaillées améliorent la prise de décisions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442846/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

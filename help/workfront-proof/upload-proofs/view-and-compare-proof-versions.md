@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des commentaires et des annotations à une version
 * Comparer la version actuelle à une version antérieure du fichier
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446898/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!--
 ## Learn more

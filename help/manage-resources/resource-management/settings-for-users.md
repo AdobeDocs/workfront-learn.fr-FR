@@ -28,4 +28,4 @@ Dans ce tutoriel vidéo, vous découvrirez les paramètres pour :
 * Les congés personnels
 * Fonctions
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420167/?quality=12&learn=on&enablevpops&captions=fre_fr)

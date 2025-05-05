@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment accéder aux paramètres des rapports
 * L’utilité de certains paramètres de rapport courants
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445865/?quality=12&learn=on&enablevpops&captions=fre_fr)

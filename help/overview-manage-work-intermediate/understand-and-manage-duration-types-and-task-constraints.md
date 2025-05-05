@@ -32,7 +32,7 @@ Dans cette vidéo, vous découvrirez les éléments suivants concernant les type
 * Bonnes pratiques relatives à leur utilisation
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422824/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 Pour plus d’informations sur la création d’une vue Types de durée et contraintes de tâche, voir l’activité Types de durée et contraintes de tâche dans [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr).

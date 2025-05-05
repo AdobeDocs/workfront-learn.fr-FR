@@ -23,7 +23,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Accorder l’accès aux objectifs aux utilisateurs et utilisatrices sélectionnés
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416478/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 Les équipes d’administration système peuvent suivre le nombre de licences [!DNL Workfront Goals] qui ont été utilisées depuis la zone **[!UICONTROL Configuration]** de Workfront.
 

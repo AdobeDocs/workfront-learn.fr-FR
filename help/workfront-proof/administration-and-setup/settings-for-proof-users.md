@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ajuster les paramètres d’utilisation du BAT dans [!DNL  Workfront]
 * Ajuster les paramètres d’utilisation du BAT dans les configurations principales des BAT
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432923/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!--
 Lean More URLs

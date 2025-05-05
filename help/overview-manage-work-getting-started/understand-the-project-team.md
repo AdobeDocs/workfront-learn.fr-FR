@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 
 * À quoi peut servir l’équipe de projet et comment la gérer
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444591/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

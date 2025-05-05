@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez les exigences requises pour ajouter l’outil Workfront Planning et le rendre visible par les utilisateurs de votre instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447968/?learn=on&enablevpops&captions=fre_fr)

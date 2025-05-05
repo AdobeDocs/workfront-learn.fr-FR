@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Activation de votre projet à l’aide du statut du projet
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438985/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

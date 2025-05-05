@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Créer et analyser JSON dans un scénario pour répondre à vos besoins en matière de conception
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418112/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 

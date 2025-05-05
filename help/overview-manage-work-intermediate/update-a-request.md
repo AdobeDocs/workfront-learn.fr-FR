@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ouvrir la page de requête
 * Mettre à jour une requête dans le panneau [!UICONTROL Mises à jour]
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422298/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

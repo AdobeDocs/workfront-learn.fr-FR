@@ -29,7 +29,7 @@ Dans cette vidéo, vous découvrirez comment tirer parti des actions suivantes 
 * Création de rapports personnalisés « leçons apprises »
 * Création d’un projet « leçons apprises »
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441014/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter et supprimer des champs des en-têtes de projet à l’aide de modèles de disposition.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422843?captions=fre_fr)

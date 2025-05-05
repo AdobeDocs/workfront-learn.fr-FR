@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 
 * L’importance des opérateurs fournis dans le panneau de mappage
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416003/?quality=12&learn=on&enablevpops&captions=fre_fr)

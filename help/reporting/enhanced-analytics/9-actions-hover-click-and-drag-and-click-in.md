@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer une période sur un graphique
 * Comment faire apparaître des graphiques supplémentaires
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438567/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Cliquer sur un graphique pour obtenir plus d’informations
 

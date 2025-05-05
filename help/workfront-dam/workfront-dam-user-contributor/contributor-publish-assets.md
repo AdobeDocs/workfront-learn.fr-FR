@@ -41,4 +41,4 @@ Dans cette vidéo, vous apprendrez à :
 * Publier des ressources sur [!UICONTROL Brand Connect]
 * Publier des dossiers sur [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414413/?quality=12&learn=on&enablevpops&captions=fre_fr)

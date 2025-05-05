@@ -23,4 +23,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Mettre à jour la progression des résultats et des activités
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415954/?quality=12&learn=on&enablevpops&captions=fre_fr)

@@ -28,7 +28,7 @@ Découvrez comment utiliser le module Switch lorsque vous devez effectuer des tr
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417933/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 

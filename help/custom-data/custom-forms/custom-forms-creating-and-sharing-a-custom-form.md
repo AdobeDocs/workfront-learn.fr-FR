@@ -26,5 +26,5 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des champs uniques dans divers formats
 * Partager des formulaires avec d’autres utilisateurs et utilisatrices
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420149/?quality=12&learn=on&enablevpops&captions=fre_fr)
 

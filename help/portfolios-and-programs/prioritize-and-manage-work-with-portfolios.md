@@ -25,7 +25,7 @@ La vidéo explique comment utiliser l’outil Optimisation du portfolio dans Wor
 
 La vidéo souligne l’importance d’effectuer des analyses de rentabilité pour des comparaisons précises et fournit des instructions étape par étape pour optimiser et gérer efficacement les priorités des projets.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446277/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

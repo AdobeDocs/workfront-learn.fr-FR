@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 
 * Éléments standard utilisés lors de la création d’expressions dans [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416225/?quality=12&learn=on&enablevpops&captions=fre_fr)

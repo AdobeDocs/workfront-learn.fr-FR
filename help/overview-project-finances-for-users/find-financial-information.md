@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Trouvez des informations financières sur un projet et comprenez d’où elles proviennent.
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415895/?quality=12&learn=on&enablevpops&captions=fre_fr)

@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des utilisateurs et utilisatrices à un workflow existant
 * Transformer un workflow existant en un workflow automatisé
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445454/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## À vous
 

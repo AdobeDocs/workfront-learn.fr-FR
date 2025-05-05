@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Création des chemins jalonnés
 * Ajout des étapes de jalon à un chemin jalonné
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415913/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 >[!NOTE]
 >

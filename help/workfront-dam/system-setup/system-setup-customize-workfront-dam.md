@@ -29,4 +29,4 @@ Dans cette vidéo, vous apprendrez à :
 * Contrôler les notifications in-app
 * Planifier la configuration et la maintenance de [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454265/?quality=12&learn=on&enablevpops&captions=fre_fr)

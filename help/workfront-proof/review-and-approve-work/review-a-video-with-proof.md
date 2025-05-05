@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des commentaires horodatés à une vidéo
 * Ajuster les paramètres de la visionneuse
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444224/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!--
 ## Learn more

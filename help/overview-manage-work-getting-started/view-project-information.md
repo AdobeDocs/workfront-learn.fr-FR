@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez à utiliser les filtres, les vues et les regr
 * Des informations au niveau de la tâche
 * Des informations au niveau du problème
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453068/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

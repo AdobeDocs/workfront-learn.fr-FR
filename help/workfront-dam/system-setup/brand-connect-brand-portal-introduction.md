@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Définir des dates d’expiration pour des ressources individuelles
 * Modifier des paramètres de ressource
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419543/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Dossiers de ressources
 

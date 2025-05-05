@@ -28,7 +28,7 @@ Appelez un service web pour obtenir des informations sur plusieurs pays et ident
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417303/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## URL d’exercice
 

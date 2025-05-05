@@ -27,4 +27,4 @@ Découvrez comment configurer vos fichiers d’exercices Fusion.
 
 1. Regardez la vidéo pour découvrir comment importer ces fichiers dans un dossier dans Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416547/?quality=12&learn=on&enablevpops&captions=fre_fr)

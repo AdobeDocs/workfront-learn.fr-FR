@@ -24,7 +24,7 @@ ht-degree: 100%
 
 La vidéo explique comment accéder aux informations financières des projets et tâches afin de les gérer.Elle offre une vue d’ensemble complète pour consulter et comprendre les données financières au niveau des projets et des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415895/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 
 * Utilisation, création et navigation entre les organisations, les équipes et les utilisateurs et utilisatrices
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418185/?quality=12&learn=on&enablevpops&captions=fre_fr)

@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 
 * Comment réaliser des mises à jour depuis le graphique Tâches en cours
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436860/?quality=12&learn=on&enablevpops&captions=fre_fr)

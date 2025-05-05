@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Création d’un regroupement
 * Et partage d’un regroupement avec d’autres utilisateurs et utilisatrices de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449817/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Créer un regroupement de base
 

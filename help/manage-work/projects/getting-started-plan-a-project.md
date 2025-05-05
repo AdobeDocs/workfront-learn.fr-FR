@@ -25,7 +25,7 @@ La vidéo fournit des conseils pour planifier efficacement un projet dans Workfr
 
 La vidéo souligne l’importance de chronologies réalistes, de la disponibilité de l’équipe et d’une planification précise pour établir une base solide pour la réussite du projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448569/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

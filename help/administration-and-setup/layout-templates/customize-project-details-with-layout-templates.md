@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Accéder à la zone de détails du projet
 * Personnaliser les champs de détails du projet à l’aide d’un modèle de disposition
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432899/?quality=12&learn=on&enablevpops&captions=fre_fr)

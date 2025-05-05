@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment ajouter un filtre à l’aide d’un formulaire personnalisé
 * Conseils sur le filtrage
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439639/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 >[!NOTE]
 >

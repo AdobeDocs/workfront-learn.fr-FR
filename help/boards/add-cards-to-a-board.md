@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter des cartes à un panorama, qu’elles soient nouvelles ou issues d’un élément de travail préexistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423049/?quality=12&learn=on&enablevpops&captions=fre_fr)

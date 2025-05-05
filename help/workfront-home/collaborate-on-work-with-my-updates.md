@@ -27,4 +27,4 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser la section Mentions pour afficher les mises à jour où vous figurez
 * Répondre aux mises à jour
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414233/?quality=12&learn=on&enablevpops&captions=fre_fr)

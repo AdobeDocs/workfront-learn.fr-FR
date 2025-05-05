@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez :
 
 * Trois concepts principaux qui constituent Workfront Fusion : les scénarios, les applications et les modules
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415961/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Terminologie des concepts principaux
 

@@ -31,7 +31,7 @@ La vidéo explique comment réviser et approuver du travail numérique à l’ai
 
 La vidéo souligne la flexibilité dans la révision et l’approbation du travail, avec des options pour ajouter des commentaires et spécifier des modifications selon les besoins.
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444948/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

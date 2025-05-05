@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez à :
 * Définir les préférences globales du projet
 * Créer et utiliser des plannings
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423347/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Paramètres globaux, de projet de groupe, de tâche et de problème
 

@@ -27,7 +27,7 @@ Dans cette vidéo, vous découvrirez :
 * les dates prévues, projetées et réelles, et
 * leur utilisation pour calculer le statut de progression
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436609/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 >[!NOTE]
 >

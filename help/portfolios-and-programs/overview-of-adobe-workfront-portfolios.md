@@ -24,7 +24,7 @@ ht-degree: 100%
 La vidéo traite de la gestion des portfolios, en se concentrant sur la manière dont les responsables peuvent optimiser la sélection de projets pour s’aligner sur les objectifs de l’entreprise. Elle présente le concept des portfolios en tant qu’ensembles de projets qui se font concurrence pour des ressources, des budgets et des plannings partagés. Les responsables peuvent utiliser des outils tels que l’Optimisateur de portfolio pour comparer des projets en fonction de critères tels que la main-d’œuvre, les dépenses, le risque, le retour sur investissement et l’alignement sur les objectifs du portfolio. La préparation de projets à des fins de comparaison implique la création d’une analyse de rentabilité pour chacun.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442830/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

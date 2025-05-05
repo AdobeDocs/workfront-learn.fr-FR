@@ -24,7 +24,7 @@ Dans cette vidéo, vous découvrirez :
 * Les 6 étapes d’un cycle de vie classique
 * Éléments fondamentaux de la « phase stratégique » du cycle de vie professionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415991/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!--
 Your turn graphic

@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * Consigner un problème
 * Bonnes pratiques relatives à la gestion des problèmes
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446568/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

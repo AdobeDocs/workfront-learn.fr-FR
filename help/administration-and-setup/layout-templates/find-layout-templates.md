@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * Rechercher des modèles de disposition dans la zone de [!UICONTROL Configuration]
 * Commencez à créer des modèles de disposition dans Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413108/?quality=12&learn=on&enablevpops&captions=fre_fr)

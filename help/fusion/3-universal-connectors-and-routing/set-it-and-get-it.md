@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Partager des données entre différents chemins
 * Utiliser les modules Définir et Obtenir les variables
 
->[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417267/?quality=12&learn=on&enablevpops&captions=fre_fr)

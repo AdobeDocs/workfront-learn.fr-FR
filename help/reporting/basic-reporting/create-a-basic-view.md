@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Création et modification d’une vue
 * Partage d’une vue avec d’autres utilisateurs et utilisatrices de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450240/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Créer une vue de base
 

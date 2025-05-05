@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * Utilisation de l’effort de travail
 * Création d’une vue de tâche de l’effort de travail
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447401/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 Pour plus d’informations sur l’[!UICONTROL Effort de travail], voir l’article [Vue d’ensemble de l’Effort de travail](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=fr).
 

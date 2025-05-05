@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Le calcul des expressions ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR
 * Comment créer une expression de données ADDWEEKDAYS dans un champ calculé
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416189/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Exemples supplémentaires
 

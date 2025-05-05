@@ -27,7 +27,7 @@ Dans les deux cas, lorsque le statut de l’objet passe à un statut spécifié 
 
 Dans cette vidéo, vous apprendrez à créer un processus d’approbation globale et un processus d’approbation à usage unique sur un projet, une tâche ou un problème.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434689/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 >[!TIP]
 >

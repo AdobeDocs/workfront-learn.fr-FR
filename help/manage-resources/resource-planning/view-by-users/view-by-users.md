@@ -26,4 +26,4 @@ Dans cette vidéo, vous allez :
 * Découvrez comment les informations des ressources sont affichées dans cette vue
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443808/?quality=12&learn=on&enablevpops&captions=fre_fr)

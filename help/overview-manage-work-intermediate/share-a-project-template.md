@@ -27,7 +27,7 @@ Vous apprendrez à :
 * Partager un modèle avec d’autres personnes
 * Partager des projets créés à l’aide d’un modèle
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415438/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

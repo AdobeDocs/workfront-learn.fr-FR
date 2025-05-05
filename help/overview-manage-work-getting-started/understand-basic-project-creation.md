@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez :
 * Les notions élémentaires concernant les tâches et les problèmes
 * La bonne pratique pour commencer à créer des projets
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435898/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

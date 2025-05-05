@@ -23,7 +23,7 @@ ht-degree: 100%
 
 La vidéo explique la vue Panorama dans Workfront, qui offre un autre moyen d’afficher et de gérer les tâches du projet. Dans la vue Panorama, les tâches s’affichent sous forme de cartes sur un panorama de style Kanban, ce qui permet aux utilisateurs et aux utilisatrices de trier, de regrouper et de déplacer des tâches au sein ou entre les colonnes. Le déplacement d’une tâche met automatiquement à jour son statut, qui est reflété dans la vue Liste des tâches. Les utilisateurs et utilisatrices peuvent créer de nouvelles cartes, qui génèrent de nouvelles tâches dans le projet, et les modifier ou les affecter directement dans la vue Panorama. Vous pouvez configurer des colonnes et des cartes et séquencer les tâches à l’aide de prédécesseurs dans la vue Liste des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423277/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

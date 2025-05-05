@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 
 * Quels planifications de scénarios, cycles et exécutions se trouvent dans Workfront Fusion ?
 
->[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417321/?quality=12&learn=on&enablevpops&captions=fre_fr)

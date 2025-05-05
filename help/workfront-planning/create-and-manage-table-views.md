@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment créer, gérer et personnaliser des vues de tableau de type enregistrement dans Adobe Workfront Planning afin d’améliorer l’organisation et la collaboration des projets.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448129/?learn=on&enablevpops&captions=fre_fr)

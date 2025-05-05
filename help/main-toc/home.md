@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Une bibliothèque de vidéos de formation et d’articles conçus pour vous aider à mieux comprendre les fonctionnalités et les paramètres de Workfront.  Elle comprend un ensemble de bonnes pratiques, d’exercices organisés et d’autres ressources qui vous aideront, ainsi que votre organisation, à réussir avec Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422435/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!-- 
 

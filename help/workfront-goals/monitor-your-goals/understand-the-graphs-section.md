@@ -28,4 +28,4 @@ Dans cette vidéo, vous apprendrez à :
 * Lire et interpréter le graphique de santé des objectifs
 * Lire et interpréter le graphique de progression des objectifs
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415920/?quality=12&learn=on&enablevpops&captions=fre_fr)

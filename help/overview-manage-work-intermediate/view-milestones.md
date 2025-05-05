@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Afficher des jalons dans un projet spécifique
 * Lire la vue du jalon dans la zone [!UICONTROL Projet]
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415901/?quality=12&learn=on&enablevpops&captions=fre_fr)

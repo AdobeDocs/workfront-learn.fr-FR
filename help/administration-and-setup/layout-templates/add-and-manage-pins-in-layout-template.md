@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Apprenez ce qu’est une épingle et comment épingler des pages importantes ou pertinentes pour un ensemble d’utilisateurs et utilisatrices grâce à des modèles de disposition.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422806/?quality=12&learn=on&enablevpops&captions=fre_fr)

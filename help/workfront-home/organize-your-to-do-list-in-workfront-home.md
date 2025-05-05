@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez à :
 * Identifier le travail prêt à démarrer
 * Accepter les affectations de travail
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445080/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 >[!NOTE]
 >

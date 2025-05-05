@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez à :
 * Visualiser les détails d’un dossier
 * Visualiser et mettre à jour les métadonnées et les mots-clés des ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453921/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Critères de recherche de base
 

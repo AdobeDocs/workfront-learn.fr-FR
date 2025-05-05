@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez :
 * Intégration des durées dans les calendriers des projets
 * Recommandations relatives aux bonnes pratiques d’utilisation des durées de tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449345/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

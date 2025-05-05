@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter et supprimer des personnes et des équipes dans un panorama pour qu’elles puissent accéder aux informations de ce panorama.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423040/?quality=12&learn=on&enablevpops&captions=fre_fr)

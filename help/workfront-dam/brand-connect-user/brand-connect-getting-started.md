@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Naviguation dans Brand Connect
 * Recherche de ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418747/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Critères de recherche de base
 

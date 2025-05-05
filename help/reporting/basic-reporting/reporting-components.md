@@ -29,7 +29,7 @@ La vidéo explique le concept de composants de création de rapports dans Workfr
 * **Qualificateur de filtre :** définit les valeurs à inclure ou à exclure dans un rapport, par exemple l’affichage des tâches avec une priorité « élevée ». &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447023/?quality=12&learn=on&captions=fre_fr)
 
 ## Points clés à retenir
 

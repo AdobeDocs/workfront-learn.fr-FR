@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Comprendre quand les utilisateurs et les utilisatrices de [!UICONTROL Workfront DAM] peuvent saisir leurs propres mots-clés
 * Configurer les facettes de recherche
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419500/?quality=12&learn=on&enablevpops&captions=fre_fr)

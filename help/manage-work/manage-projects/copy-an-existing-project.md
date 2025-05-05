@@ -27,7 +27,7 @@ Pour finaliser l’opération, cliquez sur « Copier le projet ».
 Les problèmes ne peuvent pas être copiés directement pendant ce processus, car ils ne sont pas considérés comme du travail prévu. Pour copier des problèmes, accédez à l’onglet Problèmes, sélectionnez les problèmes souhaités, puis utilisez l’option « Copier dans » pour les transférer vers le nouveau projet.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456040/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

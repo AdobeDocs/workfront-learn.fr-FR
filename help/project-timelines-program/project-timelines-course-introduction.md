@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez quels sont les éléments, tels que les types de dates et les contraintes de tâches, qui sont utilisés lors de la création et de la gestion des chronologies de projets dans [!DNL  Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436742/?quality=12&learn=on&enablevpops&captions=fre_fr)

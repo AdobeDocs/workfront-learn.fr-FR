@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez :
 * L’endroit où charger les documents
 * Consultation de l’historique des mises à jour
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449728/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Principaux éléments de la page du projet
 

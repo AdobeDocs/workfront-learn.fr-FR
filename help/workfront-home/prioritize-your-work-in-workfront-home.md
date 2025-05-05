@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Marquer les tâches comme affectations prioritaires
 * Filtrez la [!UICONTROL Liste de travail] pour afficher uniquement les tâches prioritaires.
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438534/?quality=12&learn=on&enablevpops&captions=fre_fr)

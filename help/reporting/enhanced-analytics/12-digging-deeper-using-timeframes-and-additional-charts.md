@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment analyser en profondeur un projet dans le plan de vol pour faire apparaître le graphique d’avancement et le graphique des tâches en cours de vol ?
 * Comment créer un filtre de délai pour effectuer un zoom avant sur une période
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437267/?quality=12&learn=on&enablevpops&captions=fre_fr)

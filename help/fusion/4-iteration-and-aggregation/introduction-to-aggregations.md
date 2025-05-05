@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment utiliser des agrégateurs
 * Différents types d’agrégateurs
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417285/?quality=12&learn=on&enablevpops&captions=fre_fr)

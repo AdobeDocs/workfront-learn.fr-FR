@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez plus en détail ce qu’est un panorama et ses avantages pour vous et/ou votre équipe, dans la gestion du travail. Apprenez à accéder aux panoramas et à créer un panorama de base.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422938/?quality=12&learn=on&enablevpops&captions=fre_fr)

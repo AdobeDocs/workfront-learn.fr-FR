@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à utiliser les éléments suivants :
 * Graphique de Gantt du projet
 * Graphique de Gantt de la tâche
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448008/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 Vous pouvez en savoir plus en ligne avec l’article [Commencer avec le graphique de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=fr).
 

@@ -33,7 +33,7 @@ Cette vidéo présente la navigation et la gestion de la page du projet dans Wor
 * **Section Documents :** permet de charger et de gérer des fichiers et des épreuves liés au projet. Les documents joints aux tâches sont cumulés au niveau du projet pour un accès plus facile.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449728/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

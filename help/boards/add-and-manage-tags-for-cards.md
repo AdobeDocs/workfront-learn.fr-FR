@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez en quoi consiste une balise et pourquoi elle est utile, ainsi que comment créer, supprimer, ajouter et enlever des balises.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423029/?quality=12&learn=on&enablevpops&captions=fre_fr)

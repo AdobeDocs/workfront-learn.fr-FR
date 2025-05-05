@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Regarder et gérer des Lightbox
 * Collaborer sur une Lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454352/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Lightbox et dossiers
 

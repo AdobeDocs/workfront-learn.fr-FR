@@ -28,4 +28,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment lire JSON et comment comprendre la façon dont il sera traduit en données à utiliser dans vos scénarios
 * Comment utiliser des modules JSON lors de la création, de la modification et de l’utilisation de JSON
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418106/?quality=12&learn=on&enablevpops&captions=fre_fr)

@@ -30,7 +30,7 @@ Dans cette vidéo, vous allez apprendre à communiquer avec toutes les parties p
 * Problèmes
 * Rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436148/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 >[!TIP]
 >

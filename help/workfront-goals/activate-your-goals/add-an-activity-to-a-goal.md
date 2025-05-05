@@ -23,4 +23,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Ajouter une activité et un projet à un objectif
 
->[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420191/?quality=12&learn=on&enablevpops&captions=fre_fr)

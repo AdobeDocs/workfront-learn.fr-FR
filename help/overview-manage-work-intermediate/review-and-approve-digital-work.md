@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 * Approuver des documents
 * Approuver des BAT
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444948/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 >[!NOTE]

@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Cette vidéo présente un guide détaillé sur la gestion des tâches dans Workfront. Elle souligne la gestion efficace des tâches, notamment la modification, la suppression, l’ajout, la duplication et la réorganisation des tâches dans un plan de projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448558/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

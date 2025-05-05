@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Cette vidéo explique comment localiser et mettre à jour des demandes dans Workfront. Après l’envoi d’une demande, vous pouvez ajouter des informations ou poser des questions pour vous assurer que les derniers détails sont disponibles pour les personnes qui travaillent dessus.
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422298/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

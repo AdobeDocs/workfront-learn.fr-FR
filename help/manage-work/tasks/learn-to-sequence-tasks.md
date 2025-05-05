@@ -26,7 +26,7 @@ La vidéo explique comment séquencer les tâches dans Workfront à l’aide des
 La vidéo explique comment définir des prédécesseurs pour les nouvelles tâches, en établissant un ordre séquentiel et des dates de début précises.Elle souligne l’importance de s’entraîner avec les prédécesseurs pour comprendre leur impact sur les chronologies des projets et recommande d’utiliser les durées et les prédécesseurs pour une planification de projets efficace.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447322/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

@@ -20,7 +20,7 @@ Dans cette vidéo, vous apprendrez à :
 * Retrouver des requêtes que vous avez soumises
 * Mettre à jour une requête
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422298/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!--
 Guide

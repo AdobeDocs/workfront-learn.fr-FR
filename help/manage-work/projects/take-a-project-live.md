@@ -23,7 +23,7 @@ ht-degree: 100%
 
 La vidéo explique les dernières étapes pour activer un projet en faisant passer son statut sur « actuel ». Avant cela, elle précise les éléments clés du projet, notamment les noms des tâches, les durées, le nombre d’heures prévues, les prédécesseurs, les dates de début et d’achèvement, ainsi que les affectations afin de s’assurer que tout est précis et correctement défini. Une fois le projet actif, la personne gestionnaire du projet recevra des notifications en fonction des paramètres globaux et personnels. Le projet apparaîtra alors dans les rapports et les filtres pour les projets actifs. Cette opération marque le début officiel du travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438985/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 

@@ -20,7 +20,7 @@ Dans cette vidéo, vous apprendrez à :
 * Effectuer vos propres mises à jour des demandes d’approbation
 * Obtenir les notifications
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440139/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 <!--
 learn more URLS

@@ -79,7 +79,7 @@ Dans cette vidéo, vous apprendrez à :
 * Effectuer une demande
 * Afficher les demandes envoyées
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413114/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Éléments en attente d’approbation
 
