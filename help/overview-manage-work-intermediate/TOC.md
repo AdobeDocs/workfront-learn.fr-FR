@@ -17,7 +17,7 @@ ht-degree: 63%
 # Gérer le travail - intermédiaire {#manage-work-intermediate}
 
 + [Gérer le travail - intermédiaire](overview.md)
-+ Gérer le travail - {#manage-work-intermediate} intermédiaire
++ Gérer le travail - intermédiaire {#manage-work-intermediate}
    + Modèles de projet {#project-templates}
       + [Créer un modèle de projet et découvrir les plans directeurs](create-a-project-template.md)
       + [Créer un projet directement à partir d’un modèle](create-a-project-directly-from-a-template.md)
@@ -37,7 +37,7 @@ ht-degree: 63%
       + [Appliquer des jalons](apply-milestones.md)
       + [Afficher les jalons](view-milestones.md)
 
-   + Utilisation des {#how-to-work-with-issues} d&#39;événements
+   + Utilisation des d&#39;événements {#how-to-work-with-issues}
       + [Gérer le travail non planifié](handle-unplanned-work.md)
       + [Effectuer une demande](make-a-request.md)
       + [Rechercher et gérer des demandes](find-requests.md)
@@ -47,7 +47,7 @@ ht-degree: 63%
       + [Convertir un problème/une requête en une tâche.](convert-issues-to-other-work-items.md)
       + [Rapport sur les problèmes](report-on-issues.md)
 
-   + Creuser des {#digging-deeper} plus profondes
+   + Creuser des plus profondes {#digging-deeper}
       + [Comprendre et gérer les types de durée et les contraintes de tâche](understand-and-manage-duration-types-and-task-constraints.md)
       + [Compendre les prédécesseurs multi-projets](understand-cross-project-predecessors.md)
       + [Prédécesseurs avancés](advanced-predecessors.md)

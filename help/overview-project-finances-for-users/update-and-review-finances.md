@@ -1,6 +1,6 @@
 ---
 title: Mettre à jour et réviser les finances
-description: Apprenez à examiner les informations financières associées à un projet dans  [!DNL  Workfront].
+description: Apprenez à examiner les informations financières associées à un projet dans  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

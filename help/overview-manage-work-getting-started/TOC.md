@@ -17,8 +17,8 @@ ht-degree: 69%
 # Gérer le travail - Prise en main {#manage-work-getting-started}
 
 + [Gérer le travail - Prise en main](overview.md)
-+ Gérer le travail - {#manage-work-getting-started} de prise en main
-   + Création d’un {#create-a-project} de projet
++ Gérer le travail - de prise en main {#manage-work-getting-started}
+   + Création d’un de projet {#create-a-project}
       + [Comprendre les bases de la création de projets](understand-basic-project-creation.md)
       + [Convertir un problème/une demande en projet](create-a-project-from-a-request.md)
       + [Découvrir quatre façons de créer un projet](understand-other-ways-to-create-projects.md)
@@ -39,7 +39,7 @@ ht-degree: 69%
       + [Comprendre l’[!UICONTROL effort de travail]](understand-work-effort.md)
       + [Activer un projet](take-a-project-live.md)
 
-   + Gestion d’un {#manage-a-project} de projet
+   + Gestion d’un de projet {#manage-a-project}
       + [Commencer avec la gestion d’un projet](getting-started-manage-a-project.md)
       + [Rechercher des projets](find-projects.md)
       + [Partager un projet](share-a-project.md)
