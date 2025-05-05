@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
+source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
 workflow-type: tm+mt
-source-wordcount: '2430'
-ht-degree: 95%
+source-wordcount: '2384'
+ht-degree: 96%
 
 ---
 
@@ -72,8 +72,8 @@ ht-degree: 95%
       + [Prendre en charge une instance Adobe Workfront existante](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
 
    + Finances du projet {#project-finances}
-      + [Comprendre les mesures de performances](/help/manage-work/project-finances/understand-performance-metrics.md)
-      + [Configurer des valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Comprendre les mesures de performance](/help/manage-work/project-finances/understand-performance-metrics.md)
+      + [Configurer les valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Configurer les taux de change](/help/manage-work/project-finances/set-up-exchange-rates.md)
       + [Configurer les types de dépenses](/help/manage-work/project-finances/set-up-expense-types.md)
       + [Comprendre l’accès financier](/help/manage-work/project-finances/understand-financial-access.md)
@@ -114,7 +114,7 @@ ht-degree: 95%
       + [Rechercher des projets](/help/manage-work/projects/find-projects.md)
       + [Partager un projet](/help/manage-work/projects/share-a-project.md)
       + [Comprendre l’équipe de projet](/help/manage-work/projects/understand-the-project-team.md)
-      + [Comprendre la communication d’un projet](/help/manage-work/projects/understand-project-communication.md)
+      + [Comprendre la communication autour d’un projet](/help/manage-work/projects/understand-project-communication.md)
       + [Afficher des informations sur le projet](/help/manage-work/projects/view-project-information.md)
       + [Suivre l’avancement global du projet](/help/manage-work/projects/track-overall-project-progress.md)
       + [Suivre la progression du travail avec les mesures de projet](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
@@ -124,10 +124,10 @@ ht-degree: 95%
    + Tâches {#tasks}
       + [Créer des tâches](/help/manage-work/tasks/how-to-create-tasks.md)
       + [Comprendre les tâches parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [Travailler avec des tâches](/help/manage-work/tasks/work-with-tasks.md)
+      + [Utiliser des tâches](/help/manage-work/tasks/work-with-tasks.md)
       + [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
-      + [Découvrez comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Découvrir comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
       + [Comprendre l’[!UICONTROL effort de travail]](/help/manage-work/tasks/understand-work-effort.md)
 
@@ -138,13 +138,13 @@ ht-degree: 95%
       + [Gérer les affectations de problèmes](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [Mettre à jour une requête](/help/manage-work/issues-requests/update-a-request.md)
       + [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Convertir un problème/une requête en une tâche.](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Rapport sur les problèmes](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Files d’attente des demandes {#request-queues}
       + [Comprendre les files d’attente de demandes](/help/manage-work/request-queues/understand-request-queues.md)
-      + [Créer une file d’attente de demandes](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [Comprendre les paramètres d’un flux de requêtes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Créer une file d’attente des demandes](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [Comprendre les paramètres d’un flux de demandes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Créer un flux de demandes](/help/manage-work/request-queues/create-a-request-flow.md)
       + [Créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Réponses aux questions courantes sur les files d’attente de demandes](/help/manage-work/request-queues/request-queue-faq.md)
@@ -152,11 +152,11 @@ ht-degree: 95%
    + Portefeuilles {#portfolios}
       + [Comprendre les portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Comprendre l’[!UICONTROL analyse de rentabilité]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Présentation de [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Comprendre l’[!UICONTROL optimisateur de portfolio]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Créer un processus d’approbation global et à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [Appliquer un processus d&#39;approbation des événements dans une file d&#39;attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
+      + [Appliquer un processus d’approbation des problèmes dans une file d’attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Examiner et approuver les travaux numériques](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Appliquer des jalons](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
@@ -575,17 +575,7 @@ ht-degree: 95%
 
 + Page d’accueil {#home}
    + [Supprimer, ajouter et réorganiser des widgets dans Accueil](/help/workfront-home/remove-add-and-rearrange-widgets.md)
-   + [Trouver votre travail](/help/workfront-home/find-your-work-in-workfront-home.md)
-   + [Organiser votre liste de tâches](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
-   + [Définir la priorité de votre travail](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
-   + [Indiquer le statut du travail](/help/workfront-home/indicate-work-status-in-workfront-home.md)
-   + [Communiquer sur le travail](/help/workfront-home/communicate-about-work-in-workfront-home.md)
-   + [Journaliser les heures au travail](/help/workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [Marquer le travail affecté comme terminé](/help/workfront-home/mark-assigned-work-as-complete.md)
-   + [Approuver le travail dans [!UICONTROL Accueil]](/help/workfront-home/approve-work-in-workfront-home.md)
-   + [Collaborer sur un travail avec [!UICONTROL Mes mises à jour]](/help/workfront-home/collaborate-on-work-with-my-updates.md)
-   + [Vérifier le travail dans [!UICONTROL Mes mises à jour] ou [!UICONTROL Accueil]](/help/workfront-home/review-work-in-my-updates-or-workfront-home.md)
-   + [Comprendre les mises à jour et les notifications](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
+
 
 + Agile {#agile}
 
