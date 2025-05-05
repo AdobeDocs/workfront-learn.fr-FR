@@ -37,5 +37,5 @@ La progression de votre objectif est un bon moyen de vous faire une idée de son
 
 >[!TIP]
 >
->Pour plus d’informations sur les formules utilisées pour calculer la progression de l’objectif, consultez cet article : [Présentation de la progression et de la condition des objectifs dans Adobe Workfront Goals](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold?lang=fr).
+>Pour plus d’informations sur les formules utilisées pour calculer la progression de l’objectif, consultez cet article : [Présentation de la progression et de la condition des objectifs dans Adobe Workfront Goals](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=fr#overview-of-goal-progress-and-threshold?lang=fr).
 

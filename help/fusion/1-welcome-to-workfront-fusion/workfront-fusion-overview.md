@@ -62,4 +62,4 @@ Les instructions pas à pas sont fournies pour vous aider à accomplir les exerc
 
 [Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
 
-Il existe également une [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) où vous pouvez poser des questions.
+Il existe également une [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=fr) où vous pouvez poser des questions.

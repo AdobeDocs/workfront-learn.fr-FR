@@ -26,7 +26,7 @@ Démarrez votre parcours Workfront en apprenant à créer et à planifier des pr
 
 Dans ce tutoriel, vous apprendrez à créer, planifier et gérer un projet, ainsi qu’à le fermer.
 
-Après avoir terminé ce tutoriel, nous vous recommandons d’[Gérer le travail - intermédiaire](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) pour affiner davantage vos compétences en matière de gestion de projet.
+Après avoir terminé ce tutoriel, nous vous recommandons d’[Gérer le travail - intermédiaire](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=fr) pour affiner davantage vos compétences en matière de gestion de projet.
 
 >[!PREREQUISITES]
 >

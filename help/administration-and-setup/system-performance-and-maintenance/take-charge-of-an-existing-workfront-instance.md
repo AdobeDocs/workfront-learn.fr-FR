@@ -98,7 +98,7 @@ En passant en revue chaque phase, et avec l’aide de la liste de contrôle des 
 </br>
 
 Vous trouverez des informations supplémentaires ci-dessous :
-* [Webinaire : Conseils pour reprendre la main sur une instance héritée](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?lang=fr)
+* [Webinaire : Conseils pour reprendre la main sur une instance héritée](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=fr&lang=fr)
 * [Définition des objectifs de votre mise en œuvre Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=fr)
-* [Article de blog : parrainage de la direction et valeur pour le leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/518353?lang=fr)
-* [Article de blog : KPI Adobe Workfront - Introduction](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/549001?lang=fr)
+* [Article de blog : parrainage de la direction et valeur pour le leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/518353?profile.language=fr&lang=fr)
+* [Article de blog : KPI Adobe Workfront - Introduction](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/549001?profile.language=fr&lang=fr)

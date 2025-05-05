@@ -38,7 +38,7 @@ Explorez Workfront en profondeur pour en savoir plus sur la manière de tirer le
 >
 >* Bonne compréhension de l’utilisation de Workfront
 >* Type de licence standard avec droits de création de projets activés
->* [Gérer le travail - Prise en main](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [Gérer le travail - Prise en main](https://experienceleague.adobe.com/?lang=fr&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Modèles de projet
