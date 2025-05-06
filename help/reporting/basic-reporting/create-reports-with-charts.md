@@ -1,6 +1,6 @@
 ---
 title: Créer des rapports avec des graphiques
-description: Découvrez comment les graphiques peuvent améliorer la visualisation des données et comment utiliser les outils de graphique dans Workfront.
+description: Les graphiques améliorent la visualisation des données en organisant les informations sur les données par le biais de filtres, de regroupements et de formats de colonnes empilés personnalisables, ce qui rend l’analyse plus claire et plus exploitable.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,45 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
+last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '334'
-ht-degree: 100%
+source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+workflow-type: tm+mt
+source-wordcount: '613'
+ht-degree: 48%
 
 ---
 
 # Créer des rapports avec des graphiques
 
-Dans cette vidéo, vous apprendrez :
+La vidéo explique comment utiliser des graphiques pour visualiser efficacement les données, en particulier pour effectuer le suivi des tâches du projet. &#x200B; Elle illustre la création de deux types de rapports dans Workfront :
 
-* Comment les graphiques peuvent améliorer la visualisation des données
-* Comment utiliser des outils de graphique Workfront
+**Rapport Tâches en retard par projet :**
+
+* Commencez avec un rapport de liste et appliquez des filtres pour afficher uniquement les tâches incomplètes et en retard dans les projets actuels. &#x200B;
+* Regroupez les tâches par nom de projet et créez un graphique en secteurs pour visualiser la répartition des tâches en retard entre les projets. &#x200B;
+* Définissez le graphique comme onglet par défaut pour un accès plus facile. &#x200B;
+
+**Rapport Tâches par projet et Statut d&#39;avancement :**
+
+* Copiez le premier rapport et ajoutez un autre regroupement pour l&#39;état d&#39;avancement de la tâche.
+* Supprimez les filtres pour inclure toutes les tâches et afficher leur progression pendant l’exécution du projet.
+* Utilisez un graphique à colonnes empilées pour afficher le nombre total de tâches par projet, avec des piles représentant différents statuts d’avancement.
+* Personnalisez les couleurs si nécessaire et enregistrez le rapport.
+
+La vidéo montre comment des graphiques tels que les secteurs et les graphiques à colonnes empilés peuvent fournir des informations sur la distribution des tâches et les performances des projets, ce qui permet aux utilisateurs de comparer les projets et de comprendre visuellement la progression des tâches. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+
+## Points clés à retenir
+
+* **Les graphiques améliorent la clarté des données** : la visualisation des données avec des graphiques, tels que les graphiques à secteurs ou à colonnes, facilite la compréhension de la répartition des tâches et de l’avancement du projet par rapport aux rapports de liste. &#x200B;
+* **Filtrage pour obtenir des informations spécifiques** : l’application de filtres (par exemple, pour les tâches incomplètes ou en retard dans les projets actuels) permet de se concentrer sur les données pertinentes pour une analyse ciblée. &#x200B;
+* **Regroupement pour une meilleure organisation** : le regroupement des tâches par nom de projet ou statut d’avancement organise les données de manière efficace, ce qui permet des comparaisons significatives entre les projets. &#x200B;
+* **Options de personnalisation des graphiques** : les utilisateurs peuvent sélectionner des types de graphiques (par exemple, circulaire, à colonnes, à barres) et personnaliser les couleurs pour s’aligner sur les préférences ou l’identité graphique. &#x200B;
+* **Graphiques à colonnes empilés pour des informations détaillées** : les graphiques à colonnes empilés fournissent une vue complète de l’avancement des tâches dans les projets, présentant à la fois le total des tâches et leurs états dans une seule visualisation.
+
 
 ## Activités Créer des rapports avec des graphiques
 
