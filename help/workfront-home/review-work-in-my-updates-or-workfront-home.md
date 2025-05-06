@@ -1,6 +1,6 @@
 ---
 title: Vérifier le travail dans  [!DNL My Updates]  ou  [!DNL Home]
-description: '[!DNL  Workfront] propose deux emplacements pour accéder au travail qui vous est affecté à des fins de révision et d [!DNL My Updates] approbation  [!DNL Home] '
+description: '[!DNL &#x200B; Workfront] propose deux emplacements pour accéder au travail qui vous est affecté à des fins de révision et d [!DNL My Updates] approbation  [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
