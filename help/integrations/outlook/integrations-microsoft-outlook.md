@@ -19,7 +19,7 @@ ht-degree: 70%
 
 # Installer le complément Microsoft Outlook
 
-Découvrez comment installer le complément Microsoft Outlook  pour intégrer le calendrier Microsoft Outlook **** au **[!DNL Workfront Home calendar]**.
+Découvrez comment installer le complément Microsoft Outlook  pour intégrer le calendrier Microsoft Outlook **&#x200B;**&#x200B;au **[!DNL Workfront Home calendar]**.
 
 Vous pouvez configurer les paramètres **[!DNL Workfront Home calendar]** pour effectuer les opérations suivantes :
 
