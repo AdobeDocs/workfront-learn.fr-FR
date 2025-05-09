@@ -24,7 +24,7 @@ La vidéo explique comment utiliser les éléments de reporting Workfront (filtr
 
 La vidéo explique également comment personnaliser les éléments de reporting et les partager avec d’autres personnes. Ces outils permettent aux utilisateurs et utilisatrices d’adapter les rapports à leurs besoins, pour une visibilité et une gestion meilleures.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447790/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 
