@@ -2,7 +2,7 @@
 title: Comprendre le mode texte de base pour les filtres
 description: Apprenez ce qu’est le mode texte, ce qu’est le camel case, et quelques modes texte de base « plug and play » que vous pouvez utiliser dans vos filtres de rapport dans Workfront.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -12,8 +12,8 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Quelques modes texte de base « plug and play » que vous pouvez utiliser dans vos filtres de rapport :
 
->[!VIDEO](https://video.tv.adobe.com/v/3412685/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Activités Comprendre le mode texte de base pour les filtres
 
