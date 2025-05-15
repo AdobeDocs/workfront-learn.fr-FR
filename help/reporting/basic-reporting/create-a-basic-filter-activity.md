@@ -39,7 +39,7 @@ Vous trouverez ci-dessous des instructions détaillées.
 1. Cliquez sur **[!UICONTROL Ajouter une règle de filtre]**.
 1. Cliquez sur le champ **Sélectionner un champ** et commencez à saisir les mots « [!UICONTROL nom du portefeuille] ». Sélectionnez ensuite [!UICONTROL Nom] dans la source du champ [!UICONTROL Portfolio].
 1. Laissez l’opérateur [!UICONTROL Égal] en l’état.
-1. Saisissez « [!UICONTROL  marketing ] » dans le champ de recherche.
+1. Saisissez « [!UICONTROL &#x200B; marketing &#x200B;] » dans le champ de recherche.
 1. Sélectionnez [!UICONTROL Portfolio marketing] en supposant que vous ayez un portfolio portant ce nom que vous souhaitez filtrer. Si ce n’est pas le cas, utilisez simplement la fonctionnalité de suggestion automatique pour trouver le portfolio que vous souhaitez.
 1. Cliquez sur **[!UICONTROL Enregistrer le filtre]**.
 
