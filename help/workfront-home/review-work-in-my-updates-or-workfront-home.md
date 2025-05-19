@@ -1,6 +1,6 @@
 ---
 title: Vérifier le travail dans  [!DNL My Updates]  ou  [!DNL Home]
-description: '[!DNL &#x200B; Workfront] propose deux emplacements pour accéder au travail qui vous est affecté à des fins de révision et d [!DNL My Updates] approbation  [!DNL Home] '
+description: '[!DNL  Workfront] fournit deux emplacements pour accéder aux tâches qui vous sont affectées à des fins de révision et d’approbation :  [!DNL My Updates]  et  [!DNL Home] .'
 feature: Work Management
 type: Tutorial
 role: User
@@ -13,9 +13,9 @@ exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 hide: true
 hidefromtoc: true
 source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '191'
+ht-degree: 100%
 
 ---
 

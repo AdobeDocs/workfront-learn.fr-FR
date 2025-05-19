@@ -1,6 +1,6 @@
 ---
 title: Installer le module complémentaire [!UICONTROL Microsoft Outlook]
-description: Découvrez comment installer le [!UICONTROL complément Microsoft Outlook] pour intégrer le calendrier Microsoft Outlook au calendrier d'accueil de Workfront.
+description: Découvrez comment installer le [!UICONTROL module complémentaire Microsoft Outlook] pour intégrer le calendrier Microsoft Outlook au calendrier d’accueil de Workfront.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
 source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
-# Installer le complément Microsoft Outlook
+# Installer le module complémentaire Microsoft Outlook
 
-Découvrez comment installer le complément Microsoft Outlook  pour intégrer le calendrier Microsoft Outlook **&#x200B;**&#x200B;au **[!DNL Workfront Home calendar]**.
+Découvrez comment installer le [!UICONTROL module complémentaire Microsoft Outlook] pour intégrer le **calendrier Microsoft Outlook** au **[!DNL Workfront Home calendar]**.
 
-Vous pouvez configurer les paramètres **[!DNL Workfront Home calendar]** pour effectuer les opérations suivantes :
+Vous pouvez configurer les paramètres du **[!DNL Workfront Home calendar]** pour effectuer les opérations suivantes :
 
 * Effectuer l’intégration à une version web d’[!DNL Outlook] dans [!DNL Office 365] hébergé dans le cloud ou [!DNL Outlook Live]. Vous pouvez afficher tous les événements de votre calendrier [!DNL Outlook] et tous les calendriers associés que vous sélectionnez, tels que les calendriers d’anniversaires et de vacances, dans votre [!UICONTROL calendrier de page d’accueil] de [!DNL Workfront].
 
@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Installer le complément Microsoft Outlook
 
->[!VIDEO](https://video.tv.adobe.com/v/3421307/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >
