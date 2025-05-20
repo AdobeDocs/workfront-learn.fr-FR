@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '260'
-ht-degree: 100%
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+workflow-type: tm+mt
+source-wordcount: '418'
+ht-degree: 62%
 
 ---
 
@@ -25,7 +26,15 @@ Dans cette vidéo, vous apprendrez :
 * Quand un rapport de matrice peut être utile
 * et comment créer un rapport de matrice
 
->[!VIDEO](https://video.tv.adobe.com/v/3448185/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## Points clés à retenir
+
+* **Structure de rapport de matrice :** les rapports de matrice organisent les données en lignes et en colonnes, avec des totaux de lignes et de colonnes automatiques. &#x200B; Elles sont idéales pour le suivi de mesures telles que les heures travaillées, les coûts et les recettes. &#x200B;
+* **Configuration des filtres :** utilisez les filtres pour vous concentrer sur des données spécifiques, telles que les heures travaillées au cours du dernier trimestre par les utilisateurs d’une équipe locale particulière. &#x200B; La « source du champ du propriétaire » permet d’identifier les membres de l’équipe pertinents. &#x200B;
+* **Options de regroupement :** dans notre exemple, les lignes sont regroupées par « nom du propriétaire » (personne qui a travaillé les heures), tandis que les colonnes sont regroupées par « date de saisie des heures » (par mois et par semaine). &#x200B;
+* **Données résumées :** les colonnes telles que les heures, le coût réel et le chiffre d’affaires sont résumées par défaut, afin de garantir l’affichage des totaux dans la matrice. Ces valeurs par défaut peuvent être désactivées, si vous le souhaitez. &#x200B;
+* **Intégration de graphiques :** les rapports de matrice peuvent être complétés par des graphiques pour une visualisation des données alternative, en utilisant les mêmes informations de regroupement. Vous pouvez définir l’onglet de matrice ou l’onglet de graphique comme vue par défaut. &#x200B;
 
 ## Activités Créer un rapport de matrice
 
