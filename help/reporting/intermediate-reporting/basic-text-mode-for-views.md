@@ -12,7 +12,7 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '656'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Un mode texte « plug and play » de base que vous pouvez utiliser dans vos vues
 
->[!VIDEO](https://video.tv.adobe.com/v/3422887/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Activités Comprendre le mode texte des vues
 

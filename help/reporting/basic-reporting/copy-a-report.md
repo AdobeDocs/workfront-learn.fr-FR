@@ -13,7 +13,7 @@ jira: KT-14692
 doc-type: video
 exl-id: aad45ea3-b9dd-4568-a6fe-749640e12878
 source-git-commit: 2075fd3245bbfa07101de6ad511b9af973591728
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Découvrez comment créer rapidement un nouveau rapport en copiant et en modifiant un rapport similaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437047/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
