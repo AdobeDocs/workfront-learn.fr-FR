@@ -40,7 +40,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Un mode texte « plug and play » de base que vous pouvez utiliser dans vos vues
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422887/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Comprendre le mode texte des vues
 

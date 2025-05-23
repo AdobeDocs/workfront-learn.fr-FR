@@ -39,7 +39,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Un mode texte « plug and play » de base que vous pouvez utiliser dans vos groupements
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422896/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Comprendre le mode texte de base pour les regroupements
 

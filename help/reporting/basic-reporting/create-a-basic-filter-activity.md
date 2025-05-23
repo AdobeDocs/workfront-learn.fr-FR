@@ -49,7 +49,7 @@ Dans cette vidéo, vous allez créer un filtre de projet nommé « Mes projets 
 
 Vous trouverez ci-dessous des instructions détaillées.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443381/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Réponse à l’activité 2
 
