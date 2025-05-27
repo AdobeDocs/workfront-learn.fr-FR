@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
+source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2274'
 ht-degree: 96%
 
 ---
@@ -236,28 +236,6 @@ ht-degree: 96%
       + [Comprendre les options supplémentaires de rapport de calendrier](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [À votre tour de créer un rapport de calendrier.](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Analytique améliorée {#enhanced-analytics}
-      + [Un moment avec le produit sur l’[!UICONTROL analytique améliorée]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [Commencer avec [!UICONTROL Analytique améliorée]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Accéder à [!UICONTROL Analytique améliorée]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-      + [Comprendre la navigation de base](/help/reporting/enhanced-analytics/4-basic-navigation.md)
-      + [Comprendre les graphiques de travail et des personnes](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
-      + [Comprendre les filtres](/help/reporting/enhanced-analytics/6-filters-overview.md)
-      + [Comprendre les périodes et les délais](/help/reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-      + [Comprendre les vues de nombre d’heures prévues et de durée](/help/reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [Comprendre les actions : survoler, cliquer et faire glisser, et cliquer](/help/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [Comprendre les KPI](/help/reporting/enhanced-analytics/10-kpis-overview.md)
-      + [Comprendre la navigation et la révision des projets](/help/reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-      + [Exploration approfondie à l’aide des délais et des graphiques supplémentaires](/help/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
-      + [Comprendre la navigation et la révision de l’activité de projet](/help/reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-      + [Exploration approfondie de la navigation](/help/reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-      + [Comprendre l’accès et la révision de l’avancement](/help/reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-      + [Vérifier les tâches en cours](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
-      + [Agir en effectuant des mises à jour](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-      + [Comprendre le graphique d’activité par équipe](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [Comprendre un cas d’utilisation de comparaison des KPI](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
-      + [Comprendre un cas d’utilisation d’utilisateur final](/help/reporting/enhanced-analytics/22-end-user-use.md)
-      + [Comprendre les conseils du service de conseil](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + Gérer les ressources {#manage-resources}
    + Gestion des ressources {#resource-management}
@@ -356,7 +334,7 @@ ht-degree: 96%
       + [Créer de la visibilité avec l’intégration  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
-      + [Installer le complément Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
+      + [Installer le module complémentaire Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
       + [Vue d’ensemble d’Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=fr)
