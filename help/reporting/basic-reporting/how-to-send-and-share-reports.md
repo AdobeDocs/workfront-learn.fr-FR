@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '216'
-ht-degree: 100%
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 61%
 
 ---
 
@@ -26,7 +27,16 @@ Dans cette vidéo, vous apprendrez :
 * Partager des rapports avec n’importe qui
 * Ce que les destinataires peuvenconsulter et faire avec un rapport Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3447814/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## Points clés à retenir
+
+* **Envoi de rapports à des utilisateurs externes :** vous pouvez envoyer des rapports à des utilisateurs non Workfront en saisissant leurs adresses e-mail, ce qui facilite le partage de données en dehors de votre organisation. &#x200B;
+* **Visibilité du contrôle des droits d’accès :** la vue du destinataire du rapport dépend des droits d’accès que vous avez définis, ce qui garantit la sécurité des données et la visibilité appropriée. &#x200B;
+* **Diffusion répétée pour les instantanés :** diffusions planifiées fournissent des instantanés figés des données à des moments spécifiques, ce qui est utile pour suivre les tendances et conserver un historique des données du projet. &#x200B;
+* **Partage de rapports avec des équipes :** les rapports peuvent être partagés avec des individus, des équipes ou des fonctions, ce qui permet d’obtenir des droits d’affichage ou de gestion. &#x200B; Les rapports partagés apparaissent dans la section Utilisateurs « Partagés avec moi ». &#x200B;
+* **Partage public et à l’échelle du système :** les rapports peuvent être partagés par le biais de liens publics pour les utilisateurs externes ou rendus visibles à l’échelle du système pour tous les utilisateurs et utilisatrices de Workfront, ce qui offre une certaine flexibilité dans le partage de données.
+
 
 ## Activités Envoyer et partager des rapports
 
