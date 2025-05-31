@@ -27,4 +27,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment exécuter votre rapport avec les droits d’accès d’un utilisateur spécifique
 * Configuration et utilisation des invites de rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445865/?quality=12&learn=on&enablevpops&captions=fre_fr)
