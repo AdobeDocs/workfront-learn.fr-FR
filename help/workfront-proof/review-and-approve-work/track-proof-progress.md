@@ -1,6 +1,6 @@
 ---
 title: Suivre la progression du BAT
-description: Découvrez comment utiliser les indicateurs [!UICONTROL SOCD], la progression de la relecture et les rapports pour suivre la progression d’un BAT dans  [!DNL  Workfront].
+description: Découvrez comment utiliser les indicateurs [!UICONTROL SOCD], la progression de la relecture et les rapports pour suivre la progression d’un BAT dans  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ Pour afficher la progression de la relecture sur [!DNL Workfront], vous devez di
 
 Obtenez une vue de haut niveau de la progression du BAT dans le processus de révision et d’approbation en utilisant les icônes [!UICONTROL SOCD] dans la liste [!UICONTROL Documents]. Ces icônes indiquent les actions spécifiques effectuées sur le BAT.
 
-![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL  Workfront] avec les icônes [!UICONTROL SOCD] en surbrillance.](assets/manage-proofs-socd.png)
+![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL &#x200B; Workfront] avec les icônes [!UICONTROL SOCD] en surbrillance.](assets/manage-proofs-socd.png)
 
 Les icônes indiquent le travail effectué sur un BAT entre le moment où vous envoyez le BAT aux destinataires et le moment où ils ou elles prennent une décision sur le BAT.
 
@@ -47,7 +47,7 @@ La [!UICONTROL SOCD] dans la liste [!UICONTROL Documents], dans le panneau de r�
 
 Par exemple, si vous disposez de trois personnes réalisant la révision/l’approbation et que seules deux d’entre elles ont examiné le BAT et apporté des commentaires, les icônes [!UICONTROL SOCD] indiqueront que le BAT a été envoyé ([!UICONTROL S]) et ouvert ([!UICONTROL O]), mais pas que des commentaires ont été apportés ([!UICONTROL C]).
 
-**** Une fois qu’une décision finale (par exemple, Approuvée ou Rejetée) est prise sur une épreuve, tous les indicateurs SOCD peuvent apparaître en vert pour les utilisateurs à cette étape, même si des actions individuelles (telles que l’ouverture de l’épreuve ou la formulation de commentaires) n’ont pas été effectuées. Il s’agit d’un comportement à l’échelle du système conçu pour refléter l’achèvement de l’étape globale, et non l’engagement individuel.
+**&#x200B;**&#x200B;Une fois qu’une décision finale (par exemple, Approuvée ou Rejetée) est prise sur une épreuve, tous les indicateurs SOCD peuvent apparaître en vert pour les utilisateurs à cette étape, même si des actions individuelles (telles que l’ouverture de l’épreuve ou la formulation de commentaires) n’ont pas été effectuées. Il s’agit d’un comportement à l’échelle du système conçu pour refléter l’achèvement de l’étape globale, et non l’engagement individuel.
 
 **Avant l’enregistrement d’une décision** chaque indicateur SOCD reflète l’activité réelle de l’utilisateur (par exemple, blanc si aucune action n’a été entreprise, vert si l’action a été effectuée). Une fois la décision prise, le système suppose que le workflow est terminé et met à jour tous les indicateurs en conséquence.
 
@@ -59,9 +59,9 @@ Si vous souhaitez connaître l’état d’avancement de chaque destinataire du�
 
 Le statut du BAT est basé sur le statut des destinataires du BAT de l’étape. Le statut général du BAT est visible sur la page [!UICONTROL Documents], à droite des indicateurs [!UICONTROL SOCD], ce qui vous permet de savoir facilement si une décision a été prise à propos du BAT.
 
-![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL  Workfront] avec le statut général du BAT en surbrillance.](assets/manage-proofs-overall-status.png)
+![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL &#x200B; Workfront] avec le statut général du BAT en surbrillance.](assets/manage-proofs-overall-status.png)
 
-Le statut du BAT indique le statut général du BAT. Par exemple, si deux destinataires ont approuvé le BAT, leur statut individuel indique [!UICONTROL Approuvé]. Cependant, le troisième destinataire n&#39;a pas encore pris de décision, le statut de cette personne est donc [!UICONTROL  En attente ]. Par conséquent, le statut général est [!UICONTROL En attente].
+Le statut du BAT indique le statut général du BAT. Par exemple, si deux destinataires ont approuvé le BAT, leur statut individuel indique [!UICONTROL Approuvé]. Cependant, le troisième destinataire n&#39;a pas encore pris de décision, le statut de cette personne est donc [!UICONTROL &#x200B; En attente &#x200B;]. Par conséquent, le statut général est [!UICONTROL En attente].
 
 Si des statuts personnalisés ont été configurés pour votre organisation, ce sont ceux qui seront utilisés. Dans le cas contraire, les options de statut standard sont les suivantes :
 
@@ -79,11 +79,11 @@ Vous pouvez également exploiter les fonctionnalités de reporting de [!DNL Work
 
 Un rapport d’approbation de BAT vous aide à suivre les approbations en suspens afin de vous assurer que les délais sont respectés.
 
-![Une image d’un rapport d’approbation de BAT dans [!DNL  Workfront].](assets/proof-approval-report.png)
+![Une image d’un rapport d’approbation de BAT dans [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Un rapport de version de document vous permet de gérer et de suivre les versions de BAT.
 
-![Une image d’un rapport de version de document dans [!DNL  Workfront].](assets/document-version-report.png)
+![Une image d’un rapport de version de document dans [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Nous vous recommandons de travailler avec votre consultant ou consultante [!DNL Workfront] pour créer des rapports qui répondent aux besoins de votre organisation. Certains de ces rapports requièrent une certaine connaissance des rapports en mode texte de [!DNL Workfront's].
 
