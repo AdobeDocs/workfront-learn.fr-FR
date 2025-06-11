@@ -13,9 +13,9 @@ last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '985'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ Créez un nouveau projet dans Workfront pour chaque ligne du fichier CSV de la 
    ![Conception initiale de scénario Image 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. Sur la page suivante, recherchez Workfront et sélectionnez cette application. Cliquez ensuite sur Continuer.
-1. Dans la partie supérieure gauche de l’écran du concepteur de scénarios, renommez votre scénario en « Conception de scénario initiale »
+1. En haut à gauche de l’écran du concepteur de scénario, renommez votre scénario « Conception initiale de scénario ».
 1. Cliquez sur le module déclencheur vide au centre de l’écran et sélectionnez l’application Workfront, puis le module Télécharger le document.
 
    **Authentifiez la connexion du module à votre compte Workfront.**
@@ -56,7 +56,7 @@ Créez un nouveau projet dans Workfront pour chaque ligne du fichier CSV de la 
 
    ![Conception initiale de scénario Image 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Saisissez l’URL de **votre compte de lecteur de test Workfront**, puis cliquez sur Suivant.
+1. Saisissez l’URL de **votre compte d’essai Workfront**, puis cliquez sur Suivant.
 
    ![Conception initiale de scénario Image 5](../12-exercises/assets/initial-scenario-design-5.png)
 
