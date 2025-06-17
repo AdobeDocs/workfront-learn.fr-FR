@@ -13,26 +13,26 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '974'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # Créer une vue de base
 
-La vidéo explique comment créer et personnaliser des affichages dans Workfront pour afficher des informations spécifiques sur les éléments d’une liste, tels que les projets, les tâches, les événements et les documents. &#x200B; Les affichages permettent aux utilisateurs d’afficher des détails tels que le nom, la description, le statut et d’autres champs liés aux éléments. &#x200B;
+La vidéo explique comment créer et personnaliser des affichages dans Workfront pour afficher des informations spécifiques sur les éléments sous forme de liste, tels que les projets, les tâches, les problèmes et les documents. Les affichages permettent aux utilisateurs et utilisatrices d’afficher des détails tels que le nom, la description, le statut et d’autres champs liés aux éléments.
 
 La vidéo souligne la flexibilité des vues dans Workfront et fournit des instructions détaillées sur leur création, leur personnalisation et leur gestion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450240/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## Points clés à retenir
 
-* **Personnalisation des vues** : les utilisateurs et utilisatrices peuvent modifier des vues existantes ou en créer de nouvelles en ajoutant, en supprimant ou en réarrangeant des colonnes pour afficher des informations spécifiques, telles que le statut du projet ou le budget.
-* **Modification en ligne** : certains champs d’une vue Liste peuvent être mis à jour directement sans ouvrir d’éléments individuels, ce qui accélère la modification. &#x200B;
-* **Création de vues à partir de zéro** : les utilisateurs peuvent concevoir des vues pour répondre à des besoins spécifiques, tels que le suivi de l&#39;intégrité du projet, en ajoutant des colonnes pertinentes telles que le budget, le coût réel et l&#39;état d&#39;avancement. &#x200B;
-* **Partage et gestion des vues** : les vues personnalisées peuvent être partagées avec les membres de l’équipe à des fins de collaboration ou supprimées lorsqu’elles ne sont plus nécessaires.
+* **Personnalisation des vues** : les utilisateurs et utilisatrices peuvent modifier des vues existantes ou en créer de nouvelles en ajoutant, en supprimant ou en réagençant des colonnes pour afficher des informations spécifiques, telles que le statut du projet ou le budget.
+* **Modification en ligne** : certains champs d’une vue Liste peuvent être mis à jour directement sans ouvrir d’éléments individuels, ce qui accélère la modification.
+* **Création de vues à partir de zéro** : les utilisateurs et utilisatrices peuvent concevoir des vues pour répondre à des besoins spécifiques, tels que le suivi de l’intégrité du projet, en ajoutant des colonnes pertinentes telles que le budget, le coût réel et le statut d’avancement.
+* **Partage et gestion des vues** : les vues personnalisées peuvent être partagées avec les membres de l’équipe à des fins de collaboration ou être supprimées lorsqu’elles ne sont plus nécessaires.
 
 ## Activités Créer une vue de base
 
@@ -70,7 +70,7 @@ Pointez sur chacune des icônes de la colonne [!UICONTROL Icônes de statut] pou
 
 ### Activité 2 : créer une vue de jalon
 
-Si vous utilisez des jalons, cette vue est le moyen le plus simple d’afficher les jalons par nom dans votre liste de tâches, et de les ajouter ou de les supprimer d’une tâche à l’aide de la modification en ligne.
+Si vous utilisez des jalons, cette vue est la méthode la plus simple pour les afficher par nom dans la liste des tâches et les ajouter ou les modifier à l’aide de la modification en ligne.
 
 Créez une vue de tâche nommée « Vue de jalon » avec les colonnes suivantes :
 
@@ -91,7 +91,7 @@ Créez une vue de tâche nommée « Vue de jalon » avec les colonnes suivante
 1. Dans la liste des tâches d’un projet, accédez au menu déroulant **[!UICONTROL Vue]** et sélectionnez **[!UICONTROL Nouvelle vue]**.
 1. Nommez votre vue « Vue de jalon ».
 1. Cliquez sur la colonne [!UICONTROL Prédécesseurs] pour la sélectionner.
-1. Dans le champ [!UICONTROL Afficher dans cette colonne], cliquez sur l&#39;icône « moins » dans le champ [!UICONTROL Tâche >> Prédécesseurs], puis saisissez « [!UICONTROL nom du jalon] » et cliquez sur « [!UICONTROL Nom] » dans la liste.
+1. Dans le champ [!UICONTROL Afficher dans cette colonne], cliquez sur l’icône « moins » dans le champ [!UICONTROL Tâche >> Prédécesseurs], puis saisissez « [!UICONTROL nom du jalon] » et cliquez sur « [!UICONTROL Nom] » dans la liste.
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ![Une image d’une liste de tâches utilisant une vue de jalon](assets/view-milestone-exercise-2.png)
