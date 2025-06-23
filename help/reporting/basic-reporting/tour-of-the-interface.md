@@ -35,4 +35,4 @@ Dans cette vidéo, vous découvrirez :
 * Informations récapitulatives
 * Et comment créer un élément de calendrier ad hoc
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438760/?quality=12&learn=on&enablevpops&captions=fre_fr)
