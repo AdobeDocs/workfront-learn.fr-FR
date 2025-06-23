@@ -1,6 +1,6 @@
 ---
-title: Créer un rapport de tâche
-description: Découvrez comment créer un rapport de tâche avec un filtre complexe et trouver les rapports que vous créez dans Workfront.
+title: Créer un rapport de tâches
+description: Apprenez à créer un rapport de tâches avec un filtre complexe et à trouver les rapports que vous créez dans Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,27 +13,27 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1116'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
-# Créer un rapport de tâche
+# Créer un rapport de tâches
 
-La vidéo fournit un guide détaillé sur la création d’un rapport personnalisé pour effectuer le suivi des tâches en retard affectées à l’utilisateur connecté. Elle commence par expliquer la nécessité de rapports personnalisés lorsque les filtres, les vues ou les rapports intégrés existants ne répondent pas à des exigences spécifiques. &#x200B; Le rapport est nommé « Tâches qui me sont affectées en retard », avec une description ajoutée pour plus de clarté. &#x200B;
+La vidéo propose un guide détaillé sur la création d’un rapport personnalisé pour effectuer le suivi des tâches en retard affectées à l’utilisateur ou l’utilisatrice connecté. Elle commence par expliquer la nécessité de produire des rapports personnalisés lorsque les filtres, les vues ou les rapports intégrés existants ne répondent pas à des exigences spécifiques. Le rapport est nommé « Tâches en retard qui me sont affectées », et contient une description explicative.
 
-Le rapport qui en résulte permet aux utilisateurs de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes. &#x200B;
+Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448344/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## Points clés à retenir
 
-* **Création d’un rapport personnalisé :** lorsque les filtres existants et les rapports intégrés ne répondent pas à vos besoins, vous pouvez créer un rapport personnalisé à partir de zéro pour vous concentrer sur des données spécifiques, telles que les tâches en retard qui vous ont été affectées. &#x200B;
-* **Configuration des filtres :** utilisez les filtres pour définir des critères de rapport, notamment les tâches en retard, les tâches incomplètes, les projets en cours et les tâches affectées à l’utilisateur connecté. &#x200B;
-* **Colonnes pour le contexte :** ajoutez des colonnes telles que « Peut démarrer » pour identifier les problèmes de dépendance et « Nom du projet » avec des liens hypertexte pour accéder facilement aux projets associés. &#x200B;
-* **Tri par priorité :** les tâches selon la colonne « Dû le » par ordre croissant pour classer par priorité les tâches les plus en retard en haut du rapport. &#x200B;
-* **Accessibilité :** enregistrez le rapport, épinglez-le ou marquez-le comme favori pour un accès rapide, afin d’assurer un suivi et une gestion efficaces des tâches en retard.
+* **Création d’un rapport personnalisé :** lorsque les filtres existants et les rapports intégrés ne répondent pas à vos besoins, vous pouvez créer un rapport personnalisé en intégralité pour vous concentrer sur des données spécifiques, telles que les tâches en retard qui vous ont été affectées.
+* **Configuration des filtres :** utilisez les filtres pour définir des critères de rapport, notamment les tâches en retard, les tâches incomplètes, les projets en cours et les tâches affectées à l’utilisateur ou l’utilisatrice connecté.
+* **Colonnes pour le contexte :** ajoutez des colonnes telles que « Peut démarrer » pour identifier les problèmes de dépendance et « Nom du projet » avec des liens hypertexte pour accéder facilement aux projets associés.
+* **Tri par priorité :** triez les tâches à partir de la colonne « Échéance » par ordre croissant pour placer en priorité les tâches les plus en retard en haut du rapport.
+* **Accessibilité :** enregistrez le rapport, épinglez-le ou marquez-le comme favori pour un accès rapide, afin d’assurer un suivi et une gestion efficaces des tâches en retard.
 
 
 ## Activités Créer un rapport de tâche
@@ -41,8 +41,8 @@ Le rapport qui en résulte permet aux utilisateurs de se concentrer sur les tâc
 >[!TIP]
 >
 >Consultez nos recommandations dans notre [Guide d’utilisation des rapports client Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Vous y trouverez des instructions détaillées pour 10 rapports, prêts à être créés dès aujourd’hui dans votre environnement.
->&#x200B;>Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
->&#x200B;>Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
+>>Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
+>>Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
 
 
 ### Activité 1 : créer un rapport de notes avec des invites
@@ -123,7 +123,7 @@ Il s’agit d’un rapport des problèmes qui affiche tous les problèmes d’un
 
 Ce rapport utilise également un formulaire personnalisé. Pour savoir comment créer un formulaire personnalisé, reportez-vous au tutoriel [Créer et partager un formulaire personnalisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=fr).
 
-Ce formulaire personnalisé doit utiliser les types d&#39;objets Projet et Événement et doit être créé comme suit :
+Ce formulaire personnalisé doit utiliser les types d&#39;objets Projet et Problème et doit être créé comme suit :
 
 Nom : commentaires sur le processus d’administration
 
@@ -137,7 +137,7 @@ Nom : commentaires sur le processus d’administration
    * Notifications de rappel
    * File d’attente des demandes
 1. Nom du processus (champ de texte d’une seule ligne)
-1. Qualité de processus (champ déroulant à sélection unique)
+1. Évaluation des processus (champ déroulant à sélection unique)
    * 1 - Totalement inutile
    * 2 - Pas très utile
    * 3 - Bon mais pourrait être amélioré
