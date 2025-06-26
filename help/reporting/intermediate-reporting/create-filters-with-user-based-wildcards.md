@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '348'
-ht-degree: 100%
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 87%
 
 ---
 
@@ -25,11 +26,11 @@ Dans cette vidéo, vous apprendrez à :
 * Comprendre pourquoi utiliser des caractères génériques
 * Créer un filtre avec un caractère générique basé sur l’utilisateur ou l’utilisatrice
 
->[!VIDEO](https://video.tv.adobe.com/v/3412654/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Utilisez la source et le nom du champ Utilisateurs de l’affectation >> ID lorsque vous créez des filtres qui examinent les informations relatives à l’affectation des tâches ou des problèmes.  Cette option permet d’examiner les utilisateurs et les utilisatrices affectés à la tâche ou au problème, et pas seulement le ou la « propriétaire » ou la personne désignée principale.
+>Utilisez la source et le nom du champ Utilisateurs de l’affectation >> ID lorsque vous créez des filtres qui examinent les informations relatives à l’affectation des tâches ou des problèmes.  Cette option prend en compte tous les utilisateurs affectés à la tâche ou à l’événement, et pas seulement le « propriétaire » ou la personne désignée principale.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ Dans cette vidéo, vous apprendrez à :
 
 ### Activité 1
 
-Vous disposez d’un peu de temps supplémentaire cette semaine, vous voulez donc voir si une personne de votre équipe a besoin d’aide pour réaliser ses tâches. Créez un filtre de tâche pour trouver les tâches qui arrivent à échéance cette semaine et qui ne sont pas terminées.
+Vous disposez d’un peu de temps supplémentaire cette semaine, vous voulez donc voir si une personne de votre équipe a besoin d’aide pour réaliser ses tâches. Créez un filtre de tâches pour rechercher les tâches affectées à votre équipe interne qui sont dues cette semaine et qui ne sont pas encore terminées.
 
 ### Réponse 1
 
