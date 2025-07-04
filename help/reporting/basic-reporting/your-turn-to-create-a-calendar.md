@@ -12,9 +12,9 @@ thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Incluez un autre groupe de calendriers nommé « Problèmes non résolus » mo
 1. Remplacez le champ Date par Dates planifiées.
 1. Définissez le champ Sur le calendrier, afficher sur Date de fin uniquement.
 1. Définissez le champ Passer aux dates réelles lorsque le champ est disponible sur Non.
-1. Dans la section Que souhaitez-vous ajouter au calendrier ? , sélectionnez Tâches. Cliquez ensuite sur le bouton Ajouter des tâches .
+1. Dans la section Que souhaitez-vous ajouter au calendrier ? sélectionnez Tâches. Cliquez ensuite sur le bouton Ajouter des tâches.
 1. Ajoutez trois règles de filtrage :
 
    * Projet > Statut est égal à > Égal à > Actuel
@@ -59,7 +59,7 @@ Incluez un autre groupe de calendriers nommé « Problèmes non résolus » mo
 1. Remplacez le champ Date par Dates planifiées.
 1. Définissez le champ Sur le calendrier, afficher sur Date de fin uniquement.
 1. Définissez le champ Passer aux dates réelles lorsque le champ est disponible sur Non.
-1. Dans la section Que souhaitez-vous ajouter au calendrier ? , sélectionnez Événements. Cliquez ensuite sur le bouton Ajouter des événements .
+1. Dans la section Que souhaitez-vous ajouter au calendrier ? sélectionnez Problèmes. Cliquez ensuite sur le bouton Ajouter des problèmes.
 1. Ajoutez les trois règles de filtrage suivantes :
 
    * Projet > Statut est égal à > Égal à > Actuel
