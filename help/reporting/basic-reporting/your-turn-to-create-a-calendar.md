@@ -1,6 +1,6 @@
 ---
-title: À votre tour de créer un rapport de calendrier.
-description: Découvrez comment créer un calendrier client qui affiche vos tâches et problèmes incomplets.
+title: Activité - Création d’un rapport de calendrier
+description: Cette section contient des instructions détaillées sur la création d'un calendrier client présentant vos tâches et problèmes incomplets.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,18 +11,14 @@ last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
-workflow-type: ht
-source-wordcount: '379'
-ht-degree: 100%
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+workflow-type: tm+mt
+source-wordcount: '362'
+ht-degree: 92%
 
 ---
 
-# À votre tour de créer un rapport de calendrier.
-
-Cette activité vous permettra de pratiquer la création de votre propre calendrier.
-
-## Activité : Créer un calendrier
+# Activité - Création d’un rapport de calendrier
 
 Créez un calendrier client intitulé « Mon travail inachevé ».
 
