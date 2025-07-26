@@ -8,11 +8,12 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: 49bb67fca72deb4f679d6428353e0977cd897ec1
+workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 100%
 
@@ -26,7 +27,7 @@ Dans cette vidéo, vous allez :
 * Découvrir quelques éléments utiles de reporting de problèmes
 * Apprendre à créer votre propre filtre de problèmes
 
->[!VIDEO](https://video.tv.adobe.com/v/3412678/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
 ## Activités Comprendre les filtres de problèmes intégrés
