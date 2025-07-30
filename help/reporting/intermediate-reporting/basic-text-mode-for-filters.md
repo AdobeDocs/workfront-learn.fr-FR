@@ -41,7 +41,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Quelques modes texte de base « plug and play » que vous pouvez utiliser dans vos filtres de rapport :
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412685/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Comprendre le mode texte de base pour les filtres
 
