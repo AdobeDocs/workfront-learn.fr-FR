@@ -46,5 +46,5 @@ Les clientes et clients de Workfront utilisent couramment ces deux ensembles d�
 
 >[!NOTE]
 >
->Pour obtenir la liste complète des expressions et plus d’informations sur chacune d’elles, consultez la page de documentation [Expressions de données calculées](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
+>Pour obtenir la liste complète des expressions et plus d’informations sur chacune d’elles, consultez la page de documentation [Expressions de données calculées](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
 
