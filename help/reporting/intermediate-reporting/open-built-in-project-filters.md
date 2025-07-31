@@ -13,7 +13,7 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: 56fb902f05d11c0fe4058f42f4f81ff50656dd28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Examiner les filtres de projet intégrés pour voir comment ils sont créés
 * Créer votre propre filtre de projet en utilisant ce que vous avez appris
 
->[!VIDEO](https://video.tv.adobe.com/v/3412666/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 ## Activités Comprendre les filtres de projets intégrés
 
