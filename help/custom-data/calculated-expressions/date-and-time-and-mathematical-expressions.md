@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -44,4 +44,7 @@ Les clientes et clients de Workfront utilisent couramment ces deux ensembles d�
 * SUB, SUM, DIV, PROD
 * ARRONDIR
 
-<b>NOTE</b> : pour obtenir la liste complète des expressions et davantage d’informations sur chacune d’entre elles, veuillez consulter la page de documentation « Expressions de données calculées ».
+>[!NOTE]
+>
+>Pour obtenir la liste complète des expressions et plus d’informations sur chacune d’elles, consultez la page de documentation [Expressions de données calculées](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
+
