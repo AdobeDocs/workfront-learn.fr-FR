@@ -1,6 +1,6 @@
 ---
-title: Comprendre le mode texte de base pour les filtres
-description: Apprenez ce qu’est le mode texte, ce qu’est le camel case, et quelques modes texte de base « plug and play » que vous pouvez utiliser dans vos filtres de rapport dans Workfront.
+title: Comprendre le mode Texte de base pour les filtres
+description: Découvrez le mode texte, la casse mixte et un mode de texte de base que vous pouvez utiliser dans vos filtres de rapport dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 100%
+source-wordcount: '423'
+ht-degree: 90%
 
 ---
 
@@ -35,13 +35,13 @@ ht-degree: 100%
 >* Cliquez ici pour accéder à l’[[!UICONTROL Explorateur d’API]](https://developer.adobe.com/workfront/api-explorer/).
 
 
-Dans cette vidéo, vous apprendrez :
+Dans cette vidéo, vous découvrirez :
 
-* En quoi consiste le mode texte
-* En quoi consiste le camel case
-* Quelques modes texte de base « plug and play » que vous pouvez utiliser dans vos filtres de rapport :
+* Mode texte
+* Étui chameau
+* Certains _blocs de code en mode texte_ vous pouvez utiliser dans vos filtres de rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3412685/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Activités Comprendre le mode texte de base pour les filtres
 
