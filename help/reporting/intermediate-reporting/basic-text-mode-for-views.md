@@ -41,7 +41,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Certains blocs de code _mode texte_ que vous pouvez utiliser dans vos vues de rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422887/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Comprendre le mode texte des vues
 

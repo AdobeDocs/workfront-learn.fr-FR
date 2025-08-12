@@ -41,7 +41,7 @@ Dans cette vidéo, vous découvrirez :
 * Étui chameau
 * Certains _blocs de code en mode texte_ vous pouvez utiliser dans vos filtres de rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412685/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Comprendre le mode texte de base pour les filtres
 
