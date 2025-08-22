@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
 workflow-type: tm+mt
-source-wordcount: '2275'
+source-wordcount: '2281'
 ht-degree: 96%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 96%
       + [Mettre en place des rappels automatiques](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
       + [S’abonner à des éléments de travail](/help/administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
 
-   + Créer et gérer des utilisateurs {#create-and-manage-users}
+   + Créer et gérer des utilisateurs et utilisatrices {#create-and-manage-users}
       + [Ajouter des utilisateurs](/help/administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [Modifier les informations d’un utilisateur ou d’une utilisatrice](/help/administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Quand et comment désactiver ou supprimer des utilisateurs et utilisatrices ?](/help/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
@@ -234,7 +234,7 @@ ht-degree: 96%
       + [Comprendre l’interface du rapport de calendrier](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Créer un rapport de calendrier personnalisé](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [Comprendre les options supplémentaires de rapport de calendrier](/help/reporting/basic-reporting/additional-calendar-options.md)
-      + [Activité - Création d’un rapport de calendrier](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+      + [Activité : créer un rapport de calendrier](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
 
 + Gérer les ressources {#manage-resources}
@@ -316,6 +316,7 @@ ht-degree: 96%
    + [Créer et gérer des vues de tableau](/help/workfront-planning/create-and-manage-table-views.md)
    + [Créer et gérer des vues de chronologie](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Connecter les types d’enregistrements](/help/workfront-planning/connect-record-types.md)
+   + [Créer un formulaire de demande de type enregistrement](/help/workfront-planning/create-a-record-type-request-form.md)
    + [Avantages de la planification Workfront pour les équipes de conception d’expérience utilisateur](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Intégrations {#integrations}
