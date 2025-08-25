@@ -23,7 +23,7 @@ Les filtres EXISTS sont des filtres de mode texte avancés, qui nous permettent 
 
 Dans cette vidéo, vous apprendrez à créer un filtre EXISTS pour voir « Validations de BAT pour les projets actuels » dans un rapport Validations de BAT.
 
-Pour une présentation plus détaillée du fonctionnement de EXISTS, reportez-vous à la documentation [Création de filtres de mode texte complexes à l’aide d’instructions EXISTS](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
+Pour une présentation plus détaillée du fonctionnement de EXISTS, reportez-vous à la documentation [Création de filtres de mode texte complexes à l’aide d’instructions EXISTS](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
 
