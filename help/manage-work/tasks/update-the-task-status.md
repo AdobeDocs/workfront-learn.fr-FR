@@ -19,7 +19,7 @@ ht-degree: 10%
 
 La vidéo fournit un tutoriel expliquant comment, pourquoi et à quelle fréquence mettre à jour le statut de la tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471169/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Points clés à retenir
 
