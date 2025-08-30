@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez à créer un filtre EXISTS pour voir « Valid
 
 Pour une présentation plus détaillée du fonctionnement de EXISTS, reportez-vous à la documentation [Création de filtres de mode texte complexes à l’aide d’instructions EXISTS](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471205/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## EXEMPLES DE FILTRES EXISTANTS
 
