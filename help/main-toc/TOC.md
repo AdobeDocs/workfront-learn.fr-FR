@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
+source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 96%
 
 ---
@@ -36,17 +36,17 @@ ht-degree: 96%
       + [Créer et gérer les règles métier](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + Modèles de mise en page {#layout-templates}
-      + [Que sont les modèles de disposition ?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
-      + [Rechercher des modèles de disposition](/help/administration-and-setup/layout-templates/find-layout-templates.md)
-      + [Personnaliser la terminologie à l’aide de modèles de disposition](/help/administration-and-setup/layout-templates/customize-workfront-terminology.md)
-      + [Personnaliser le [!UICONTROL menu principal] avec des modèles de disposition](/help/administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-      + [Ajouter et gérer des épingles via un modèle de disposition](/help/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
-      + [Personnaliser la page d’accueil avec des modèles de disposition](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
-      + [Affecter et gérer l’accès aux modèles de disposition](/help/administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
-      + [Personnaliser les zones d’objet avec un modèle de disposition](/help/administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
-      + [Personnaliser les détails du projet avec des modèles de disposition](/help/administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
-      + [Personnaliser les en-têtes de projet grâce à des modèles de disposition](/help/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
-      + [Personnaliser les listes de rapports avec des modèles de disposition](/help/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
+      + [Que sont les modèles de mise en page ?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
+      + [Rechercher des modèles de mise en page](/help/administration-and-setup/layout-templates/find-layout-templates.md)
+      + [Personnaliser la terminologie à l’aide de modèles de mise en page](/help/administration-and-setup/layout-templates/customize-workfront-terminology.md)
+      + [Personnalisation du [!UICONTROL Menu Principal] avec des modèles de mise en page](/help/administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Ajouter et gérer des épingles via un modèle de mise en page](/help/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
+      + [Personnaliser la page d’accueil avec des modèles de mise en page](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
+      + [Affecter et gérer l’accès aux modèles de mise en page](/help/administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
+      + [Personnaliser les zones d’objet avec un modèle de mise en page](/help/administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
+      + [Personnaliser les détails du projet avec des modèles de mise en page](/help/administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [Personnaliser les en-têtes de projet grâce à des modèles de mise en page](/help/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
+      + [Personnaliser les listes de rapports avec des modèles de mise en page](/help/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
 
    + Notifications par e-mail et In-App {#email-and-in-app-notifications}
@@ -137,7 +137,8 @@ ht-degree: 96%
       + [Effectuer une demande](/help/manage-work/issues-requests/make-a-request.md)
       + [Rechercher et gérer des demandes](/help/manage-work/issues-requests/find-requests.md)
       + [Gérer les affectations de problèmes](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [Mettre à jour une requête](/help/manage-work/issues-requests/update-a-request.md)
+      + [Mettre à jour le statut du problème](/help/manage-work/tasks/update-the-issue-status.md)
+      + [Mettre à jour une demande](/help/manage-work/issues-requests/update-a-request.md)
       + [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Rapport sur les problèmes](/help/manage-work/issues-requests/report-on-issues.md)
@@ -291,7 +292,7 @@ ht-degree: 96%
       + [Vue d’ensemble des [!UICONTROL objectifs Workfront]](/help/workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Configurer les [!UICONTROL objectifs Workfront] pour votre organisation](/help/workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Accorder l’accès aux objectifs aux utilisateurs et utilisatrices sélectionnés](/help/workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
-      + [Créer un modèle de disposition pour les utilisateurs et les utilisatrices des [!UICONTROL objectifs Workfront]](/help/workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
+      + [Créer un modèle de mise en page pour les utilisateurs et les utilisatrices des [!UICONTROL objectifs Workfront]](/help/workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Créer des objectifs](/help/workfront-goals/create-your-goals/create-goals-in-workfront.md)
 
    + Activer vos objectifs {#activate-goals}
@@ -599,7 +600,7 @@ ht-degree: 96%
    + [Documents](/help/best-practices/documents-bp.md)
    + [Filtres, vues et regroupements](/help/best-practices/filters-views-groupings-bp.md)
    + [Fonctions](/help/best-practices/job-roles-bp.md)
-   + [Modèles de disposition](/help/best-practices/layout-templates-bp.md)
+   + [Modèles de mise en page](/help/best-practices/layout-templates-bp.md)
    + [Licences et niveaux d’accès](/help/best-practices/licenses-access-levels-bp.md)
    + [Intégration et adoption](/help/best-practices/onboarding-adoption-bp.md)
    + [Unités organisationnelles](/help/best-practices/organizational-units-bp.md)
