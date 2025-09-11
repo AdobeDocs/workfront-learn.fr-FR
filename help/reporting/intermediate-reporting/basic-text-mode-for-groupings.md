@@ -40,7 +40,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Certains _blocs de code en mode texte_ que vous pouvez utiliser dans vos regroupements de rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470783/?quality=12&learn=on&captions=fre_fr)
 
 ## Activités Comprendre le mode texte de base pour les regroupements
 
