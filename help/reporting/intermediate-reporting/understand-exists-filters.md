@@ -10,29 +10,29 @@ level: Intermediate
 jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
-source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
-workflow-type: tm+mt
+exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
+source-git-commit: e47dbbb8cc06670d67c7cd237ecbbf19dde895d2
+workflow-type: ht
 source-wordcount: '682'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Comprendre les filtres EXISTS
 
-Les filtres EXISTS sont des filtres de mode texte avancés, qui nous permettent de contourner la limitation de 2 sauts de tableau/champ dans un Report Builder standard. Ils peuvent également être utilisés pour identifier des objets du système qui ne sont pas associés à une condition de relation spécifique via NOTEXISTS.
+Les filtres EXISTS sont des filtres avancés en mode texte, qui nous permettent de contourner la limitation de 2 sauts de table/champ dans un créateur de rapports standard. Ils peuvent également être utilisés pour identifier des objets du système qui ne sont pas associés à une condition de relation spécifique via NOTEXISTS.
 
-Dans cette vidéo, vous apprendrez à créer un filtre EXISTS pour voir « Validations de BAT pour les projets actuels » dans un rapport Validations de BAT.
+Dans cette vidéo, vous apprendrez à créer un filtre EXISTS pour voir « Approbations d’épreuves pour les projets actuels » dans un rapport d’approbation d’épreuves.
 
-Pour une présentation plus détaillée du fonctionnement de EXISTS, reportez-vous à la documentation [Création de filtres de mode texte complexes à l’aide d’instructions EXISTS](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
+Pour une présentation plus détaillée du fonctionnement de l’instruction EXISTS, reportez-vous à la documentation [Créer des filtres complexes en mode texte à l’aide d’instructions EXISTS](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471205/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
 
-## EXEMPLES DE FILTRES EXISTANTS
+## Exemples de filtres EXISTS
 
-### Le rapport de projet EXISTE
+### Rapport de projet avec instruction EXISTS
 
-Cette méthode utilise la tâche comme objet de liaison, en comparant l’ID de projet trouvé au niveau de la tâche et en le faisant correspondre au champ ID au niveau du projet . Cela nous permet de comparer ensuite les utilisateurs de l’affectation sur la tâche à un caractère générique $$USER.ID. Cela renvoie uniquement les projets pour lesquels l’utilisateur afficheur est affecté à un
-, qu’ils soient ou non la personne désignée principale.
+Cette méthode utilise la tâche comme objet de liaison, en comparant l’ID de projet trouvé au niveau de la tâche et en le faisant correspondre au champ ID au niveau du projet. Cela nous permet de comparer ensuite les utilisateurs et utilisatrices de l’affectation sur la tâche à un caractère générique $$USER.ID. Cela renvoie uniquement les projets pour lesquels la personne qui consulte est affectée à une tâche, qu’elle soit ou non la personne cessionnaire principale.
 
 ```
 EXISTS:A:$$OBJCODE=TASK
@@ -42,8 +42,7 @@ EXISTS:A:projectID=FIELD:ID
 ```
 
 
-Cette méthode utilise l’événement (optask) comme objet de liaison, en comparant également l’ID de projet trouvé au niveau de l’événement (optask) et en le faisant correspondre au champ d’ID au niveau du projet. Cette opération vérifie ensuite si l’un de ces problèmes (optasks) comporte une date d’entrée dans la période spécifiée. Dans ce cas, il renvoie tous les projets qui ont
-Un problème (optask) n’a pas été enregistré au cours des 30 derniers jours en raison de l’existence de NOTEXISTS.
+Cette méthode utilise le problème (optask) comme objet de liaison, en comparant également l’ID de projet trouvé au niveau du problème (optask) et en le faisant correspondre au champ d’ID au niveau du projet. Cette opération vérifie ensuite si l’un de ces problèmes (optasks) comporte une date d’entrée dans la période spécifiée. Dans ce cas, elle renvoie tous les projets qui n’ont pas eu de problème (optask) enregistré au cours des 30 derniers jours, en raison de l’instruction NOTEXISTS.
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
@@ -54,9 +53,9 @@ EXISTS:A:entryDate_Range=$$TODAY-30d
 EXISTS:A:projectID=FIELD:ID
 ```
 
-### Modèle de rapport EXISTE
+### Rapport de modèle avec instruction EXISTS
 
-Ce filtre affiche tous les modèles qui n’ont pas été utilisés pour créer un projet ou qui ont été associés à un projet au cours de l’année écoulée. L’un des avertissements est que, pour déterminer si un modèle a été utilisé ou non en tant que pièce jointe, il dépend de l’existence de tâches dans ce modèle.
+Ce filtre affiche tous les modèles qui n’ont pas été utilisés pour créer un projet ou qui n’ont pas été associés à un projet au cours de l’année écoulée. Une mise en garde s’impose : pour savoir si un modèle a été utilisé ou non en tant que pièce jointe, cela dépend de l’existence de tâches dans ce modèle.
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
@@ -71,9 +70,9 @@ EXISTS:B:entryDate_Mod=gte
 EXISTS:B:templateID=FIELD:ID
 ```
 
-### Le rapport de tâche EXISTE
+### Rapport de tâche avec instruction EXISTS
 
-Cette méthode utilise la table des utilisateurs comme objet de liaison, en établissant une connexion entre les affectations taskID et les tâches ID. Cette opération vérifie ensuite la collection d’ID des équipes auprès des ID d’équipe de l’utilisateur, renvoyant la tâche si l’une des personnes désignées fait partie de la même équipe que l’utilisateur affichant la tâche.
+Cette méthode utilise le tableau des utilisateurs et utilisatrices comme objet de liaison, en établissant une connexion entre l’ID de tâche des affectations et l’ID des tâches. Cette opération vérifie ensuite la collection d’ID des équipes auprès des ID d’équipe de l’utilisateur ou de l’utilisatrice, renvoyant la tâche si l’une des personnes cessionnaires fait partie de la même équipe que la personne qui consulte.
 
 ```
 EXISTS:1:$$OBJCODE=USER
@@ -81,9 +80,9 @@ EXISTS:1:teams:ID=$$USER.teamIDs
 EXISTS:1:userAssignments:taskID=FIELD:ID
 ```
 
-### Rapport utilisateur EXISTE
+### Rapport sur les utilisateurs et utilisatrices avec instruction EXISTS
 
-Cette action renvoie tous les utilisateurs qui n’ont pas publié de mise à jour au cours des 3 dernières semaines. Cette méthode utilise l’objet note pour combler l’écart et compare le ownerID à un ID d’utilisateur. Renvoie ensuite cet utilisateur si aucune note qui lui appartient n’a une date d’entrée supérieure à 3 semaines.
+Cette action renvoie toutes les personnes qui n’ont pas publié de mise à jour au cours des 3 dernières semaines. Cette méthode utilise l’objet note pour faire le lien et compare l’ID de personne propriétaire à un ID d’utilisateur ou d’utilisatrice. Elle renvoie ensuite cette personne si aucune note lui appartenant n’a de date d’entrée antérieure à 3 semaines plus tôt.
 
 ```
 EXISTS:A:$$OBJCODE=NOTE
@@ -93,7 +92,7 @@ EXISTS:A:entryDate=$$TODAY-3w
 EXISTS:A:entryDate_Mod=gt
 ```
 
-Tous les utilisateurs qui n’ont pas enregistré d’heures au cours de la dernière semaine seront rétablis. Cette méthode est extrêmement similaire à l’exemple ci-dessus, mais elle utilise à la place les informations sur le propriétaire des heures et la date de saisie des heures pour déterminer les utilisateurs et utilisatrices qu’elle renvoie.
+Cela renvoie toutes les personnes qui n’ont pas consigné d’heures au cours de la dernière semaine. Cette méthode est extrêmement similaire à l’exemple ci-dessus, mais elle utilise à la place les informations sur la personne propriétaire des heures et la date de saisie des heures pour déterminer les utilisateurs et utilisatrices qu’elle renvoie.
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
@@ -103,7 +102,7 @@ EXISTS:A:entryDate_Mod=gte
 EXISTS:A:ownerID=FIELD:ID
 ```
 
-Dans un rapport d’utilisateur, affichez une liste d’utilisateurs correspondant à l’onglet Personnes d’un projet.
+Dans un rapport sur les utilisateurs et utilisatrices, affichez une liste d’utilisateurs et d’utilisatrices correspondant à l’onglet Personnes d’un projet.
 
 ```
 EXISTS:1:$$OBJCODE=PRTU
@@ -111,10 +110,9 @@ EXISTS:1:projectID=<projectID>
 EXISTS:1:userID=FIELD:ID
 ```
 
-### Rapport de catégorie (formulaire personnalisé) EXISTE
+### Rapport de catégorie (formulaire personnalisé) avec instruction EXISTS
 
-Ce texte vous donne une liste de tous les formulaires de projet qui n&#39;ont jamais été utilisés sur un projet. Cette fonction doit être utilisée conjointement avec la spécification du type d’objet du formulaire sur lequel nous mettons l’accent. Dans ce cas, le focus est sur PROJ. Nous devons donc inclure les légendes dans les lignes objTypes. Ceci pourrait être utilisé
-pour d&#39;autres types d&#39;objet en modifiant les articles liés au code objet. Cette action vérifie l’ensemble des projets joints aux formulaires répertoriés et renvoie s’il n’existe aucune correspondance.
+Ce texte vous donne une liste de tous les formulaires de projet qui n’ont jamais été utilisés sur un projet. Il doit être utilisé conjointement avec la spécification du type d’objet du formulaire sur lequel nous nous concentrons. Dans ce cas, l’accent est mis sur PROJ. Nous devons donc inclure les annotations dans les lignes objTypes. Cela pourrait être utilisé pour d’autres types d’objet en modifiant les parties liées au code de l’objet. Cela vérifie l’ensemble des formulaires joints aux projets par rapport aux formulaires répertoriés et renvoie un résultat s’il n’existe aucune correspondance.
 
 ```
 EXISTS:A:$$OBJCODE=PROJ
@@ -124,7 +122,7 @@ objTypes=PROJ
 objTypes_Mod=in
 ```
 
-### Rapport de paramètres (champ personnalisé) EXISTE
+### Rapport de paramètre (champ personnalisé) avec instruction EXISTS
 
 Cette opération renvoie tout champ personnalisé qui n’est actuellement pas joint à un formulaire personnalisé dans le système.
 
@@ -134,9 +132,9 @@ EXISTS:A:$$OBJCODE=CTGYPA
 EXISTS:A:parameterID=FIELD:ID
 ```
 
-### Rapport EXISTS
+### Rapport sur les rapports avec instruction EXISTS
 
-Cela renvoie tout rapport utilisant une valeur spécifique dans ses filtres.
+Cela renvoie tous les rapports utilisant une valeur spécifique dans ses filtres.
 
 ```
 EXISTS:1:$$OBJCODE=UIFT
@@ -145,7 +143,7 @@ EXISTS:1:preference:value=<value here>
 EXISTS:1:preference:value_Mod=cicontains
 ```
 
-Cette option renvoie tous les rapports joints à un tableau de bord.
+Cela renvoie tous les rapports joints à un tableau de bord.
 
 ```
 EXISTS:A:$$OBJCODE=PRTBSC
@@ -153,9 +151,9 @@ EXISTS:A:internalSectionID=FIELD:ID
 EXISTS:A:portalTab:ID_Mod=notblank
 ```
 
-### Le rapport d&#39;approbation d&#39;épreuve EXISTE
+### Rapport d’approbation d’épreuve avec instruction EXISTS
 
-Cette option ne renvoie les validations d&#39;épreuves que pour les projets dont le statut est En cours. Cette méthode utilise l’objet Document pour combler l’écart entre l’approbation de l’épreuve et le projet en vérifiant la valeur currentVersionID et documentVersionID, de là nous passons au statut du projet.
+Cela ne renvoie les approbations d’épreuves que pour les projets dont le statut est En cours. Cette méthode utilise l’objet Document pour faire le lien entre l’approbation de l’épreuve et le projet en vérifiant la valeur currentVersionID par rapport à la valeur documentVersionID. À partir de là, nous accédons au statut du projet.
 
 ```
 EXISTS:1:$$OBJCODE=DOCU

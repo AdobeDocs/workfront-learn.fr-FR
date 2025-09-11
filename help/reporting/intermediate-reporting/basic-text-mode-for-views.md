@@ -1,6 +1,6 @@
 ---
 title: Comprendre le mode texte de base pour les vues
-description: Découvrez le mode texte, la casse mixte et un mode texte de base que vous pouvez utiliser dans vos vues de rapports dans Workfront.
+description: Découvrez le mode texte, la casse Camel et un mode de texte de base que vous pouvez utiliser dans vos vues de rapport dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -13,9 +13,9 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '651'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ Dans cette vidéo, vous apprendrez :
 
 * En quoi consiste le mode texte
 * En quoi consiste le camel case
-* Certains blocs de code _mode texte_ que vous pouvez utiliser dans vos vues de rapport
+* Des _blocs de code en mode texte_ que vous pouvez utiliser dans vos vues de rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422887/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Activités Comprendre le mode texte des vues
 

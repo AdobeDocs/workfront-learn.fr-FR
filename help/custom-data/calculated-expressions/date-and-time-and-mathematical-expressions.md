@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -46,5 +46,5 @@ Les clientes et clients de Workfront utilisent couramment ces deux ensembles d�
 
 >[!NOTE]
 >
->Pour obtenir la liste complète des expressions et plus d’informations sur chacune d’elles, consultez la page de documentation [Expressions de données calculées](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
+>Pour obtenir la liste complète des expressions et davantage d’informations sur chacune d’entre elles, consultez la page de documentation [Expressions de données calculées](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
 

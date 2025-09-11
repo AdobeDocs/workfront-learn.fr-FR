@@ -13,7 +13,7 @@ jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
 source-git-commit: 5bc402119573d7ca0f478e1ed134c2bcfee52d8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer une invite personnalisée en mode texte
 * Des exemples que vous pouvez utiliser dans vos rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/3412690/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
 ## Activités Créer des invites personnalisées
 

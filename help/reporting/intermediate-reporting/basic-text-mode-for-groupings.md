@@ -1,6 +1,6 @@
 ---
 title: Comprendre le mode texte de base pour les regroupements
-description: Découvrez le mode texte, la casse mixte et un mode de texte de base que vous pouvez utiliser dans vos regroupements de rapports dans Workfront.
+description: Découvrez le mode texte, la casse Camel et des modes de texte de base que vous pouvez utiliser dans vos regroupements de rapports dans Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -13,9 +13,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -38,9 +38,9 @@ Dans cette vidéo, vous apprendrez :
 
 * En quoi consiste le mode texte
 * En quoi consiste le camel case
-* Certains _blocs de code en mode texte_ que vous pouvez utiliser dans vos regroupements de rapports
+* Certains _blocs de code en mode texte_ que vous pouvez utiliser dans vos regroupements de rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422896/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Activités Comprendre le mode texte de base pour les regroupements
 
