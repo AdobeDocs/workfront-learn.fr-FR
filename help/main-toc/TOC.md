@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: cbfd815936733ff07d3d084952588f5e8923f3d7
+source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
 workflow-type: tm+mt
-source-wordcount: '2298'
+source-wordcount: '2306'
 ht-degree: 95%
 
 ---
@@ -126,7 +126,7 @@ ht-degree: 95%
       + [Comprendre les tâches parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
       + [Utiliser des tâches](/help/manage-work/tasks/work-with-tasks.md)
       + [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [Mettre à jour le statut de la tâche](/help/manage-work/tasks/update-the-task-status.md)
+      + [Mettre à jour le statut des tâches](/help/manage-work/tasks/update-the-task-status.md)
       + [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
       + [Découvrir comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
@@ -241,6 +241,7 @@ ht-degree: 95%
 
    + Tableaux de bord Zone de travail {#canvas-dashboards}
       + [Présentation des tableaux de bord Zone de travail](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 
 
 + Gérer les ressources {#manage-resources}
