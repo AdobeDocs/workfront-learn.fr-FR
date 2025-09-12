@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
-workflow-type: ht
+source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
+workflow-type: tm+mt
 source-wordcount: '651'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->* Pour mieux comprendre le mode texte, nous vous recommandons de regarder le webinaire enregistré [Ask the Expert - Présentation de la création de rapports en mode texte](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=fr), d’une durée d’une heure.
+>* Pour mieux comprendre le mode texte, nous vous recommandons de regarder le webinaire enregistré [Ask the Expert - Présentation de la création de rapports en mode texte](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting), d’une durée d’une heure.
 >* Pour en savoir plus sur le mode texte, nous vous recommandons de regarder les tutoriels [Reporting avancé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=fr), qui durent cinq heures et demie en tout.
 >* Cliquez ici pour accéder à l’[[!UICONTROL Explorateur d’API]](https://developer.adobe.com/workfront/api-explorer/).
 
@@ -41,7 +41,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Des _blocs de code en mode texte_ que vous pouvez utiliser dans vos vues de rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422887/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Activités Comprendre le mode texte des vues
 

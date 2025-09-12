@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
+source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
 workflow-type: tm+mt
-source-wordcount: '2306'
+source-wordcount: '2314'
 ht-degree: 95%
 
 ---
@@ -242,6 +242,7 @@ ht-degree: 95%
    + Tableaux de bord Zone de travail {#canvas-dashboards}
       + [Présentation des tableaux de bord Zone de travail](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [Créer un rapport tabulaire sur un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 
 
 + Gérer les ressources {#manage-resources}
