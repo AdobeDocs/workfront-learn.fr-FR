@@ -11,10 +11,10 @@ jira: KT-18773
 last-substantial-update: 2025-09-12T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
+source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
@@ -34,6 +34,11 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 >[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
 
 **Pour plus d’informations, consultez les articles d’aide suivants :**
-[Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Créer un rapport tabulaire dans un tableau de bord Zone de travail](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Créer un rapport tabulaire dans un tableau de bord Zone de travail](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+
+## Tutoriels recommandés sur cette rubrique
+
+* [Présentation des tableaux de bord Zone de travail](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 
