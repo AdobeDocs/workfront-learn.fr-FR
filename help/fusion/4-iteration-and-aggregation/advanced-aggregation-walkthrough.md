@@ -11,10 +11,10 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,7 @@ Appelez un service web pour obtenir des informations sur plusieurs pays et ident
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417303/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## URL d’exercice
 
@@ -53,10 +53,10 @@ Vous verrez une ombre entourer les segments de votre scénario, de l’**itérat
 
 Cet exercice repose sur ce que vous avez appris dans la présentation, mais la solution n’est pas fournie.
 
-Créez un nouveau scénario pour additionner toutes les heures enregistrées sur les tâches des projets du porfolio marketing. Envoyez ensuite un e-mail disant : « Votre équipe de projet {Project Name} a enregistré {summed hours} du total des {planned hours} heures prévues, ce qui vous place à {percentage} du plan ».
+Créez un nouveau scénario pour additionner toutes les heures enregistrées sur les tâches des projets du porfolio marketing. Ensuite, envoyez un e-mail indiquant « L’équipe de projet de votre {Project Name} a enregistré {summed hours} du nombre total d’heures prévues {planned hours}, ce qui vous place au {percentage} du plan ».
 
 **Défi :** voyez si vous pouvez faire la même chose mais pour les heures enregistrées cette année seulement.
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=fr)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
