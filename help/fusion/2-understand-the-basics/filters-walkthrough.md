@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Ajouter un filtre entre les deux modules dans les modules
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416484/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 ## À vous

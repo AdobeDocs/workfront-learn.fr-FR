@@ -30,7 +30,7 @@ En utilisant le scénario « Présentation de l’itération » que vous avez 
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417291/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 

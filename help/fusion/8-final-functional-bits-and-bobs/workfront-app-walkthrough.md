@@ -24,7 +24,7 @@ Dans cette vidéo, vous découvrirez :
 
 * Divers modules de déclenchement, d’action et de recherche utiles dans l’application Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417975/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
