@@ -60,4 +60,4 @@ Lorsque vous cliquez sur une exécution, Workfront Fusion charge l’exécution
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
-[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentation sur Workfront Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
