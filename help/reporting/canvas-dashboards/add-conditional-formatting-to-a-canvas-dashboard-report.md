@@ -1,14 +1,14 @@
 ---
-title: Créer un rapport tabulaire sur un tableau de bord Zone de travail
-description: Découvrez comment créer un rapport tabulaire sur un tableau de bord Zone de travail.
+title: Ajout d’une mise en forme conditionnelle à un rapport de tableau de bord de zone de travail
+description: Découvrez comment ajouter une mise en forme conditionnelle à un rapport de tableau de bord de zone de travail.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18773
-last-substantial-update: 2025-09-12T00:00:00Z
+jira: KT-18771
+last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ---
 
-# Créer un rapport tabulaire sur un tableau de bord Zone de travail
+# Ajout d’une mise en forme conditionnelle à un rapport de tableau de bord de zone de travail
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 
 [ Présentation des tableaux de bord de la zone de travail ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) vous explique pas à pas comment effectuer ces deux opérations.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **Pour plus d’informations, consultez les articles d’aide suivants :**
 [Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
@@ -41,5 +41,5 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 
 * [Présentation des tableaux de bord Zone de travail](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-* [Ajout d’une mise en forme conditionnelle à un rapport de tableau de bord de zone de travail](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+* [Créer un rapport tabulaire sur un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 

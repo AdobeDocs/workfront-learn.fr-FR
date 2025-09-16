@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriels Workfront
-source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
+source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2322'
 ht-degree: 95%
 
 ---
@@ -243,6 +243,7 @@ ht-degree: 95%
       + [Présentation des tableaux de bord Zone de travail](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Créer un rapport tabulaire sur un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+      + [Ajout d’une mise en forme conditionnelle à un rapport de tableau de bord de zone de travail](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 
 
 + Gérer les ressources {#manage-resources}
