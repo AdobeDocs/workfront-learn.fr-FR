@@ -28,7 +28,7 @@ Ce scénario crée une application pour les commerces de proximité afin qu’il
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417945/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 
 ## Configuration de Postman

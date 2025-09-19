@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Présentation des exécutions incomplètes
 * Gestion d’une erreur qui entraîne une exécution incomplète
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418149/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 ## Erreurs entraînant des exécutions incomplètes
 
