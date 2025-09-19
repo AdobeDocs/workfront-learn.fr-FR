@@ -12,9 +12,9 @@ exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Utilisez le module Définir la variable pour envoyer un nombre à travers plusie
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417261/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on&enablevpops)
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

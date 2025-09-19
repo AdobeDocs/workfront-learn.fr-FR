@@ -12,9 +12,9 @@ exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Créer et analyser JSON dans un scénario pour répondre à vos besoins en matière de conception
 
->[!VIDEO](https://video.tv.adobe.com/v/3418112/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
 
 
 

@@ -12,9 +12,9 @@ exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '316'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 * Créer une documentation détaillée et pouvant être partagée
 * Tester la profondeur, l’ampleur, la complexité et la charge
 
->[!VIDEO](https://video.tv.adobe.com/v/3418731/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
 
 ## Liste de contrôle des remarques relatives aux tests
 

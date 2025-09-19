@@ -12,9 +12,9 @@ exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer des équipes
 * Invitation des utilisateurs et des utilisatrices dans une organisation et une équipe
 
->[!VIDEO](https://video.tv.adobe.com/v/3418191/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

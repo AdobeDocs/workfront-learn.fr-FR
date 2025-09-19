@@ -12,9 +12,9 @@ exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '261'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Présentation des exécutions incomplètes
 * Gestion d’une erreur qui entraîne une exécution incomplète
 
->[!VIDEO](https://video.tv.adobe.com/v/3418149/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
 
 ## Erreurs entraînant des exécutions incomplètes
 

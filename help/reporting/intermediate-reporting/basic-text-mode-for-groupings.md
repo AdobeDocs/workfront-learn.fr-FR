@@ -13,9 +13,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Certains _blocs de code en mode texte_ que vous pouvez utiliser dans vos regroupements de rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470783/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Activités Comprendre le mode texte de base pour les regroupements
 
