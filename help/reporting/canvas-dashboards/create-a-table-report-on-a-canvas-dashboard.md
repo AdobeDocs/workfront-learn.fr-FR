@@ -32,7 +32,7 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 
 [ Présentation des tableaux de bord de la zone de travail ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) vous explique pas à pas comment effectuer ces deux opérations.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474867/?quality=12&learn=on&enablevpops&captions=fre_fr)
 
 **Pour plus d’informations, consultez les articles d’aide suivants :**
 [Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
