@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 99%
+source-wordcount: '595'
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ La vidéo explique comment utiliser des graphiques pour visualiser efficacement 
 
 La vidéo montre comment des graphiques tels que les graphiques en secteurs et les graphiques à colonnes empilés peuvent fournir des informations sur la répartition des tâches et les performances des projets, ce qui permet aux utilisateurs et utilisatrices de comparer les projets et de comprendre visuellement la progression des tâches.
 
->[!VIDEO] (https://video.tv.adobe.com/v/3450016/?quality=12&learn=on&enablevpops=0&captions=fre_fr
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## Points clés à retenir
 
@@ -73,7 +73,7 @@ La fin du trimestre approche et vous souhaitez savoir si les projets récemment 
 1. Dans l’onglet **[!UICONTROL Filtres]**, ajoutez deux règles de filtrage :
 
    * [!UICONTROL Projet] > [!UICONTROL Le statut correspond à] > [!UICONTROL Terminé].
-   * [!UICONTROL Projet] >[!UICONTROL &#x200B; Date d’achèvement réelle] > [!UICONTROL Dernier trimestre].
+   * [!UICONTROL Projet] >[!UICONTROL  Date d’achèvement réelle] > [!UICONTROL Dernier trimestre].
 
    ![Image de l’écran d’ajout de filtres à un rapport](assets/chart-report-filters.png)
 

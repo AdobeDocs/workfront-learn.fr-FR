@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 99%
+source-wordcount: '356'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ La vidéo souligne l’importance de la participation des utilisateurs et utilis
 Vous trouverez des liens vers des tutoriels sur la création de rapports et de formulaires personnalisés pour obtenir des conseils supplémentaires.
 
 
->[!VIDEO] (https://video.tv.adobe.com/v/3450499/?quality=12&learn=on&enablevpops=0&captions=fre_fr
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 ## Points clés à retenir
 
