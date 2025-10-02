@@ -31,7 +31,7 @@ Apprenez à créer un modèle de projet de zéro et à partir d’un projet exis
 * Une fois le modèle créé, il peut être utilisé pour générer de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. Elle montre également comment affecter des fonctions à des tâches à l’aide des fonctionnalités de planification et de planification des ressources.
 * La vidéo explique comment enregistrer un projet existant en tant que nouveau modèle, ce qui permet de mettre à jour et d’améliorer le workflow. Elle souligne l’importance de la gestion des modèles pour éviter toute confusion et garantir une exécution de projet rationalisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415444/?quality=12&learn=on&captions=fre_fr)
 
 ## Points clés à retenir
 
