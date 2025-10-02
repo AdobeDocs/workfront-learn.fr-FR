@@ -12,8 +12,8 @@ jira: KT-8722
 recommendations: noDisplay,catalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 100%
 
@@ -27,11 +27,11 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer une période sur un graphique
 * Comment faire apparaître des graphiques supplémentaires
 
->[!VIDEO](https://video.tv.adobe.com/v/3438567/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
 
 ## Cliquer sur un graphique pour obtenir plus d’informations
 
-Si vous cliquez sur certaines parties d’un graphique, d’autres graphiques ou une ventilation des informations du graphique s’affichent.
+Si vous cliquez sur certaines parties d’un graphique, d’autres graphiques ou une répartition des informations du graphique s’affichent.
 
 * **Plan de vol** : cliquez sur le nom du projet pour afficher les graphiques d’avancement et de tâches en cours.
 * **Activité du projet** : cliquez sur le nom du projet pour développer le graphique et afficher l’activité du projet par utilisateur ou utilisatrice.

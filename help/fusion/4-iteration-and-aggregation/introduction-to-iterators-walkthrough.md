@@ -11,8 +11,8 @@ jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Examinez un projet spécifique dans Workfront, puis toutes les tâches de ce pro
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417297/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on&enablevpops=1)
 
 
 

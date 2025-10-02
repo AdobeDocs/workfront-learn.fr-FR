@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
 exl-id: 9875748d-21d4-4902-96b1-ab84d8c0f7d6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Dans cette vidéo, vous allez apprendre à communiquer avec toutes les parties p
 * Problèmes
 * Rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/3436148/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -40,7 +40,7 @@ Dans cette vidéo, vous allez apprendre à communiquer avec toutes les parties p
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Commencer avec la gestion d’un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Commencer à gérer un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Rechercher des projets](/help/manage-work/projects/find-projects.md)
 * [Partager un projet](/help/manage-work/projects/share-a-project.md)
 * [Comprendre l’équipe de projet](/help/manage-work/projects/understand-the-project-team.md)

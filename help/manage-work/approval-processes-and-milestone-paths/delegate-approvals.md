@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Pour les approbations, les utilisateurs et utilisatrices peuvent les déléguer 
 Les approbations déléguées sont marquées dans le système. La personne à l’origine de la délégation et la personne destinataire sont mentionnées. Les mises à jour relatives aux validations apparaissent dans l’onglet Mise à jour et l’activité du système peut être consultée dans l’onglet Activité du système.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446378/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

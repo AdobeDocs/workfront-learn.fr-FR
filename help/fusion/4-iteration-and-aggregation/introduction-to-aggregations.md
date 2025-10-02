@@ -11,8 +11,8 @@ jira: KT-9019
 exl-id: a3ea475d-3a76-4788-98eb-5e916a2cb3ee
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment utiliser des agrégateurs
 * Différents types d’agrégateurs
 
->[!VIDEO](https://video.tv.adobe.com/v/3417285/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops=1)

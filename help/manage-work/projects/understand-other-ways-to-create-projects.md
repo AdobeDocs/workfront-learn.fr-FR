@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 100%
 
@@ -55,7 +55,7 @@ La vidéo fournit un guide complet sur la création de projets dans Workfront à
 
 La vidéo souligne la flexibilité de Workfront pour créer des projets à l’aide de modèles, à partir de zéro, de copies ou d’imports, afin de répondre aux différents besoins des utilisateurs et utilisatrices.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432175/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

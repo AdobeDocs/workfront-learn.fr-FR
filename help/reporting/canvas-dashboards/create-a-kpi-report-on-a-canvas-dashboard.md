@@ -1,6 +1,6 @@
 ---
 title: Création d’un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail
-description: Découvrez comment créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail.
+description: Découvrez comment créer un rapport sur les KPI dans un tableau de bord Zone de travail.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,10 +12,10 @@ last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: e25e4a1a-474d-42c5-950c-0214339ac5a2
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 3%
+ht-degree: 18%
 
 ---
 
@@ -32,11 +32,11 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 
 [ Présentation des tableaux de bord de la zone de travail ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) vous explique pas à pas comment effectuer ces deux opérations.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474844/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
 
 **Pour plus d’informations, consultez les articles d’aide suivants :**
-[Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Créer un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## Tutoriels recommandés sur cette rubrique
 

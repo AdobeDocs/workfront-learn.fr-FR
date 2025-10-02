@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
-workflow-type: ht
-source-wordcount: '974'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '977'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ La vidéo explique comment créer et personnaliser des affichages dans Workfront
 
 La vidéo souligne la flexibilité des vues dans Workfront et fournit des instructions détaillées sur leur création, leur personnalisation et leur gestion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450240/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Points clés à retenir
 
@@ -133,9 +133,9 @@ Modifiez le [!UICONTROL Format du champ] des colonnes [!UICONTROL Début le] et 
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
 1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez [!UICONTROL « Contrainte »], puis sélectionnez [!UICONTROL « Date de contrainte »] dans la source du champ Tâche.
 1. Sélectionnez la colonne [!UICONTROL Début le], puis cliquez sur [!UICONTROL Options avancées].
-1. Dans la liste déroulante [!UICONTROL Format du champ], sélectionnez [!UICONTROL « 10/17/60 3 h »].
+1. Dans la liste déroulante [!UICONTROL Format du champ] sélectionnez [!UICONTROL  »10/17/60 3:00 AM »].
 1. Sélectionnez la colonne [!UICONTROL Échéance le], puis cliquez sur [!UICONTROL Options avancées].
-1. Sous la liste déroulante [!UICONTROL Format du champ], sélectionnez [!UICONTROL « 10/17/60 3 h »].
+1. Dans la liste déroulante [!UICONTROL Format du champ] sélectionnez [!UICONTROL  »10/17/60 3:00 AM »].
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ### Activité 4 : créer une vue de statut actif pour un modèle de projet

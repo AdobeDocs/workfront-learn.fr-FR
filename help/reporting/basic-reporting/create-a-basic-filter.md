@@ -12,8 +12,8 @@ jira: kt-8857
 last-substantial-update: 2025-04-30T00:00:00Z
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 Cette vidéo explique comment créer et utiliser des filtres dans Workfront pour personnaliser les rapports de liste en fonction de critères spécifiques. Les filtres permettent d’affiner les listes, comme des tâches, des projets ou des documents, en définissant des conditions. Seuls les éléments correspondant aux conditions de filtrage et accessibles à la personne connectée s’affichent dans la liste.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

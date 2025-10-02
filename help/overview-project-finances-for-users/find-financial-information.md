@@ -12,7 +12,7 @@ jira: KT-8948
 hide: true
 doc-type: video
 exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Trouvez des informations financières sur un projet et comprenez d’où elles proviennent.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415895/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)

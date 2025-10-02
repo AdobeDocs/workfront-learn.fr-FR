@@ -11,8 +11,8 @@ jira: KT-9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Revoyez les exercices précédents où des tableaux simples et complexes ont ét
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417987/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on&enablevpops=1)
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

@@ -11,8 +11,8 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Les trois directives de gestionnaire d’erreurs qui permettent à l’exécution de continuer
 * Les deux directives de gestionnaire d’erreurs qui arrêtent l’exécution
 
->[!VIDEO](https://video.tv.adobe.com/v/3418136/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops=1)
 
 ## Directives - Le scénario continue
 
@@ -56,7 +56,7 @@ Dans cette vidéo, vous apprendrez :
 
 ## Directives - Arrêt du scénario
 
-### Restaurer
+### Restauration
 
 * L’exécution du scénario s’arrête immédiatement et une phase de restauration démarre sur tous les modules afin de tenter de rétablir leur état initial.
 * Les modules suivants ne sont pas traités.

@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '1116'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ La vidéo propose un guide détaillé sur la création d’un rapport personnali
 
 Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448344/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Points clés à retenir
 
@@ -131,7 +131,7 @@ Nom : commentaires sur le processus d’administration
    * Niveaux d’accès
    * Processus d’approbation (global uniquement)
    * Notifications par e-mail
-   * Modèle de disposition
+   * Modèle de mise en page
    * Chemin jalonné
    * Modèle de projet
    * Notifications de rappel
@@ -178,7 +178,7 @@ Filtrez sur l’identifiant du projet de file d’attente des demandes où se tr
 
    * [!UICONTROL Problème] > [!UICONTROL Nom]
    * [!UICONTROL Contact principal] > [!UICONTROL Nom]
-      * Remarque : « Personne propriétaire : nom » apparaît comme libellé de colonne. Vous pouvez remplacer cette valeur par « Signalé par » en cliquant sur Options avancées et en saisissant « Signalé par » dans le champ **Libellé de colonne personnalisé**.
+      * Remarque : elle s’affiche avec « Propriétaire :Name comme libellé de la colonne. Vous pouvez remplacer cette valeur par « Signalé par » en cliquant sur Options avancées et en saisissant « Signalé par » dans le champ **Libellé de colonne personnalisé**.
    * [!UICONTROL Problème] > [!UICONTROL Type de processus]
    * [!UICONTROL Problème] > [!UICONTROL Nom du processus]
    * [!UICONTROL Problème] > [!UICONTROL Évaluation du processus]

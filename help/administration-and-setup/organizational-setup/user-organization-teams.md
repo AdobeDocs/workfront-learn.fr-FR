@@ -11,8 +11,8 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Utiliser des équipes interfonctionnelles
 * Créer et associer des équipes
 
->[!VIDEO](https://video.tv.adobe.com/v/3432877/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
 
 ## Créer une équipe
 
@@ -44,7 +44,7 @@ Il est également possible de créer des équipes et de définir des paramètres
 
 Une fois l’équipe créée, modifiez les paramètres en la sélectionnant dans la liste et en cliquant sur [!UICONTROL Paramètres de l’équipe] sur le côté droit de la fenêtre.
 
-Ajustez les paramètres, notamment en attribuant un modèle de disposition ou en ajoutant d’autres membres à l’équipe. En outre, vous pouvez personnaliser le bouton [!UICONTROL Travailler sur ce projet] et le bouton Terminé que cette équipe voit sur la tâche et créer des affectations de travail.
+Ajustez les paramètres, notamment en attribuant un modèle de mise en page ou en ajoutant d’autres membres à l’équipe. En outre, vous pouvez personnaliser le bouton [!UICONTROL Travailler sur ce projet] et le bouton Terminé que cette équipe voit sur la tâche et créer des affectations de travail.
 
 Fenêtre ![[!UICONTROL Modifier l’équipe]](assets/admin-fund-team-settings.png)
 

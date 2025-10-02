@@ -12,8 +12,8 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ La vidéo fournit un guide détaillé sur la création de deux types de rapport
 La vidéo met l’accent sur la personnalisation des colonnes et des filtres pour adapter les rapports à des besoins spécifiques, ce qui facilite la gestion et la résolution efficaces des problèmes.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

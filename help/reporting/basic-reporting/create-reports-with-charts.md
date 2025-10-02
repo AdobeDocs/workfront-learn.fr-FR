@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
-workflow-type: ht
-source-wordcount: '595'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '596'
+ht-degree: 99%
 
 ---
 
@@ -38,7 +38,7 @@ La vidéo explique comment utiliser des graphiques pour visualiser efficacement 
 
 La vidéo montre comment des graphiques tels que les graphiques en secteurs et les graphiques à colonnes empilés peuvent fournir des informations sur la répartition des tâches et les performances des projets, ce qui permet aux utilisateurs et utilisatrices de comparer les projets et de comprendre visuellement la progression des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450016/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Points clés à retenir
 

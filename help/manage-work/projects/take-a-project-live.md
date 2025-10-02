@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 La vidéo explique les dernières étapes pour activer un projet en faisant passer son statut sur « actuel ». Avant cela, elle précise les éléments clés du projet, notamment les noms des tâches, les durées, le nombre d’heures prévues, les prédécesseurs, les dates de début et d’achèvement, ainsi que les affectations afin de s’assurer que tout est précis et correctement défini. Une fois le projet actif, la personne gestionnaire du projet recevra des notifications en fonction des paramètres globaux et personnels. Le projet apparaîtra alors dans les rapports et les filtres pour les projets actifs. Cette opération marque le début officiel du travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438985/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

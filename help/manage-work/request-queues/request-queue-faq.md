@@ -9,8 +9,8 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Dans l’onglet [!UICONTROL Détails de la file d’attente] de votre file d’a
 
 Pour plus d’informations, visionnez cette vidéo :
 
->[!VIDEO](https://video.tv.adobe.com/v/3434158/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **J’ai donné aux utilisateurs et aux utilisatrices l’accès à la file d’attente, mais maintenant ils peuvent aussi voir le projet de file d’attente des demandes. Pourquoi ?**
 
@@ -38,7 +38,7 @@ Ces tutoriels vous montrent comment :
 
 * [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 
-* [Convertir un problème/une requête en une tâche.](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 
 **Où puis-je trouver une file d’attente des demandes pour apporter des modifications ?**
 
@@ -62,7 +62,7 @@ Vous pouvez accéder aux champs du **[!UICONTROL Problème converti]** et les so
 
 Pour plus d’informations, visionnez cette vidéo :
 
->[!VIDEO](https://video.tv.adobe.com/v/3434178/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **Quel est le meilleur moyen de filtrer les files d’attente des demandes dans un rapport ?**
@@ -73,7 +73,7 @@ Si le filtre de votre projet inclut **File d’attente > Est publique > N’est 
 
 Pour plus d’informations, visionnez cette vidéo :
 
->[!VIDEO](https://video.tv.adobe.com/v/3434332/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **Est-il judicieux de créer un statut personnalisé pour la file d’attente des demandes ?**
 
@@ -84,7 +84,7 @@ Cependant, si vous utilisez déjà le statut File d’attente des demandes dans 
 ## Tutoriels recommandés sur cette rubrique
 
 * [Comprendre les files d’attente de demandes](/help/manage-work/request-queues/understand-request-queues.md)
-* [Créer une file d’attente de demandes](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Comprendre les paramètres d’un flux de requêtes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Créer une file d’attente des demandes](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Comprendre les paramètres d’un flux de demandes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Créer un flux de demandes](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)

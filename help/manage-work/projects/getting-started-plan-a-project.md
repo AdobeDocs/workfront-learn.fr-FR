@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ La vidéo fournit des conseils pour planifier efficacement un projet dans Workfr
 
 La vidéo souligne l’importance de chronologies réalistes, de la disponibilité de l’équipe et d’une planification précise pour établir une base solide pour la réussite du projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448569/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

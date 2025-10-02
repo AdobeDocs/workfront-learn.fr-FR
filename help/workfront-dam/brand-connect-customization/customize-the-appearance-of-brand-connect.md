@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez à :
 * Personnaliser la barre de navigation et le pied de page
 * Personnaliser la page d’accueil et la page de connexion
 
->[!VIDEO](https://video.tv.adobe.com/v/3418776/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
 
 ## Paramètre d’[!UICONTROL Apparence] supplémentaire
 
@@ -52,7 +52,7 @@ Ces widgets sont disponibles :
 
 **F. Description renseignée** - Crée un bloc de copie de texte avec un arrière-plan gris.
 
-**G. HTML** - Permet d’utiliser de l’HTML et du CSS pour créer du contenu personnalisé. Par exemple, vous pouvez intégrer un lien vers une vidéo. Quelques [balises HTML sont à éviter](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML** - Permet d’utiliser de l’HTML et du CSS pour créer du contenu personnalisé. Par exemple, vous pouvez incorporer un lien vers une vidéo. Quelques [balises HTML sont à éviter](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
 
 ## Ajouter une barre de recherche
 

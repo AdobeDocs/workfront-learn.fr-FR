@@ -11,8 +11,8 @@ thumbnail: 335160.png
 jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Cependant, certains d’entre vous sont peut-être plus avancés qu’ils ne le 
 
 ## Quatre étapes de degré de gestion des ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/3420161/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
 
 
 ## Et après ?

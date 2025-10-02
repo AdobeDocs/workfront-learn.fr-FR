@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Pour finaliser l’opération, cliquez sur « Copier le projet ».
 Les problèmes ne peuvent pas être copiés directement pendant ce processus, car ils ne sont pas considérés comme du travail prévu. Pour copier des problèmes, accédez à l’onglet Problèmes, sélectionnez les problèmes souhaités, puis utilisez l’option « Copier dans » pour les transférer vers le nouveau projet.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456040/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

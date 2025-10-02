@@ -12,10 +12,10 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
-workflow-type: ht
-source-wordcount: '467'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '468'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Cette vidéo explique comment créer et personnaliser des rapports de projet pou
 
 La vidéo souligne que les rapports personnalisés conservent leurs paramètres par défaut, mais que des modifications temporaires peuvent être apportées lors de leur affichage. Les rapports sont stockés dans la section « Mes rapports », tandis que les rapports partagés apparaissent dans « Partagé avec moi ». Les tableaux de bord fréquemment utilisés peuvent être épinglés ou ajoutés aux favoris pour un accès rapide.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413120/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Points clés à retenir
 

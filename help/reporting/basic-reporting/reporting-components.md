@@ -12,10 +12,10 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
-workflow-type: ht
-source-wordcount: '533'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '534'
+ht-degree: 99%
 
 ---
 
@@ -29,7 +29,7 @@ La vidéo explique le concept de composants de reporting dans Workfront, essenti
 * **Qualificateur de filtre :** définit les valeurs à inclure ou à exclure dans un rapport, par exemple l’affichage des tâches avec une priorité « élevée ».
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447023/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Points clés à retenir
 

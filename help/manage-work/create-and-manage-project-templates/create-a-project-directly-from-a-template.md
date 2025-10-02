@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 La vidéo explique comment créer un projet à partir d’un modèle. Si vous disposez des droits pour ouvrir un modèle, vous pouvez l’utiliser comme raccourci pour créer un projet. Pour ce faire, ouvrez le modèle, accédez au menu des trois points et sélectionnez « Créer un projet ». Vous accédez alors à un écran qui vous permet de modifier les détails du projet. Lorsque vous disposez de tous les éléments, cliquez sur « Créer un projet » pour finaliser l’opération.
 
->[!VIDEO](https://video.tv.adobe.com/v/3456015/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

@@ -12,8 +12,8 @@ jira: KT-8729
 recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 
 * Comment lire le graphique du plan de vol
 
->[!VIDEO](https://video.tv.adobe.com/v/3439011/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
 
 ## Graphique du plan de vol
 
@@ -37,7 +37,7 @@ Sur le graphique, vous voyez :
 1. Les dates dans la partie inférieure.
 1. La ligne bleue verticale indique la date spécifique que votre souris survole.
 1. Les lignes bleues horizontales indiquent les dates de début et de fin prévues du projet.
-1. Les lignes vertes indiquent que le projet est En bonne voie.
+1. Les lignes vertes indiquent que le projet est Dans les temps.
 1. Des lignes orange indiquent que le projet est À risque.
 1. Les lignes rouges indiquent que le projet est En difficulté.
 
@@ -66,7 +66,7 @@ Workfront recommande de définir le type de condition sur Statut de la progressi
 
 Lorsqu’elle est définie sur Statut de la progression, la condition du projet peut être :
 
-* **En bonne voie** : lorsque le statut de la progression de la dernière tâche sur le chemin critique est Dans les temps, la condition du projet est En bonne voie. Le projet est parti pour terminer dans les délais prévus.
+* **Dans les temps** : lorsque le statut de la progression de la dernière tâche sur le chemin critique est Dans les temps, la condition du projet est En bonne voie. Le projet est parti pour terminer dans les délais prévus.
 * **À risque** : lorsque le statut de la progression de la dernière tâche du chemin critique est En retard ou À risque, la condition du projet est À risque. Le projet est parti pour terminer en retard mais n’est pas encore en retard.
 * **En difficulté** : lorsque le statut de la progression de la dernière tâche du chemin critique est En retard, la condition du projet est En difficulté. La date butoir est passée et le projet est désormais en retard.
 

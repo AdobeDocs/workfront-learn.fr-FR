@@ -12,8 +12,8 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 La vidéo explique l’importance d’une analyse de rentabilité dans la gestion de projets. Elle souligne que bien remplir l’analyse de rentabilité permet aux responsables d’analyser et de hiérarchiser les projets en concurrence pour les mêmes ressources. Une fois remplie, l’envoi de l’analyse de rentabilité modifie le statut du projet en « Demandé » et calcule son score global à des fins de comparaison dans l’outil Optimisation du portfolio. Bien qu’aucun des champs ne soit obligatoire, des informations plus détaillées améliorent la prise de décisions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442846/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

@@ -11,8 +11,8 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous allez :
 * Voir l’affichage [!UICONTROL Vue par projet]
 * Découvrez comment les informations des ressources sont affichées dans cette vue
 
->[!VIDEO](https://video.tv.adobe.com/v/3420155/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops=1)
 
 Pour l’option Vue par projet, la colonne Budgété est affichée par défaut. Elle reprend l’estimation du nombre de ressources nécessaires pour un projet à partir d’une analyse de rentabilité, si celle-ci a été remplie. Cela signifie également que la colonne Net utilise, par défaut, les chiffres de la colonne Budgété pour vous indiquer la quantité de ressources restantes.
 

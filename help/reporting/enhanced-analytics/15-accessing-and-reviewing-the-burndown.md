@@ -12,8 +12,8 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment accéder au graphique d’avancement
 * Comment comprendre la relation entre les heures restantes, l’état d’un projet et la vitesse d’un projet
 
->[!VIDEO](https://video.tv.adobe.com/v/3438886/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
 
 ## Le suivi de la vitesse d’un projet
 
@@ -44,7 +44,7 @@ Sur le graphique, vous pouvez voir :
 1. Le nombre d’heures à gauche.
 1. Les dates s’affichent en bas, y compris la date d’achèvement prévue du projet, si elle apparaît dans la période sélectionnée.
 1. La ligne bleue continue indique la vitesse du projet (soit le nombre d’heures prévues, soit la durée sur la période), puis se transforme en ligne verticale pointillée lorsqu’elle atteint la date d’achèvement prévue du projet.
-1. Les lignes vertes indiquent lorsque l’état du projet est En bonne voie.
+1. Les lignes vertes indiquent lorsque l’état du projet est Dans les temps.
 1. Les lignes oranges indiquent lorsque l’état du projet est À risque.
 1. Les lignes rouges indiquent lorsque l’état du projet est En difficulté.
 1. Les informations sur les tâches et les heures (totaux, quantité ajoutée et quantité terminée) d’un jour spécifique s’affichent sous l’axe des X lorsque vous cliquez sur un point spécifique du graphique.

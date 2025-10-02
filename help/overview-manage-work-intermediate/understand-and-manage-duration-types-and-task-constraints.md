@@ -13,7 +13,7 @@ jira: KT-13530
 doc-type: video
 hide: true
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
@@ -32,7 +32,7 @@ Dans cette vidéo, vous découvrirez les éléments suivants concernant les type
 * Bonnes pratiques relatives à leur utilisation
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422824/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
 Pour plus d’informations sur la création d’une vue Types de durée et contraintes de tâche, voir l’activité Types de durée et contraintes de tâche dans [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr).

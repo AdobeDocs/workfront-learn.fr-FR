@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 La vidéo traite de la gestion des portfolios, en se concentrant sur la manière dont les responsables peuvent optimiser la sélection de projets pour s’aligner sur les objectifs de l’entreprise. Elle présente le concept des portfolios en tant qu’ensembles de projets qui se font concurrence pour des ressources, des budgets et des plannings partagés. Les responsables peuvent utiliser des outils tels que l’Optimisateur de portfolio pour comparer des projets en fonction de critères tels que la main-d’œuvre, les dépenses, le risque, le retour sur investissement et l’alignement sur les objectifs du portfolio. La préparation de projets à des fins de comparaison implique la création d’une analyse de rentabilité pour chacun.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442830/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

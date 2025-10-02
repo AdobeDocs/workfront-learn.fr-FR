@@ -13,7 +13,7 @@ jira: KT-8772
 hide: true
 doc-type: video
 exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
@@ -29,14 +29,14 @@ Dans cette vidéo, vous apprendrez :
 * Comment une [!UICONTROL vue] peut vous aider à afficher les informations dont vous avez besoin.
 * Définition de la date de début ou d’échéance
 
->[!VIDEO](https://video.tv.adobe.com/v/3448569/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 
 * [Créer des tâches](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Travailler avec des tâches](/help/manage-work/tasks/work-with-tasks.md)
+* [Utiliser des tâches](/help/manage-work/tasks/work-with-tasks.md)
 * [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
-* [Découvrez comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Découvrir comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
 * [Comprendre l’[!UICONTROL effort de travail]](/help/manage-work/tasks/understand-work-effort.md)

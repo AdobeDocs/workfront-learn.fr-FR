@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez à :
 * Sélectionnez une vue pour comparer les différents types de dates [!DNL Workfront's].
 * Utilisez le statut de la progression pour vous aider à suivre la progression du travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436609/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

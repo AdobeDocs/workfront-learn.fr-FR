@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ Cette vidéo présente la navigation et la gestion de la page du projet dans Wor
 * **Section Documents :** permet de charger et de gérer des fichiers et des épreuves liés au projet. Les documents joints aux tâches sont cumulés au niveau du projet pour un accès plus facile.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449728/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

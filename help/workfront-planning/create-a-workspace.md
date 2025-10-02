@@ -1,6 +1,6 @@
 ---
 title: Créer un espace de travail
-description: Découvrez comment créer des espaces de travail dans Adobe Workfront Planning.
+description: Découvrez comment créer des espaces de travail dans la planification Adobe Workfront.
 feature: Workfront Planning
 topic: Administration
 role: Admin, Leader
@@ -9,16 +9,16 @@ doc-type: Feature Video
 duration: 180
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17209
-source-git-commit: 05b41a1bf79d6cf8ae661b42797e8a8422f78388
+exl-id: 22a08739-2842-41c7-917c-506b4d9ebf46
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
-
 # Créer un espace de travail
 
-Découvrez comment créer des espaces de travail dans Adobe Workfront Planning.
+Découvrez comment créer des espaces de travail dans la planification Adobe Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448263/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops=1)

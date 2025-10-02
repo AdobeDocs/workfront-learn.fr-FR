@@ -1,6 +1,6 @@
 ---
-title: Personnaliser les listes de rapports par le biais des modèles de disposition
-description: Découvrez comment utiliser les modèles de disposition pour ajouter et supprimer des filtres, des vues et des groupes provenant des listes de rapports.
+title: Personnaliser les listes de rapports par le biais des modèles de mise en page
+description: Découvrez comment utiliser les modèles de mise en page pour ajouter et supprimer des filtres, des vues et des groupes provenant des listes de rapports.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -11,30 +11,30 @@ thumbnail: 335079.png
 jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
 
 ---
 
-# Personnaliser les listes de rapports avec des modèles de disposition
+# Personnaliser les listes de rapports avec des modèles de mise en page
 
 Dans cette vidéo, vous apprendrez à :
 
-* Accéder aux paramètres de la liste de rapports dans un modèle de disposition
+* Accéder aux paramètres de la liste de rapports dans un modèle de mise en page
 * Supprimer des filtres, des vues et des regroupements
 * Ajouter des filtres, des vues et des regroupements
 
->[!VIDEO](https://video.tv.adobe.com/v/3432910/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
 
 ## Définir des valeurs par défaut de liste
 
 Définir des filtres, des vues et/ou des regroupements par défaut permet d’accéder plus rapidement à des informations essentielles capables de faire avancer le travail plus rapidement.
 
-En tant qu’administrateur ou administratrice système ou de groupe, vous pouvez déterminer ce que voient les personnes en premier lorsqu’elles visualisent une liste de projets, de tâches, de problèmes, etc., en définissant un filtre, une vue et/ou un regroupement par défaut au moyen d’un modèle de disposition.
+En tant qu’administrateur ou administratrice système ou de groupe, vous pouvez déterminer ce que voient les personnes en premier lorsqu’elles visualisent une liste de projets, de tâches, de problèmes, etc., en définissant un filtre, une vue et/ou un regroupement par défaut au moyen d’un modèle de mise en page.
 
-Fenêtre [!UICONTROL Listes] de ![modèles de disposition](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+Fenêtre [!UICONTROL Listes] de ![modèles de mise en page](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Si vous souhaitez définir une liste par défaut, vous pouvez effectuer l’une 
 
 * Placez le pointeur de la souris sur une option déjà répertoriée, puis cliquez sur [!UICONTROL Définir comme valeur par défaut].
 
-Fenêtre [!UICONTROL Listes] de ![modèles de disposition avec [!UICONTROL Définir comme valeur par défaut] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+Fenêtre [!UICONTROL Listes] de ![modèles de mise en page avec [!UICONTROL Définir comme valeur par défaut] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
 
 * Ou ajoutez un filtre, une vue ou un regroupement personnalisé et cochez la case en regard de [!UICONTROL Définir comme valeur par défaut].
 

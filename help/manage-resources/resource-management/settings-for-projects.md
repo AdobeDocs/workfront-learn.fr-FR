@@ -11,8 +11,8 @@ thumbnail: 335162.png
 jira: KT-8874
 exl-id: 5a9ea239-9f20-4ccc-9fc3-8a7e21178664
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ Dans ce tutoriel vidéo, vous apprendrez :
 
 * Comment optimiser les outils de gestion des ressources - durées et dates prévues, nombre d&#39;heures prévues et affectations de tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/3420173/?quality=12&learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops=1)
