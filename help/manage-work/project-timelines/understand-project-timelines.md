@@ -28,7 +28,7 @@ Ce que vous apprendrez :
 * Différentes vues dans Workfront, telles que la vue standard pour la planification et la vue de statut pour la surveillance de la progression, qui inclut des indicateurs de progression, des commentaires, des documents, des problèmes, des approbations, le chemin critique et les jalons. L’activité récente peut être suivie pour afficher les mises à jour et les notes.
 * La planification peut être effectuée à partir d’une date de début ou d’achèvement, Workfront calculant les dates correspondantes en fonction de la durée des tâches et des prédécesseurs. La vidéo recommande d’effectuer la planification à partir d’une date de début pour les dates d’achèvement critiques afin de laisser une certaine marge. Les contraintes de tâche, telles que « le plus tôt possible » et « le plus tard possible », sont également abordées, en montrant comment elles affectent la planification des tâches. Vous pouvez créer des vues personnalisées pour afficher les contraintes de tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435837/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 >[!IMPORTANT]
 >

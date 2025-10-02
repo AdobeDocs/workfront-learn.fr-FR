@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Sélectionnez le mode Graphique pour obtenir une vue détaillée de l’affectation des utilisateurs et utilisatrices.
 * Afficher les répartitions des affectations quotidiennes des utilisateurs et utilisatrices
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413838/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

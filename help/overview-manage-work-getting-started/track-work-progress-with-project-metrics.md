@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez à :
 * Accéder aux graphiques de mesures du projet
 * Personnaliser les informations dans les graphiques
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439172/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

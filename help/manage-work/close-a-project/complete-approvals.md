@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Recherche des approbations de tâches non résolues et traitement de celles-ci
 * Recherche des approbations de problèmes non résolus et traitement de celles-ci
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439426/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

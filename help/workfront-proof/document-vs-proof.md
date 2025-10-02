@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 
 * la différence entre un document et une épreuve dans [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439861/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez à :
 * Sélectionnez une vue pour comparer les différents types de dates [!DNL Workfront's].
 * Utilisez le statut de la progression pour vous aider à suivre la progression du travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436609/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 >[!NOTE]
 >

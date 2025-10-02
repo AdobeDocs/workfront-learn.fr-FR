@@ -23,4 +23,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Fermez un objectif pour indiquer quand l’objectif est atteint ou quand vous n’y travaillez plus et n’envisagez plus de le faire dans un avenir immédiat.
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415945/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

@@ -30,7 +30,7 @@ Cette vidéo explique comment rechercher et gérer des demandes dans Workfront. 
 * Rapports et tableaux de bord personnalisés
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441656/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

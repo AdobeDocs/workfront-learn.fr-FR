@@ -23,5 +23,5 @@ ht-degree: 100%
 
 Découvrez comment les utilisateurs et utilisatrices peuvent contrôler les notifications in-app et par e-mail qui leur sont envoyées, de façon à ne recevoir que des e-mails utiles et pertinents pour leur travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442809/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 

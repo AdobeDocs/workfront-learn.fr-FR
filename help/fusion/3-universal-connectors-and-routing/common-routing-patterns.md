@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 
 * La différence entre les chemins de routeur mutuellement exclusifs et non exclusifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417255/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez :
 * La différence entre les tableaux simples et complexes
 * Comment travailler avec des tableaux simples et complexes
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417981/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

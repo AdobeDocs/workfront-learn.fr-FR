@@ -27,4 +27,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment exécuter votre rapport avec les droits d’accès d’un personne spécifique
 * Comment configurer et utiliser des prompts de rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445865/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

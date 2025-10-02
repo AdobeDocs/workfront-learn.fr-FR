@@ -24,7 +24,7 @@ ht-degree: 100%
 Cette vidéo explique la structure des tâches dans Workfront. Les tâches sont des composants essentiels d’un projet, représentant les éléments de travail nécessaires à l’achèvement. La vidéo souligne l’importance d’organiser les tâches avec précision en tant qu’étape clé de la planification et de la gestion des projets. Elle explique comment commencer à travailler avec des tâches, ainsi que les relations parent-enfant entre les tâches.
 Les tâches parents agissent comme des organisateurs, en regroupant le projet en phases, étapes ou jalons, et ne sont pas affectées à des personnes. Les tâches enfants, ou sous-tâches, représentent le travail exploitable attribué aux membres de l’équipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445598/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

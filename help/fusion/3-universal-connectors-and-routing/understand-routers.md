@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment circulent les lots de données sur les chemins de routeur
 * Comment ajouter et utiliser des routeurs
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416565/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

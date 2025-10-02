@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * Fonctionnement de l’expression GAUCHE/DROITE
 * Utilisation d’une expression de texte GAUCHE/DROITE dans un champ calculé
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417121/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

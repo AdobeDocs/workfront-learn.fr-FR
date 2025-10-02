@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez à :
 * Personnaliser la barre de navigation et le pied de page
 * Personnaliser la page d’accueil et la page de connexion
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418776/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Paramètre d’[!UICONTROL Apparence] supplémentaire
 

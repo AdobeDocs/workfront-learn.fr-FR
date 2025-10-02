@@ -41,7 +41,7 @@ Dans cette vidéo, vous découvrirez ce qui suit :
 * Casse Camel
 * Des _blocs de code en mode texte_ que vous pouvez utiliser dans vos filtres de rapport.
 
->[!VIDEO] (https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3412685/?quality=12&learn=on&enablevpops=0&captions=fre_fr
 
 ## Activités Comprendre le mode texte de base pour les filtres
 

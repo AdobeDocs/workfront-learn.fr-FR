@@ -50,4 +50,4 @@ Dans cette vidéo, vous découvrirez :
 * Les capacités de la base et du concepteur de Fusion
 * Un exemple de scénario de Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416553/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

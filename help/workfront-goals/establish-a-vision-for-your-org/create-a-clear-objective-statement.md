@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez à :
 * Créer une déclaration d’objectif, ou « intention du commandement », qui soit claire
 * Rédiger des objectifs d’entreprise ou d’organisation solides
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416009/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 <!--
 Your turn graphic

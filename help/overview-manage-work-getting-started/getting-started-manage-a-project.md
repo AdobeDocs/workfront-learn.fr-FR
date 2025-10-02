@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez :
 * Analyse en profondeur des détails des tâches
 * Communication avec les parties prenantes
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445169/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

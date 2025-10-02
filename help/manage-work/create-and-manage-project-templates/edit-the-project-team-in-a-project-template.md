@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * comment éviter d’inclure involontairement des personnes membres de l’équipe qui ne font **pas** partie du projet dans une équipe de projet de modèle ;
 * comment modifier l’équipe de projet du modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441552/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

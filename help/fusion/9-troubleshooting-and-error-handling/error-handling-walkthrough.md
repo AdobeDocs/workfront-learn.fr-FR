@@ -28,7 +28,7 @@ Découvrez comment la gestion des erreurs par défaut se produit et comment ajou
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418142/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 

@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Découvrez comment ajouter des personnes à Workfront en copiant une personne existante, en important de nouvelles personnes en bloc et en créant une nouvelle personne à partir de zéro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447045/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 

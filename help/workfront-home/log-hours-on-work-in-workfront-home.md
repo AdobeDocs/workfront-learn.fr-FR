@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * La valeur de la consignation du temps
 * Consignation du temps passé sur les affectations de travail
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438600/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Conseils pour consigner ses heures de travail dans [!DNL Home]
 

@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Taguer les utilisateurs et utilisatrices sur les mises à jour de [!DNL Workfront]
 * Répondre aux mises à jour existantes
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445279/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Conseils pour la mise à jour des travaux dans [!UICONTROL Accueil]
 

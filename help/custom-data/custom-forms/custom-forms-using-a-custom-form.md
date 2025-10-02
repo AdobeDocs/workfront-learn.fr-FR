@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez à joindre un formulaire personnalisé à des objets dans Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431643/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

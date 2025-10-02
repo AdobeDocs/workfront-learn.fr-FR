@@ -34,7 +34,7 @@ Dans cette vidéo, vous apprendrez à :
 * Rechercher un brouillon de demande
 * Afficher les trois derniers chemins de requête
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413114/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

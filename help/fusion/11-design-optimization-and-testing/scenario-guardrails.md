@@ -30,7 +30,7 @@ Dans cette vidéo, vous découvrirez :
 * Mécanismes de sécurisation des fichiers
 * Mécanismes de sécurisation des webhooks
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418724/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 

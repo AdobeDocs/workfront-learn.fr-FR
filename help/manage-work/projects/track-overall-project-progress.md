@@ -25,7 +25,7 @@ La vidéo explique comment effectuer le suivi de la progression globale du proje
 
 La vidéo souligne l’importance de mises à jour régulières par les membres de l’équipe et d’une gestion proactive des problèmes pour assurer un suivi précis et une réalisation du projet en temps voulu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447412/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

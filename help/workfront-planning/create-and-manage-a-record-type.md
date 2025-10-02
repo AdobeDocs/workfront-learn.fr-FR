@@ -21,4 +21,4 @@ ht-degree: 76%
 
 Découvrez comment créer, importer et gérer des types d’enregistrements personnalisés dans la planification Adobe Workfront pour organiser et suivre efficacement les éléments liés au travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448086/?learn=on&enablevpops=1&captions=fre_fr)

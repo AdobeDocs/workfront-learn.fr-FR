@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser un processus d&#39;approbation existant
 * Modifier un processus d’approbation existant pour un projet, une tâche ou un problème spécifique
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414473/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 <!--
 learn more URLS

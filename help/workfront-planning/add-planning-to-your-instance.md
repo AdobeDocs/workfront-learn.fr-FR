@@ -21,4 +21,4 @@ ht-degree: 80%
 
 Découvrez les exigences requises pour ajouter l’outil de planification Workfront et le rendre visible aux utilisateurs et utilisatrices de votre instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447968/?learn=on&enablevpops=1&captions=fre_fr)

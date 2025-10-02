@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez à :
 * Mettre à jour les progrès sur les problèmes
 * Mettre à jour le statut du problème
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446957/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

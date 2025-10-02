@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * Utilisation de l’itération et de l’agrégation
 * Différents types d’itérateurs
 
->[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417279/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment fonctionne l’expression CONCAT
 * Comment créer une expression de texte CONCAT dans un champ calculé
 
->[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417109/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

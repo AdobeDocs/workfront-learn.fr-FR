@@ -37,7 +37,7 @@ Dans cette vidéo, vous découvrirez :
 * Erreurs de boucle de dépendance
 * Raccourcis et bonnes pratiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454528/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 Pour plus d’informations sur l’utilisation des prédécesseurs, voir [Utiliser les prédécesseurs de tâche](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=fr).
 

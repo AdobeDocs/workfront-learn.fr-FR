@@ -31,4 +31,4 @@ Dans cette vidéo, vous apprendrez à :
 * Trouver des affectations de travail entrantes et existantes
 * Réviser les informations d’affectation
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432291/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Cette vidéo explique le concept des files d’attente de demandes dans Workfront, leur objectif et la façon d’envoyer et de gérer des demandes. Les files d’attente de demandes servent d’emplacement centralisé pour l’envoi de divers types de demandes.
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447012/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

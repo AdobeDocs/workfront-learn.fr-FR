@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Comprendre pourquoi utiliser des caractères génériques
 * Créer un filtre avec un caractère générique basé sur l’utilisateur ou l’utilisatrice
 
->[!VIDEO] (https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3412654/?quality=12&learn=on&enablevpops=0&captions=fre_fr
 
 >[!TIP]
 >

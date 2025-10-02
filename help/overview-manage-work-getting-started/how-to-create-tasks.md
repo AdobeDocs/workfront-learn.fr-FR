@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * La méthode la plus longue pour créer une tâche dans un projet Workfront
 * Quelques raccourcis pratiques pour créer des tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423156/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

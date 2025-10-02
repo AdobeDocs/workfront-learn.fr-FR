@@ -27,7 +27,7 @@ Dans cette vidéo, vous allez :
 * En savoir plus sur certains éléments utiles de reporting de tâches
 * Découvrir comment créer votre propre filtre de tâche
 
->[!VIDEO] (https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3412672/?quality=12&learn=on&enablevpops=0&captions=fre_fr
 
 ## Activités Comprendre les filtres de tâches intégrés
 

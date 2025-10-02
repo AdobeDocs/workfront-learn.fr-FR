@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment personnaliser les informations affichées sur une carte d’un panorama, que ce soit en mode complet ou condensé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446533/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

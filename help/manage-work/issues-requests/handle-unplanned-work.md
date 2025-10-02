@@ -24,7 +24,7 @@ ht-degree: 100%
 La vidéo souligne l’importance de la communication dans la gestion de projets et le rôle des problèmes en tant qu’outil clé pour faciliter la communication. Elle explique la différence entre les mises à jour et les problèmes, notant que les problèmes sont mieux adaptés au travail qui doit être affecté, suivi et résolu avant qu’un projet puisse être terminé. La vidéo fournit un guide détaillé sur la manière de consigner les problèmes.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446568/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

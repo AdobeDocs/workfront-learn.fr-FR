@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Afficher les commentaires de BAT dans la section [!UICONTROL Mises à jour]
 * Répondre à un commentaire de BAT dans la section [!UICONTROL Mises à jour]
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438655/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

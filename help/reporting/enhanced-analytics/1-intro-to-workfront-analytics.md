@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Regardez cette vidéo avec Joel Pettigrew de Workfront, chef de produit d’[!UICONTROL Analytique améliorée], pour découvrir comment l’analytique est née et les capacités passionnantes qu’elle rend possibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422286/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

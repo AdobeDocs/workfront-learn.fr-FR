@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 * charger un document ;
 * rechercher une formation sur le chargement d’épreuve.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440372/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

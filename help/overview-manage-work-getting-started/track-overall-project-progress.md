@@ -30,7 +30,7 @@ Dans cette vidéo, vous allez apprendre à suivre la progression d’un projet e
 * Problèmes ouverts
 * Colonne Mise à jour des conditions
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447412/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

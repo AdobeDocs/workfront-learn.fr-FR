@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Supprimer des filtres, des vues et des regroupements
 * Ajouter des filtres, des vues et des regroupements
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432910/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Définir des valeurs par défaut de liste
 

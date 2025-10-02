@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Modifier vos paramètres de notification
 * Créer un carnet d’adresses
 
->[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414449/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
