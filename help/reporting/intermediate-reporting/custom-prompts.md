@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer une invite personnalisée en mode texte
 * Des exemples que vous pouvez utiliser dans vos rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0
 
 ## Activités Créer des invites personnalisées
 

@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Quand un rapport de matrice peut être utile
 * et comment créer un rapport de matrice
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0
 
 ## Points clés à retenir
 

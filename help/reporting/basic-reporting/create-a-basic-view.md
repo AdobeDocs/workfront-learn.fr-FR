@@ -25,7 +25,7 @@ La vidéo explique comment créer et personnaliser des affichages dans Workfront
 
 La vidéo souligne la flexibilité des vues dans Workfront et fournit des instructions détaillées sur leur création, leur personnalisation et leur gestion.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0
 
 ## Points clés à retenir
 
@@ -133,9 +133,9 @@ Modifiez le [!UICONTROL Format du champ] des colonnes [!UICONTROL Début le] et 
 1. Cliquez sur **[!UICONTROL Ajouter une colonne]** encore une fois.
 1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez [!UICONTROL « Contrainte »], puis sélectionnez [!UICONTROL « Date de contrainte »] dans la source du champ Tâche.
 1. Sélectionnez la colonne [!UICONTROL Début le], puis cliquez sur [!UICONTROL Options avancées].
-1. Dans la liste déroulante [!UICONTROL Format du champ] sélectionnez [!UICONTROL  »10/17/60 3:00 AM »].
+1. Dans la liste déroulante [!UICONTROL Format du champ] sélectionnez [!UICONTROL &#x200B; »10/17/60 3:00 AM »].
 1. Sélectionnez la colonne [!UICONTROL Échéance le], puis cliquez sur [!UICONTROL Options avancées].
-1. Dans la liste déroulante [!UICONTROL Format du champ] sélectionnez [!UICONTROL  »10/17/60 3:00 AM »].
+1. Dans la liste déroulante [!UICONTROL Format du champ] sélectionnez [!UICONTROL &#x200B; »10/17/60 3:00 AM »].
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
 ### Activité 4 : créer une vue de statut actif pour un modèle de projet

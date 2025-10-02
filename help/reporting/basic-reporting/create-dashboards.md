@@ -24,7 +24,7 @@ ht-degree: 99%
 La vidéo fournit un guide complet sur la compréhension et l’utilisation des tableaux de bord dans Workfront.
 Elle explique qu’un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées en un seul endroit.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0
 
 ## Points clés à retenir
 

@@ -29,7 +29,7 @@ La vidéo explique le concept de composants de reporting dans Workfront, essenti
 * **Qualificateur de filtre :** définit les valeurs à inclure ou à exclure dans un rapport, par exemple l’affichage des tâches avec une priorité « élevée ».
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0
 
 ## Points clés à retenir
 

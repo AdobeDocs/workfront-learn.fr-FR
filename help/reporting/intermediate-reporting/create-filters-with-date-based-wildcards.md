@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 * Créer une date personnalisée à l’aide de caractères génériques, d’attributs, d’opérateurs et de modificateurs
 * Créer une période personnalisée à l’aide de caractères génériques
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0
 
 
 ## Activité Créer des filtres avec des caractères génériques basés sur la date
