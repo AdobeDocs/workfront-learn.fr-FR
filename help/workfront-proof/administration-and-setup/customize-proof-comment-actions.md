@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Utilisation des actions dans les commentaires
 * Personnalisation des étiquettes d’action
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432932/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## À vous
 

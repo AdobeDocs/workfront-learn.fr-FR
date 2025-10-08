@@ -28,7 +28,7 @@ Pour de simples modifications de données, utilisez la fonction Switch pour tran
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417449/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 
 

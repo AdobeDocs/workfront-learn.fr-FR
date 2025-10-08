@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez à :
 * Parcourir les graphiques
 * Parcourir l’alignement des objectifs
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421295/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

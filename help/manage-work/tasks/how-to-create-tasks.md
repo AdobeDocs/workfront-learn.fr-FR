@@ -22,7 +22,7 @@ ht-degree: 100%
 La vidéo présente un tutoriel sur la création de tâches dans un projet Workfront, qui aborde à la fois la méthode complète et des raccourcis pratiques. Elle met en avant la flexibilité de l’opération de création de tâches et propose des conseils pour une gestion efficace des tâches.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423156/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez :
 * Description des licences et des niveaux d’accès
 * Création et gestion des niveaux d’accès
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421301/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

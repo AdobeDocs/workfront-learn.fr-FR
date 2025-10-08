@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * Définition Workfront des entreprises
 * Création d’entreprises et d’associations
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432857/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

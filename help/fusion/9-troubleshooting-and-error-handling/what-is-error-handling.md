@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consistent les types d’erreur courants et la façon dont le système les gère par défaut
 * Comment appliquer une gestion personnalisée des erreurs à l’aide d’un module de gestion des erreurs
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418130/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

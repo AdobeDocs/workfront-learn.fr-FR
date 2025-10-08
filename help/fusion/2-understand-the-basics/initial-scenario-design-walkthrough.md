@@ -33,7 +33,7 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser le concepteur de scénarios
 * Créer un scénario de base
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415973/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

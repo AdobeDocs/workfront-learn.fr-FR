@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 * Que sont les directives de marque ?
 * Comment créer une page de directives de marque dans [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418762/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

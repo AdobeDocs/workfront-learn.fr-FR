@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Apprenez à décomposer les stories pour les raccourcir, à redéfinir les priorités des articles dans la liste d’attente et à marquer les articles comme prêts à être placés dans une itération.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412185/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

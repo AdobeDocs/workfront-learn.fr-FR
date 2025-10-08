@@ -26,7 +26,7 @@ Dans cette vidéo, vous allez :
 * Découvrez comment les informations des ressources sont affichées dans cette vue
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416529/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 Pour l’option Vue par fonction, la colonne Budgété est affichée par défaut. Elle reprend le nombre estimé de ressources nécessaires pour un projet à partir d’une analyse de rentabilité, si celle-ci a été remplie. Cela signifie également que la colonne Net utilise, par défaut, les chiffres de la colonne Budgété pour vous indiquer la quantité de ressources restantes.
 

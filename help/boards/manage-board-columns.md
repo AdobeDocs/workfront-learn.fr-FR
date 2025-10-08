@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment modifier, ajouter, réorganiser et supprimer des colonnes d’un panorama.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422948/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

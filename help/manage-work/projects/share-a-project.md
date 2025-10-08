@@ -41,7 +41,7 @@ La vidéo explique comment partager efficacement des projets dans Workfront pour
 
 La vidéo souligne l’utilisation d’équipes et de modèles pour une gestion du partage efficace ainsi que le rôle des administrateurs et administratrices dans la personnalisation des préférences de partage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423147/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

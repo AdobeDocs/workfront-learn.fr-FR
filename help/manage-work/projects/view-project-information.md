@@ -33,7 +33,7 @@ Cette vidéo présente les filtres, les vues et les regroupements de Workfront p
 
 La vidéo met l’accent sur la personnalisation et fournit des liens vers des tutoriels pour un apprentissage plus approfondi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453068/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

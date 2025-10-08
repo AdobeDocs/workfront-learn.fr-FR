@@ -27,7 +27,7 @@ Pour les approbations, les utilisateurs et utilisatrices peuvent les déléguer 
 Les approbations déléguées sont marquées dans le système. La personne à l’origine de la délégation et la personne destinataire sont mentionnées. Les mises à jour relatives aux validations apparaissent dans l’onglet Mise à jour et l’activité du système peut être consultée dans l’onglet Activité du système.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446378/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Points clés à retenir
 

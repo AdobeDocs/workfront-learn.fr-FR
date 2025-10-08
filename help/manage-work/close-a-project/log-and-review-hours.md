@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Vérifier les heures consignées dans un projet
 * Approuver les heures du projet si nécessaire
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441071/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

@@ -24,7 +24,7 @@ Dans cette vidéo, vous apprendrez à :
 * Examiner et activer les objectifs proposés
 * Organiser en cascade et aligner des objectifs trimestriels
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416466/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 <!--
 Pro-tips graphic

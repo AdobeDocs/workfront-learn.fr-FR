@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Découvrez l’objectif des plannings, comment les créer et les modifier, ainsi que des paramètres supplémentaires pour mieux déterminer quand le travail peut être effectué.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423338/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 

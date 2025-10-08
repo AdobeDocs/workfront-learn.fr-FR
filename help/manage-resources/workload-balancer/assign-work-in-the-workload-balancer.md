@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Effectuer des affectations à une tâche non attribuée
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413805/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

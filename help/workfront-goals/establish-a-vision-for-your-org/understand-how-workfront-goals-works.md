@@ -25,7 +25,7 @@ Dans cette vidéo, vous découvrirez :
 * Des exemples d’objectifs
 * Le champ d’influence
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413132/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Désigner des personnes responsables
 

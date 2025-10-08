@@ -25,6 +25,6 @@ Dans cette vidéo, vous apprendrez :
 * Résultat du calcul des expressions DATEDIFF et WEEKDAYDIFF
 * Comment créer une expression de données WEEKDAYDIFF dans un champ calculé
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417115/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 **Note** : l’expression de données WEEKDAYDIFF ne prend PAS en compte les jours fériés spécifiés par votre organisation.

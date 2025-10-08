@@ -25,7 +25,7 @@ Dans cette vidéo, vous allez :
 * Configurer une liste de mots-clés
 * Créer et importer une liste de mots-clés
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419508/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Bonnes pratiques relatives aux mots-clés
 

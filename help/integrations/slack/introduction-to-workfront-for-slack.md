@@ -23,7 +23,7 @@ Dans cette vidéo, vous allez :
 
 * Découvrez une présentation de ce que vous apprendrez des autres [!DNL Workfront] pour les vidéos [!DNL Slack].
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435917/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 >[!NOTE]
 >

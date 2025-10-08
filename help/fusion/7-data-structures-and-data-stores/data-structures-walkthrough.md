@@ -28,7 +28,7 @@ Ouvrez un fichier CSV contenant une liste d’entrées de temps. Ces entrées de
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417957/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 
 

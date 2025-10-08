@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Affecter des modèles de mise en page à des utilisateurs ou utilisatrices, des groupes ou des équipes
 * Contrôler les personnes pouvant gérer l’accès aux modèles de mise en page
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432326/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

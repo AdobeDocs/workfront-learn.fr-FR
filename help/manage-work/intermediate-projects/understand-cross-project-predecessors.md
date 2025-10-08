@@ -35,6 +35,6 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer un prédécesseur multi-projet.
 * Exécution du suivi des prédécesseurs multi-projets dans les rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422834/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 Pour savoir comment créer l&#39;affichage des **Prédécesseurs et successeurs multi-projets** et le rapport utilisé dans la vidéo des **Prédécesseurs et successeurs multi-projets**, consultez le tutoriel [Présentation du mode Texte de base pour les affichages](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr) et assurez-vous de suivre les tutoriels préalables répertoriés ici, si nécessaire.

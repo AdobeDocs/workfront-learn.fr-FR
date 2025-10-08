@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Appliquer un workflow à l’aide d’un modèle de BAT
 * Configurer entièrement un workflow automatisé
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453009/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 
 

@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Mettre à jour un plan dans [!DNL Scenario Planner]
 * Copier des plans dans [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412648/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

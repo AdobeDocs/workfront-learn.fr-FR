@@ -28,7 +28,7 @@ Installez et utilisez les différentes zones de l’outil de développement Work
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418124/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 
 ## Téléchargement de l’outil de développement

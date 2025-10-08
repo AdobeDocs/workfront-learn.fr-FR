@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 
 * Comment lire le graphique du plan de vol
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439011/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Graphique du plan de vol
 

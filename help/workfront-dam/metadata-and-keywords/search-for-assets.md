@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Plan de maintenance des métadonnées et des mots-clés
 * Créer les bonnes pratiques de [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419471/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

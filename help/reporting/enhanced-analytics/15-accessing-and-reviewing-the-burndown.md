@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment accéder au graphique d’avancement
 * Comment comprendre la relation entre les heures restantes, l’état d’un projet et la vitesse d’un projet
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438886/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Le suivi de la vitesse d’un projet
 

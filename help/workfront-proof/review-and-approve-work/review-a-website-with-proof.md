@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Faire des commentaires sur une épreuve de site web statique
 * Faire des commentaires sur une épreuve de site web interactive
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445964/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 <!--
 ## Learn more

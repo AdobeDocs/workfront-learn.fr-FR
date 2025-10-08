@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Accéder au flux de mises à jour [!UICONTROL Impression]
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415935/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 
 * Création de recommandations pour aider votre organisation à fonctionner de manière plus efficace
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438831/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Accéder à la zone de détails du projet
 * Personnaliser les champs de détails du projet à l’aide d’un modèle de mise en page
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432899/?quality=12&learn=on&enablevpops=1&captions=fre_fr)

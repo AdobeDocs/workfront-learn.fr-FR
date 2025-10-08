@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi faire passer le statut d’un projet sur [!UICONTROL Terminé]
 * Que faire si vous ne pouvez pas faire passer le statut du projet sur [!UICONTROL Terminé]
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439356/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Tutoriels recommandés sur cette rubrique
 

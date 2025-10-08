@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 * Créer une documentation détaillée et pouvant être partagée
 * Tester la profondeur, l’ampleur, la complexité et la charge
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418731/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
 
 ## Liste de contrôle des remarques relatives aux tests
 
