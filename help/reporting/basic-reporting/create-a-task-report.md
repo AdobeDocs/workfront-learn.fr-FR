@@ -14,8 +14,8 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ La vidéo propose un guide détaillé sur la création d’un rapport personnali
 
 Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448344/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## Points clés à retenir
 
@@ -41,8 +41,8 @@ Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concen
 >[!TIP]
 >
 >Consultez nos recommandations dans notre [Guide d’utilisation des rapports client Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Vous y trouverez des instructions détaillées pour 10 rapports, prêts à être créés dès aujourd’hui dans votre environnement.
->&#x200B;>Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
->&#x200B;>Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
+>>Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
+>>Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
 
 
 ### Activité 1 : créer un rapport de notes avec des invites
@@ -178,7 +178,7 @@ Filtrez sur l’identifiant du projet de file d’attente des demandes où se tr
 
    * [!UICONTROL Problème] > [!UICONTROL Nom]
    * [!UICONTROL Contact principal] > [!UICONTROL Nom]
-      * Remarque : elle s’affiche avec « Propriétaire :Name comme libellé de la colonne. Vous pouvez remplacer cette valeur par « Signalé par » en cliquant sur Options avancées et en saisissant « Signalé par » dans le champ **Libellé de colonne personnalisé**.
+      * Note : « Personne propriétaire:Name » apparaît comme libellé de colonne. Vous pouvez remplacer cette valeur par « Signalé par » en cliquant sur Options avancées et en saisissant « Signalé par » dans le champ **Libellé de colonne personnalisé**.
    * [!UICONTROL Problème] > [!UICONTROL Type de processus]
    * [!UICONTROL Problème] > [!UICONTROL Nom du processus]
    * [!UICONTROL Problème] > [!UICONTROL Évaluation du processus]

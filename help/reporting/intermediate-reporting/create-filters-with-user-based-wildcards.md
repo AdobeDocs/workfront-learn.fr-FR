@@ -26,11 +26,11 @@ Dans cette vidéo, vous apprendrez à :
 * Comprendre pourquoi utiliser des caractères génériques
 * Créer un filtre avec un caractère générique basé sur l’utilisateur ou l’utilisatrice
 
->[!VIDEO](https://video.tv.adobe.com/v/3412654/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Utilisez la source et le nom du champ Utilisateurs de l’affectation >> ID lorsque vous créez des filtres qui examinent les informations relatives à l’affectation des tâches ou des problèmes.  Cette option permet d’examiner les utilisateurs et les utilisatrices affectés à la tâche ou au problème, et pas seulement la personne « propriétaire » ou la personne cessionnaire principale.
+>Utilisez la source et le nom du champ Utilisateurs et utilisatrices de l’affectation >> ID lorsque vous créez des filtres qui examinent les informations relatives à l’affectation des tâches ou des problèmes.  Cette option permet d’examiner les utilisateurs et les utilisatrices affectés à la tâche ou au problème, et pas seulement la personne « propriétaire » ou la personne cessionnaire principale.
 
 >[!TIP]
 >

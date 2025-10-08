@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste la mise en forme conditionnelle dans une vue
 * Comment créer et modifier une mise en forme conditionnelle
 
->[!VIDEO](https://video.tv.adobe.com/v/3445443/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
 ## Résumé de la mise en forme conditionnelle
