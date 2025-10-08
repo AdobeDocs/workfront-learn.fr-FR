@@ -25,7 +25,7 @@ La vidéo propose un guide détaillé sur la création d’un rapport personnali
 
 Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes.
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448344/?quality=12&learn=on&captions=fre_fr)
 
 ## Points clés à retenir
 
