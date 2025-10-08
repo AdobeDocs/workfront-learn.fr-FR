@@ -13,7 +13,7 @@ jira: KT-8910
 exl-id: 0d4ebd19-f4e8-4e3b-9580-e22e47442836
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez à joindre un formulaire personnalisé à des objets dans Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431643/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)

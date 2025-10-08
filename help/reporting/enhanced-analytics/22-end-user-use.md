@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez :
 
 * Comment les utilisateurs finaux et utilisatrices finales peuvent utiliser des graphiques de plan de vol, d’avancement et de tâches en cours
 
->[!VIDEO](https://video.tv.adobe.com/v/3437691/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops=1)

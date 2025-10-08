@@ -12,7 +12,7 @@ exl-id: 820f35af-a068-4a15-9322-98462964de61
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Effectuez des exercices avec différentes configurations de scénario pour explo
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417431/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on&enablevpops=1)
 
 
 

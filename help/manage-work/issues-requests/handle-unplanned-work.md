@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 La vidéo souligne l’importance de la communication dans la gestion de projets et le rôle des problèmes en tant qu’outil clé pour faciliter la communication. Elle explique la différence entre les mises à jour et les problèmes, notant que les problèmes sont mieux adaptés au travail qui doit être affecté, suivi et résolu avant qu’un projet puisse être terminé. La vidéo fournit un guide détaillé sur la manière de consigner les problèmes.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446568/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

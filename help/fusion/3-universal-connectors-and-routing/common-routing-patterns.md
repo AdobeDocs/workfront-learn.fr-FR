@@ -12,7 +12,7 @@ exl-id: dbf95ede-8b11-4b9e-a87a-a0e4db863e9c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ Dans cette vidéo, vous apprendrez :
 
 * La différence entre les chemins de routeur mutuellement exclusifs et non exclusifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417255/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops=1)

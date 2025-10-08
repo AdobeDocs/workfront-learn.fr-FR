@@ -11,7 +11,7 @@ jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '494'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Naviguation dans Brand Connect
 * Recherche de ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/3418747/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops=1)
 
 ## Critères de recherche de base
 

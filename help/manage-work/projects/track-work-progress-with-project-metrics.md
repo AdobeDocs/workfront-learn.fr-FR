@@ -14,7 +14,7 @@ jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '338'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 La vidéo explique comment suivre la progression du projet à l’aide des mesures du projet. Elle montre comment accéder à l’onglet Mesures dans le panneau de gauche d’un projet. Cette opération peut nécessiter de faire défiler l’écran et de cliquer sur « Afficher plus ». La zone des KPI en haut affiche les indicateurs de performances clés, tels que les tâches terminées, incomplètes et en retard. Les utilisateurs et utilisatrices peuvent cliquer sur les indicateurs pour afficher des tâches spécifiques et utiliser des graphiques pour regrouper les tâches ou les problèmes par statut ou priorité. Pointez sur les colonnes pour découvrir les quantités. Le graphique affiche le rapport entre les tâches ou les problèmes terminés et incomplets. Les mesures peuvent également afficher les tâches pour chaque personne assignée en fonction de leur statut (terminé, incomplet, à venir ou en retard). Les préférences d’affichage des mesures sont enregistrées pour les visites ultérieures. Enfin, la vidéo montre comment exporter la page de mesures sous la forme d’un fichier PNG à l’aide du bouton Exporter.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439172/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

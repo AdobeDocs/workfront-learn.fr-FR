@@ -13,7 +13,7 @@ exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Modifiez le nom du projet, la date de début planifiée et la priorité de la «
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416460/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on&enablevpops=1)
 
 
 ## À vous

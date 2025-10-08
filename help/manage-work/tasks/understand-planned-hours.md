@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Le nombre d’heures prévues est essentiel à la gestion des ressources dans Wo
 Il aide également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec le personnel.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3445335/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## Points clés à retenir

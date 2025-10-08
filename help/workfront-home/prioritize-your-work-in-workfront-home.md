@@ -12,7 +12,7 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Marquer les tâches comme affectations prioritaires
 * Filtrez la [!UICONTROL Liste de travail] pour afficher uniquement les tâches prioritaires.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438534/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)

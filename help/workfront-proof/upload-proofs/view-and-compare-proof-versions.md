@@ -12,7 +12,7 @@ jira: KT-8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des commentaires et des annotations à une version
 * Comparer la version actuelle à une version antérieure du fichier
 
->[!VIDEO](https://video.tv.adobe.com/v/3446898/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

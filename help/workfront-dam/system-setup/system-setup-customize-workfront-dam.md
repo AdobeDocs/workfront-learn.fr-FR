@@ -11,7 +11,7 @@ jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 
@@ -29,4 +29,4 @@ Dans cette vidéo, vous apprendrez à :
 * Contrôler les notifications in-app
 * Planifier la configuration et la maintenance de [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/3454265/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on&enablevpops=1)

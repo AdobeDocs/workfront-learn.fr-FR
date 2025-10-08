@@ -12,7 +12,7 @@ jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * La valeur de la consignation du temps
 * Consignation du temps passé sur les affectations de travail
 
->[!VIDEO](https://video.tv.adobe.com/v/3438600/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
 
 ## Conseils pour consigner ses heures de travail dans [!DNL Home]
 

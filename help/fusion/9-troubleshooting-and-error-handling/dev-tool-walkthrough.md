@@ -12,7 +12,7 @@ exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Installez et utilisez les différentes zones de l’outil de développement Work
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418124/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops=1)
 
 
 ## Téléchargement de l’outil de développement

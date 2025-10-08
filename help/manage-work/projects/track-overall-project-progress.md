@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '247'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ La vidéo explique comment effectuer le suivi de la progression globale du proje
 
 La vidéo souligne l’importance de mises à jour régulières par les membres de l’équipe et d’une gestion proactive des problèmes pour assurer un suivi précis et une réalisation du projet en temps voulu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447412/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

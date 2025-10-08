@@ -14,7 +14,7 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ La vidéo explique le processus du flux de demandes dans Workfront, en se concen
 
 En répondant à ces questions, les utilisateurs et utilisatrices peuvent planifier et configurer efficacement leur file d’attente des demandes dans Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441907/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

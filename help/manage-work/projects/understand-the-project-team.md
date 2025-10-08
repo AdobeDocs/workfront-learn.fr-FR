@@ -14,7 +14,7 @@ jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez à quoi l’équipe de projet peut servir et comment la gérer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444591/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

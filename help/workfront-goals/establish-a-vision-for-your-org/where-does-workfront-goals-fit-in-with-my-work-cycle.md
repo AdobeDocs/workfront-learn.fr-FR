@@ -11,7 +11,7 @@ jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Dans cette vidéo, vous découvrirez :
 * Les 6 étapes d’un cycle de vie classique
 * Éléments fondamentaux de la « phase stratégique » du cycle de vie professionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/3415991/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Your turn graphic

@@ -13,7 +13,7 @@ jira: KT-8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -26,5 +26,5 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des champs uniques dans divers formats
 * Partager des formulaires avec d’autres utilisateurs et utilisatrices
 
->[!VIDEO](https://video.tv.adobe.com/v/3420149/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on&enablevpops=1)
 

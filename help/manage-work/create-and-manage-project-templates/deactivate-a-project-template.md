@@ -14,7 +14,7 @@ jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * comment partager un modèle de projet en accordant des droits d’activation et de désactivation ;
 * comment activer et désactiver un modèle de projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444992/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

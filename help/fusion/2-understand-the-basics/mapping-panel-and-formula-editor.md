@@ -13,7 +13,7 @@ exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -29,4 +29,4 @@ Dans cette vidéo, vous apprendrez :
 * Les différents types de formules
 * La bonne et la mauvaise utilisation de l’éditeur de formules
 
->[!VIDEO](https://video.tv.adobe.com/v/3415985/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on&enablevpops=1)

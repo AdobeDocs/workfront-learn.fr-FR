@@ -14,7 +14,7 @@ doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Cette vidéo explique comment rechercher et gérer des demandes dans Workfront. 
 * Rapports et tableaux de bord personnalisés
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441656/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

@@ -12,7 +12,7 @@ exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Ajouter un filtre entre les deux modules dans les modules
 
->[!VIDEO](https://video.tv.adobe.com/v/3416484/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops=1)
 
 
 ## À vous

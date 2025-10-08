@@ -13,7 +13,7 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Dans cette vidéo, vous découvrirez :
 * Mécanismes de sécurisation des fichiers
 * Mécanismes de sécurisation des webhooks
 
->[!VIDEO](https://video.tv.adobe.com/v/3418724/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops=1)
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 

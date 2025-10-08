@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '682'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à créer un filtre EXISTS pour voir « Appr
 
 Pour une présentation plus détaillée du fonctionnement de l’instruction EXISTS, reportez-vous à la documentation [Créer des filtres complexes en mode texte à l’aide d’instructions EXISTS](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471205/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## Exemples de filtres EXISTS
 

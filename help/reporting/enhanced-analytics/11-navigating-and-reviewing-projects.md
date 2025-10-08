@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 
 * Comment lire le graphique du plan de vol
 
->[!VIDEO](https://video.tv.adobe.com/v/3439011/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
 
 ## Graphique du plan de vol
 

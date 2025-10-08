@@ -14,7 +14,7 @@ jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * Pourquoi faire passer le statut d’un projet sur [!UICONTROL Terminé]
 * Que faire si vous ne pouvez pas faire passer le statut du projet sur [!UICONTROL Terminé]
 
->[!VIDEO](https://video.tv.adobe.com/v/3439356/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

@@ -12,7 +12,7 @@ jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Supprimer des filtres, des vues et des regroupements
 * Ajouter des filtres, des vues et des regroupements
 
->[!VIDEO](https://video.tv.adobe.com/v/3432910/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
 
 ## Définir des valeurs par défaut de liste
 

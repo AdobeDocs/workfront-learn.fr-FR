@@ -12,7 +12,7 @@ jira: KT-8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Filtrer la colonne de commentaires
 * Fermer le BAT
 
->[!VIDEO](https://video.tv.adobe.com/v/3449840/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on&enablevpops=1)
 
 <!-- 
 ## Learn more

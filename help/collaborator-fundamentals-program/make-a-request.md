@@ -7,7 +7,7 @@ team: Technical Marketing
 jira: KT-8806
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ Dans cette vidéo, vous apprendrez à :
 * Afficher les demandes envoyées
 * Rechercher un brouillon de demande
 
->[!VIDEO](https://video.tv.adobe.com/v/3413114/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Accéder rapidement et facilement aux chemins des files d’attente des demandes
 

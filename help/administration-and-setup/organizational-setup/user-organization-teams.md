@@ -12,7 +12,7 @@ jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez :
 * Utiliser des équipes interfonctionnelles
 * Créer et associer des équipes
 
->[!VIDEO](https://video.tv.adobe.com/v/3432877/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
 
 ## Créer une équipe
 

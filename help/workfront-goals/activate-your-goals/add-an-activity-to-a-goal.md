@@ -11,7 +11,7 @@ jira: KT-8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Ajouter une activité et un projet à un objectif
 
->[!VIDEO](https://video.tv.adobe.com/v/3420191/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on&enablevpops=1)

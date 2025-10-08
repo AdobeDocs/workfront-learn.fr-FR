@@ -10,7 +10,7 @@ jira: KT-13776
 thumbnail: 3422520.jpeg
 exl-id: ff3ec41f-2a8d-4e09-aa8e-5c57d69cff36
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment personnaliser les informations affichées sur une carte d’un panorama, que ce soit en mode complet ou condensé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446533/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops=1)

@@ -12,7 +12,7 @@ jira: KT-8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Affecter des modèles de mise en page à des utilisateurs ou utilisatrices, des groupes ou des équipes
 * Contrôler les personnes pouvant gérer l’accès aux modèles de mise en page
 
->[!VIDEO](https://video.tv.adobe.com/v/3432326/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)

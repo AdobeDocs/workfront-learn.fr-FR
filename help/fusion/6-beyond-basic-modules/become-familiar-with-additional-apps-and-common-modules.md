@@ -12,7 +12,7 @@ exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
 ht-degree: 100%
 
@@ -45,4 +45,4 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consistent les déclencheurs, les actions et les recherches et en quoi ils diffèrent
 * Types de modules trouvés dans différents connecteurs d’applications et leur fonctionnement
 
->[!VIDEO](https://video.tv.adobe.com/v/3417437/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on&enablevpops=1)

@@ -12,7 +12,7 @@ jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Taguer les utilisateurs et utilisatrices sur les mises à jour de [!DNL Workfront]
 * Répondre aux mises à jour existantes
 
->[!VIDEO](https://video.tv.adobe.com/v/3445279/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
 
 ## Conseils pour la mise à jour des travaux dans [!UICONTROL Accueil]
 

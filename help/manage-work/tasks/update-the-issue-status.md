@@ -10,7 +10,7 @@ recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Dans cette vidéo, vous découvrirez les statuts des problèmes et les bonnes pratiques pour les utiliser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472967/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

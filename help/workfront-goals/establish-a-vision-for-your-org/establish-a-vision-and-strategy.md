@@ -11,7 +11,7 @@ jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '586'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous découvrirez :
 * Des exemples d’objectifs
 * Le champ d’influence
 
->[!VIDEO](https://video.tv.adobe.com/v/3415997/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops=1)
 
 ## Planifier la cadence de contrôles et d’une maintenance réguliers
 

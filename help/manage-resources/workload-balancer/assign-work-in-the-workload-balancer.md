@@ -12,7 +12,7 @@ jira: KT-8878
 exl-id: ec3dd98e-4944-4d6a-9936-be83c390fa2e
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Effectuer des affectations à une tâche non attribuée
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3413805/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on&enablevpops=1)

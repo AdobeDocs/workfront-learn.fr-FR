@@ -12,7 +12,7 @@ jira: KT-9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser la section Mentions pour afficher les mises à jour où vous figurez
 * Répondre aux mises à jour
 
->[!VIDEO](https://video.tv.adobe.com/v/3414233/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops=1)

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ La vidéo explique comment utiliser le graphique de Gantt des projets et celui d
 
 La vidéo souligne la flexibilité des graphiques de Gantt, permettant aux utilisateurs et aux utilisatrices de personnaliser les vues et d’afficher plusieurs éléments simultanément pour une meilleure gestion de projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448008/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Vous pouvez en savoir plus en ligne avec l’article [Commencer avec le graphique de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=fr).
 

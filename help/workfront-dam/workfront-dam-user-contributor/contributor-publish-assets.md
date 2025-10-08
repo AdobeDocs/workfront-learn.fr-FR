@@ -11,7 +11,7 @@ jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
 ht-degree: 100%
 
@@ -41,4 +41,4 @@ Dans cette vidéo, vous apprendrez à :
 * Publier des ressources sur [!UICONTROL Brand Connect]
 * Publier des dossiers sur [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/3414413/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops=1)

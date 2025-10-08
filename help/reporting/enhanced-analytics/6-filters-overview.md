@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment ajouter un filtre à l’aide d’un formulaire personnalisé
 * Conseils sur le filtrage
 
->[!VIDEO](https://video.tv.adobe.com/v/3439639/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

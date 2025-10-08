@@ -11,7 +11,7 @@ jira: KT-8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -28,4 +28,4 @@ Dans cette vidéo, vous apprendrez à :
 * Lire et interpréter le graphique de santé des objectifs
 * Lire et interpréter le graphique de progression des objectifs
 
->[!VIDEO](https://video.tv.adobe.com/v/3415920/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops=1)

@@ -12,7 +12,7 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Dans cette vidéo, vous allez :
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416535/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

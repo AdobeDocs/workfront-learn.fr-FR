@@ -12,7 +12,7 @@ exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 * Envoyer moins d’appels API
 * Utiliser moins de modules
 
->[!VIDEO](https://video.tv.adobe.com/v/3418204/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on&enablevpops=1)
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 

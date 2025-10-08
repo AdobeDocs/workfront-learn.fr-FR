@@ -11,7 +11,7 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez à :
 * Visualiser les détails d’un dossier
 * Visualiser et mettre à jour les métadonnées et les mots-clés des ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/3453921/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
 
 ## Critères de recherche de base
 

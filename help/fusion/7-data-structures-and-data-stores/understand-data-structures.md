@@ -12,7 +12,7 @@ exl-id: 5b64d25e-5555-400d-ae40-eb1199153874
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 * Comprendre l’utilisation et les fonctionnalités des structures de données
 * Créer et utiliser une structure de données dans un scénario
 
->[!VIDEO](https://video.tv.adobe.com/v/3417951/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops=1)

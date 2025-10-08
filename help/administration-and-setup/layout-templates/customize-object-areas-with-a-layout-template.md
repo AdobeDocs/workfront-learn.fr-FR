@@ -12,7 +12,7 @@ jira: KT-8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des éléments au menu du panneau de gauche.
 * Réorganiser les éléments dans le menu du panneau.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432888/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops=1)

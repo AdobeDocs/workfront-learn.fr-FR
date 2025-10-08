@@ -11,7 +11,7 @@ jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser des champs de métadonnées existants
 * Créer des champs de métadonnées personnalisés
 
->[!VIDEO](https://video.tv.adobe.com/v/3419516/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops=1)
 
 ## Bonnes pratiques relatives aux métadonnées
 

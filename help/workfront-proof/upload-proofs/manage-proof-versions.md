@@ -12,7 +12,7 @@ jira: KT-8837
 exl-id: 5121b112-2b17-44f4-8e36-1ce4eb9898f8
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Télécharger toutes les versions d’une épreuve
 * Supprimer une version de BAT
 
->[!VIDEO](https://video.tv.adobe.com/v/3438644/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

@@ -9,7 +9,7 @@ thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez à :
 
 Dans cette vidéo, vous apprendrez à : créer un projet de liste d’attente d’équipe agile et créer une nouvelle story.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412170/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
 
 L’équipe agile collaborera pour préparer la liste d’attente. Cela signifie globalement que trois choses vont se produire.
 

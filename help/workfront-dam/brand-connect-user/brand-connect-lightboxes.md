@@ -11,7 +11,7 @@ jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez à :
 * Regarder et gérer des Lightbox
 * Collaborer sur une Lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/3454352/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
 
 ## Lightbox et dossiers
 
