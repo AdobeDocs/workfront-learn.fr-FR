@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '402'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ Cette vidéo contient un guide détaillé sur la création d’un flux de demand
 La vidéo montre ensuite comment créer des rubriques de file d’attente qui sont liées aux règles de routage, aux groupes de rubriques, aux formulaires personnalisés, aux processus d’approbation et aux durées par défaut.
 Enfin, la vidéo montre comment tester la configuration en envoyant une demande pour vérifier qu’elle est correctement acheminée. En cas de problème, des ajustements peuvent être apportés à la file d’attente. La vidéo insiste sur l’importance de vérifier la structure et la fonctionnalité du flux de demandes pour assurer un routage et une organisation corrects.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433824/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
 ## Points clés à retenir
 

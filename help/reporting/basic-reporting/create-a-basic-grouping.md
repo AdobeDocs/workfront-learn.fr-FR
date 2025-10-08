@@ -13,9 +13,9 @@ last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
 source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '419'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 Cette vidéo explique comment créer et gérer des regroupements dans Workfront pour organiser efficacement les listes de projets. Les regroupements sont l’un des trois principaux éléments de création de rapports, avec les filtres et les vues. Ils permettent d’organiser les résultats en fonction des informations partagées.
 Ce tutoriel décrit les étapes pratiques à suivre pour organiser les listes de projets afin de rationaliser le travail quotidien et la collaboration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449817/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
 ## Points clés à retenir
 
