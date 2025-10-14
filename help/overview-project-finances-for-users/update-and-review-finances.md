@@ -31,7 +31,7 @@ Si votre entreprise utilise [!DNL Workfront] pour suivre les informations financ
 
 Les dépenses peuvent être enregistrées pour des tâches individuelles ou pour le projet lui-même. Quel que soit l’élément sur lequel la dépense est enregistrée, vous pouvez visualiser toutes les dépenses dans la section [!UICONTROL Dépenses] du projet lui-même.
 
-Section ![[!UICONTROL Dépenses] d’un projet ](assets/expense-section.png)
+Section ![[!UICONTROL Dépenses] d’un projet &#x200B;](assets/expense-section.png)
 
 ## Enregistrements de facturation
 
@@ -43,7 +43,7 @@ Vous devez avoir accès aux données financières dans [!DNL Workfront] pour pou
 
 Un coup d’œil sur les informations relatives aux [!UICONTROL Finances] dans [!UICONTROL Détails du projet] vous permet de voir les chiffres réels concernant les bénéfices, les revenus et les coûts.
 
-![Section Finances de la fenêtre [!UICONTROL Détails du projet] d’un projet ](assets/finance-section-project-details.png)
+![Section Finances de la fenêtre [!UICONTROL Détails du projet] d’un projet &#x200B;](assets/finance-section-project-details.png)
 
 La plupart des informations financières contenues dans les [!UICONTROL Détails du projet] sont définies lors de la création du projet, et les chiffres que vous voyez ici sont basés sur ces informations. Ainsi, lorsque vous fermez un projet, il n&#39;y a vraiment rien que vous devez mettre à jour ou ajouter dans les détails financiers.
 

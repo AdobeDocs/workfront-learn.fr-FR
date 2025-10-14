@@ -49,7 +49,7 @@ Découvrez comment configurer la chronologie d’un projet, identifier le travai
 
 * [Commencez à planifier un projet](getting-started-plan-a-project.md) - Découvrez les cinq principaux composants d’un projet, ce que son statut signifie, comment une [!UICONTROL Vue] peut vous aider à consulter des informations pertinentes et comment définir la date de début ou d’échéance.
 * [Créer des tâches](how-to-create-tasks.md) - Découvrez plusieurs méthodes de création de tâches dans un projet.
-* [Comprendre les tâches parent-enfant ](understand-parent-child-tasks.md) - Découvrez comment les tâches sont structurées à l’aide d’une relation parent-enfant dans un projet.
+* [Comprendre les tâches parent-enfant &#x200B;](understand-parent-child-tasks.md) - Découvrez comment les tâches sont structurées à l’aide d’une relation parent-enfant dans un projet.
 * [Utiliser des tâches](work-with-tasks.md) - Découvrez comment modifier des tâches existantes, ajouter et supprimer des tâches, et modifier l’ordre des tâches dans un projet.
 * [Affecter des tâches à partir du plan de projet](assign-tasks-from-the-project-plan.md) - Découvrez comment affecter un utilisateur à une tâche à l’aide de la modification sur la ligne dans un projet.
 * [Comprendre la durée des tâches](understand-task-durations.md) - Découvrez comment les durées affectent les dates de début et d&#39;achèvement des tâches, comment les durées sont prises en compte dans les chronologies de projet et quelques bonnes pratiques d&#39;utilisation de la durée des tâches.
@@ -64,10 +64,10 @@ Découvrez comment configurer la chronologie d’un projet, identifier le travai
 
 Découvrez comment effectuer le suivi du travail du projet et communiquer avec les parties prenantes.
 
-* [Prise en main de la gestion d’un projet ](getting-started-manage-a-project.md) - Découvrez votre rôle en tant que chef de projet et ce que vous devez prendre en compte lors de la surveillance du travail du projet.
+* [Prise en main de la gestion d’un projet &#x200B;](getting-started-manage-a-project.md) - Découvrez votre rôle en tant que chef de projet et ce que vous devez prendre en compte lors de la surveillance du travail du projet.
 * [Rechercher des projets](find-projects.md) - Découvrez comment trouver vos projets à l’aide d’épingles, de favoris, de tableaux de bord et de la page [!UICONTROL Projets].
 * [Partager un projet](share-a-project.md) - Découvrez comment partager un projet afin que les parties prenantes et les autres personnes intéressées par le projet puissent avoir une visibilité sur le travail en cours.
-* [Comprendre l’équipe de projet ](understand-the-project-team.md) - Découvrez à quoi l’équipe de projet peut servir et comment la gérer.
+* [Comprendre l’équipe de projet &#x200B;](understand-the-project-team.md) - Découvrez à quoi l’équipe de projet peut servir et comment la gérer.
 * [Comprendre la communication du projet](understand-project-communication.md) - Découvrez comment communiquer sur le travail du projet à l’aide des mises à jour sur les projets, les tâches, les problèmes et les documents.
 * [Afficher des informations sur le projet](view-project-information.md) - Découvrez comment les [!UICONTROL Filtres], [!UICONTROL Vues] et [!UICONTROL Regroupements] peuvent rendre les informations du projet facilement visibles pour vous aider à gérer les projets.
 * [Suivre la progression globale du projet](track-overall-project-progress.md) - Découvrez comment les informations affichées dans l’en-tête du projet peuvent vous aider à suivre la progression globale et l’intégrité du projet.
@@ -80,7 +80,7 @@ Découvrez comment effectuer le suivi du travail du projet et communiquer avec l
 
 Découvrez comment clore des tâches et des événements, terminer des approbations, enregistrer les enseignements tirés et clore le projet.
 
-* [Changer le statut du projet en Terminé ](change-the-project-status.md) - Découvrez comment changer le statut du projet en Terminé, pourquoi le modifier et que faire si vous ne pouvez pas le changer en Terminé.
+* [Changer le statut du projet en Terminé &#x200B;](change-the-project-status.md) - Découvrez comment changer le statut du projet en Terminé, pourquoi le modifier et que faire si vous ne pouvez pas le changer en Terminé.
 * [Approbations complètes](complete-approvals.md) - Découvrez comment identifier les approbations incomplètes et les résoudre afin de pouvoir clore votre projet.
 * [Charger des ressources](upload-assets.md) - Chargez des documents, des épreuves et d’autres ressources dans le projet avant de le fermer pour vous assurer que toutes les données pertinentes sont associées au projet.
 * [Enregistrer les leçons apprises](lessons-learned-from-closing-a-project.md) - Découvrez comment inclure une tâche « leçons apprises » pour identifier ce qui s’est bien passé et ce qui peut être amélioré la prochaine fois.
