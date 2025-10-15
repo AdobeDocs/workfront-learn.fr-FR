@@ -13,7 +13,7 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste le camel case
 * Des _blocs de code en mode texte_ que vous pouvez utiliser dans vos vues de rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422887/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
 
 ## Activités Comprendre le mode texte des vues
 

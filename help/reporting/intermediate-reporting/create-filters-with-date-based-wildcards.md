@@ -13,7 +13,7 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez à :
 * Créer une date personnalisée à l’aide de caractères génériques, d’attributs, d’opérateurs et de modificateurs
 * Créer une période personnalisée à l’aide de caractères génériques
 
->[!VIDEO](https://video.tv.adobe.com/v/3412660/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## Activité Créer des filtres avec des caractères génériques basés sur la date

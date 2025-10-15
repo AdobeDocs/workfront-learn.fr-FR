@@ -12,7 +12,7 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consiste la mise en forme conditionnelle dans une vue
 * Comment créer et modifier une mise en forme conditionnelle
 
->[!VIDEO](https://video.tv.adobe.com/v/3445443/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
 
 
 ## Résumé de la mise en forme conditionnelle

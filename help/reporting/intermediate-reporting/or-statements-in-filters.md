@@ -13,7 +13,7 @@ exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ La vidéo explique comment créer et utiliser des filtres avec plusieurs règles
 Vous pouvez également remplacer la logique de filtre par « OU », qui affiche les éléments qui répondent à l’une des conditions.
 La vidéo illustre également la création de filtres pour les tâches à l’aide de groupes de filtres. Par exemple, vous pouvez créer deux groupes : un pour les tâches incomplètes affectées à l’équipe créative qui sont en retard et un autre pour les tâches incomplètes affectées à l’équipe créative qui sont désaffectées. Au sein de chaque groupe, la logique « AND » s’applique, ce qui signifie que toutes les conditions du groupe doivent être remplies. La logique « OR » entre les groupes garantit que les tâches répondant aux conditions de l’un ou l’autre groupe sont affichées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470695/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## Activité du filtre OR
 

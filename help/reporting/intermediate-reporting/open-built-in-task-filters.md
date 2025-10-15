@@ -13,9 +13,9 @@ jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
-workflow-type: ht
-source-wordcount: '199'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous allez :
 * En savoir plus sur certains éléments utiles de reporting de tâches
 * Découvrir comment créer votre propre filtre de tâche
 
->[!VIDEO](https://video.tv.adobe.com/v/3412672/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## Activités Comprendre les filtres de tâches intégrés
 
