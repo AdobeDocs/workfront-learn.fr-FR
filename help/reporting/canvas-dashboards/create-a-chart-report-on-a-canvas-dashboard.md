@@ -29,7 +29,7 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 * Inscrivez-vous à la version Beta du tableau de bord de la zone de travail, et
 * Créer un tableau de bord de zone de travail
 
-[ Présentation des tableaux de bord de la zone de travail ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) vous explique pas à pas comment effectuer ces deux opérations.
+[&#x200B; Présentation des tableaux de bord de la zone de travail &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) vous explique pas à pas comment effectuer ces deux opérations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475814/?quality=12&learn=on&enablevpops=1)
 
