@@ -23,7 +23,7 @@ ht-degree: 18%
 
 La fonctionnalité Tableaux de bord de la zone de travail est une autre façon de créer des tableaux de bord dans Workfront. Il est actuellement en version Beta générale, ce qui signifie que tous les clients Workfront peuvent utiliser la fonctionnalité, s’ils sont inscrits à la version bêta. Un administrateur système doit procéder à l’inscription. Cette vidéo leur montrera comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474022/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 Pour plus d’informations, consultez l’article [&#x200B; Présentation des tableaux de bord de la zone de travail &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) .
 

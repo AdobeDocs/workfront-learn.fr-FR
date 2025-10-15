@@ -25,7 +25,7 @@ La vidéo explique comment créer et personnaliser des affichages dans Workfront
 
 La vidéo souligne la flexibilité des vues dans Workfront et fournit des instructions détaillées sur leur création, leur personnalisation et leur gestion.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450240/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 
