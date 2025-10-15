@@ -27,7 +27,7 @@ Dans cette vidéo, vous allez :
 * Découvrir quelques éléments utiles de reporting de problèmes
 * Apprendre à créer votre propre filtre de problèmes
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412678/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 
 ## Activités Comprendre les filtres de problèmes intégrés
