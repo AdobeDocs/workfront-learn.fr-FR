@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: ht
 source-wordcount: '354'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à :
 * Comprendre pourquoi utiliser des caractères génériques
 * Créer un filtre avec un caractère générique basé sur l’utilisateur ou l’utilisatrice
 
->[!VIDEO](https://video.tv.adobe.com/v/3412654/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >

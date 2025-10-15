@@ -12,7 +12,7 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: ht
 source-wordcount: '423'
 ht-degree: 100%
@@ -41,7 +41,7 @@ Dans cette vidéo, vous découvrirez ce qui suit :
 * Casse Camel
 * Des _blocs de code en mode texte_ que vous pouvez utiliser dans vos filtres de rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412685/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## Activités Comprendre le mode texte de base pour les filtres
 

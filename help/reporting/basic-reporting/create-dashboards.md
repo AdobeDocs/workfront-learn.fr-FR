@@ -12,7 +12,7 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: ht
 source-wordcount: '646'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 La vidéo fournit un guide complet sur la compréhension et l’utilisation des tableaux de bord dans Workfront.
 Elle explique qu’un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées en un seul endroit.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449124/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 
