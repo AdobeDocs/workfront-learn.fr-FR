@@ -35,8 +35,8 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 >[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **Pour plus d’informations, consultez les articles d’aide suivants :**
-[Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Créer un rapport tabulaire dans un tableau de bord Zone de travail](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Présentation des tableaux de bord Zone de travail](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Créer un rapport tabulaire dans un tableau de bord Zone de travail](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Tutoriels recommandés sur cette rubrique
 
