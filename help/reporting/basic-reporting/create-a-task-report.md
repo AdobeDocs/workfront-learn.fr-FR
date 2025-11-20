@@ -25,7 +25,7 @@ La vidéo propose un guide détaillé sur la création d’un rapport personnali
 
 Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448344/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 
@@ -41,8 +41,8 @@ Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concen
 >[!TIP]
 >
 >Consultez nos recommandations dans notre [Guide d’utilisation des rapports client Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Vous y trouverez des instructions détaillées pour 10 rapports, prêts à être créés dès aujourd’hui dans votre environnement.
->>Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
->>Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
+>Nous avons rassemblé les rapports préférés des clientes et clients et les avons rassemblés dans un guide concis et facile à utiliser, pour que vous puissiez les créer et les tester dans Workfront.
+>Ces 10 rapports proviennent de clientes et clients qui vous ressemblent. Nous remercions grandement les clientes et clients incroyables qui ont partagé l’un de leurs rapports préférés, et ce dans différents secteurs, services, équipes, postes et entreprises. Certains rapports sont simples (mais incroyablement utiles) et d’autres sont plus complexes pour passer au niveau supérieur.
 
 
 ### Activité 1 : créer un rapport de notes avec des invites

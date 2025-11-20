@@ -13,7 +13,7 @@ exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser le concepteur de scénarios
 * Créer un scénario de base
 
->[!VIDEO](https://video.tv.adobe.com/v/3415973/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
