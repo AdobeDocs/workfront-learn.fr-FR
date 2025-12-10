@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Découvrez comment supprimer, ajouter et réorganiser des widgets sur la page d’accueil.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448975/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]

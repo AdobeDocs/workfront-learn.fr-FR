@@ -21,4 +21,4 @@ ht-degree: 70%
 
 Découvrez comment la planification Workfront améliore l’efficacité de l’équipe de l’expérience d’utilisation en centralisant le suivi des projets et en alignant le travail de conception sur les objectifs commerciaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452182/?captions=fre_fr&learn=on&enablevpops=1)
