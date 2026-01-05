@@ -173,10 +173,10 @@ ht-degree: 94%
       + [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
       + [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
-   + Calendriers de projet {#project-timelines}
-      + [Comprendre les calendriers du projet](/help/manage-work/project-timelines/understand-project-timelines.md)
+   + Chronologie du projet {#project-timelines}
+      + [Comprendre la chronologie du projet](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [Comprendre les types de dates et le statut de la progression](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [Suivre la progression à partir du calendrier du projet](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [Suivre la progression à partir de la chronologie du projet](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Fermer un projet {#close-a-project}
       + [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
@@ -272,7 +272,7 @@ ht-degree: 94%
 
    + Calendrier de congés personnels {#personal-time-off-calendar}
       + [Pourquoi utiliser le calendrier des congés ?](/help/manage-resources/pto/why-use-time-off-calendar.md)
-      + [Impact des congés sur le calendrier des projets](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
+      + [Impact des congés sur le chronologie des projets](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Gérer les autres congés des utilisateurs](/help/manage-resources/pto/manage-other-users-time-off.md)
       + [Voir les congés lors de l’attribution des tâches](/help/manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Visibilité dans les outils de gestion des ressources](/help/manage-resources/pto/visibility-in-resource-management-tools.md)
@@ -344,7 +344,7 @@ ht-degree: 94%
       + [Améliorer votre workflow avec l’intégration G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Créer de la visibilité avec l’intégration  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Créer de la visibilité avec l’intégration  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installer le module complémentaire Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -469,9 +469,9 @@ ht-degree: 94%
       + [Tests et lancement](/help/fusion/11-design-optimization-and-testing/testing-considerations.md)
 
 + Workfront Proof {#workfront-proof}
-   + [Découvrez les avantages de l’épreuvage](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
+   + [Découvrez les avantages de la relecture](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Comprendre la différence entre un document et un BAT](/help/workfront-proof/document-vs-proof.md)
-   + [Description des visionneuses de BAT](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
+   + [Description des visionneuses de relecture](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
 
    + Administration et configuration {#administration-and-setup-for-proof}
       + [En quoi consiste un modèle de workflow automatisé ?](/help/workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
@@ -501,7 +501,7 @@ ht-degree: 94%
       + [Combiner plusieurs fichiers en un seul BAT](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
    + Workflows d’épreuve {#proof-workflows}
-      + [Comprendre les workflows de BAT dans les calendriers du projet](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
+      + [Comprendre les workflows de BAT dans la chronologie du projet](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [Modifier le workflow d’un BAT](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [Créer des groupes de modèles pour organiser les modèles de workflow automatisés](/help/workfront-proof/administration-and-setup/create-template-groups.md)
       + [Créer un modèle de workflow automatisé](/help/workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
@@ -522,7 +522,7 @@ ht-degree: 94%
       + [Comprendre  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendre les paramètres système](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendre [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurer des groupes et des utilisateurs](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurer l’intégration dans Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personnaliser [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
