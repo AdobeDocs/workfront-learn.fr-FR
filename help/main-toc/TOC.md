@@ -344,7 +344,7 @@ ht-degree: 94%
       + [Améliorer votre workflow avec l’intégration G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Créer de la visibilité avec l’intégration  [!DNL Jira] ](/help/integrations/jira/jira.md)
+      + [Créer de la visibilité avec l’intégration  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installer le module complémentaire Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -522,7 +522,7 @@ ht-degree: 94%
       + [Comprendre  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendre les paramètres système](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendre [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurer des groupes et des utilisateurs](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurer l’intégration dans Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personnaliser [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
