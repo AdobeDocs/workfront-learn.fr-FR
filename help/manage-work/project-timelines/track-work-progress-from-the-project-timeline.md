@@ -29,7 +29,7 @@ Dans cette vidéo, vous découvrirez :
 * Pourcentage d’achèvement
 * Statut de la progression
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438210/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriels recommandés sur cette rubrique
