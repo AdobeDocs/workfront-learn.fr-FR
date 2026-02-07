@@ -1,5 +1,5 @@
 ---
-title: Créer un chemin jalonné et des étapes de jalon
+title: Création de chemins et d’étapes jalonnés
 description: Découvrez les chemins jalonnés, comment les créer et comment ajouter des étapes de jalon.
 feature: System Setup and Administration
 activity: deploy
@@ -10,14 +10,14 @@ role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '65'
+ht-degree: 84%
 
 ---
 
-# Créer un chemin jalonné et des étapes de jalon
+# Création de chemins et d’étapes jalonnés
 
 Dans cette vidéo, vous apprendrez :
 
@@ -25,7 +25,7 @@ Dans cette vidéo, vous apprendrez :
 * Création des chemins jalonnés
 * Ajout des étapes de jalon à un chemin jalonné
 
->[!VIDEO](https://video.tv.adobe.com/v/3415913/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

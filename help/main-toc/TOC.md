@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriels Workfront
 user-guide-description: Bibliothèque d’articles et de vidéos de formation conçus pour vous aider à mieux comprendre les fonctionnalités et paramètres de Workfront.
-source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '2356'
-ht-degree: 94%
+source-wordcount: '2428'
+ht-degree: 85%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 94%
 
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Comprendre les processus d’approbation propres à chaque groupe](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [Créer des jalons](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [Création de chemins et d’étapes jalonnés](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + Performances et maintenance du système {#system-perfomance-and-maintenance}
       + [Prendre en charge une instance Adobe Workfront existante](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,44 +105,44 @@ ht-degree: 94%
 
 + Gérer le travail {#manage-work}
    + Projets {#projects}
-      + [Comprendre les bases de la création de projets](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [Créer et gérer un projet à partir de zéro](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Parcourir la page du projet](/help/manage-work/projects/navigate-the-project-page.md)
-      + [Découvrir quatre façons de créer un projet](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Renseigner les détails du projet](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [Commencer avec la planification d’un projet](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [Explorer quatre méthodes pour créer un projet](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [Renseigner les détails essentiels du projet](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [Planification efficace d’un projet dans Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [Activer un projet](/help/manage-work/projects/take-a-project-live.md)
-      + [Commencer avec la gestion d’un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [Rechercher des projets](/help/manage-work/projects/find-projects.md)
-      + [Partager un projet](/help/manage-work/projects/share-a-project.md)
+      + [Gérer un projet avec le statut actuel](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [Recherche efficace de projets](/help/manage-work/projects/find-projects.md)
+      + [Partage efficace de projets dans Workfront](/help/manage-work/projects/share-a-project.md)
       + [Comprendre l’équipe de projet](/help/manage-work/projects/understand-the-project-team.md)
-      + [Comprendre la communication autour d’un projet](/help/manage-work/projects/understand-project-communication.md)
-      + [Afficher des informations sur le projet](/help/manage-work/projects/view-project-information.md)
-      + [Suivre l’avancement global du projet](/help/manage-work/projects/track-overall-project-progress.md)
+      + [Améliorer la réussite du projet grâce à une communication efficace](/help/manage-work/projects/understand-project-communication.md)
+      + [Explorer les filtres, vues et regroupements pour la gestion de projet](/help/manage-work/projects/view-project-information.md)
+      + [Suivre la progression globale du projet](/help/manage-work/projects/track-overall-project-progress.md)
       + [Suivre la progression du travail avec les mesures de projet](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Comprendre la vue [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
       + [Comprendre la vue [!UICONTROL Panorama]](/help/manage-work/projects/understand-the-board-view.md)
 
    + Tâches {#tasks}
-      + [Créer des tâches](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [Comprendre les tâches parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [Utiliser des tâches](/help/manage-work/tasks/work-with-tasks.md)
+      + [Création efficace de tâches dans Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [Comprendre les relations de tâche parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [Gestion efficace des tâches dans Workfront](/help/manage-work/tasks/work-with-tasks.md)
       + [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [Mettre à jour le statut des tâches](/help/manage-work/tasks/update-the-task-status.md)
+      + [Mettre à jour le statut des tâches pour des rapports précis](/help/manage-work/tasks/update-the-task-status.md)
       + [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
-      + [Découvrir comment séquencer des tâches](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Séquencer les tâches efficacement dans Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
-      + [Comprendre l’[!UICONTROL effort de travail]](/help/manage-work/tasks/understand-work-effort.md)
+      + [Estimer les heures de tâche avec l&#39;effort de travail](/help/manage-work/tasks/understand-work-effort.md)
 
    + Problèmes/demandes {#issues-requests}
-      + [Gérer le travail non planifié](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [Effectuer une demande](/help/manage-work/issues-requests/make-a-request.md)
-      + [Rechercher et gérer des demandes](/help/manage-work/issues-requests/find-requests.md)
-      + [Gérer les affectations de problèmes](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [Mettre à jour le statut du problème](/help/manage-work/tasks/update-the-issue-status.md)
-      + [Mettre à jour une demande](/help/manage-work/issues-requests/update-a-request.md)
+      + [Gérer efficacement le travail non planifié](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [Création et gestion de requêtes dans Workfront](/help/manage-work/issues-requests/make-a-request.md)
+      + [Recherche et gestion efficaces des requêtes](/help/manage-work/issues-requests/find-requests.md)
+      + [Gérer efficacement les affectations d&#39;événements](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [Mettre à jour efficacement les statuts des événements](/help/manage-work/tasks/update-the-issue-status.md)
+      + [Mise à jour d’une requête dans Workfront](/help/manage-work/issues-requests/update-a-request.md)
       + [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Rapport sur les problèmes](/help/manage-work/issues-requests/report-on-issues.md)
+      + [Créer des rapports personnalisés pour la gestion des problèmes](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Files d’attente des demandes {#request-queues}
       + [Comprendre les files d’attente de demandes](/help/manage-work/request-queues/understand-request-queues.md)
@@ -153,36 +153,36 @@ ht-degree: 94%
       + [Réponses aux questions courantes sur les files d’attente de demandes](/help/manage-work/request-queues/request-queue-faq.md)
 
    + Portefeuilles {#portfolios}
-      + [Comprendre les portfolios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Comprendre l’[!UICONTROL analyse de rentabilité]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Comprendre l’[!UICONTROL optimisateur de portfolio]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Explorer la gestion et l’optimisation du portefeuille](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Créer un business case complet](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Optimisation des priorités de projet avec l’outil Portfolio Optimization](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
       + [Créer un processus d’approbation global et à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Appliquer un processus d’approbation des problèmes dans une file d’attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Examiner et approuver les travaux numériques](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Appliquer des jalons](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [Afficher les jalons](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [Déléguer efficacement les tâches, événements et approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [Appliquer des chemins jalonnés aux projets et tâches](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Afficher les jalons dans vos projets](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Créer et gérer des modèles de projet {#create-and-manage-project-templates}
-      + [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Créer un modèle de projet et explorer les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Créer un projet directement à partir d’un modèle](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [Partager un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [Copier un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [Partager efficacement un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [Copier efficacement un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [Modifier l&#39;équipe du projet dans un modèle](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + Chronologie du projet {#project-timelines}
-      + [Comprendre la chronologie du projet](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [Explorer la chronologie des projets dans Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [Comprendre les types de dates et le statut de la progression](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [Suivre la progression à partir de la chronologie du projet](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [Suivre la progression à l’aide du pourcentage achevé et du statut de progression](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Fermer un projet {#close-a-project}
       + [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
-      + [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
-      + [Charger les ressources](/help/manage-work/close-a-project/upload-assets.md)
-      + [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [Approbation de la résolution de tâches et de problèmes](/help/manage-work/close-a-project/complete-approvals.md)
+      + [Chargement et gestion des ressources du projet](/help/manage-work/close-a-project/upload-assets.md)
+      + [Enregistrer les leçons apprises pour les projets futurs](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Consigner et réviser les heures](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Finances du projet pour les utilisateurs et utilisatrices {#project-finances-users}
@@ -344,7 +344,7 @@ ht-degree: 94%
       + [Améliorer votre workflow avec l’intégration G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Créer de la visibilité avec l’intégration  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Créer de la visibilité avec l’intégration  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installer le module complémentaire Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -522,7 +522,7 @@ ht-degree: 94%
       + [Comprendre  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendre les paramètres système](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendre [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurer des groupes et des utilisateurs](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurer l’intégration dans Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personnaliser [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
@@ -620,7 +620,7 @@ ht-degree: 94%
    + [Planificateur de ressources](/help/best-practices/resource-planner-bp.md)
    + [Pools de ressources](/help/best-practices/resource-pools-bp.md)
    + [Planificateur de scénarios](/help/best-practices/scenario-planner-bp.md)
-   + [Planifications](/help/best-practices/schedules-bp.md)
+   + [Plannings](/help/best-practices/schedules-bp.md)
    + [Statuts](/help/best-practices/statuses-bp.md)
    + [Performances et maintenance du système](/help/best-practices/system-performance-maintenance-bp.md)
    + [Rapports du mode texte](/help/best-practices/test-mode-reporting-bp.md)

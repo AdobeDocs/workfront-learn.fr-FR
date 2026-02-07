@@ -1,5 +1,5 @@
 ---
-title: Rapport sur les problèmes
+title: Créer des rapports personnalisés pour la gestion des problèmes
 description: Découvrez comment créer des rapports personnalisés pour la gestion des problèmes et des projets, notamment comment centraliser et suivre les problèmes ouverts, personnaliser les colonnes et les filtres et optimiser la gestion des projets et des problèmes.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '376'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '382'
+ht-degree: 96%
 
 ---
 
-# Rapport sur les problèmes
+# Créer des rapports personnalisés pour la gestion des problèmes
 
 La vidéo fournit un guide détaillé sur la création de deux types de rapports pour gérer et suivre les problèmes et les projets.
 

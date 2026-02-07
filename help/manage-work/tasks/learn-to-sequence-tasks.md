@@ -1,5 +1,5 @@
 ---
-title: Découvrir comment séquencer des tâches
+title: Séquencer les tâches efficacement dans Workfront
 description: Rationalisez la gestion de projets en définissant l’ordre des tâches avec les prédécesseurs, en définissant des chronologies par le biais des durées, en simplifiant les séquences à l’aide de modèles, en évitant les contraintes manuelles et en affinant les compétences avec la pratique.
 activity: use
 feature: Work Management
@@ -13,20 +13,20 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '220'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '222'
+ht-degree: 95%
 
 ---
 
-# Découvrir comment séquencer des tâches
+# Séquencer les tâches efficacement dans Workfront
 
 La vidéo explique comment séquencer les tâches dans Workfront à l’aide des prédécesseurs et des durées pour gérer efficacement les chronologies de projet.
 La vidéo explique comment définir des prédécesseurs pour les nouvelles tâches, en établissant un ordre séquentiel et des dates de début précises.Elle souligne l’importance de s’entraîner avec les prédécesseurs pour comprendre leur impact sur les chronologies des projets et recommande d’utiliser les durées et les prédécesseurs pour une planification de projets efficace.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447322/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

@@ -1,5 +1,5 @@
 ---
-title: Comprendre les bases de la création de projets
+title: Créer et gérer un projet à partir de zéro
 description: Découvrez comment créer, gérer et terminer des projets efficacement, ainsi que gérer les problèmes inattendus. Explorez les conseils adaptés aux personnes qui débutent, afin de leur permettre de maîtriser les fonctionnalités essentielles de gestion de projet.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,19 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '249'
+ht-degree: 94%
 
 ---
 
-# Comprendre les bases de la création de projets
+# Créer et gérer un projet à partir de zéro
 
 Cette vidéo explique comment créer et gérer un projet à partir de zéro. Elle commence par la création d’un projet, son changement de nom et la définition d’un objectif avec une description, une date de début et une date d’achèvement cible. Les projets peuvent être divisés en tâches, qui sont des travaux planifiés avec des durées estimées et des affectations. Les tâches peuvent être séquencées à l’aide de prédécesseurs et le statut du projet peut être défini sur « Actuel » pour informer l’équipe et l’inclure dans les rapports.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435898/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

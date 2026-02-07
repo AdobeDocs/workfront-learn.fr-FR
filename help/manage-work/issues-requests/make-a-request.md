@@ -1,5 +1,5 @@
 ---
-title: Effectuer une demande
+title: Création et gestion de requêtes dans Workfront
 description: Améliorez l’efficacité de Workfront grâce à la création de demandes rationalisée, aux workflows personnalisables, aux outils d’enregistrement automatique des brouillons, de suivi et de filtrage, ainsi qu’à la possibilité de copier et de réutiliser des demandes.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '254'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '260'
+ht-degree: 95%
 
 ---
 
-# Effectuer une demande
+# Création et gestion de requêtes dans Workfront
 
 La vidéo fournit un guide détaillé sur la manière d’effectuer et de gérer des demandes dans Workfront. Elle explique le processus de création d’une demande, en commençant par sélectionner « Demandes » dans le menu principal, puis en cliquant sur le bouton « Nouvelle demande ». Les utilisateurs et utilisatrices peuvent choisir un type de demande parmi des files d’attente personnalisées et adaptées aux workflows de leur entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413114/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

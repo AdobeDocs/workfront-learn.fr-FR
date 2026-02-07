@@ -1,5 +1,5 @@
 ---
-title: Gérer les affectations de problèmes
+title: Gérer efficacement les affectations d'événements
 description: Gérez efficacement les problèmes dans Workfront en utilisant la modification en ligne et l’équilibreur de charge de travail pour les affectations, le suivi et la mise à jour de la progression, la modification des statuts des problèmes et le respect de workflows spécifiques à l’équipe pour une exécution de projet transparente.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '289'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '291'
+ht-degree: 97%
 
 ---
 
-# Gérer les affectations de problèmes
+# Gérer efficacement les affectations d&#39;événements
 
 La gestion des problèmes est une responsabilité importante du ou de la chef de projet et de ceux qui sont chargés de travailler sur les problèmes.
 
@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez à :
 * Mettre à jour les progrès sur les problèmes
 * Mettre à jour le statut du problème
 
->[!VIDEO](https://video.tv.adobe.com/v/3446957/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

@@ -1,5 +1,5 @@
 ---
-title: Mettre à jour une demande
+title: Mise à jour d’une requête dans Workfront
 description: Simplifiez la gestion des demandes dans Workfront en utilisant des filtres pour localiser les demandes, en mettant à jour efficacement les statuts et les détails, en accédant à des informations complètes et en favorisant une collaboration centralisée pour des workflows rationalisés.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '248'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 96%
 
 ---
 
-# Mettre à jour une demande
+# Mise à jour d’une requête dans Workfront
 
 Cette vidéo explique comment localiser et mettre à jour des demandes dans Workfront. Après l’envoi d’une demande, vous pouvez ajouter des informations ou poser des questions pour vous assurer que les derniers détails sont disponibles pour les personnes qui travaillent dessus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422298/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

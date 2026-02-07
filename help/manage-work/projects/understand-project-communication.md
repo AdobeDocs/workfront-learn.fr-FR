@@ -1,5 +1,5 @@
 ---
-title: Comprendre la communication autour d’un projet
+title: Améliorer la réussite du projet grâce à une communication efficace
 description: Améliorez la réussite du projet grâce à une communication efficace avec les parties prenantes, des tâches claires, des discussions centralisées, des rapports de statut précis et une résolution proactive des problèmes pour maintenir l’alignement et l’efficacité.
 activity: use
 team: Technical Marketing
@@ -12,16 +12,17 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '398'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 97%
 
 ---
 
-# Comprendre la communication autour d’un projet
+# Améliorer la réussite du projet grâce à une communication efficace
 
 La vidéo souligne l’importance d’une communication efficace pour la réussite du projet et fournit des stratégies pour assurer la précision et l’efficacité de la gestion du projet. Les points clés sont les suivants :
+
 * **Communication avec les parties prenantes** : les parties prenantes restent informées de la progression du projet, des problèmes et des solutions. Il est essentiel de proposer des mises à jour régulières et adaptées à leurs besoins.
 * **Clarté de la tâche** : assurez-vous que les membres de l’équipe comprennent leurs responsabilités pour éviter une dérive des objectifs et de la confusion. Utilisez les sous-tâches pour plus de clarté lors de l’affectation de plusieurs personnes à une même tâche.
 * **Communication centralisée** : utilisez des outils tels que Workfront pour stocker toutes les discussions liées au projet au même endroit. Les notifications peuvent permettre d’inciter les membres de l’équipe à continuer à interagir.
@@ -32,7 +33,7 @@ La vidéo souligne l’importance d’une communication efficace pour la réussi
 
 La vidéo montre comment Workfront simplifie la communication, la gestion des tâches et le reporting, en veillant à ce que toutes les informations liées au projet soient accessibles et organisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436148/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

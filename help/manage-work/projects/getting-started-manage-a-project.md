@@ -1,5 +1,5 @@
 ---
-title: Commencer à gérer un projet
+title: Gérer un projet avec le statut actuel
 description: Suivez efficacement la progression du projet avec des rapports, gérez les dépendances par le biais des vues Gantt, surveillez les tâches et les approbations, améliorez la communication de l’équipe et assurez des workflows fluides avec des mises à jour fréquentes.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '176'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 93%
 
 ---
 
-# Commencer à gérer un projet
+# Gérer un projet avec le statut actuel
 
 La vidéo présente la gestion d’un projet après le passage de son statut à « Actuel ».
 
->[!VIDEO](https://video.tv.adobe.com/v/3445169/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

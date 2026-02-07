@@ -1,5 +1,5 @@
 ---
-title: Afficher les informations sur le projet
+title: Explorer les filtres, les vues et les regroupements pour la gestion de projet
 description: Rationalisez les workflows de projet avec des filtres personnalisables, des vues détaillées, des regroupements efficaces, des outils de gestion des tâches et des fonctionnalités de suivi des problèmes pour une organisation et une précision améliorées.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '417'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '427'
+ht-degree: 96%
 
 ---
 
-# Afficher les informations sur le projet
+# Explorer les filtres, les vues et les regroupements pour la gestion de projet
 
 Cette vidéo présente les filtres, les vues et les regroupements de Workfront pour aider les utilisateurs et utilisatrices à gérer et à analyser efficacement les projets, les tâches et les problèmes. Les points clés sont les suivants :
 
@@ -33,7 +33,7 @@ Cette vidéo présente les filtres, les vues et les regroupements de Workfront p
 
 La vidéo met l’accent sur la personnalisation et fournit des liens vers des tutoriels pour un apprentissage plus approfondi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453068/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 
@@ -41,7 +41,7 @@ La vidéo met l’accent sur la personnalisation et fournit des liens vers des t
 * **Vues détaillées :** les vues telles que « Vue Toutes les dates » et « Vue Récit réel » fournissent des informations sur les dates prévues, projetées et réelles, ainsi que des résumés de projet et des mises à jour de condition.
 * **Regroupements efficaces** : les projets et les tâches peuvent être regroupés par champs tels que le statut de la progression ou la date d’achèvement, ce qui permet une meilleure organisation et une meilleure analyse.
 * **Gestion des tâches** : les filtres et les affichages de tâches, tels que la « Vue Statut », permettent d’identifier les tâches non affectées, de suivre la progression et d’accéder à des détails pertinents, tels que les commentaires, les documents et les jalons.
-* **Suivi des problèmes** : les filtres, les vues et les regroupements pour les problèmes, tels que les « Informations sur l’entrée » et le « Contact principal » rationalisent la gestion des problèmes et fournissent des précisions sur les calendriers d’envoi et les contacts.
+* **Suivi des problèmes** : les filtres, les vues et les regroupements pour les problèmes, tels que les « Informations sur l’entrée » et le « Contact principal » rationalisent la gestion des problèmes et fournissent des précisions sur la chronologie d’envoi et les contacts.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Créer des tâches
+title: Création efficace de tâches dans Workfront
 description: Simplifiez la création de tâches avec des options de modification détaillée ou en ligne, de repositionnement flexible, d’affichages personnalisés pour des champs supplémentaires et d’emplacement spécifique, comme l’utilisation de « Insérer la tâche ci-dessous » dans Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,19 +10,19 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '201'
+ht-degree: 95%
 
 ---
 
-# Créer des tâches
+# Création efficace de tâches dans Workfront
 
 La vidéo présente un tutoriel sur la création de tâches dans un projet Workfront, qui aborde à la fois la méthode complète et des raccourcis pratiques. Elle met en avant la flexibilité de l’opération de création de tâches et propose des conseils pour une gestion efficace des tâches.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423156/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

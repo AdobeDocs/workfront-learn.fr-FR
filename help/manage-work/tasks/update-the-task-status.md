@@ -1,5 +1,5 @@
 ---
-title: Mettre à jour le statut des tâches
+title: Mettre à jour le statut des tâches pour des rapports précis
 description: Découvrez comment, pourquoi et à quelle fréquence mettre à jour le statut des tâches.
 feature: Work Management
 type: Tutorial
@@ -9,18 +9,18 @@ last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '155'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 92%
 
 ---
 
-# Mettre à jour le statut des tâches
+# Mettre à jour le statut des tâches pour des rapports précis
 
 La vidéo fournit un tutoriel expliquant comment, pourquoi et à quelle fréquence mettre à jour le statut des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471169/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

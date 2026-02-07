@@ -1,5 +1,5 @@
 ---
-title: Comprendre l’[!UICONTROL Effort de travail]
+title: Estimer les heures de tâche avec l'effort de travail
 description: Rationalisez la planification des tâches dans Workfront grâce à la fonctionnalité Effort de travail, qui permet d’obtenir des estimations personnalisables du nombre d’heures prévues, des modifications en ligne et groupées, ainsi que des vues personnalisées pour une gestion de projets efficace.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '283'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 95%
 
 ---
 
-# Comprendre l’[!UICONTROL effort de travail]
+# Estimer les heures de tâche avec l&#39;effort de travail
 
 La vidéo explique comment utiliser la fonctionnalité Effort de travail dans Workfront pour estimer le nombre d’heures prévues des tâches lorsqu’il est difficile de fournir des estimations précises.
 Elle montre comment créer un affichage personnalisé de l’effort de travail pour rationaliser la gestion des tâches en ajoutant des colonnes pertinentes telles que l’effort de travail, le nombre d’heures prévues et le type de durée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447401/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

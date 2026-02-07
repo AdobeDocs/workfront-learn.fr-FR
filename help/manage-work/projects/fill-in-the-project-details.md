@@ -1,5 +1,5 @@
 ---
-title: Renseigner les détails du projet
+title: Renseigner les détails essentiels du projet
 description: Optimisez l’efficacité de la gestion de projets en utilisant des noms descriptifs, en définissant les statuts appropriés, en choisissant le mode de planification approprié, en utilisant des modèles et des formulaires personnalisés et en gérant les ressources avec des pools de ressources et des planifications.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
-# Renseigner les détails du projet
+# Renseigner les détails essentiels du projet
 
 Dans cette vidéo, vous découvrirez les paramètres de projet les plus courants nécessaires lors de la création d’un projet.
 

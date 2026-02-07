@@ -1,5 +1,5 @@
 ---
-title: Déléguer des tâches, des problèmes et des approbations
+title: Déléguer efficacement les tâches, événements et approbations
 description: Rationalisez les workflows de délégation en activant la délégation des tâches et des approbations dans la configuration, en utilisant les boutons « Déléguer » et « Déléguer l’approbation », en définissant les notifications par e-mail pour les affectations et en suivant les mises à jour et l’activité du système pour une supervision claire.
 activity: use
 feature: Approvals
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '430'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 97%
 
 ---
 
-# Déléguer des tâches, des problèmes et des approbations
+# Déléguer efficacement les tâches, événements et approbations
 
 La vidéo explique la façon de déléguer des tâches, des problèmes et des approbations. Pour activer la délégation, l’équipe d’administration système ou de groupes doit activer la fonctionnalité dans Configuration, dans les Préférences du projet. Une fois celle-ci activée, les utilisateurs et utilisatrices peuvent déléguer toutes leurs tâches et tous leurs problèmes à une autre personne pour une période spécifiée à l’aide du bouton « Déléguer » dans le widget Mes tâches. La délégation s’applique à la fois aux tâches et aux problèmes, qui doivent être attribués à la même personne. Les délégations peuvent être définies avec ou sans date de fin et les utilisateurs et utilisatrices peuvent les arrêter manuellement à tout moment.
 Pour les approbations, les utilisateurs et utilisatrices peuvent les déléguer via le widget « En attente de mon approbation ». La délégation s’applique aux approbations existantes et aux nouvelles approbations au cours de la période spécifiée, mais uniquement pour les projets, tâches et problèmes, et non pour les documents, épreuves ou feuilles de temps. Les notifications pour les tâches, problèmes et approbations délégués peuvent être activées par l’équipe d’administration pour informer la personne à l’origine de la délégation et la personne destinataire de la délégation.
 Les approbations déléguées sont marquées dans le système. La personne à l’origine de la délégation et la personne destinataire sont mentionnées. Les mises à jour relatives aux validations apparaissent dans l’onglet Mise à jour et l’activité du système peut être consultée dans l’onglet Activité du système.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446378/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

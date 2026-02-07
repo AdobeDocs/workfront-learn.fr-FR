@@ -1,5 +1,5 @@
 ---
-title: Utiliser des tâches
+title: Gestion efficace des tâches dans Workfront
 description: Améliorez la gestion des tâches grâce à la modification en ligne, aux sauvegardes de la corbeille pour les tâches supprimées, aux ajouts de structure parent-enfant, à la duplication des tâches et aux outils de réorganisation intuitifs tels que le glisser-déposer dans Workfront.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '207'
-ht-degree: 100%
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 95%
 
 ---
 
-# Utiliser des tâches
+# Gestion efficace des tâches dans Workfront
 
 Cette vidéo présente un guide détaillé sur la gestion des tâches dans Workfront. Elle souligne la gestion efficace des tâches, notamment la modification, la suppression, l’ajout, la duplication et la réorganisation des tâches dans un plan de projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448558/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 
