@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Partager des rapports avec n’importe qui
 * Ce que les destinataires peuvenconsulter et faire avec un rapport Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447814/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 

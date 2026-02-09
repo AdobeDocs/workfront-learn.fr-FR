@@ -23,4 +23,4 @@ ht-degree: 75%
 
 Découvrez comment créer rapidement un nouveau rapport en copiant et en modifiant un rapport similaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437047/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
