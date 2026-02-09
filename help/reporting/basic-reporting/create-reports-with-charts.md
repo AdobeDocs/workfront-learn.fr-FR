@@ -73,7 +73,7 @@ La fin du trimestre approche et vous souhaitez savoir si les projets récemment 
 1. Dans l’onglet **[!UICONTROL Filtres]**, ajoutez deux règles de filtrage :
 
    * [!UICONTROL Projet] > [!UICONTROL Le statut correspond à] > [!UICONTROL Terminé].
-   * [!UICONTROL Projet] >[!UICONTROL  Date d’achèvement réelle] > [!UICONTROL Dernier trimestre].
+   * [!UICONTROL Projet] >[!UICONTROL &#x200B; Date d’achèvement réelle] > [!UICONTROL Dernier trimestre].
 
    ![Image de l’écran d’ajout de filtres à un rapport](assets/chart-report-filters.png)
 

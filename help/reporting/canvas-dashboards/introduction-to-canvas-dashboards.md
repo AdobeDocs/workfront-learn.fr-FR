@@ -25,7 +25,7 @@ La fonctionnalité Tableaux de bord de la zone de travail est une autre façon d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Pour plus d’informations, consultez l’article [ Présentation des tableaux de bord de la zone de travail ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) .
+Pour plus d’informations, consultez l’article [&#x200B; Présentation des tableaux de bord de la zone de travail &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) .
 
 ## Tutoriels recommandés sur cette rubrique
 
