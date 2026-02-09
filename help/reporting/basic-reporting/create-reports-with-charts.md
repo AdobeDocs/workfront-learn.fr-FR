@@ -1,5 +1,5 @@
 ---
-title: Créer des rapports avec des graphiques
+title: Visualiser des données avec des graphiques dans des rapports
 description: Les graphiques améliorent la visualisation des données en organisant les informations sur les données par le biais de filtres, de regroupements et de formats de colonnes empilés personnalisables, ce qui rend l’analyse plus claire et plus exploitable.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 100%
+source-wordcount: '599'
+ht-degree: 97%
 
 ---
 
-# Créer des rapports avec des graphiques
+# Visualiser des données avec des graphiques dans des rapports
 
 La vidéo explique comment utiliser des graphiques pour visualiser efficacement les données, en particulier pour effectuer le suivi des tâches du projet. Elle illustre la création de deux types de rapports dans Workfront :
 
@@ -38,7 +38,7 @@ La vidéo explique comment utiliser des graphiques pour visualiser efficacement 
 
 La vidéo montre comment des graphiques tels que les graphiques en secteurs et les graphiques à colonnes empilés peuvent fournir des informations sur la répartition des tâches et les performances des projets, ce qui permet aux utilisateurs et utilisatrices de comparer les projets et de comprendre visuellement la progression des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450016/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 

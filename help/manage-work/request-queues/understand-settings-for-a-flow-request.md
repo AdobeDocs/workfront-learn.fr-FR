@@ -1,5 +1,5 @@
 ---
-title: Comprendre les paramètres d’un flux de demandes
+title: Organiser les paramètres de flux de demandes
 description: Optimisez la gestion des demandes Workfront en définissant des rubriques de file d’attente, en utilisant des groupes de rubriques, en définissant les règles de routage, en planifiant les envois et en vous assurant que les envois ne sont pas négligés pour une efficacité accrue.
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '287'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 96%
 
 ---
 
-# Comprendre les paramètres d’un flux de demandes
+# Organiser les paramètres de flux de demandes
 
 La vidéo explique le processus du flux de demandes dans Workfront, en se concentrant sur la gestion des files d’attente, les règles de routage, les groupes de rubriques et les rubriques de file d’attente. Elle souligne l’importance d’organiser la file d’attente des demandes en répondant à trois questions clés :
 
@@ -30,7 +30,7 @@ La vidéo explique le processus du flux de demandes dans Workfront, en se concen
 
 En répondant à ces questions, les utilisateurs et utilisatrices peuvent planifier et configurer efficacement leur file d’attente des demandes dans Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441907/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

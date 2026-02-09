@@ -1,5 +1,5 @@
 ---
-title: Créer un flux de demandes
+title: Création d’un flux de demandes dans Workfront
 description: Optimisez la gestion des demandes en créant des règles de routage pour des affectations efficaces, en organisant les demandes avec des groupes de rubriques imbriqués, en liant les rubriques de file d’attente aux workflows, en testant les fonctionnalités de flux de demandes et en effectuant des ajustements flexibles pour garantir précision et efficacité.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 100%
+source-wordcount: '406'
+ht-degree: 97%
 
 ---
 
-# Créer un flux de demandes
+# Création d’un flux de demandes dans Workfront
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Cette vidéo contient un guide détaillé sur la création d’un flux de demand
 La vidéo montre ensuite comment créer des rubriques de file d’attente qui sont liées aux règles de routage, aux groupes de rubriques, aux formulaires personnalisés, aux processus d’approbation et aux durées par défaut.
 Enfin, la vidéo montre comment tester la configuration en envoyant une demande pour vérifier qu’elle est correctement acheminée. En cas de problème, des ajustements peuvent être apportés à la file d’attente. La vidéo insiste sur l’importance de vérifier la structure et la fonctionnalité du flux de demandes pour assurer un routage et une organisation corrects.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433824/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 

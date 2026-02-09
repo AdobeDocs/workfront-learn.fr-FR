@@ -1,5 +1,5 @@
 ---
-title: Mettre à jour les finances
+title: Mettre à jour les finances des projets clients
 description: Rationalisez le suivi et la facturation des coûts en définissant des taux, en affectant des types de coûts et de revenus aux tâches, en gérant les dépenses et en créant des enregistrements de facturation. Workfront n’effectue pas la facturation à proprement parler.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '359'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '365'
+ht-degree: 97%
 
 ---
 
 
-# Mettre à jour les finances
+# Mettre à jour les finances des projets clients
 
 Cette vidéo fournit un guide détaillé sur le suivi du temps, des dépenses et de la création d’enregistrements de facturation pour les projets des clientes et clients. Les points clés sont les suivants :
 

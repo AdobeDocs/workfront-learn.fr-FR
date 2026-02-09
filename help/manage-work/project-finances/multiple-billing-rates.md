@@ -1,5 +1,5 @@
 ---
-title: Comprendre les taux de facturation multiples
+title: Personnaliser les taux de facturation des fonctions
 description: Personnalisez et gérez les taux de facturation des fonctions au niveau du projet.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 93%
 
 ---
 
 
-# Comprendre les taux de facturation multiples
+# Personnaliser les taux de facturation des fonctions
 
 La vidéo explique comment gérer et personnaliser les taux de facturation des fonctions au sein d’un projet.Elle met l’accent sur la flexibilité permettant de définir plusieurs taux de facturation pour la même fonction et d’assurer des réglages précis en fonction du temps.
 

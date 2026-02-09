@@ -1,5 +1,5 @@
 ---
-title: Comprendre les filtres de problèmes intégrés
+title: Explorer les filtres de problème intégrés
 description: Découvrez comment examiner les filtres de problèmes intégrés pour déterminer comment ils sont construits et créer votre propre filtre de problèmes dans Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '273'
+ht-degree: 97%
 
 ---
 
-# Comprendre les filtres de problèmes intégrés
+# Explorer les filtres de problème intégrés
 
 Dans cette vidéo, vous allez :
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous allez :
 * Découvrir quelques éléments utiles de reporting de problèmes
 * Apprendre à créer votre propre filtre de problèmes
 
->[!VIDEO](https://video.tv.adobe.com/v/3412678/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## Activités Comprendre les filtres de problèmes intégrés

@@ -1,5 +1,5 @@
 ---
-title: Consigner et réviser les heures
+title: Enregistrer et réviser les heures du projet
 description: Enregistrez les heures en attente et passez en revue les heures consignées avant de fermer le projet.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '56'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '58'
+ht-degree: 82%
 
 ---
 
-# Consigner et réviser les heures
+# Enregistrer et réviser les heures du projet
 
 Dans cette vidéo, vous apprendrez à :
 
 * Vérifier les heures consignées dans un projet
 * Approuver les heures du projet si nécessaire
 
->[!VIDEO](https://video.tv.adobe.com/v/3441071/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

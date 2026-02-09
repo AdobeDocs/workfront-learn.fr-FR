@@ -1,5 +1,5 @@
 ---
-title: Comprendre le mode texte de base pour les filtres
+title: Explorer le mode texte de base pour les filtres dans Workfront
 description: Découvrez le mode texte, la casse Camel et un mode de texte de base que vous pouvez utiliser dans vos filtres de rapport dans Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 100%
+source-wordcount: '427'
+ht-degree: 96%
 
 ---
 
-# Comprendre le mode texte de base pour les filtres
+# Explorer le mode texte de base pour les filtres dans Workfront
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ Dans cette vidéo, vous découvrirez ce qui suit :
 * Casse Camel
 * Des _blocs de code en mode texte_ que vous pouvez utiliser dans vos filtres de rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412685/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## Activités Comprendre le mode texte de base pour les filtres
 

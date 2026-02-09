@@ -1,5 +1,5 @@
 ---
-title: Convertir un problème/une demande en une tâche
+title: Convertir un événement ou une demande en tâche
 description: Convertissez sans effort des problèmes en tâches dans Workfront avec des noms modifiables, des pièces jointes de formulaire personnalisé transparentes, une sélection de projet flexible, des options de conversion et des mises à jour de statut synchronisées pour des workflows rationalisés.
 activity: use
 team: Technical Marketing
@@ -11,18 +11,18 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 93%
 
 ---
 
-# Convertir un problème/une demande en une tâche
+# Convertir un événement ou une demande en tâche
 
 La vidéo explique comment convertir un problème ou une demande en tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445432/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

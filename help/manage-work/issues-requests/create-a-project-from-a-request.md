@@ -1,5 +1,5 @@
 ---
-title: Convertir un problème/une demande en projet
+title: Convertir un événement ou une demande en projet
 description: Rationalisez la gestion de projets dans Workfront en convertissant les problèmes en projets avec des modèles, en personnalisant les détails des projets, en gérant les options de résolution de problèmes et en assurant la visibilité et l’accès à des workflows transparents.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 93%
 
 ---
 
-# Convertir un problème/une demande en projet
+# Convertir un événement ou une demande en projet
 
 La vidéo explique comment convertir un problème ou une demande en projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446624/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

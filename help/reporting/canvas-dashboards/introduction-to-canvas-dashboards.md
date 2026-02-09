@@ -1,5 +1,5 @@
 ---
-title: Présentation des tableaux de bord de la zone de travail
+title: Explorer les tableaux de bord de la zone de travail dans Workfront
 description: Découvrez comment naviguer vers et dans les tableaux de bord de la zone de travail et comment créer un tableau de bord simple avec des rapports existants.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 18%
 
 ---
 
-# Présentation des tableaux de bord de la zone de travail
+# Explorer les tableaux de bord de la zone de travail dans Workfront
 
 La fonctionnalité Tableaux de bord de la zone de travail est une autre façon de créer des tableaux de bord dans Workfront. Il est actuellement en version Beta générale, ce qui signifie que tous les clients Workfront peuvent utiliser la fonctionnalité, s’ils sont inscrits à la version bêta. Un administrateur système doit procéder à l’inscription. Cette vidéo leur montrera comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474022/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Pour plus d’informations, consultez l’article [&#x200B; Présentation des tableaux de bord de la zone de travail &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) .
+Pour plus d’informations, consultez l’article [ Présentation des tableaux de bord de la zone de travail ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) .
 
 ## Tutoriels recommandés sur cette rubrique
 

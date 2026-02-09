@@ -1,5 +1,5 @@
 ---
-title: Comprendre les files d’attente de demandes
+title: Explorer les files d’attente de demandes dans Workfront
 description: Optimisez les opérations dans Workfront grâce à des files d’attente de demandes centralisées pour les envois, une gestion efficace des files d’attente et un accès facile aux demandes envoyées pour améliorer les workflows de projet.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '221'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '225'
+ht-degree: 95%
 
 ---
 
-# Comprendre les files d’attente de demandes
+# Explorer les files d’attente de demandes dans Workfront
 
 Cette vidéo explique le concept des files d’attente de demandes dans Workfront, leur objectif et la façon d’envoyer et de gérer des demandes. Les files d’attente de demandes servent d’emplacement centralisé pour l’envoi de divers types de demandes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447012/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

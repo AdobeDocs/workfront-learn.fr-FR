@@ -1,5 +1,5 @@
 ---
-title: Créer un rapport de tâches
+title: Créer un rapport de tâche pour les affectations tardives
 description: Apprenez à créer un rapport de tâches avec un filtre complexe et à trouver les rapports que vous créez dans Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 100%
+source-wordcount: '1121'
+ht-degree: 98%
 
 ---
 
-# Créer un rapport de tâches
+# Créer un rapport de tâche pour les affectations tardives
 
 La vidéo propose un guide détaillé sur la création d’un rapport personnalisé pour effectuer le suivi des tâches en retard affectées à l’utilisateur ou l’utilisatrice connecté. Elle commence par expliquer la nécessité de produire des rapports personnalisés lorsque les filtres, les vues ou les rapports intégrés existants ne répondent pas à des exigences spécifiques. Le rapport est nommé « Tâches en retard qui me sont affectées », et contient une description explicative.
 
 Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448344/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 

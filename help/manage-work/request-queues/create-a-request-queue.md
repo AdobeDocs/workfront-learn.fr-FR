@@ -1,5 +1,5 @@
 ---
-title: Créer une file d’attente des demandes
+title: Création d’une file d’attente de demandes dans Workfront
 description: Créez des files d’attente des demandes Workfront efficaces en définissant les autorisations d’accès, en personnalisant les types et champs des demandes, en activant la file d’attente et en testant ses fonctionnalités pour une gestion transparente de la soumission des projets.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '248'
+ht-degree: 95%
 
 ---
 
-# Créer une file d’attente des demandes
+# Création d’une file d’attente de demandes dans Workfront
 
 La vidéo fournit un guide détaillé sur la création d’une file d’attente des demandes dans Workfront. Elle conclut en illustrant comment envoyer une demande à l’aide de la file d’attente nouvellement créée, en montrant le processus de saisie des détails et de vérification de l’envoi dans l’onglet « Demandes envoyées ».
 

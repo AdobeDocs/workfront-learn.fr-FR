@@ -1,5 +1,5 @@
 ---
-title: Comprendre la vue [!UICONTROL Panorama]
+title: Explorer la vue Tableau pour la gestion des tâches
 description: Rationalisez la gestion des tâches dans Workfront grâce à l’interface  [!DNL Kanban]  de la vue [!UICONTROL Panorama], qui permet de trier, de créer et de personnaliser les tâches et de s’intégrer de manière transparente à la vue Liste des tâches pour une organisation efficace des projets.
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '298'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '304'
+ht-degree: 95%
 
 ---
 
-# Comprendre la vue [!UICONTROL Panorama]
+# Explorer la vue Tableau pour la gestion des tâches
 
 La vidéo explique la vue Panorama dans Workfront, qui offre un autre moyen d’afficher et de gérer les tâches du projet. Dans la vue Panorama, les tâches s’affichent sous forme de cartes sur un panorama de style Kanban, ce qui permet aux utilisateurs et aux utilisatrices de trier, de regrouper et de déplacer des tâches au sein ou entre les colonnes. Le déplacement d’une tâche met automatiquement à jour son statut, qui est reflété dans la vue Liste des tâches. Les utilisateurs et utilisatrices peuvent créer de nouvelles cartes, qui génèrent de nouvelles tâches dans le projet, et les modifier ou les affecter directement dans la vue Panorama. Vous pouvez configurer des colonnes et des cartes et séquencer les tâches à l’aide de prédécesseurs dans la vue Liste des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423277/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

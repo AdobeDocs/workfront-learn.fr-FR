@@ -1,5 +1,5 @@
 ---
-title: Rechercher des informations financières
+title: Accéder aux informations financières des projets et tâches et les gérer
 description: Découvrez comment trouver, analyser et gérer efficacement les données financières des projets et des tâches, couvrant les budgets, les revenus, les coûts et les mesures de performances au niveau des projets et des tâches.
 activity: use
 feature: Work Management
@@ -13,18 +13,18 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '205'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '217'
+ht-degree: 91%
 
 ---
 
-# Rechercher des informations financières
+# Accéder aux informations financières des projets et tâches et les gérer
 
 La vidéo explique comment accéder aux informations financières des projets et tâches afin de les gérer.Elle offre une vue d’ensemble complète pour consulter et comprendre les données financières au niveau des projets et des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415895/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

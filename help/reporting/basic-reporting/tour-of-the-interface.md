@@ -1,5 +1,5 @@
 ---
-title: Comprendre l’interface du rapport de calendrier
+title: Exploration de l’interface des rapports de calendrier
 description: Familiarisez-vous avec l’interface du calendrier, notamment les regroupements, les vues et les actions de calendriers.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ last-substantial-update: 2025-06-18T00:00:00Z
 thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# Comprendre l’interface du rapport de calendrier
+# Exploration de l’interface des rapports de calendrier
 
 Un rapport de calendrier est un rapport dynamique qui affiche le travail et les congés sous forme de calendrier. Vous pouvez afficher les dates dans un rapport de calendrier pour les objets suivants :
 
@@ -35,4 +35,4 @@ Dans cette vidéo, vous découvrirez :
 * Informations récapitulatives
 * Et comment créer un élément de calendrier ad hoc
 
->[!VIDEO](https://video.tv.adobe.com/v/3438760/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)

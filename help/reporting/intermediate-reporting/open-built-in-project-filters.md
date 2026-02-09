@@ -1,5 +1,5 @@
 ---
-title: Comprendre les filtres de projet intégrés
+title: Explorer les filtres de projet intégrés
 description: Découvrez comment passer en revue les filtres de projet intégrés pour voir comment ils sont conçus et comment créer votre propre filtre de projet dans Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-# Comprendre les filtres de projet intégrés
+# Explorer les filtres de projet intégrés
 
 Dans cette vidéo, vous apprendrez à :
 
 * Examiner les filtres de projet intégrés pour voir comment ils sont créés
 * Créer votre propre filtre de projet en utilisant ce que vous avez appris
 
->[!VIDEO](https://video.tv.adobe.com/v/3412666/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## Activités Comprendre les filtres de projets intégrés
 

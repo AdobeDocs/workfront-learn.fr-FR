@@ -1,5 +1,5 @@
 ---
-title: Comprendre les composants de reporting
+title: Explorer les composants de création de rapports dans Workfront
 description: Les composants de reporting de Workfront affinent la visualisation des données avec des filtres basés sur des objets, des vues dynamiques, des regroupements structurés et une fonctionnalité de caractères génériques pour des informations personnalisées.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 100%
+source-wordcount: '537'
+ht-degree: 98%
 
 ---
 
-# Comprendre les composants de reporting
+# Explorer les composants de création de rapports dans Workfront
 
 La vidéo explique le concept de composants de reporting dans Workfront, essentiels à la création de filtres, de vues et de regroupements. Les principaux composants sont les suivants :
 
@@ -29,7 +29,7 @@ La vidéo explique le concept de composants de reporting dans Workfront, essenti
 * **Qualificateur de filtre :** définit les valeurs à inclure ou à exclure dans un rapport, par exemple l’affichage des tâches avec une priorité « élevée ».
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447023/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 

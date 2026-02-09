@@ -1,5 +1,5 @@
 ---
-title: Créer des invites personnalisées
+title: Créer des invites personnalisées à l'aide du mode texte
 description: Découvrez ce qu’est une invite personnalisée, comment créer une invite personnalisée à l’aide du mode texte et quelques exemples que vous pouvez utiliser dans les rapports dans Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 94%
 
 ---
 
-# Créer des invites personnalisées
+# Créer des invites personnalisées à l&#39;aide du mode texte
 
 Dans cette vidéo, vous apprendrez :
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer une invite personnalisée en mode texte
 * Des exemples que vous pouvez utiliser dans vos rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/3412690/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Activités Créer des invites personnalisées
 

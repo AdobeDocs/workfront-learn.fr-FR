@@ -1,5 +1,5 @@
 ---
-title: Comprendre les filtres EXISTS
+title: Créer des filtres EXISTS pour les rapports complexes
 description: Découvrez ce qu’est un filtre EXISTS, ce qu’il peut vous apporter et comment en créer un à partir de zéro. Consultez également de nombreux exemples utiles de filtres EXISTS.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '682'
-ht-degree: 100%
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+workflow-type: tm+mt
+source-wordcount: '688'
+ht-degree: 98%
 
 ---
 
-# Comprendre les filtres EXISTS
+# Créer des filtres EXISTS pour les rapports complexes
 
 Les filtres EXISTS sont des filtres avancés en mode texte, qui nous permettent de contourner la limitation de 2 sauts de table/champ dans un créateur de rapports standard. Ils peuvent également être utilisés pour identifier des objets du système qui ne sont pas associés à une condition de relation spécifique via NOTEXISTS.
 
@@ -26,7 +26,7 @@ Dans cette vidéo, vous apprendrez à créer un filtre EXISTS pour voir « Appr
 
 Pour une présentation plus détaillée du fonctionnement de l’instruction EXISTS, reportez-vous à la documentation [Créer des filtres complexes en mode texte à l’aide d’instructions EXISTS](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471205/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## Exemples de filtres EXISTS
 
