@@ -23,7 +23,7 @@ ht-degree: 24%
 Découvrez comment un administrateur installe un plan directeur et comment un utilisateur le met en œuvre. Dans cet exemple, nous allons installer le plan directeur « Formation Workfront pour les nouveaux utilisateurs » et utiliser les modèles et les vues qu’il crée comme liste de contrôle de formation pour aider les utilisateurs à utiliser Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479836/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 
