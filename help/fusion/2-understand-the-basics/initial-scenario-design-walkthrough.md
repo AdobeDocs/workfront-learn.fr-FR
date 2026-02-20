@@ -8,14 +8,15 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
+last-substantial-update: 2026-02-19T00:00:00Z
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 
@@ -33,8 +34,13 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser le concepteur de scénarios
 * Créer un scénario de base
 
->[!VIDEO](https://video.tv.adobe.com/v/3415973/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
+## Voici l’URL à coller dans le champ **URL de redirection** lors de la création d’une intégration d’application OAuth dans votre instance de test Drive
+
+```
+https://app.workfrontfusion.com/oauth/cb/workfront-workfront
+```
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 
