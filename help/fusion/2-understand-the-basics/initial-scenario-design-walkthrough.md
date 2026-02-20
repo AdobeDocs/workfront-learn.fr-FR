@@ -34,7 +34,7 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser le concepteur de scénarios
 * Créer un scénario de base
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415973/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 **Voici l’URL à coller dans le champ « URL de redirection » lors de la création d’une intégration d’application OAuth dans votre instance de test Drive**
 
