@@ -9,12 +9,13 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+last-substantial-update: 2026-03-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '449'
+ht-degree: 85%
 
 ---
 
@@ -34,9 +35,9 @@ Dans certains tutoriels, vous créerez un scénario à partir de zéro. Dans d�
 
 ### Demander un lecteur de test Workfront
 
-Pour réaliser les exercices des parcours de formation de Workfront Fusion, vous aurez besoin d’un lecteur test de Workfront. Si vous disposez déjà d’un lecteur de test, nous vous en recommandons un nouveau pour cette formation.
+Pour suivre les exercices des tutoriels de formation Workfront Fusion, vous aurez besoin d’un environnement d’activation de Workfront, également appelé « **Workfront Test Drive »** tout au long de cette formation. Si vous disposez déjà d’un lecteur de test, nous vous en recommandons un nouveau pour cette formation.
 
-Demandez un test en remplissant [ce formulaire](https://forms.office.com/r/f1J8HRGrNY). Si vous ne parvenez pas à accéder au formulaire, envoyez votre nom, votre adresse e-mail et le nom de votre entreprise à wfttstdr@adobe.com.
+Demandez un test en remplissant [ce formulaire](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). Lorsque vous remplissez le formulaire, il vous sera demandé de fournir votre e-mail de profil de certification **Adobe**. Si vous n’en avez pas déjà un, accédez au site Certification [Adobe](https://certification.adobe.com/#) puis créez un profil utilisateur.
 
 ### Accéder à Workfront Fusion pour l’entraînement
 
@@ -62,4 +63,4 @@ Les instructions pas à pas sont fournies pour vous aider à accomplir les exerc
 
 [Documentation sur Workfront Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Il existe également une [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=fr) où vous pouvez poser des questions.
+Il existe également une [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) où vous pouvez poser des questions.

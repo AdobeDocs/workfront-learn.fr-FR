@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriels Workfront
-user-guide-description: Bibliothèque d’articles et de vidéos de formation conçus pour vous aider à mieux comprendre les fonctionnalités et paramètres de Workfront.
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+user-guide-description: Une bibliothèque de vidéos de formation et d’articles conçus pour vous aider à mieux comprendre les fonctionnalités et les paramètres de Workfront.
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '2488'
-ht-degree: 77%
+source-wordcount: '2485'
+ht-degree: 78%
 
 ---
 
@@ -158,14 +158,14 @@ ht-degree: 77%
       + [Optimisation des priorités de projet avec l’outil Portfolio Optimization](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
-      + [Créer un processus d’approbation global et à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Créer et gérer des processus d’approbation](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Appliquer un processus d’approbation des problèmes dans une file d’attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Examiner et approuver les travaux numériques](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Déléguer efficacement les tâches, événements et approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Appliquer des chemins jalonnés aux projets et tâches](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [Afficher les jalons dans vos projets](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
-   + Créer et gérer des modèles de projet {#create-and-manage-project-templates}
+   + Créer et gérer les modèles de projet {#create-and-manage-project-templates}
       + [Créer un modèle de projet et explorer les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Installation et utilisation d’un plan directeur](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [Créer un projet directement à partir d’un modèle](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
@@ -345,7 +345,7 @@ ht-degree: 77%
       + [Améliorer votre workflow avec l’intégration G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Créer de la visibilité avec l’intégration  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Créer de la visibilité avec l’intégration  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installer le module complémentaire Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -523,7 +523,7 @@ ht-degree: 77%
       + [Comprendre  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendre les paramètres système](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendre [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analyser et planifier une stratégie  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurer des groupes et des utilisateurs](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurer l’intégration dans Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personnaliser [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
