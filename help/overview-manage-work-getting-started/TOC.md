@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Gérer le travail - Prise en main
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 69%
+ht-degree: 71%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 69%
 # Gérer le travail - Prise en main {#manage-work-getting-started}
 
 + [Gérer le travail - Prise en main](overview.md)
-+ Gérer le travail - de prise en main {#manage-work-getting-started}
-   + Création d’un de projet {#create-a-project}
++ Gérer le travail - Prise en main {#manage-work-getting-started}
+   + Créer un projet {#create-a-project}
       + [Comprendre les bases de la création de projets](understand-basic-project-creation.md)
       + [Convertir un problème/une demande en projet](create-a-project-from-a-request.md)
       + [Découvrir quatre façons de créer un projet](understand-other-ways-to-create-projects.md)
@@ -26,29 +26,29 @@ ht-degree: 69%
       + [Parcourir la page du projet](navigate-the-project-page.md)
 
    + Planifier un projet {#plan-a-project}
-      + [Commencer avec la planification d’un projet](getting-started-plan-a-project.md)
+      + [Commencer à planifier un projet](getting-started-plan-a-project.md)
       + [Créer des tâches](how-to-create-tasks.md)
       + [Comprendre les tâches parent-enfant](understand-parent-child-tasks.md)
-      + [Travailler avec des tâches](work-with-tasks.md)
+      + [Utiliser des tâches](work-with-tasks.md)
       + [Affecter des tâches à partir du plan de projet](assign-tasks-from-the-project-plan.md)
       + [Comprendre la durée des tâches](understand-task-durations.md)
-      + [Découvrez comment séquencer des tâches](learn-to-sequence-tasks.md)
+      + [Découvrir comment séquencer des tâches](learn-to-sequence-tasks.md)
       + [Comprendre le nombre d’heures prévues](understand-planned-hours.md)
-      + [Comprendre les calendriers du projet](understand-project-timelines.md)
+      + [Comprendre les chronologies du projet](understand-project-timelines.md)
       + [Comprendre les types de date et le statut de progression](understand-task-dates-and-progress-status.md)
       + [Comprendre l’[!UICONTROL effort de travail]](understand-work-effort.md)
       + [Activer un projet](take-a-project-live.md)
 
-   + Gestion d’un de projet {#manage-a-project}
-      + [Commencer avec la gestion d’un projet](getting-started-manage-a-project.md)
+   + Gestion d’un projet {#manage-a-project}
+      + [Commencer à gérer un projet](getting-started-manage-a-project.md)
       + [Rechercher des projets](find-projects.md)
       + [Partager un projet](share-a-project.md)
       + [Comprendre l’équipe de projet](understand-the-project-team.md)
-      + [Comprendre la communication d’un projet](understand-project-communication.md)
+      + [Comprendre la communication autour d’un projet](understand-project-communication.md)
       + [Afficher des informations sur le projet](view-project-information.md)
       + [Suivre l’avancement global du projet](track-overall-project-progress.md)
       + [Suivre la progression du travail avec les mesures de projet](track-work-progress-with-project-metrics.md)
-      + [Suivre la progression à partir du calendrier du projet](track-work-progress-from-the-project-timeline.md)
+      + [Suivre la progression à partir de la chronologie du projet](track-work-progress-from-the-project-timeline.md)
       + [Comprendre la vue [!UICONTROL Gantt]](understand-the-gantt-view.md)
       + [Comprendre la vue [!UICONTROL Panorama]](understand-the-board-view.md)
 

@@ -11,9 +11,9 @@ last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Explorez Workfront en profondeur pour en savoir plus sur la manière de tirer le
 >
 >* Bonne compréhension de l’utilisation de Workfront
 >* Type de licence standard avec droits de création de projets activés
->* [Gérer le travail - Prise en main](https://experienceleague.adobe.com/?lang=fr&recommended=Workfront-U-1-2022.1.planners)
+>* [Gérer le travail - Prise en main](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Modèles de projet
@@ -74,7 +74,7 @@ Découvrez comment créer des chemins jalonnés, appliquer les jalons aux tâche
 Découvrez comment gérer le travail non planifié avec les problèmes, convertir les problèmes en autres éléments de travail, gérer les affectations de problèmes et générer des rapports sur les problèmes.
 
 * [Gérer le travail non planifié](handle-unplanned-work.md) - Découvrez comment gérer le travail non planifié dans votre organisation.
-* [Créer une requête &#x200B;](make-a-request.md) - Découvrez comment accéder à la zone de requête, créer une requête, afficher les requêtes envoyées, copier une requête, rechercher un brouillon de requête et afficher les trois derniers chemins de requête.
+* [Créer une requête ](make-a-request.md) - Découvrez comment accéder à la zone de requête, créer une requête, afficher les requêtes envoyées, copier une requête, rechercher un brouillon de requête et afficher les trois derniers chemins de requête.
 * [Rechercher et gérer les requêtes](find-requests.md) - Découvrez comment trouver les requêtes qui vous sont affectées, les requêtes que vous avez créées et les requêtes que vous gérez.
 * [Gérer les affectations d’événement](manage-issue-assignments.md) - Découvrez comment affecter un événement à un utilisateur individuel, à plusieurs utilisateurs ou à une équipe afin que le problème soit résolu.
 * [Mettre à jour une demande](update-a-request.md) - Découvrez comment rechercher les demandes que vous avez envoyées et effectuer une mise à jour.

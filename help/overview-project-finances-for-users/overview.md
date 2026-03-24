@@ -1,6 +1,6 @@
 ---
 title: Finances du projet pour les utilisateurs et utilisatrices
-description: Découvrez comment effectuer le suivi des informations financières pour les projets, définir les types de coûts et de recettes et remplacer les taux de facturation.
+description: Découvrez comment effectuer le suivi des informations financières pour les projets, définir les types de coûts et de revenu et remplacer les taux de facturation.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,20 +11,20 @@ last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 14%
 
 ---
 
 # Présentation des finances du projet pour les utilisateurs
 
-Découvrez comment effectuer le suivi des informations financières pour les projets, définir les types de coûts et de recettes et remplacer les taux de facturation. Ce tutoriel est conçu pour les utilisateurs qui effectuent le suivi des données financières liées à un projet.
+Découvrez comment effectuer le suivi des informations financières des projets, définir les types de coûts et de revenus et remplacer les taux de facturation. Ce tutoriel est conçu pour les utilisateurs et utilisatrices qui suivront les données financières liées à un projet.
 
-Adobe Workfront n’est pas destiné à remplacer les logiciels de suivi ou de facturation financiers que vous utilisez actuellement, mais il peut fournir un suivi monétaire et des rapports.
+Adobe Workfront n’est pas destiné à remplacer les logiciels de suivi financier ou de facturation que vous utilisez actuellement, mais il peut fournir un suivi et des rapports financiers.
 
 >[!PREREQUISITES]
 >
@@ -32,6 +32,6 @@ Adobe Workfront n’est pas destiné à remplacer les logiciels de suivi ou de f
 >* Type de licence standard avec droits de modification des données financières
 
 
-* [Mettre à jour et revoir les finances](update-and-review-finances.md) - Découvrez comment consulter les informations financières associées à un projet.
-* [Trouver des informations financières](find-financial-information.md) - Découvrez comment trouver des informations financières sur un projet et comprendre d’où il provient.
-* [Comprendre plusieurs taux de facturation](multiple-billing-rates.md) - Découvrez comment remplacer les taux de facturation système au sein d’un projet spécifique.
+* [Mise à jour et vérification des finances](update-and-review-finances.md) - Découvrez comment vérifier les informations financières associées à un projet.
+* [Trouver des informations financières](find-financial-information.md) - Découvrez comment trouver des informations financières sur un projet et comprendre d’où elles viennent.
+* [Comprendre les taux de facturation multiples](multiple-billing-rates.md) - Découvrez comment remplacer les taux de facturation système dans un projet spécifique.

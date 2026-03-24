@@ -11,8 +11,8 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+workflow-type: tm+mt
 source-wordcount: '727'
 ht-degree: 100%
 
@@ -43,7 +43,7 @@ L’e-mail [!UICONTROL Nouveau BAT] contient également des informations essenti
 * Le numéro de version vous indique la version du BAT que vous allez consulter.
 * Et surtout, la date d’échéance apparaît à deux endroits dans l’e-mail : juste au-dessus de la section des détails du BAT et dans la barre grise correspondant à l’étape du workflow dont vous faites partie.
 
-Une fois que vous pouvez commencer votre vérification, il vous suffit de cliquer sur le bouton bleu [!UICONTROL Accéder au BAT] et le fichier s’ouvre automatiquement dans le visualiseur de BAT de [!DNL Workfront].
+Une fois que vous pouvez commencer votre révision, il vous suffit de cliquer sur le bouton bleu [!UICONTROL Accéder à l’épreuve] et le fichier s’ouvre automatiquement dans la visionneuse de relecture de [!DNL Workfront].
 
 ### Ouvrir un BAT à partir de l’[!UICONTROL Accueil]
 
@@ -104,4 +104,5 @@ Dans cette vidéo, vous apprendrez à :
 <!--
 #### Guides
 * Reviewing proofs in [!DNL Workfront]
-* -->
+* 
+-->

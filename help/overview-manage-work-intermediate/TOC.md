@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Gérer le travail - intermédiaire
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 63%
+ht-degree: 64%
 
 ---
 
@@ -37,17 +37,17 @@ ht-degree: 63%
       + [Appliquer des jalons](apply-milestones.md)
       + [Afficher les jalons](view-milestones.md)
 
-   + Utilisation des d&#39;événements {#how-to-work-with-issues}
+   + Utilisation des problèmes {#how-to-work-with-issues}
       + [Gérer le travail non planifié](handle-unplanned-work.md)
       + [Effectuer une demande](make-a-request.md)
       + [Rechercher et gérer des demandes](find-requests.md)
       + [Gérer les affectations de problèmes](manage-issue-assignments.md)
       + [Mettre à jour une requête](update-a-request.md)
       + [Convertir un problème/une demande en projet](create-a-project-from-a-request.md)
-      + [Convertir un problème/une requête en une tâche.](convert-issues-to-other-work-items.md)
+      + [Convertir un problème/une demande en une tâche](convert-issues-to-other-work-items.md)
       + [Rapport sur les problèmes](report-on-issues.md)
 
-   + Creuser des plus profondes {#digging-deeper}
+   + Creuser plus profondément {#digging-deeper}
       + [Comprendre et gérer les types de durée et les contraintes de tâche](understand-and-manage-duration-types-and-task-constraints.md)
       + [Compendre les prédécesseurs multi-projets](understand-cross-project-predecessors.md)
       + [Prédécesseurs avancés](advanced-predecessors.md)
