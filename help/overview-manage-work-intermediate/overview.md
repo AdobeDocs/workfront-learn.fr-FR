@@ -74,7 +74,7 @@ Découvrez comment créer des chemins jalonnés, appliquer les jalons aux tâche
 Découvrez comment gérer le travail non planifié avec les problèmes, convertir les problèmes en autres éléments de travail, gérer les affectations de problèmes et générer des rapports sur les problèmes.
 
 * [Gérer le travail non planifié](handle-unplanned-work.md) - Découvrez comment gérer le travail non planifié dans votre organisation.
-* [Créer une requête ](make-a-request.md) - Découvrez comment accéder à la zone de requête, créer une requête, afficher les requêtes envoyées, copier une requête, rechercher un brouillon de requête et afficher les trois derniers chemins de requête.
+* [Créer une requête &#x200B;](make-a-request.md) - Découvrez comment accéder à la zone de requête, créer une requête, afficher les requêtes envoyées, copier une requête, rechercher un brouillon de requête et afficher les trois derniers chemins de requête.
 * [Rechercher et gérer les requêtes](find-requests.md) - Découvrez comment trouver les requêtes qui vous sont affectées, les requêtes que vous avez créées et les requêtes que vous gérez.
 * [Gérer les affectations d’événement](manage-issue-assignments.md) - Découvrez comment affecter un événement à un utilisateur individuel, à plusieurs utilisateurs ou à une équipe afin que le problème soit résolu.
 * [Mettre à jour une demande](update-a-request.md) - Découvrez comment rechercher les demandes que vous avez envoyées et effectuer une mise à jour.
