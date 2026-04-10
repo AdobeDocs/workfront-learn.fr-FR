@@ -1,7 +1,7 @@
 ---
 source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
-workflow-type: ht
-source-wordcount: '424'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ Votre contribution dépend de votre identité et du type de modifications que vo
 
 ### Modifications mineures
 
-Si vous apportez des modifications mineures de bon cœur, lisez l’article et cliquez sur le lien **Modifier** de l’article, qui renvoie à la source GitHub de l’article. Ensuite, utilisez simplement l’interface utilisateur GitHub pour effectuer vos modifications. Consultez le [Guide du contributeur aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr) pour plus d’informations.
+Si vous apportez des modifications mineures par pure bienveillance, lisez l’article et cliquez sur le lien **Modifier** de l’article, qui renvoie à la source GitHub de l’article. Ensuite, utilisez simplement l’UI de GitHub pour effectuer vos mises à jour. Consultez le [Guide du contributeur aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr) pour plus d’informations.
 
 Les modifications ou précisions mineures que vous apportez aux documents et aux exemples de code dans ce référentiel sont soumises aux conditions d’utilisation d’Adobe.
 
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Modifications majeures apportées par les employés d’Adobe
 
-Si vous faites de la rédaction technique, que vous êtes une personne responsable de programme ou chargée du développement au sein de l’équipe produit d’une solution Adobe Experience Cloud et qu’il vous incombe de contribuer à ou de rédiger des articles techniques, vous devez utiliser le référentiel privé à l’adresse `https://git.corp.adobe.com/AdobeDocs`.
+Si vous êtes en charge de la rédaction technique, si vous êtes responsable de programme ou si vous occupez un poste de développement dans l’équipe produit pour une solution Adobe Experience Cloud et que c’est votre rôle de contribuer à des articles techniques ou d’en rédiger, vous devez utiliser le référentiel privé sur `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -57,4 +57,4 @@ Tous les articles de ce référentiel utilisent GitHub Flavored Markdown. Si vou
 Dans le référentiel public, des libellés automatisés sont affectés aux demandes d’extraction afin de nous aider à gérer le workflow de demande d’extraction et de vous permettre de savoir où en est votre demande d’extraction :
 
 * **Modification envoyée à l’auteur** : l’auteur a été notifié de la demande d’extraction en attente.
-* **Prêt pour fusion** : prêt à être examiné par notre équipe d’examen des demandes d’extraction.
+* **ready-to-merge** : prête à être examinée par notre équipe chargée des demandes d’extraction.
