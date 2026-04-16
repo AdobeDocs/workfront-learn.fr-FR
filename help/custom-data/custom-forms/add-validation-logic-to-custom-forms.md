@@ -20,5 +20,5 @@ ht-degree: 0%
 
 Découvrez comment ajouter une logique de validation aux formulaires personnalisés pour garantir la précision des données. En implémentant la logique de validation, vous pouvez éviter les erreurs, rationaliser les processus et améliorer l’efficacité de votre équipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483428/?captions=fre_fr&learn=on&enablevpops)
 
