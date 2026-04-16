@@ -1,25 +1,25 @@
 ---
-title: Personnaliser les en-têtes de projet grâce à des modèles de disposition
-description: Découvrez comment ajouter et supprimer des champs des en-têtes de projet à l’aide de modèles de disposition.
+title: Personnaliser des en-têtes de projet avec des modèles de disposition
+description: Découvrez comment personnaliser les en-têtes de projet, afficher les détails clés et rationaliser les workflows à l’aide de modèles de disposition dans la plateforme Adobe.
 feature: System Setup and Administration
-activity: deploy
-team: Technical Marketing
+topic: Personalization
 role: Admin
-level: Intermediate
-type: Tutorial
-thumbnail: null
-jira: KT-11108
-doc-type: video
-exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+level: Beginner
+doc-type: Feature Video
+duration: 240
+last-substantial-update: 2026-04-15T00:00:00Z
+jira: KT-20209
+source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 
-# Personnaliser les en-têtes de projet grâce à des modèles de disposition
 
-Découvrez comment ajouter et supprimer des champs des en-têtes de projet à l’aide de modèles de disposition.
+# Personnaliser les en-têtes de projet grâce à des modèles de mise en page
 
->[!VIDEO](https://video.tv.adobe.com/v/3422843?captions=fre_fr)
+Découvrez comment personnaliser les en-têtes de projet pour n’afficher que les informations les plus pertinentes à l’aide de modèles de disposition. Découvrez comment supprimer les champs inutiles, ajouter des champs personnalisés et les organiser efficacement. Cela permet aux équipes d’accéder rapidement aux détails des projets critiques, ce qui améliore la clarté et l’efficacité. Regardez la vidéo ci-dessous pour obtenir des conseils détaillés sur l’optimisation des en-têtes de projet.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+
