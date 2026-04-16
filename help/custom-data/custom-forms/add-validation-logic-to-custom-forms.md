@@ -20,5 +20,5 @@ ht-degree: 0%
 
 Découvrez comment ajouter une logique de validation aux formulaires personnalisés pour garantir l’exactitude des données et guider les utilisateurs et les utilisatrices dans le remplissage correct des formulaires. L’implémentation de la logique de validation permet de prévenir les erreurs, de rationaliser les processus et d’améliorer l’efficacité de votre équipe. Découvrez les instructions détaillées pour créer des conditions, définir des messages d’erreur et tester efficacement les validations. Regardez la vidéo ci-dessous pour maîtriser cette fonctionnalité essentielle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483428/?captions=fre_fr&learn=on&enablevpops)
 

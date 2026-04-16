@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Découvrez comment utiliser les expressions de logique d’affichage avancées pour contrôler la visibilité des champs et sections de formulaire personnalisés. Cette fonctionnalité vous permet de créer des formulaires plus dynamiques et personnalisés, en vous alignant sur les besoins spécifiques des utilisateurs et utilisatrices et en améliorant l’efficacité des workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483453/?captions=fre_fr&learn=on&enablevpops)
 

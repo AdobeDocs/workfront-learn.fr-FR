@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Découvrez comment configurer la localisation définie par l’utilisateur pour afficher le contenu dans plusieurs langues en fonction des préférences de l’utilisateur. Cette fonctionnalité simplifie la collaboration interrégionale en permettant aux équipes de travailler dans leur langue maternelle. Regardez la vidéo ci-dessous pour découvrir comment configurer et gérer efficacement des traductions spécifiques à une langue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483441/?captions=fre_fr&learn=on&enablevpops)
 
