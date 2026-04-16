@@ -21,5 +21,5 @@ ht-degree: 8%
 
 Découvrez comment personnaliser les en-têtes de projet pour n’afficher que les informations les plus pertinentes à l’aide de modèles de disposition. Découvrez comment supprimer les champs inutiles, ajouter des champs personnalisés et les organiser efficacement pour que les équipes puissent accéder rapidement aux détails critiques des projets, ce qui améliore la clarté et l’efficacité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483465/?captions=fre_fr&learn=on&enablevpops)
 
