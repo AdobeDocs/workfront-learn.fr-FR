@@ -9,9 +9,9 @@ doc-type: Feature Video
 duration: 138
 last-substantial-update: 2026-04-15T00:00:00Z
 jira: KT-20166
-source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
+source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Configurer la localisation définie par l’utilisateur
 
-Découvrez comment configurer la localisation définie par l’utilisateur pour afficher le contenu dans plusieurs langues en fonction des préférences de l’utilisateur. Cette fonctionnalité simplifie la collaboration interrégionale en permettant aux équipes de travailler dans leur langue maternelle. Regardez la vidéo ci-dessous pour découvrir comment configurer et gérer efficacement des traductions spécifiques à une langue.
+Découvrez comment configurer la localisation définie par l’utilisateur pour afficher le contenu dans plusieurs langues en fonction des préférences de l’utilisateur. Cela simplifie la collaboration interrégionale en permettant aux équipes de travailler dans leur langue maternelle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483441/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
 
