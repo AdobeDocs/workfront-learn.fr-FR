@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriels Workfront
 user-guide-description: Une bibliothèque de vidéos de formation et d’articles conçus pour vous aider à mieux comprendre les fonctionnalités et les paramètres de Workfront.
-source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '2499'
 ht-degree: 78%
@@ -89,7 +89,7 @@ ht-degree: 78%
       + [Joindre un formulaire personnalisé à un objet](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Ajouter des sauts de section et des logiques à un formulaire personnalisé](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exporter un formulaire personnalisé en tant que PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
-      + [Ajouter une logique de validation aux formulaires personnalisés](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [Ajout d’une logique de validation aux formulaires personnalisés](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
       + [Configurer la logique d’affichage avancée](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + Expressions calculées {#calculated-expressions}
