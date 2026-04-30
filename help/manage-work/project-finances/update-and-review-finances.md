@@ -10,53 +10,53 @@ role: User
 level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-last-substantial-update: 2025-04-16T00:00:00Z
+last-substantial-update: 2026-04-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+source-git-commit: 6e171e980c41615686f73dd44a26dc47e4b5dcdf
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 97%
+source-wordcount: '350'
+ht-degree: 19%
 
 ---
 
 
 # Mettre à jour les finances des projets clients
 
-Cette vidéo fournit un guide détaillé sur le suivi du temps, des dépenses et de la création d’enregistrements de facturation pour les projets des clientes et clients. Les points clés sont les suivants :
+Cette vidéo fournit un guide détaillé sur le suivi du temps, des dépenses et de la création d’enregistrements de facturation pour les projets clients. &#x200B; points clés sont les suivants :
 
-**Suivi des heures et des dépenses :**
-effectuez le suivi du temps passé à travailler sur un projet et des dépenses du projet pour facturer la clientèle.
-Assurez-vous que les utilisateurs et utilisatrices disposent de taux de coût et de facturation définis dans leurs profils ou fonctions.
+**Suivi du temps et des dépenses :**
+Effectuez le suivi du temps passé à travailler sur un projet et des dépenses du projet pour facturer les clients. &#x200B;
+Assurez-vous que les utilisateurs et utilisatrices disposent de taux de coût et de facturation définis dans leurs profils ou fonctions. &#x200B;
 
-**Configuration de la tâche :**
-affectez les types de coûts et de revenus appropriés aux tâches.
+**Configuration de la tâche :**
+Affectez les types de coûts et de revenus appropriés aux tâches. &#x200B;
 Les types de coûts comprennent les coûts fixes horaires, personne par heure (selon le profil de la personne) et rôle par heure (selon la fonction de la personne propriétaire de la tâche).
 
-**Gestion des dépenses :**
-créez des dépenses au niveau du projet via l’onglet « Dépenses ».
-Affectez des dépenses au projet ou aux tâches, puis marquez-les comme étant facturables ou remboursables.
+**Gestion des dépenses :**
+Créez des dépenses au niveau du projet via l&#39;onglet « Dépenses ». &#x200B;
+Affectez des dépenses au projet ou aux tâches, marquez-les comme étant facturables ou remboursables. &#x200B;
 
-**Enregistrements de facturation :**
-créez des enregistrements de facturation au niveau du projet pour suivre les éléments facturables (heures, dépenses, revenus).
+**Enregistrements de facturation :**
+Créez des enregistrements de facturation au niveau du projet pour suivre les éléments facturables (heures, dépenses, revenus). &#x200B;
 Ajoutez les heures facturables et les dépenses à l’enregistrement de facturation.
-Mettez à jour le statut de l’enregistrement de facturation et la date de facturation après avoir facturé la clientèle.
+Mettez à jour le statut de l’enregistrement de facturation et la date de facturation après avoir facturé les clients. &#x200B;
 
-**Notes finales :**
-Workfront effectue le suivi des éléments facturables, mais ne gère pas la facturation réelle. Les personnes doivent utiliser leurs propres systèmes de facturation.
+**Notes finales :**
+Workfront effectue le suivi des éléments facturables, mais ne gère pas la facturation réelle ; les utilisateurs doivent utiliser leurs propres systèmes de facturation. &#x200B;
 
-Cette vidéo souligne l’importance d’une configuration et d’un suivi appropriés pour rationaliser les processus de facturation de la clientèle.
+Cette vidéo souligne l’importance d’une configuration et d’un suivi appropriés pour rationaliser les processus de facturation des clients. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
 
-* **Configurer les coûts et les taux de facturation :** assurez-vous que les personnes ou les fonctions disposent de taux de coût et de facturation définis dans leurs profils pour effectuer le suivi précis des dépenses du projet.
-* **Affecter des types de coûts et de revenus aux tâches :** les tâches doivent avoir des types de coûts et de revenus appropriés (par exemple, fixe par heure, personne par heure, rôle par heure) pour calculer correctement les montants facturables.
-* **Gérer les dépenses du projet :** utilisez l’onglet « Dépenses » pour créer et catégoriser les dépenses comme étant facturables ou remboursables, afin d’assurer un suivi précis.
-* **Créer et mettre à jour des enregistrements de facturation :** les enregistrements de facturation permettent de suivre les heures facturables, les dépenses et les revenus. Ajoutez des éléments à l’enregistrement, mettez à jour le statut et enregistrez les dates de facturation après la facturation.
-* **Utiliser des systèmes de facturation externes :** Workfront effectue le suivi des éléments facturables, mais ne gère pas la facturation réelle. Les personnes doivent utiliser leurs propres systèmes de facturation pour facturer la clientèle.
+* **Configurer les coûts et les taux de facturation :** assurez-vous que les utilisateurs ou les fonctions disposent de taux de coût et de facturation définis dans leurs profils pour effectuer le suivi précis des dépenses du projet. &#x200B;
+* **Affecter des types de coûts et de revenus aux tâches :** les tâches doivent avoir des types de coûts et de revenus appropriés (par exemple, fixe par heure, utilisateur par heure, rôle par heure) pour calculer correctement les montants facturables. &#x200B;
+* **Gérer les dépenses du projet :** utilisez l’onglet « Dépenses » pour créer et catégoriser les dépenses comme étant facturables ou remboursables, afin d’assurer un suivi précis. &#x200B;
+* **Créer et mettre à jour des enregistrements de facturation :** enregistrements de facturation permettent de suivre les heures facturables, les dépenses et les revenus. &#x200B; Ajouter des éléments à l’enregistrement, mettre à jour le statut et enregistrer les dates de facturation après la facturation. &#x200B;
+* **Utiliser des systèmes de facturation externes :** Workfront effectue le suivi des éléments facturables, mais ne gère pas la facturation réelle. Les utilisateurs doivent se fier à leurs propres systèmes de facturation pour facturer les clients. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique
