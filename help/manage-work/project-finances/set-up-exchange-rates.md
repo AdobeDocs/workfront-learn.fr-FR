@@ -25,7 +25,7 @@ ht-degree: 100%
 La vidéo fournit un guide sur la gestion des devises dans le système de suivi financier de Workfront. Elle explique que la devise par défaut est le dollar américain, mais que des devises supplémentaires peuvent être configurées globalement ou pour chaque projet et fonction.
 La vidéo souligne que le système ne fournit pas de taux de change actualisés et qu’il est nécessaire de les récupérer en externe. Une fois définis, les taux de change deviennent la valeur par défaut pour les projets ou les fonctions, mais ne sont pas mis à jour automatiquement. Les personnes disposant des autorisations appropriées doivent les mettre à jour manuellement. Après avoir configuré les devises, les personnes peuvent créer des projets et sélectionner l’une des options de devise disponibles, avec la possibilité de personnaliser les taux de change pour chaque projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484536/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 
