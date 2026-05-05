@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez :
 * Estimation du nombre d’heures prévues
 * Ajout du nombre d’heures planifiées à des tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445335/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriels et articles recommandés sur cette rubrique

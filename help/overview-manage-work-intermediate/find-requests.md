@@ -33,7 +33,7 @@ Vous apprendrez à trouver ces demandes aux emplacements suivants :
 * Dans un tableau de bord personnalisé
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441656/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriels recommandés sur cette rubrique

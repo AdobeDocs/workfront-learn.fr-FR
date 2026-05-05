@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez :
 * Intégration des durées dans la chronologie des projets
 * Recommandations relatives aux bonnes pratiques d’utilisation des durées de tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449345/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 
