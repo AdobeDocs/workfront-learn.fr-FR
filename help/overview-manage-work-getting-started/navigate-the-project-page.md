@@ -14,7 +14,7 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Dans cette vidéo, vous apprendrez :
 * L’endroit où charger les documents
 * Consultation de l’historique des mises à jour
 
->[!VIDEO](https://video.tv.adobe.com/v/3449728/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3449728/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Principaux éléments de la page du projet
 
@@ -44,7 +44,7 @@ La page du projet comporte de nombreuses fonctionnalités qui vous aideront à g
 4. **En-tête du projet :** informations standard disponibles sur toutes les pages du projet.
 5. **[!UICONTROL Pourcentage terminé] :** ces données sont automatiquement mises à jour en fonction des tâches accomplies dans le cadre du projet.
 6. **[!UICONTROL Propriétaire du projet] :** dans la plupart des organisations, il s’agit du chef de projet. Il s’agit de la personne responsable de la gestion du projet dans [!DNL Workfront] et qui doit s’assurer qu’il est terminé.
-7. **[!UICONTROL Date d’achèvement prévue] :** la date fixée par le ou la chef de projet dans le cadre du calendrier du projet.
+7. **[!UICONTROL Date d’achèvement prévue] :** la date fixée par le ou la chef de projet dans le cadre de la chronologie du projet.
 8. **[!UICONTROL Condition] :** une représentation visuelle de l’avancement du projet. [!DNL Workfront] peut configurer automatiquement la [!UICONTROL condition] en fonction du statut de la progression des tâches du projet. Par ailleurs, la [!UICONTROL condition] peut être définie manuellement dans les détails du projet.
 9. **[!UICONTROL Statut] :** le [!UICONTROL statut] indique le stade du processus auquel se trouve le projet : le projet est-il encore en cours de planification, est-il en cours de réalisation ou est-il terminé ?
 10. **[!UICONTROL Nouvelle tâche] :** cliquez sur ce bouton pour créer une tâche dans le projet. La tâche est générée en bas de la liste.

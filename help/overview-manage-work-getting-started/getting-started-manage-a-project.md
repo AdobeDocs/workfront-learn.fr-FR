@@ -1,5 +1,5 @@
 ---
-title: Commencer avec la gestion d’un projet
+title: Commencer à gérer un projet
 description: Découvrez comment surveiller la progression des projets, analyser en profondeur les détails des tâches et communiquer avec les parties prenantes.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ jira: KT-8781
 hide: true
 doc-type: video
 exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez :
 * Analyse en profondeur des détails des tâches
 * Communication avec les parties prenantes
 
->[!VIDEO](https://video.tv.adobe.com/v/3445169/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3445169/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

@@ -1,6 +1,6 @@
 ---
-title: Suivre la progression à partir du calendrier du projet
-description: Découvrez comment suivre la progression du travail à partir du calendrier du projet dans  [!DNL  Workfront]  en utilisant le pourcentage terminé, le statut, les affectations ou les contraintes.
+title: Suivre la progression à partir de la chronologie du projet
+description: Découvrez comment suivre la progression du travail à partir de la chronologie du projet dans  [!DNL  Workfront]  en utilisant le pourcentage terminé, le statut, les affectations ou les contraintes.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,14 +11,14 @@ last-substantial-update: 2023-08-16T00:00:00Z
 level: Beginner
 jira: KT-10150
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '430'
 ht-degree: 100%
 
 ---
 
-# Suivre la progression à partir du calendrier du projet
+# Suivre la progression à partir de la chronologie du projet
 
 Assurez-vous que les tâches progressent comme il se doit pour respecter les délais du projet. Lorsque vous analysez la liste des [!UICONTROL Tâches], il existe plusieurs fonctionnalités dans [!DNL  Workfront] qui vous permettent de surveiller la progression et le statut du travail.
 
@@ -49,7 +49,7 @@ Lors de l’examen du projet, passez en revue les tâches assignées. Le travail
 
 ## Contrainte de tâche
 
-Il arrive que les contraintes des tâches soient modifiées sans que l’on s’en rende compte. Les contraintes peuvent influer sur le comportement du calendrier, il convient donc de s’assurer qu’elles sont définies comme vous le souhaitez.
+Il arrive que les contraintes des tâches soient modifiées sans que l’on s’en rende compte. Les contraintes peuvent influer sur le comportement de la chronologie, il convient donc de s’assurer qu’elles sont définies comme vous le souhaitez.
 
 ![Liste des tâches du projet présentant la colonne de contrainte de tâche](assets/planner-fund-task-constraint.png)
 

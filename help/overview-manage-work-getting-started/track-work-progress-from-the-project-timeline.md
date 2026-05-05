@@ -1,6 +1,6 @@
 ---
-title: Suivre la progression à partir du calendrier du projet
-description: Découvrez comment suivre la progression du travail à partir du calendrier du projet dans  [!DNL  Workfront]  en utilisant le pourcentage terminé, le statut, les affectations ou les contraintes.
+title: Suivre la progression à partir de la chronologie du projet
+description: Découvrez comment suivre la progression du travail à partir de la chronologie du projet dans  [!DNL  Workfront]  en utilisant le pourcentage terminé, le statut, les affectations ou les contraintes.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,14 +12,14 @@ level: Beginner
 jira: KT-10150
 hide: true
 exl-id: 3ac91981-ad48-4bb1-8817-1b9a91e476a4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
-# Suivre la progression à partir du calendrier du projet
+# Suivre la progression à partir de la chronologie du projet
 
 Assurez-vous que les tâches progressent comme il se doit pour respecter les délais du projet.
 
@@ -28,10 +28,10 @@ Dans cette vidéo, vous découvrirez :
 * Pourcentage d’achèvement
 * Statut de la progression
 
->[!VIDEO](https://video.tv.adobe.com/v/3438210/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3438210/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Comprendre les calendriers du projet](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Comprendre la chronologie du projet](/help/manage-work/project-timelines/understand-project-timelines.md)
 * [Comprendre les types de dates et le statut de la progression](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)

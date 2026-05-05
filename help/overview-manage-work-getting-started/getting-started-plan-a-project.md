@@ -1,5 +1,5 @@
 ---
-title: Commencer avec la planification d’un projet
+title: Commencer à planifier un projet
 description: Découvrez les cinq composants principaux d’un projet, ce que signifie le statut, comment une [!UICONTROL vue] peut vous aider à afficher les informations pertinentes et la définition de la date de début ou d’échéance.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,7 +13,7 @@ jira: KT-8772
 hide: true
 doc-type: video
 exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment une [!UICONTROL vue] peut vous aider à afficher les informations dont vous avez besoin.
 * Définition de la date de début ou d’échéance
 
->[!VIDEO](https://video.tv.adobe.com/v/3448569/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3448569/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

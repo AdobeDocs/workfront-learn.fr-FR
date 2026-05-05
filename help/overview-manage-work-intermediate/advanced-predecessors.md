@@ -13,9 +13,9 @@ jira: KT-13879
 doc-type: video
 hide: true
 exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ Dans cette vidéo, vous découvrirez :
 * Erreurs de boucle de dépendance
 * Raccourcis et bonnes pratiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3454528/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3454528/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 Pour plus d’informations sur l’utilisation des prédécesseurs, voir [Utiliser les prédécesseurs de tâche](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=fr).
 
