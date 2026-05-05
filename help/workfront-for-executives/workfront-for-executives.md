@@ -12,10 +12,10 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+workflow-type: tm+mt
+source-wordcount: '513'
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,7 @@ La direction et les cadres peuvent naviguer dans la zone des rapports pour consu
 
 ### Tableaux de bord
 
-En utilisant un tableau de bord, la direction peut facilement afficher et analyser en profondeur n’importe quelle partie du travail sur laquelle son organisation travaille actuellement. Le tableau de bord est simplement un ensemble de rapports qui fournissent des informations que la direction peut avoir besoin de consulter régulièrement. Les tableaux de bord sont entièrement personnalisables, de sorte que toute personne utilisant Workfront peut voir le travail qui lui importe.
+En utilisant un tableau de bord, les dirigeants peuvent afficher et analyser rapidement en profondeur toute partie du travail en cours dans leur entreprise.Le tableau de bord est simplement un ensemble de rapports qui fournit des informations que les dirigeants peuvent avoir besoin de consulter régulièrement. Les tableaux de bord sont entièrement personnalisables, de sorte que toute personne utilisant Workfront peut voir le travail qui lui importe.
 
 Cliquez sur Tableaux de bord dans l’icône de menu principal dans le coin supérieur droit pour accéder à la zone Tableaux de bord.
 
@@ -79,7 +79,7 @@ Dans cette vidéo, vous apprendrez à :
 * Effectuer une demande
 * Afficher les demandes envoyées
 
->[!VIDEO](https://video.tv.adobe.com/v/3413114/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Éléments en attente d’approbation
 

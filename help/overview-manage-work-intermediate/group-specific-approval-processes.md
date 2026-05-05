@@ -9,9 +9,10 @@ role: Admin
 level: Intermediate
 jira: KT-10017
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 9986469c-b02f-48ac-b71e-055473a2855b
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 100%
 
 ---
@@ -35,4 +36,3 @@ L’option [!UICONTROL Tous les groupes] n’est pas disponible pour les adminis
 Lorsqu’un groupe spécifique est sélectionné, seuls les statuts disponibles pour ce groupe apparaissent dans le menu [!UICONTROL « Démarrer le processus d’approbation lorsque le statut est défini sur »].
 
 Fenêtre ![[!UICONTROL Modifier un processus d’approbation] avec le champ de statut en surbrillance](assets/admin-fund-approval-processes-3.png)
-

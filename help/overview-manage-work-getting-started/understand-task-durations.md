@@ -1,6 +1,6 @@
 ---
 title: Comprendre la durée des tâches
-description: Découvrez comment les durées affectent les dates de début et d’achèvement des tâches, comment les durées s’intègrent dans les calendriers des projets et quelles sont les bonnes pratiques d’utilisation des durées de tâches.
+description: Découvrez comment les durées affectent les dates de début et d’achèvement des tâches, comment les durées s’intègrent dans la chronologie des projets et quelles sont les bonnes pratiques d’utilisation des durées de tâches.
 activity: use
 feature: Work Management
 thumbnail: 335089.jpeg
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -27,10 +27,10 @@ Dans cette vidéo, vous apprendrez :
 
 * Le principe d’une durée de tâche dans [!DNL Workfront]
 * Incidence des durées sur les dates de début et d’achèvement des tâches
-* Intégration des durées dans les calendriers des projets
+* Intégration des durées dans la chronologie des projets
 * Recommandations relatives aux bonnes pratiques d’utilisation des durées de tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/3449345/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

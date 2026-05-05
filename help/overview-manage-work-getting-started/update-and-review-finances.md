@@ -1,6 +1,6 @@
 ---
 title: Mettre à jour et réviser les finances
-description: Apprenez à examiner les informations financières associées à un projet dans  [!DNL &#x200B; Workfront].
+description: Apprenez à examiner les informations financières associées à un projet dans  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10137
 hide: true
 exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '258'
 ht-degree: 92%
 
 ---
@@ -31,7 +31,7 @@ Si votre entreprise utilise [!DNL Workfront] pour suivre les informations financ
 
 Les dépenses peuvent être enregistrées pour des tâches individuelles ou pour le projet lui-même. Quel que soit l’élément sur lequel la dépense est enregistrée, vous pouvez visualiser toutes les dépenses dans la section [!UICONTROL Dépenses] du projet lui-même.
 
-Section ![[!UICONTROL Dépenses] d’un projet &#x200B;](assets/expense-section.png)
+Section ![[!UICONTROL Dépenses] d’un projet ](assets/expense-section.png)
 
 ## Enregistrements de facturation
 
@@ -43,7 +43,7 @@ Vous devez avoir accès aux données financières dans [!DNL Workfront] pour pou
 
 Un coup d’œil sur les informations relatives aux [!UICONTROL Finances] dans [!UICONTROL Détails du projet] vous permet de voir les chiffres réels concernant les bénéfices, les revenus et les coûts.
 
-![Section Finances de la fenêtre [!UICONTROL Détails du projet] d’un projet &#x200B;](assets/finance-section-project-details.png)
+![Section Finances de la fenêtre [!UICONTROL Détails du projet] d’un projet ](assets/finance-section-project-details.png)
 
 La plupart des informations financières contenues dans les [!UICONTROL Détails du projet] sont définies lors de la création du projet, et les chiffres que vous voyez ici sont basés sur ces informations. Ainsi, lorsque vous fermez un projet, il n&#39;y a vraiment rien que vous devez mettre à jour ou ajouter dans les détails financiers.
 

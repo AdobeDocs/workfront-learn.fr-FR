@@ -13,9 +13,9 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -36,6 +36,6 @@ Dans cette vidéo, vous apprendrez :
 * Comment créer un prédécesseur multi-projet.
 * Exécution du suivi des prédécesseurs multi-projets dans les rapports
 
->[!VIDEO](https://video.tv.adobe.com/v/3422834/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 Pour savoir comment créer l&#39;affichage des **Prédécesseurs et successeurs multi-projets** et le rapport utilisé dans la vidéo des **Prédécesseurs et successeurs multi-projets**, consultez le tutoriel [Présentation du mode Texte de base pour les affichages](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr) et assurez-vous de suivre les tutoriels préalables répertoriés ici, si nécessaire.

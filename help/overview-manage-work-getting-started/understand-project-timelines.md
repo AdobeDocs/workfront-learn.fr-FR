@@ -1,5 +1,5 @@
 ---
-title: Comprendre les calendriers du projet
+title: Comprendre la chronologie du projet
 description: Découvrez comment planifier des projets à partir de la date de début ou d’achèvement. Ensuite, découvrez comment la durée, les prédécesseurs et les contraintes de tâche affectent le plan du projet.
 activity: use
 feature: Work Management
@@ -12,14 +12,14 @@ jira: KT-8953
 hide: true
 doc-type: video
 exl-id: 069ff32b-0dca-4dc7-a2d8-d9d3fd26a379
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
-# Comprendre les calendriers du projet
+# Comprendre la chronologie du projet
 
 Dans cette vidéo, vous découvrirez :
 
@@ -27,7 +27,7 @@ Dans cette vidéo, vous découvrirez :
 * Planifier des projets à partir de la date de début ou d’achèvement
 * Contraintes de tâche
 
->[!VIDEO](https://video.tv.adobe.com/v/3435837/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

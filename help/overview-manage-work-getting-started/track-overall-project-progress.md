@@ -1,5 +1,5 @@
 ---
-title: Suivre l’avancement global du projet
+title: Suivre la progression globale du projet
 description: Découvrez 5 moyens rapides de suivre la progression générale d’un projet.
 activity: use
 team: Technical Marketing
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10149
 hide: true
 exl-id: 64fc1556-7711-4429-9f48-7ed3136e3d98
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Dans cette vidéo, vous allez apprendre à suivre la progression d’un projet e
 * Problèmes ouverts
 * Colonne Mise à jour des conditions
 
->[!VIDEO](https://video.tv.adobe.com/v/3447412/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

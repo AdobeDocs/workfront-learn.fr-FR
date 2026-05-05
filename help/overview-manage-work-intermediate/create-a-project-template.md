@@ -1,5 +1,5 @@
 ---
-title: Créer un modèle de projet et découvrir les [!UICONTROL Blueprints]
+title: Créez un modèle de projet et découvrez les [!UICONTROL Blueprints].
 description: Apprenez à créer un modèle de projet de zéro et à partir d’un projet existant, et comprenez comment les [!UICONTROL Blueprints] peuvent vous donner accès à une multitude de modèles de projets utiles créés par les expertes et les experts de Workfront.
 activity: use
 feature: Work Management
@@ -14,14 +14,14 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '380'
 ht-degree: 100%
 
 ---
 
-# Créez un modèle de projet et découvrez les [!UICONTROL Blueprints].
+# Créer un modèle de projet et découvrir les [!UICONTROL Blueprints]
 
 Apprenez à créer un modèle de projet de zéro et à partir d’un projet existant, et comprenez comment les [!UICONTROL Blueprints] peuvent vous donner accès à une multitude de modèles de projets utiles créés par les expertes et les experts de Workfront.
 
@@ -32,7 +32,7 @@ Dans cette vidéo, vous apprendrez à :
 * Créer un modèle à partir de zéro
 * Créer un modèle à partir d’un projet existant
 
->[!VIDEO](https://video.tv.adobe.com/v/3415444/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=1)
 
 ## Modèles créés avec les [!UICONTROL Blueprints]
 

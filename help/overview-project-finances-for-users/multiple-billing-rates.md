@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10048
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 93%
@@ -21,11 +22,11 @@ ht-degree: 93%
 
 Dans [!DNL Workfront], un ou une chef de projet a la possibilité de modifier les taux de facturation du système dans le cadre d’un projet spécifique. Auparavant, lorsque le nouveau taux de facturation était appliqué au projet, il affectait non seulement les heures futures, mais également les heures déjà enregistrées du projet.
 
-Grâce à la nouvelle fonctionnalité de taux de facturation multiple de [!DNL Workfront], le chef de projet peut décider de la période pendant laquelle un taux de facturation doit être appliqué. Ainsi, si un taux a été négocié ou modifié, le ou la chef de projet peut déterminer quand ce taux doit prendre effet.
+Grâce à la nouvelle fonctionnalité de taux de facturation multiple de [!DNL Workfront], le gestionnaire de projet peut décider de la période pendant laquelle un taux de facturation doit être appliqué. Ainsi, si un taux a été négocié ou modifié, le ou la chef de projet peut déterminer quand ce taux doit prendre effet.
 
 ## Modifier le taux de facturation
 
-1. Accédez à la landing page du projet. Sélectionnez **[!UICONTROL Taux de facturation]** dans le panneau de gauche.
+1. Accédez à la page de destination du projet. Sélectionnez **[!UICONTROL Taux de facturation]** dans le panneau de gauche.
 
    ![Image de sélection du [!UICONTROL Taux de facturation] dans [!DNL Workfront]](assets/project-finances-1.png)
 

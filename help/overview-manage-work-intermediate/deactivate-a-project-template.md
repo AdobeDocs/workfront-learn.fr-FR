@@ -14,9 +14,9 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez :
 * comment partager un modèle de projet en accordant des droits d’activation et de désactivation ;
 * comment activer et désactiver un modèle de projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444992/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 ## Découvrez comment créer une vue personnalisée pour afficher et modifier le statut actif des modèles de projet.
 
