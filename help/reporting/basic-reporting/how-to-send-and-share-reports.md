@@ -9,13 +9,24 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-last-substantial-update: 2025-05-29T00:00:00Z
+last-substantial-update: '2025-05-29T00:00:00.000Z'
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:18:44.706Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 97%
+source-wordcount: 354
+ht-degree: 67%
 
 ---
 
@@ -29,12 +40,12 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447814/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Envoi de rapports à des personnes externes :** vous pouvez envoyer des rapports à des personnes externes à Workfront en saisissant leurs adresses e-mail, afin de faciliter le partage de données en dehors de votre organisation.
-* **Visibilité du contrôle des droits d’accès :** l’affichage pour la personne destinataire du rapport dépend des droits d’accès que vous avez définis, garantissant ainsi la sécurité des données et la visibilité appropriée.
-* **Diffusion répétée pour les instantanés :** les diffusions planifiées fournissent des instantanés figés des données à des moments spécifiques, ce qui est utile pour suivre les tendances et conserver un historique des données du projet.
-* **Partage de rapports avec des équipes :** les rapports peuvent être partagés avec des personnes, des équipes ou des fonctions, avec l’obtention de droits d’affichage ou de gestion. Les rapports partagés apparaissent dans la section « Partagés avec moi » de la personne.
+* **Envoi de rapports à des utilisateurs externes :** vous pouvez envoyer des rapports à des utilisateurs non Workfront en saisissant leurs adresses e-mail, ce qui facilite le partage de données en dehors de votre organisation. &#x200B;
+* **Visibilité du contrôle des droits d’accès :** la vue du destinataire du rapport dépend des droits d’accès que vous avez définis, ce qui garantit la sécurité des données et la visibilité appropriée. &#x200B;
+* **Diffusion répétée pour les instantanés :** diffusions planifiées fournissent des instantanés figés des données à des moments spécifiques, ce qui est utile pour suivre les tendances et conserver un historique des données du projet. &#x200B;
+* **Partage de rapports avec des équipes :** les rapports peuvent être partagés avec des individus, des équipes ou des fonctions, ce qui permet d’obtenir des droits d’affichage ou de gestion. &#x200B; rapports Partagés apparaissent dans la section Utilisateurs « Partagés avec moi ». &#x200B;
 * **Partage public et à l’échelle du système :** les rapports peuvent être partagés par le biais de liens publics pour les personnes externes ou rendus visibles à l’échelle du système pour toutes les personnes utilisant Workfront, ce qui offre une certaine flexibilité dans le partage de données.
 
 
@@ -56,7 +67,7 @@ Envoyez-vous un rapport tous les lundis à 5 heures du matin dans une feuille d
 1. Définissez **[!UICONTROL Répéter]** sur [!UICONTROL Hebdomadaire].
 1. Définissez [!UICONTROL Heure] sur 5 heures du matin.
 1. Définissez [!UICONTROL Répéter le] sur lundi.
-1. Cliquer sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
 >[!NOTE]
 >

@@ -6,10 +6,21 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10907
 exl-id: 0c0fca34-2be0-4208-95d0-241d2e032ce7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/dsYWoR2ZZok-vpl1zkKyBvU8UilJl0H2Ys-hyz9Ap7E
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '2202'
-ht-degree: 100%
+source-wordcount: 2228
+ht-degree: 98%
 
 ---
 
@@ -25,7 +36,7 @@ En examinant ces recommandations, gardez à l’esprit que certaines des bonnes 
 
 En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
+La zone « Pourquoi ces bonnes pratiques ? », qui se trouve après la liste de haut niveau, fournit plus de détails sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., que vous devez envisager d’implémenter avec votre instance Workfront.
 
 </br>
 </br>
@@ -145,7 +156,7 @@ Si un formulaire personnalisé comporte de nombreux champs, placez les champs ap
 
 Utilisez des options de champ personnalisé prédéfinies, telles que des boutons radio et des menus déroulants, pour limiter les options de réponse en demandant aux utilisateurs et utilisatrices de sélectionner des options spécifiques.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Avec un champ prédéfini, les utilisateurs et utilisatrices se contentent de cliquer dans une case ou de sélectionner un élément de menu, ce qui garantit que toutes les réponses à cette question sont identiques.
 
@@ -158,7 +169,7 @@ Des données cohérentes et exactes sont essentielles à l’établissement de r
 
 Assurez-vous que les libellés de champ sont clairement écrits et descriptifs.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Ainsi, la personne qui remplit le formulaire personnalisé comprend les informations demandées.
 
@@ -169,9 +180,9 @@ Ainsi, la personne qui remplit le formulaire personnalisé comprend les informat
 
 Ajoutez des informations dans le champ Instructions des champs personnalisés pour indiquer ce que doit saisir la personne qui remplit le champ.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
-Ces informations apparaissent dans une fenêtre contextuelle lorsque vous survolez l’icône « ? »  à côté d’un champ dans un formulaire personnalisé. Incluez les données à saisir dans le champ, y compris toute mise en forme requise pour les champs de texte.
+Ces informations apparaissent dans une fenêtre contextuelle lorsque vous survolez l’icône « ? » à côté d’un champ dans un formulaire personnalisé. Incluez les données à saisir dans le champ, y compris toute mise en forme requise pour les champs de texte.
 
 Le fait de fournir plus de détails à l’utilisateur ou l’utilisatrice permet de réduire les conversations superflues, les échanges d’e-mails, ou la confusion. Lorsque des informations sont incomplètes ou manquantes, cela peut retarder le travail en cours.
 
@@ -182,7 +193,7 @@ Le fait de fournir plus de détails à l’utilisateur ou l’utilisatrice perme
 
 Utilisez la logique d’affichage pour afficher les champs nécessaires lorsqu’un autre champ est rempli d’une manière spécifique. Utilisez la logique de saut dans les formulaires personnalisés pour masquer les champs qui ne sont pas liés au type de requête.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Le fait de n’afficher que les champs nécessaires ou de masquer ceux qui ne le sont pas permet de créer un formulaire personnalisé plus clair et de réduire la confusion des utilisateurs et utilisatrices lorsque ceux-ci remplissent des formulaires personnalisés. Cela contribue également à un formulaire globalement plus court, qui décourage moins les utilisateurs et utilisatrices et favorise un taux de réponse plus élevé.
 
@@ -195,7 +206,7 @@ L’utilisation de la logique d’affichage peut également vous aider à rédui
 
 Réduisez le nombre de calculs requis sur un formulaire personnalisé en extrayant les informations calculées d’un autre formulaire.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Par exemple, un champ calculé appelé « Nombre de ressources » dans un formulaire de problème calcule le nombre de ressources liées à l&#39;élément. Celui-ci étant utilisé pour une file d’attente de demandes. Ces informations doivent être reportées dans le projet lorsque la demande est convertie. Faites une copie du formulaire de problème et enregistrez-le en tant que formulaire de projet. Ajoutez ensuite le nom du champ calculé du problème à la zone de calcul du formulaire de projet. Dans cet exemple, dans le champ calculé du formulaire de projet intitulé « Nombre de ressources », entrez littéralement « Nombre de ressources ». Cela empêche Workfront d’exécuter à nouveau ce calcul sur le projet et d’utiliser à la place la valeur du formulaire personnalisé de problème.
 
@@ -234,7 +245,7 @@ Faites preuve de prudence lors de la modification des noms de champ sur un formu
 
 **Voici pourquoi :**
 
-Lorsque vous modifiez le nom d’un champ, celui-ci doit être mis à jour lorsqu’il est utilisé dans un champ personnalisé calculé sur un formulaire personnalisé ou dans un calcul intégré au mode texte. La modification du nom d’un champ peut interrompre les calculs et générer des informations inexactes.
+Lorsque vous modifiez le nom d’un champ, celui-ci doit être mis à jour lorsqu’il est utilisé dans un champ personnalisé calculé sur un formulaire personnalisé ou dans un calcul intégré au mode texte. La modification d’un nom de champ peut interrompre les calculs et générer des informations inexactes.
 
 </br>
 </br>

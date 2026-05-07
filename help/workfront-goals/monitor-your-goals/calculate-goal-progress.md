@@ -9,9 +9,20 @@ role: User
 level: Beginner
 jira: KT-10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:12:43.441Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: 285
 ht-degree: 100%
 
 ---
@@ -22,7 +33,7 @@ ht-degree: 100%
 
 * **Pourcentage réel terminé** : pourcentage de réalisation de l’objectif à ce jour. Cette valeur correspond à la moyenne du pourcentage terminé de tous les indicateurs de progression associés à l’objectif.
 * **Pourcentage prévu terminé** : pourcentage de l’objectif qui doit être terminé, à ce stade, pour que l’objectif soit atteint dans les temps. Cette valeur est calculée en fonction de la durée de l’objectif (nombre total de jours) et de l’instant actuel (nombre total de jours écoulés depuis la date de début de l’objectif).
-* **Progression** : libellé qui indique si l’objectif est en bonne voie pour être terminé à temps, ou s’il existe un risque qu’il ne soit pas terminé.
+* **Progression** : libellé qui indique si l’objectif est dans les temps, ou s’il existe un risque qu’il ne soit pas terminé.
 
 ![Copie d’écran de la progression de l’objectif dans [!DNL Workfront Goals]](assets/13-workfront-goals-percent-complete.png)
 

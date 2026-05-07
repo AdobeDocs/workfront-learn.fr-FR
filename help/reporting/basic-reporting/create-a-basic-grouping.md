@@ -9,30 +9,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-last-substantial-update: 2025-05-08T00:00:00Z
+last-substantial-update: '2025-05-08T00:00:00.000Z'
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:37.684Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 100%
+source-wordcount: 409
+ht-degree: 56%
 
 ---
 
 # Créer un regroupement de base
 
-Cette vidéo explique comment créer et gérer des regroupements dans Workfront pour organiser efficacement les listes de projets. Les regroupements sont l’un des trois principaux éléments de création de rapports, avec les filtres et les vues. Ils permettent d’organiser les résultats en fonction des informations partagées.
-Ce tutoriel décrit les étapes pratiques à suivre pour organiser les listes de projets afin de rationaliser le travail quotidien et la collaboration.
+Cette vidéo explique comment créer et gérer des regroupements dans Workfront pour organiser efficacement les listes de projets. Les regroupements &#x200B; sont l’un des trois principaux éléments de création de rapports, avec les filtres et les vues. Ils permettent d’organiser les résultats en fonction des informations partagées. &#x200B;
+Ce tutoriel décrit les étapes pratiques à suivre pour organiser les listes de projets afin de rationaliser le travail quotidien et la collaboration. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449817/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Objectif des regroupements :** les regroupements constituent un élément clé des rapports dans Workfront. Ils organisent des listes de projets en fonction d’informations partagées, telles que des dates d’achèvement, des portfolios ou des programmes.
-* **Création de regroupements :** vous pouvez créer des regroupements personnalisés avec trois niveaux de critères au maximum. Par exemple, les projets peuvent être regroupés d’abord par portfolio, puis par programme pour une meilleure organisation.
-* **Modification et enregistrement des regroupements :** les regroupements intégrés ne peuvent pas être remplacés, mais vous pouvez enregistrer les modifications sous la forme d’un nouveau regroupement. Les regroupements personnalisés doivent avoir des noms clairs et descriptifs pour une identification facile.
-* **Partage des regroupements** : les regroupements peuvent être partagés avec d’autres utilisateurs et utilisatrices, avec des autorisations d’« affichage » par défaut leur permettant d’utiliser et de partager le regroupement sans le modifier. Les autorisations de « gestion » permettent la modification et la suppression.
-* **Suppression des regroupements :** la suppression d’un regroupement que vous avez créé le supprime également des listes des personnes avec lesquelles vous l’avez partagé. Les regroupements partagés apparaissent sous la section « Partagé avec moi » pour d’autres utilisateurs et utilisatrices.
+* **Objectif des regroupements :** les regroupements sont un élément clé des rapports dans Workfront. Ils organisent des listes de projets en fonction d’informations partagées, telles que des dates d’achèvement, des portefeuilles ou des programmes. &#x200B;
+* **Création de regroupements :** vous pouvez créer des regroupements personnalisés avec jusqu’à trois niveaux de critères. &#x200B; Par exemple, les projets peuvent être regroupés d’abord par portefeuille, puis par programme pour une meilleure organisation. &#x200B;
+* **Modification et enregistrement de regroupements :** les regroupements intégrés ne peuvent pas être remplacés, mais vous pouvez enregistrer les modifications sous la forme d’un nouveau regroupement. &#x200B; regroupements personnalisés doivent comporter des noms clairs et descriptifs pour une identification facile. &#x200B;
+* **Partage des regroupements** : les regroupements peuvent être partagés avec d’autres utilisateurs et utilisatrices, avec des autorisations d’« affichage » par défaut leur permettant d’utiliser et de partager le regroupement sans le modifier. Les autorisations « &#x200B; Gérer » permettent la modification et la suppression. &#x200B;
+* **Suppression de regroupements :** la suppression d’un regroupement que vous avez créé le supprime également des listes des utilisateurs avec lesquels vous l’avez partagé. &#x200B; regroupements partagés s’affichent sous la section « Partagés avec moi » pour d’autres utilisateurs. &#x200B;
 
 ## Activités Créer un regroupement de base
 

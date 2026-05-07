@@ -9,25 +9,36 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-last-substantial-update: 2025-05-06T00:00:00Z
+last-substantial-update: '2025-05-06T00:00:00.000Z'
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:21:20.703Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 97%
+source-wordcount: 590
+ht-degree: 65%
 
 ---
 
 # Visualiser des données avec des graphiques dans des rapports
 
-La vidéo explique comment utiliser des graphiques pour visualiser efficacement les données, en particulier pour effectuer le suivi des tâches du projet. Elle illustre la création de deux types de rapports dans Workfront :
+La vidéo explique comment utiliser des graphiques pour visualiser efficacement les données, en particulier pour effectuer le suivi des tâches du projet. &#x200B; Il illustre la création de deux types de rapports dans Workfront :
 
 **Rapport Tâches en retard par projet :**
 
-* Commencez avec un rapport de liste et appliquez des filtres pour afficher uniquement les tâches incomplètes et en retard dans les projets actuels.
-* Regroupez les tâches par nom de projet et créez un graphique en secteurs pour visualiser la répartition des tâches en retard entre les projets.
-* Définissez le graphique comme onglet par défaut pour un accès plus facile.
+* Commencez avec un rapport de liste et appliquez des filtres pour afficher uniquement les tâches incomplètes et en retard dans les projets actuels. &#x200B;
+* Regroupez les tâches par nom de projet et créez un graphique en secteurs pour visualiser la répartition des tâches en retard entre les projets. &#x200B;
+* Définissez le graphique comme onglet par défaut pour un accès plus facile. &#x200B;
 
 **Rapport Tâches par projet et Statut de la progression :**
 
@@ -36,16 +47,16 @@ La vidéo explique comment utiliser des graphiques pour visualiser efficacement 
 * Utilisez un graphique à colonnes empilées pour afficher le nombre total de tâches par projet, avec des piles représentant les différents statuts de la progression.
 * Personnalisez les couleurs si nécessaire et enregistrez le rapport.
 
-La vidéo montre comment des graphiques tels que les graphiques en secteurs et les graphiques à colonnes empilés peuvent fournir des informations sur la répartition des tâches et les performances des projets, ce qui permet aux utilisateurs et utilisatrices de comparer les projets et de comprendre visuellement la progression des tâches.
+La vidéo montre comment des graphiques tels que les secteurs et les graphiques à colonnes empilés peuvent fournir des informations sur la distribution des tâches et les performances des projets, ce qui permet aux utilisateurs de comparer les projets et de comprendre visuellement la progression des tâches. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450016/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Les graphiques améliorent la clarté des données** : la visualisation des données avec des graphiques, tels que les graphiques en secteurs ou à colonnes, facilite la compréhension de la répartition des tâches et de la progression du projet par rapport aux rapports de liste.
-* **Filtrage pour obtenir des informations spécifiques** : l’application de filtres (par exemple, pour les tâches incomplètes ou en retard dans les projets actuels) permet de se concentrer sur les données pertinentes pour une analyse ciblée.
-* **Regroupement pour une meilleure organisation** : le regroupement des tâches par nom de projet ou statut de la progression organise les données de manière efficace, ce qui permet des comparaisons significatives entre les projets.
-* **Options de personnalisation des graphiques** : les utilisateurs et utilisatrices peuvent sélectionner des types de graphiques (par exemple, en secteurs, à colonnes, à barres) et personnaliser les couleurs pour s’aligner sur les préférences ou l’identité graphique.
+* **Les graphiques améliorent la clarté des données** : la visualisation des données avec des graphiques, tels que les graphiques à secteurs ou à colonnes, facilite la compréhension de la répartition des tâches et de l’avancement du projet par rapport aux rapports de liste. &#x200B;
+* **Filtrage pour obtenir des informations spécifiques** : l’application de filtres (par exemple, pour les tâches incomplètes ou en retard dans les projets actuels) permet de se concentrer sur les données pertinentes pour une analyse ciblée. &#x200B;
+* **Regroupement pour une meilleure organisation** : le regroupement des tâches par nom de projet ou statut d’avancement organise les données de manière efficace, ce qui permet des comparaisons significatives entre les projets. &#x200B;
+* **Options de personnalisation des graphiques** : les utilisateurs peuvent sélectionner des types de graphiques (par exemple, circulaire, à colonnes, à barres) et personnaliser les couleurs pour s’aligner sur les préférences ou l’identité graphique. &#x200B;
 * **Graphiques à colonnes empilés pour des informations détaillées** : les graphiques à colonnes empilés fournissent une vue complète de la progression des tâches dans les projets, présentant à la fois le total des tâches et leurs statuts en une seule visualisation.
 
 

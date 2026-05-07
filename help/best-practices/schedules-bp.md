@@ -6,9 +6,24 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
-source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
-workflow-type: ht
-source-wordcount: '554'
+TQID: https://experienceleague.adobe.com/Lxc0Ymk5tPPsIvM4iKGS68o7eJpFCjgOwWtcQ67aWp4
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: d3382524-5489-431b-bde9-271ab257bc37
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 560
 ht-degree: 100%
 
 ---
@@ -77,11 +92,11 @@ Le nombre total d’heures de travail pour chaque jour ouvrable du calendrier do
 
 **Voici pourquoi : **
 
-Si le nombre total d’heures de travail ne correspond pas, cela peut entraîner des calculs de date et d’heure apparemment incorrects dans le calendrier et les rapports de votre projet.
+Si le nombre total d’heures de travail ne correspond pas, cela peut entraîner des calculs de date et d’heure apparemment incorrects dans la chronologie et les rapports de votre projet.
 
 Par exemple, si la préférence du système est de huit heures par jour et que le calendrier assigné à un projet ne comporte que sept heures de travail par jour, vous remarquerez qu’une tâche d’une durée d’une journée prend plus d’une journée pour être achevée, parce qu’elle essaie d’y inclure huit heures.
 
-**Note** : les paramètres globaux du projet sont définis dans Configuration > Préférences du projet > Calculs du calendrier > Heures types par jour de travail.
+**Note** : les paramètres globaux du projet sont définis dans Configuration > Préférences du projet > Calculs de la chronologie > Heures types par jour de travail.
 
 </br>
 </br>
@@ -93,4 +108,4 @@ Ajoutez un rappel au calendrier de l’administrateur ou de l’administratrice 
 
 **Voici pourquoi : **
 
-Mettez à jour les plannings de votre instance Workfront avec les jours fériés, les congés de l’entreprise et les autres jours où les utilisateurs et utilisatrices ne travailleront pas. Faites-le à une date fixe chaque année, soit à la fin de l’année, soit lorsque les plannings de congés sont publiés par les ressources humaines, afin que les calendriers des projets, la planification des ressources, etc. reflètent la disponibilité exacte des utilisateurs et des utilisatrices.
+Mettez à jour les plannings de votre instance Workfront avec les jours fériés, les congés de l’entreprise et les autres jours où les utilisateurs et utilisatrices ne travailleront pas. Faites-le à une date fixe chaque année, soit à la fin de l’année, soit lorsque les plannings de congés sont publiés par les ressources humaines, afin que les chronologies des projets, la planification des ressources, etc. reflètent la disponibilité exacte des utilisateurs et des utilisatrices.

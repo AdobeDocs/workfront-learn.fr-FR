@@ -6,10 +6,26 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10914
 exl-id: 6be3fab9-16a1-4ab9-89ce-8c53f8358e62
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/YvTTPwGkach9JpmNHLxuLT3fpQ7KOzYjxtw-kdhFlEI
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1253'
-ht-degree: 100%
+source-wordcount: 1268
+ht-degree: 90%
 
 ---
 
@@ -25,7 +41,7 @@ En examinant ces recommandations, gardez à l’esprit que certaines des bonnes 
 
 En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
+La zone « Pourquoi ces bonnes pratiques ? », qui se trouve après la liste de haut niveau, fournit plus de détails sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., que vous devez envisager d’implémenter avec votre instance Workfront.
 
 </br>
 </br>
@@ -98,7 +114,7 @@ Le partage d’un objet à l’échelle du système est souvent utilisé comme u
 
 
 
-Par exemple, vous pourriez travailler avec plusieurs fournisseurs et fournisseuses au sein de Workfront pour vérifier l’état d’avancement, fournir des approbations, etc. Si la case à cocher « Partager à l’échelle du système » est une option, elle peut être sélectionnée ou définie comme valeur par défaut, ce qui rend les informations disponibles pour tous les fournisseurs et fournisseuses.
+Par exemple, vous pouvez travailler avec plusieurs fournisseurs au sein de Workfront pour vérifier la progression, fournir des approbations, etc. Si la case à cocher « Partager à l’échelle du système » est une option, elle peut être sélectionnée ou définie comme valeur par défaut, afin que les informations soient disponibles pour tous les fournisseurs.
 
 
 
@@ -175,7 +191,7 @@ Limitez-vous aux niveaux d’accès nécessaires pour atteindre vos objectifs de
 
 **Voici pourquoi**
 
-Le niveau d’accès garantit que lorsqu’un objet Workfront est partagé avec une personne, celle-ci dispose des droits nécessaires pour le modifier, le supprimer, etc. Vous pouvez rendre les niveaux d’accès plus généraux, car il est possible de configurer le partage d’éléments individuels afin qu’il soit plus spécifique.
+Le niveau d’accès permet de s’assurer que, lorsqu’un objet Workfront est partagé avec un utilisateur, celui-ci dispose des droits nécessaires pour le modifier, le supprimer, etc. Vous pouvez rendre les niveaux d’accès plus généraux, car le partage de sur des éléments individuels peut être configuré pour être plus spécifique.
 
 
 En outre, le fait d’avoir moins de niveaux d’accès peut faciliter la maintenance d’un système et la mise en œuvre d’une stratégie, ce qui peut également accélérer l’intégration lorsque des personnes rejoignent l’entreprise ou changent de service.

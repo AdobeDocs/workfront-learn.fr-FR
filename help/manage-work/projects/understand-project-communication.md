@@ -8,30 +8,41 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-11-11T00:00:00Z
+last-substantial-update: '2024-11-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:43:49.217Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 97%
+source-wordcount: 432
+ht-degree: 47%
 
 ---
 
 # Améliorer la réussite du projet grâce à une communication efficace
 
-La vidéo souligne l’importance d’une communication efficace pour la réussite du projet et fournit des stratégies pour assurer la précision et l’efficacité de la gestion du projet. Les points clés sont les suivants :
+La vidéo souligne l&#39;importance d&#39;une communication efficace pour la réussite du projet et fournit des stratégies pour assurer la clarté et l&#39;efficacité de la gestion du projet. &#x200B; points clés sont les suivants :
 
-* **Communication avec les parties prenantes** : les parties prenantes restent informées de la progression du projet, des problèmes et des solutions. Il est essentiel de proposer des mises à jour régulières et adaptées à leurs besoins.
-* **Clarté de la tâche** : assurez-vous que les membres de l’équipe comprennent leurs responsabilités pour éviter une dérive des objectifs et de la confusion. Utilisez les sous-tâches pour plus de clarté lors de l’affectation de plusieurs personnes à une même tâche.
-* **Communication centralisée** : utilisez des outils tels que Workfront pour stocker toutes les discussions liées au projet au même endroit. Les notifications peuvent permettre d’inciter les membres de l’équipe à continuer à interagir.
-* **Mises à jour des statuts** : encouragez les membres de l’équipe à mettre à jour régulièrement le statut et le pourcentage d’achèvement de la tâche pour obtenir des rapports précis. Des tâches courtes et spécifiques améliorent la précision des rapports.
-* **Gestion des problèmes** : définissez clairement la façon dont les membres de l’équipe doivent gérer les questions ou les préoccupations. Les problèmes doivent être résolus avant la fin du projet, tandis que les mises à jour fournissent un contexte toujours approprié.
-* **Rapports** : utilisez les rapports de projet pour résumer la progression pour la direction. Des outils tels que Recherche de notes peuvent aider à localiser des mises à jour spécifiques dans les threads.
-* **Enseignements tirés** : planifiez une réunion après le projet pour améliorer les projets futurs.
+* **Communication avec les parties prenantes :** tenez les parties prenantes informées de l’avancement du projet, des problèmes et des résolutions. &#x200B; Des mises à jour régulières et adaptées à leurs besoins sont essentielles. &#x200B;
+* **Clarté de la tâche :** assurez-vous que les membres de l’équipe comprennent leurs responsabilités pour éviter tout glissement et toute confusion dans la portée. &#x200B; Utilisez les sous-tâches pour plus de clarté lors de l’affectation de plusieurs personnes à une tâche. &#x200B;
+* **Communication centralisée :** utilisez des outils tels que Workfront pour stocker toutes les discussions liées au projet au même endroit. Les notifications &#x200B; peuvent aider les membres de l’équipe à rester engagés dans les discussions. &#x200B;
+* **Mises à jour de statut :** encouragez les membres de l’équipe à mettre à jour régulièrement le statut et le pourcentage de tâche terminé pour des rapports précis. &#x200B; Des tâches courtes et spécifiques améliorent la précision des rapports. &#x200B;
+* **Gestion des problèmes :** définissez clairement comment les membres de l’équipe doivent gérer les questions ou les préoccupations. &#x200B; problèmes doivent être résolus avant la fin du projet, tandis que les mises à jour fournissent un contexte continu. &#x200B;
+* **Rapports :** utilisez les rapports de projet pour résumer la progression pour la direction. &#x200B; outils tels que la recherche de notes peuvent vous aider à trouver des mises à jour spécifiques dans les threads. &#x200B;
+* **Leçons apprises :** Planifiez une réunion après le projet pour améliorer les projets futurs. &#x200B;
 
-La vidéo montre comment Workfront simplifie la communication, la gestion des tâches et le reporting, en veillant à ce que toutes les informations liées au projet soient accessibles et organisées.
+La vidéo montre comment Workfront simplifie la communication, la gestion des tâches et le reporting, en veillant à ce que toutes les informations liées au projet soient accessibles et organisées. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436148/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
@@ -47,7 +58,7 @@ La vidéo montre comment Workfront simplifie la communication, la gestion des t�
 * **Clarté de la tâche, prévention de la dérive des objectifs** : définissez clairement les responsabilités des membres de l’équipe, utilisez des sous-tâches pour plusieurs personnes assignées et concentrez-vous pour réaliser exactement ce qui est nécessaire au projet.
 * **Communication centralisée** : utilisez des outils tels que Workfront pour conserver toutes les discussions liées au projet au même endroit, ce qui facilite l’accès et l’organisation.
 * **Rapports de statut précis** : encouragez les mises à jour fréquentes sur le statut et le pourcentage d’achèvement de la tâche grâce à des tâches courtes et spécifiques pour améliorer la précision des rapports.
-* **Gestion et résolution des problèmes** : faites clairement la différence entre les mises à jour et les problèmes. Veillez à ce que les problèmes soient résolus avant l’achèvement du projet et que les mises à jour fournissent un contexte toujours actualisé.
+* **Gestion et résolution des problèmes :** différenciez clairement les mises à jour et les problèmes, en vous assurant que les problèmes sont résolus avant l’achèvement du projet et que les mises à jour fournissent un contexte continu. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique

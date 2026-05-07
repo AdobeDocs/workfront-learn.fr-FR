@@ -11,9 +11,19 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '313'
+TQID: https://experienceleague.adobe.com/o3H4L0RX4ioK40tWCZ6X8fqobbtCI8qFJUymEmsHKRw
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 315
 ht-degree: 100%
 
 ---
@@ -25,7 +35,7 @@ Dans cette vidéo, vous allez :
 * Voir l’affichage [!UICONTROL Vue par projet]
 * Découvrez comment les informations des ressources sont affichées dans cette vue
 
->[!VIDEO](https://video.tv.adobe.com/v/3420155/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3420155/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 Pour l’option Vue par projet, la colonne Budgété est affichée par défaut. Elle reprend l’estimation du nombre de ressources nécessaires pour un projet à partir d’une analyse de rentabilité, si celle-ci a été remplie. Cela signifie également que la colonne Net utilise, par défaut, les chiffres de la colonne Budgété pour vous indiquer la quantité de ressources restantes.
 

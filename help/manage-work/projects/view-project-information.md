@@ -8,40 +8,51 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-05-01T00:00:00Z
+last-substantial-update: '2024-05-01T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:42:28.854Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 96%
+source-wordcount: 410
+ht-degree: 15%
 
 ---
 
 # Explorer les filtres, les vues et les regroupements pour la gestion de projet
 
-Cette vidéo présente les filtres, les vues et les regroupements de Workfront pour aider les utilisateurs et utilisatrices à gérer et à analyser efficacement les projets, les tâches et les problèmes. Les points clés sont les suivants :
+Cette vidéo présente les filtres, les vues et les regroupements de Workfront pour aider les utilisateurs à gérer et analyser efficacement les projets, les tâches et les problèmes. &#x200B; points clés sont les suivants :
 
-* **Filtres de projet** : les filtres peuvent être personnalisés pour réduire les listes de projets. Par exemple, « Projets dont je suis propriétaire », « Projets auxquels je participe », « En cours » et « En retard ». Les filtres tels que « À risque » et « En retard » sont expliqués en détail et montrent leurs liens de dépendance avec différents champs.
-* **Vues de projet** : les vues affichent divers détails du projet, tels que les dates prévues, projetées et réelles de début/d’achèvement. Par exemple, la « Vue standard », « Vue Toutes les dates » et « Vue Récit réel », qui fournissent des mises à jour et des résumés de conditions.
-* **Regroupements de projets** : les projets peuvent être regroupés par champs, comme le statut de progression ou la date d’achèvement par mois, ce qui permet une meilleure organisation et une meilleure analyse.
-* **Filtres de tâche** : les filtres permettent d’identifier les tâches non affectées ou les tâches liées à des rôles spécifiques. L’effacement des filtres révèle la structure de la tâche parent et le tri peut être ajusté par numéro de tâche.
+* **Filtres de projet :** les filtres peuvent être personnalisés pour réduire les listes de projets. &#x200B; exemples incluent « Projets dont je suis propriétaire », « Projets auxquels je participe », « En cours » et « En retard ». &#x200B; filtres tels que « À risque » et « En retard » sont expliqués en détail et montrent comment ils reposent sur différents champs.
+* **Vues Projet :** les vues affichent divers détails du projet, tels que les dates prévues, prévisionnelles et réelles de début/d’achèvement. &#x200B; exemples incluent la « Vue standard », « Vue toutes les dates » et « Vue histoire réelle », qui fournit des mises à jour de conditions et des résumés. &#x200B;
+* **Regroupements de projets :** les projets peuvent être regroupés par champs, comme le statut de progression ou la date d’achèvement par mois, ce qui permet une meilleure organisation et une meilleure analyse. &#x200B;
+* **Filtres de tâche :** les filtres permettent d’identifier les tâches non affectées ou les tâches liées à des rôles spécifiques. &#x200B; l’effacement des filtres révèle la structure de la tâche parent et le tri peut être ajusté par numéro de tâche. &#x200B;
 * **Vues des tâches** : les vues telles que « Vue Statut » affichent les statuts et les indicateurs de progression, les commentaires, les documents, les problèmes, les approbations, les chemins critiques et les jalons.
-* **Regroupements de tâches** : à l’instar des regroupements de projets, les tâches peuvent être regroupées par champs, comme le statut de progression.
-* **Problèmes** : les filtres, vues et regroupements pour les problèmes sont similaires à ceux des projets et des tâches. Les vues les plus utilisées incluent « Informations sur l’entrée » et des regroupements tels que « Contact principal » pour organiser les problèmes.
+* **Regroupements de tâches :** à l’instar des regroupements de projets, les tâches peuvent être regroupées par champs, comme le statut de progression. &#x200B;
+* **Événements :** les filtres, vues et regroupements pour les événements sont similaires à ceux des projets et tâches. &#x200B; vues populaires incluent « Informations sur l’entrée » et des regroupements tels que « Contact Principal » permettent d’organiser les problèmes. &#x200B;
 
-La vidéo met l’accent sur la personnalisation et fournit des liens vers des tutoriels pour un apprentissage plus approfondi.
+La vidéo met l’accent sur la personnalisation et fournit des liens vers des tutoriels pour un apprentissage plus approfondi. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453068/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Filtres personnalisables** : des filtres tels que « Projets dont je suis propriétaire » et « En retard » permettent de réduire les listes de projets et les utilisateurs et utilisatrices peuvent personnaliser ou empiler des filtres pour des résultats plus spécifiques.
-* **Vues détaillées :** les vues telles que « Vue Toutes les dates » et « Vue Récit réel » fournissent des informations sur les dates prévues, projetées et réelles, ainsi que des résumés de projet et des mises à jour de condition.
-* **Regroupements efficaces** : les projets et les tâches peuvent être regroupés par champs tels que le statut de la progression ou la date d’achèvement, ce qui permet une meilleure organisation et une meilleure analyse.
-* **Gestion des tâches** : les filtres et les affichages de tâches, tels que la « Vue Statut », permettent d’identifier les tâches non affectées, de suivre la progression et d’accéder à des détails pertinents, tels que les commentaires, les documents et les jalons.
-* **Suivi des problèmes** : les filtres, les vues et les regroupements pour les problèmes, tels que les « Informations sur l’entrée » et le « Contact principal » rationalisent la gestion des problèmes et fournissent des précisions sur la chronologie d’envoi et les contacts.
+* **Filtres personnalisables :** des filtres tels que « Projets dont je suis propriétaire » et « En retard » permettent de réduire les listes de projets et les utilisateurs peuvent personnaliser ou empiler des filtres pour des résultats plus spécifiques. &#x200B;
+* **Vues détaillées :** les vues telles que « Vue toutes les dates » et « Vue histoire réelle » fournissent des informations sur les dates prévues, prévues et réelles, ainsi que des résumés de projet et des mises à jour de statut. &#x200B;
+* **Regroupements efficaces :** les projets et les tâches peuvent être regroupés par champs tels que l’état d’avancement ou la date d’achèvement, ce qui permet une meilleure organisation et une meilleure analyse. &#x200B;
+* **Gestion des tâches :** les filtres et les affichages de tâches, tels que l’Affichage du statut, permettent d’identifier les tâches non affectées, de suivre la progression et d’accéder aux détails pertinents, tels que les commentaires, les documents et les jalons. &#x200B;
+* **Suivi des problèmes :** les filtres, les vues et les regroupements pour les problèmes tels que les « Informations sur l’entrée » et les « Contacts du Principal » rationalisent la gestion des problèmes et fournissent des précisions sur les calendriers de soumission et les contacts. &#x200B;
 
 
 

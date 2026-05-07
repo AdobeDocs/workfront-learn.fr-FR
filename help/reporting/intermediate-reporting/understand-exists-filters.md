@@ -8,13 +8,24 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-1880
-last-substantial-update: 2025-08-25T00:00:00Z
+last-substantial-update: '2025-08-25T00:00:00.000Z'
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:08:32.688Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 98%
+source-wordcount: 706
+ht-degree: 89%
 
 ---
 
@@ -32,7 +43,8 @@ Pour une présentation plus détaillée du fonctionnement de l’instruction EXI
 
 ### Rapport de projet avec instruction EXISTS
 
-Cette méthode utilise la tâche comme objet de liaison, en comparant l’ID de projet trouvé au niveau de la tâche et en le faisant correspondre au champ ID au niveau du projet. Cela nous permet de comparer ensuite les utilisateurs et utilisatrices de l’affectation sur la tâche à un caractère générique $$USER.ID. Cela renvoie uniquement les projets pour lesquels la personne qui consulte est affectée à une tâche, qu’elle soit ou non la personne cessionnaire principale.
+Cette méthode utilise la tâche comme objet de liaison, en comparant l’ID de projet trouvé au niveau de la tâche et en le faisant correspondre au champ ID au niveau du projet. Cela nous permet de comparer ensuite les utilisateurs et utilisatrices de l’affectation sur la tâche à un caractère générique $$USER.ID. Cela renvoie uniquement les projets pour lesquels l’utilisateur afficheur est affecté à un
+, qu’ils soient ou non la personne désignée principale.
 
 ```
 EXISTS:A:$$OBJCODE=TASK
@@ -42,7 +54,8 @@ EXISTS:A:projectID=FIELD:ID
 ```
 
 
-Cette méthode utilise le problème (optask) comme objet de liaison, en comparant également l’ID de projet trouvé au niveau du problème (optask) et en le faisant correspondre au champ d’ID au niveau du projet. Cette opération vérifie ensuite si l’un de ces problèmes (optasks) comporte une date d’entrée dans la période spécifiée. Dans ce cas, elle renvoie tous les projets qui n’ont pas eu de problème (optask) enregistré au cours des 30 derniers jours, en raison de l’instruction NOTEXISTS.
+Cette méthode utilise le problème (optask) comme objet de liaison, en comparant également l’ID de projet trouvé au niveau du problème (optask) et en le faisant correspondre au champ d’ID au niveau du projet. Cette opération vérifie ensuite si l’un de ces problèmes (optasks) comporte une date d’entrée dans la période spécifiée. Dans ce cas, il renvoie tous les projets qui ont
+Un problème (optask) n’a pas été enregistré au cours des 30 derniers jours en raison de l’existence de NOTEXISTS.
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
@@ -112,7 +125,8 @@ EXISTS:1:userID=FIELD:ID
 
 ### Rapport de catégorie (formulaire personnalisé) avec instruction EXISTS
 
-Ce texte vous donne une liste de tous les formulaires de projet qui n’ont jamais été utilisés sur un projet. Il doit être utilisé conjointement avec la spécification du type d’objet du formulaire sur lequel nous nous concentrons. Dans ce cas, l’accent est mis sur PROJ. Nous devons donc inclure les annotations dans les lignes objTypes. Cela pourrait être utilisé pour d’autres types d’objet en modifiant les parties liées au code de l’objet. Cela vérifie l’ensemble des formulaires joints aux projets par rapport aux formulaires répertoriés et renvoie un résultat s’il n’existe aucune correspondance.
+Ce texte vous donne une liste de tous les formulaires de projet qui n’ont jamais été utilisés sur un projet. Il doit être utilisé conjointement avec la spécification du type d’objet du formulaire sur lequel nous nous concentrons. Dans ce cas, l’accent est mis sur PROJ. Nous devons donc inclure les annotations dans les lignes objTypes. Ceci pourrait être utilisé
+pour d&#39;autres types d&#39;objet en modifiant les articles liés au code objet. Cela vérifie l’ensemble des formulaires joints aux projets par rapport aux formulaires répertoriés et renvoie un résultat s’il n’existe aucune correspondance.
 
 ```
 EXISTS:A:$$OBJCODE=PROJ

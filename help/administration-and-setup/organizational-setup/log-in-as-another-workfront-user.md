@@ -1,6 +1,6 @@
 ---
 title: Se connecter sous une autre identité
-description: Découvrez comment les administrateurs et les administratrices de Workfront peuvent se connecter en tant qu’autres utilisateurs ou utilisatrices pour tester les paramètres du système, les modèles de disposition, les rapports, etc.
+description: Découvrez comment les administrateurs et les administratrices de Workfront peuvent se connecter en tant qu’autres utilisateurs ou utilisatrices pour tester les paramètres du système, les modèles de mise en page, les rapports, etc.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,9 +10,20 @@ level: Beginner
 thumbnail: 10104.jpeg
 jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/J87mQcZGFozOPxxPbvRpBdmfOLMVmYbpsK-Id4hjtpE
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: 255
 ht-degree: 100%
 
 ---
@@ -27,7 +38,7 @@ Page ![[!UICONTROL Se connecter en tant que] dans la zone [!UICONTROL Configurat
 
 Cette fonctionnalité est utile pour diverses raisons :
 
-* Les administrateurs et les administratrices peuvent prévisualiser les modèles de disposition attribués aux utilisateurs et aux utilisatrices afin de s’assurer que les éléments de menu ou les tableaux de bord s’affichent correctement.
+* Les administrateurs et les administratrices peuvent prévisualiser les modèles de mise en page attribués aux utilisateurs et aux utilisatrices afin de s’assurer que les éléments de menu ou les tableaux de bord s’affichent correctement.
 * Cela permet de s’assurer que les autorisations d’un utilisateur ou d’une utilisatrice sont correctement configurées lors des tests de workflow.
 * Les administrateurs et les administratrices peuvent même utiliser cette fonctionnalité pour marquer l’achèvement d’une tâche ou donner une approbation à une personne qui n’est pas en mesure de le faire.
 

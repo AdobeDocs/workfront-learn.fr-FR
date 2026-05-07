@@ -10,9 +10,20 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '289'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T22:32:06.332Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 290
 ht-degree: 100%
 
 ---
@@ -26,7 +37,7 @@ Dans cette vidéo, vous apprendrez à :
 * Utiliser des champs de métadonnées existants
 * Créer des champs de métadonnées personnalisés
 
->[!VIDEO](https://video.tv.adobe.com/v/3419516/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419516/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Bonnes pratiques relatives aux métadonnées
 
@@ -34,11 +45,11 @@ Les métadonnées sont le principal moteur de recherche des ressources dans [!UI
 
 Voici quelques bonnes pratiques pour vous aider à prendre en main vos efforts de métadonnées :
 
-* Ajoutez toujours des informations de propriété ou de crédit à vos ressources pour les identifier en dehors de [!UICONTROL Workfront DAM].
+* Ajoutez toujours des informations de propriété ou de source à vos ressources pour les identifier en dehors de [!UICONTROL Workfront DAM].
 * Ajoutez des termes d’utilisation pour les ressources gérées avec des droits afin d’éviter tout abus.
 * Ajoutez des métadonnées à vos ressources dès que vous les chargez.
 * Incluez des menus déroulants prédéfinis pour les données fréquemment utilisées afin d’éviter des incohérences.
-* Informez les contributeurs et contributrices chargés d’ajouter des métadonnées à la stratégie de votre organisation en matière de métadonnées.
+* Informez les contributeurs et contributrices chargés d’ajouter des métadonnées de la stratégie de votre organisation en matière de métadonnées.
 * Communiquez vos exigences en matière de métadonnées aux fournisseurs externes (par exemple, « les photos doivent être envoyées avec les conditions d’utilisation, la source et les métadonnées de lieu déjà ajoutées »).
 * Effectuez régulièrement des audits pour vous assurer que les métadonnées sont correctement ajoutées.
 

@@ -4,13 +4,26 @@ description: Découvrez les bonnes pratiques recommandées par les spécialistes
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
-last-substantial-update: 2024-11-06T00:00:00Z
+last-substantial-update: 2024-11-06T00:00:00.000Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: ht
-source-wordcount: '1182'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/GB0kExlH19phGvui4KUhtsrOk-U2mPGnSrXf-5PerpQ
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 1198
+ht-degree: 96%
 
 ---
 
@@ -64,7 +77,7 @@ La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve ap
 
 Prenez le temps de créer des modèles de workflow de relecture.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Non seulement les modèles accélèrent et rationalisent le processus de création et d’attribution des épreuves, mais ils assurent la cohérence des workflows d’épreuve pour des types de ressources similaires. Ils s’assurent également que chaque personne destinataire d’épreuve se voit attribuer le rôle d’épreuve et l’alerte e-mail appropriés, et qu’une échéance a été fixée.
 
@@ -77,7 +90,7 @@ Désactivez le paramètre « Envoyer des e-mails depuis Workfront en cas de sai
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Lorsque ce paramètre est activé (ce qui est le cas par défaut), les utilisateurs et les utilisatrices ont la possibilité de recevoir plusieurs notifications par e-mail pour chaque commentaire sur une épreuve : une de la fonctionnalité de relecture et une autre de Workfront. Ces notifications en double entraînent une perturbation et une confusion dans les notifications par e-mail, ainsi qu’une boîte de réception pleine, ce qui peut amener les utilisateurs et les utilisatrices à ignorer les notifications d’épreuve qu’ils reçoivent. Ce qui, à son tour, pourrait signifier des échéances non respectées.
 
@@ -94,7 +107,7 @@ Utilisez uniquement les rôles Lecture seule ou Réviseur ou réviseuse pour le 
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Les autres options de ce paramètre requièrent toutes un statut de décision de l’épreuve, ce qui peut faire dérailler votre workflow de relecture. En règle générale, les personnes qui n’ont pas été ajoutées au workflow d’épreuve ont juste besoin de consulter l’épreuve ou de faire des commentaires, et non de l’approuver, de sorte que les options « Lecture seule » ou « Réviseur » sont les mieux adaptées.
 
@@ -111,7 +124,7 @@ Ajustez les paramètres back-end de l’épreuve pour que les utilisateurs et le
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 La valeur par défaut est un format d’horloge sur 24 heures, ce qui peut dérouter ceux qui ne le connaissent pas. Pour modifier le format, accédez au menu principal de Workfront > Relecture > Paramètres du compte > Utilisateurs et utilisatrices. Double-cliquez sur une personne pour la sélectionner, puis modifiez le champ Format de date dans la section Paramètres personnels. Vous devez sélectionner chaque personne, une à une, pour la modifier.
 
@@ -124,7 +137,7 @@ Fixez une date d’échéance par défaut pour la relecture dans les paramètres
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Lorsqu’une date d’échéance pour la relecture est définie par défaut (date de chargement + x nombre de jours ouvrables), si la personne ayant créé l’épreuve oublie d’ajouter une échéance, Workfront applique automatiquement cette échéance à chaque épreuve chargée.
 
@@ -142,7 +155,7 @@ Masquez l’option non pertinente de statut de décision de l’épreuve.
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Cette option de décision est souvent source de confusion pour les personnes chargées de l’approbation, car les organisations ne définissent pas toujours quand l’option Non pertinent doit être utilisée. L’option Non pertinent indique généralement que l’épreuve n’est pas pertinente pour la personne destinataire de l’épreuve et qu’elle n’a pas besoin de prendre une décision d’approbation ou de rejet. En sélectionnant Non pertinent, le workflow d’épreuve peut continuer.
 
@@ -160,7 +173,7 @@ Ne réorganisez pas les options de statut de décision de l’épreuve les param
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Chaque paramètre de statut de décision de l’épreuve contient une valeur/un poids spécifique qui, s’ils sont réorganisés, peuvent semer la confusion dans vos configurations d’épreuve. L’ordre de décision et la valeur/le poids sont utilisés comme déclencheurs d’activation de l’étape d’épreuve et dans les rapports.
 
@@ -177,7 +190,7 @@ Définissez les valeurs par défaut des utilisateurs et des utilisatrices pour l
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Ces paramètres sont automatiquement renseignés lors de l’affectation d’un workflow d’épreuve, ce qui accélère le processus et contribue à la cohérence des workflows d’épreuve.
 
@@ -194,7 +207,7 @@ Définissez le rôle de BAT de la personne qui a créé le BAT sur Réviseur ou 
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Le rôle d’épreuve Réviseur garantit que la personne ayant créé l’épreuve peut faire des commentaires et accéder à ceux laissés par d’autres. La plupart du temps, la personne ayant créé un BAT n’est pas tenue de prendre une décision sur un BAT qu’elle a chargé. Les rôles d’approbation, de révision et d’approbation, de création ou de modération des épreuves exigent tous qu’une décision soit prise. Si la personne ayant créé l’épreuve se voit affecter l’un de ces rôles mais ne prend jamais de décision, cela peut avoir des conséquences négatives sur les échéances.
 
@@ -207,7 +220,7 @@ Le rôle d’épreuve Réviseur garantit que la personne ayant créé l’épreu
 
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Le rôle d’approbation ne permet pas à l’utilisateur ou à l’utilisatrice d’apporter des commentaires sur cette épreuve. Cela pourrait amener un utilisateur ou une utilisatrice à refuser l’épreuve, sans aucune explication, parce qu’il lui a été impossible de faire des commentaires. Utilisez plutôt le rôle Réviseur et approbateur d’épreuve pour que l’utilisateur ou l’utilisatrice puisse faire des commentaires.
 
@@ -218,8 +231,8 @@ Le rôle d’approbation ne permet pas à l’utilisateur ou à l’utilisatrice
 
 Évitez l’option d’alerte par e-mail d’épreuve Toutes les activités.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
-Cette option permet d’envoyer une notification par e-mail à chaque fois qu’il se passe quelque chose avec une épreuve : un commentaire est fait, une réponse est publiée, une décision est prise, etc. Le ou la destinataire voit l’activité du BAT au fur et à mesure qu’elle se produit.
+Cette option envoie une notification d’épreuve par e-mail chaque fois qu’un événement se produit avec une épreuve (qu’un commentaire soit posté, qu’une réponse soit publiée, qu’une décision soit prise, etc.). Le destinataire voit essentiellement l’activité de l’épreuve lorsqu’elle se produit.
 
 Pour les propriétaires et créateurs et créatrices de BAT, l’alerte par e-mail Décisions est la plus adaptée aux workflows de BAT en plusieurs étapes et la Décision finale est la plus adaptée aux workflows en une seule étape. En règle générale, tous les autres peuvent être désactivés, à moins qu’ils ne souhaitent être informés des commentaires ou décisions des autres personnes (dans ce cas, l’une des options d’envoi d’un résumé par e-mail peut se révéler plus efficace).

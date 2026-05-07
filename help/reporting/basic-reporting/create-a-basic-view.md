@@ -8,30 +8,41 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2025-06-06T00:00:00Z
+last-substantial-update: '2025-06-06T00:00:00.000Z'
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:21.695Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '976'
-ht-degree: 100%
+source-wordcount: 984
+ht-degree: 86%
 
 ---
 
 # Créer une vue de base
 
-La vidéo explique comment créer et personnaliser des affichages dans Workfront pour afficher des informations spécifiques sur les éléments sous forme de liste, tels que les projets, les tâches, les problèmes et les documents. Les affichages permettent aux utilisateurs et utilisatrices d’afficher des détails tels que le nom, la description, le statut et d’autres champs liés aux éléments.
+La vidéo explique comment créer et personnaliser des affichages dans Workfront pour afficher des informations spécifiques sur les éléments d’une liste, tels que les projets, les tâches, les événements et les documents. Les vues &#x200B; permettent aux utilisateurs d’afficher des détails tels que le nom, la description, le statut et d’autres champs liés aux éléments. &#x200B;
 
 La vidéo souligne la flexibilité des vues dans Workfront et fournit des instructions détaillées sur leur création, leur personnalisation et leur gestion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450240/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
 * **Personnalisation des vues** : les utilisateurs et utilisatrices peuvent modifier des vues existantes ou en créer de nouvelles en ajoutant, en supprimant ou en réagençant des colonnes pour afficher des informations spécifiques, telles que le statut du projet ou le budget.
-* **Modification en ligne** : certains champs d’une vue Liste peuvent être mis à jour directement sans ouvrir d’éléments individuels, ce qui accélère la modification.
-* **Création de vues à partir de zéro** : les utilisateurs et utilisatrices peuvent concevoir des vues pour répondre à des besoins spécifiques, tels que le suivi de l’intégrité du projet, en ajoutant des colonnes pertinentes telles que le budget, le coût réel et le statut d’avancement.
+* **Modification en ligne** : certains champs d’une vue Liste peuvent être mis à jour directement sans ouvrir d’éléments individuels, ce qui accélère la modification. &#x200B;
+* **Création de vues à partir de zéro** : les utilisateurs peuvent concevoir des vues pour répondre à des besoins spécifiques, tels que le suivi de l&#39;intégrité du projet, en ajoutant des colonnes pertinentes telles que le budget, le coût réel et l&#39;état d&#39;avancement. &#x200B;
 * **Partage et gestion des vues** : les vues personnalisées peuvent être partagées avec les membres de l’équipe à des fins de collaboration ou être supprimées lorsqu’elles ne sont plus nécessaires.
 
 ## Activités Créer une vue de base
@@ -66,7 +77,7 @@ Créez une vue de tâche nommée « Vue du statut de la tâche » avec les col
 1. Dans le champ [!UICONTROL Afficher dans cette colonne], saisissez « statut », puis sélectionnez « Icônes de statut » dans la source du champ Tâche.
 1. Cliquer sur **[!UICONTROL Enregistrer]**.
 
-Pointez sur chacune des icônes de la colonne [!UICONTROL Icônes de statut] pour voir ce qu’elles représentent. Si elles sont grisées, cela signifie que la tâche ne possède pas de notes, de documents, de processus d’approbation, etc. Si une icône s’affiche en couleur, cela signifie qu’au moins un de ces éléments est associé à la tâche. Vous pouvez cliquer sur les icônes de note ou de document pour accéder à cet élément.
+Pointez sur chacune des icônes de la colonne [!UICONTROL Icônes de statut] pour voir ce qu’elles représentent. S’ils sont grisés, cela signifie que la tâche ne comporte pas de notes, de documents, de processus d’approbation, etc. Si une icône apparaît en couleur, au moins un de ces éléments est associé à la tâche. Vous pouvez cliquer sur les icônes de note ou de document pour accéder à cet élément.
 
 ### Activité 2 : créer une vue de jalon
 

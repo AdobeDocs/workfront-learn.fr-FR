@@ -10,10 +10,22 @@ level: Beginner
 thumbnail: 10037.jpeg
 jira: KT-10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/bOJ2ng-HrOD5SA9-uAItNK1rFF90zSnuxjeSiyh9LXk
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: 281
+ht-degree: 87%
 
 ---
 
@@ -35,7 +47,7 @@ Dans de rares cas, comme une entrée accidentelle ou un utilisateur ou utilisatr
 
 L’**unique** occasion où [!DNL Workfront] recommande de supprimer un utilisateur ou utilisatrice, c&#39;est lorsque ceux-ci n’ont jamais été affectés à un travail ou qu’ils ne disposent d’absolument aucun historique en lien avec des éléments Workfront.
 
-[!DNL Workfront] recommande **fortement** de désactiver un utilisateur ou utilisatrice plutôt que de le ou la supprimer. La désactivation conserve les informations de l’utilisateur ou de l’utilisatrice dans [!DNL Workfront], qui peuvent être nécessaires pour l’exactitude de l’établissement des rapports, la gestion de projets, etc. Si vous avez des questions sur la désactivation ou la suppression d’un utilisateur ou d’une utilisatrice, adressez-vous à votre consultant ou consultante [!DNL Workfront] ou à l’assistance clientèle de [!DNL Workfront].
+[!DNL Workfront] recommande **fortement** de désactiver un utilisateur ou utilisatrice plutôt que de le ou la supprimer. La désactivation conserve les informations sur l’utilisateur dans [!DNL Workfront], qui peuvent être nécessaires pour des rapports précis, la gestion de projet, etc. Si vous avez des questions sur la désactivation ou la suppression d’un utilisateur, adressez-vous à votre consultant [!DNL Workfront] ou au service clientèle [!DNL Workfront].
 
 ![Affichage de plus d’options de menu sur la page [!DNL Users]](assets/admin-fund-adding-users-11.png)
 

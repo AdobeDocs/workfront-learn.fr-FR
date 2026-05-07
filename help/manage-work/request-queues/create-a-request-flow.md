@@ -9,14 +9,26 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335223.jpeg
 jira: KT-8960
-last-substantial-update: 2024-09-11T00:00:00Z
+last-substantial-update: '2024-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:41:59.860Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 97%
+source-wordcount: 400
+ht-degree: 29%
 
 ---
 
@@ -27,18 +39,18 @@ ht-degree: 97%
 >* [Créer une file d’attente des demandes](/help/manage-work/request-queues/create-a-request-queue.md)
 >* [Comprendre les paramètres d’un flux de requêtes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
-Cette vidéo contient un guide détaillé sur la création d’un flux de demandes en configurant des rubriques de file d’attente, des groupes de rubriques et des règles de routage. Le processus commence par la création de règles de routage qui définissent la manière dont les demandes sont affectées. Ensuite, des groupes de rubriques sont créés pour organiser les demandes. Ces groupes peuvent être ajoutés aux files d’attente et il n’existe aucune limite au nombre de groupes de rubriques pouvant être créés.
+Cette vidéo fournit un guide détaillé sur la création d’un flux de requêtes en configurant des rubriques de file d’attente, des groupes de rubriques et des règles de routage. &#x200B; Le processus commence par la création de règles de routage, qui définissent la manière dont les demandes sont affectées. &#x200B; Ensuite, des groupes de rubriques sont créés pour organiser les demandes&#x200B; Ces groupes peuvent être ajoutés aux files d&#39;attente et il n&#39;y a aucune limite au nombre de groupes de rubriques qui peuvent être créés.
 La vidéo montre ensuite comment créer des rubriques de file d’attente qui sont liées aux règles de routage, aux groupes de rubriques, aux formulaires personnalisés, aux processus d’approbation et aux durées par défaut.
-Enfin, la vidéo montre comment tester la configuration en envoyant une demande pour vérifier qu’elle est correctement acheminée. En cas de problème, des ajustements peuvent être apportés à la file d’attente. La vidéo insiste sur l’importance de vérifier la structure et la fonctionnalité du flux de demandes pour assurer un routage et une organisation corrects.
+Enfin, la vidéo montre comment tester la configuration en envoyant une requête pour vérifier qu’elle est correctement acheminée. &#x200B; En cas de problème, des ajustements peuvent être apportés à la file d’attente. &#x200B; La vidéo souligne l’importance de vérifier la structure et la fonctionnalité du flux de requêtes pour assurer un routage et une organisation corrects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433824/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Configuration des règles de routage** : les règles de routage déterminent la manière dont les demandes sont affectées, qu’elles soient adressées à des équipes (par exemple, l’équipe Créative) ou à des individus (par exemple, Jennifer Campbell ou Mark Lewis). Ces règles sont créées en les nommant, en ajoutant des descriptions et en sélectionnant des personnes assignées ou des équipes par défaut.
-* **Création de groupes de rubriques** : les groupes de rubriques permettent d’organiser les demandes en catégories telles que « Numérique » et « Imprimer ». Le nombre de groupes de rubriques pouvant être créés est illimité et ils peuvent être imbriqués jusqu’à 10 niveaux de profondeur.
-* **Configuration des rubriques de file d’attente** : les rubriques de file d’attente sont liées aux règles de routage, aux groupes de rubriques, aux formulaires personnalisés, aux processus d’approbation et aux durées par défaut. Par exemple, une rubrique de file d’attente appelée « Brochures » peut être associée au groupe de rubriques Imprimer et acheminée vers l’équipe Créative.
-* **Test du flux de demandes** : après avoir configuré la file d’attente des demandes, il est essentiel de tester le flux en envoyant une demande pour garantir le routage et la fonctionnalité appropriés. Pour résoudre d’éventuels problèmes, il convient de consulter à nouveau la configuration de la file d’attente.
+* **Configuration des règles de transmission :** les règles de transmission déterminent la manière dont les demandes sont affectées, qu’elles soient adressées à des équipes (par exemple, l’équipe Creative) ou à des individus (par exemple, Jennifer Campbell ou Mark Lewis). &#x200B; Ces règles sont créées en les nommant, en ajoutant des descriptions et en sélectionnant les délégataires ou les équipes par défaut.
+* **Création de groupes de sujets :** les groupes de sujets permettent d’organiser les demandes en catégories telles que « Numérique » et « Impression ». &#x200B; Le nombre de groupes de sujets pouvant être créés est illimité, et ils peuvent être imbriqués jusqu’à 10 niveaux de profondeur.
+* **Configuration des rubriques de file d’attente :** les rubriques de file d’attente sont liées aux règles de routage, aux groupes de rubriques, aux formulaires personnalisés, aux processus d’approbation et aux durées par défaut. &#x200B; Par exemple, une rubrique de file d’attente nommée « Brochures » peut être associée au groupe de rubriques Imprimer et acheminée vers l’équipe Creative.
+* **Test du flux de demandes :** après avoir configuré la file d’attente des demandes, il est essentiel de tester le flux en envoyant une demande pour garantir le routage et la fonctionnalité appropriés. &#x200B; Tout problème peut être résolu en consultant à nouveau la configuration de la file d’attente. &#x200B;
 * **Flexibilité dans les ajustements** : le système permet d’apporter des modifications aux règles de routage, aux groupes de rubriques et aux rubriques de file d’attente si quelque chose ne semble pas à sa place, en veillant à ce que le flux de demandes reste efficace et précis.
 
 

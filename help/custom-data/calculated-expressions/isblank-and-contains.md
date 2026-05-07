@@ -9,10 +9,17 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+TQID: https://experienceleague.adobe.com/q25cuV-wKAkoEJTzDIho1Ab-XTexGhEZCHReoE0TFxg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: 400
+ht-degree: 97%
 
 ---
 
@@ -44,19 +51,19 @@ ISBLANK({description})
 
 L’expression de texte CONTAINS inclut le nom de l’expression, le mot ou l’expression que vous recherchez et le champ à rechercher.
 
-**CONTAINS(&quot;expression&quot;,{fields})**
+**CONTAINS(« phrase »,{fields})**
 
 Veillez à placer des guillemets autour du mot ou de l’expression que vous recherchez, sinon l’expression ne sera pas valide.
 
 Dans l’exemple ci-dessus (vous recherchez « événement caritatif » dans la description du projet), l’expression serait :
 
-**CONTAINS(&quot;événement caritatif&quot;,{description})**
+**CONTAINS(« charity event »,{description})**
 
 ![Équilibreur de charge de travail avec rapport d’utilisation](assets/isblank04.png)
 
 **Remarque** : l’expression CONTAINS est sensible à la casse. Par exemple, si « Événement Caritatif » est mis en majuscules dans le champ de description, mettez cette expression en majuscules dans l’expression.
 
-**CONTAINS(&quot;Événement Caritatif&quot;,{description})**
+**CONTAINS(« Événement caritatif »,{description})**
 
 Les expressions ISBLANK et CONTAINS sont toutes deux utiles pour vérifier la présence d’une valeur. Cependant, il peut s’avérer plus utile de connaître la valeur, de la voir réellement ou d’avoir une sorte de descripteur pour fournir une meilleure information.
 

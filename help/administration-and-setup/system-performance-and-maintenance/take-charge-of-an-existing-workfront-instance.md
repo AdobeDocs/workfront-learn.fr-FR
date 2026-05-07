@@ -10,10 +10,25 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
+TQID: https://experienceleague.adobe.com/-l24VZKcCqwHrotADh0jzpbVTCnrSU7cPDoJj7bwCbI
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '748'
-ht-degree: 100%
+source-wordcount: 825
+ht-degree: 96%
 
 ---
 
@@ -23,7 +38,7 @@ Ce qui est formidable avec Workfront, c’est qu’il est tellement personnalisa
 
 Cependant, grâce à notre liste de contrôle des instances héritées, vous pouvez apprendre tout ce que vous devez savoir sur votre instance.
 
-![Image de liste de contrôle des instances héritées](assets/wf-inherited-instance-image.png)
+![Image de la liste de contrôle des instances héritées](assets/wf-inherited-instance-image.png)
 <br></br>
 
 Dans la liste de contrôle des instances héritées, vous passerez en revue un ensemble complet de questions, de ressources et de liens afin de bien comprendre comment elle a été configurée.
@@ -98,7 +113,7 @@ En passant en revue chaque phase, et avec l’aide de la liste de contrôle des 
 </br>
 
 Vous trouverez des informations supplémentaires ci-dessous :
-* [Webinaire : Conseils pour reprendre la main sur une instance héritée](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=fr&lang=fr)
-* [Définition des objectifs de votre mise en œuvre Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=fr)
-* [Article de blog : parrainage de la direction et valeur pour le leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/518353?profile.language=fr&lang=fr)
-* [Article de blog : KPI Adobe Workfront - Introduction](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/549001?profile.language=fr&lang=fr)
+* [Webinaire : conseils pour la reprise d’une instance héritée](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=fr&lang=fr)
+* [Définition d’objectifs pour la mise en œuvre de Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=fr)
+* [Article de blog : Le parrainage exécutif et la valeur au leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/518353?profile.language=fr&lang=fr)
+* [Article de blog : présentation des indicateurs de performance clés d’Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/549001?profile.language=fr&lang=fr)
