@@ -7,12 +7,24 @@ level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
 TQID: https://experienceleague.adobe.com/YgDpAAcQTEDQh-Q1iOV8lledME9-M3bfjV3A5Yu6A2s
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40cid: d968a1bc-9a90-4926-a531-bcf272c32aadid: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
 source-wordcount: 1841
@@ -74,7 +86,7 @@ La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve ap
 
 Utilisez des modèles lors de la création de projets.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Les modèles de projet éliminent les conjectures des chefs de projet (et des autres personnes créant des projets) sur les tâches qu’un projet doit contenir, comment structurer la chronologie, etc. Les modèles sont le moyen le plus efficace d’accélérer la création de projets.
 
@@ -89,7 +101,7 @@ Grâce à cette cohérence entre les projets, les données sont plus précises, 
 
 Définissez une convention de nommage pour les modèles de projet.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Une dénomination cohérente facilite la recherche des modèles. Cela aide également les personnes chargées de la gestion de projet et les autres personnes qui créent des projets à sélectionner le bon modèle lorsqu’il existe des modèles portant le même nom au sein de plusieurs équipes ou services.
 
@@ -100,7 +112,7 @@ Une dénomination cohérente facilite la recherche des modèles. Cela aide égal
 
 Créez un groupe d’utilisateurs et d’utilisatrices sélectionnés qui peuvent créer et mettre à jour des modèles de projet.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Disposer de modèles de projet bien conçus et cohérents est essentiel pour une bonne gestion du travail et l’établissement de rapports précis. Limitez le nombre de personnes pouvant modifier les modèles afin d’éviter les modifications accidentelles ou non approuvées.
 
@@ -111,7 +123,7 @@ Disposer de modèles de projet bien conçus et cohérents est essentiel pour une
 
 Utilisez le partage de projet sur un modèle de projet pour accorder automatiquement l’accès aux projets créés à l’aide de ce modèle.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 L’accès à des projets spécifiques est accordé par le biais du projet lui-même. Si le même groupe de personnes doit toujours avoir accès aux projets créés avec un modèle spécifique, ajoutez-les sous l’option Partage de projet du modèle. Vous pouvez contrôler l’accès aux projets dès leur création pour optimiser les efforts d’évolutivité si les autorisations doivent être modifiées à l’avenir.
 
@@ -126,7 +138,7 @@ Pour obtenir des instructions sur le partage de projets créés à l’aide d’
 
 Attribuez des fonctions ou des équipes à des tâches, et non à des personnes individuelles.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Lorsqu’une personne change de poste ou quitte l’organisation, vous devez mettre à jour manuellement les modèles de projet qui incluent cette personne. Cela demande du temps de la part des administrateurs ou administratrices du système ou du groupe ou des personnes chargées de la gestion du projet.
 
@@ -141,7 +153,7 @@ En outre, les fonctions sont utilisées par les outils de planification des ress
 
 Évitez d’être trop granulaire lorsque vous créez des tâches dans un modèle de projet. Limitez le nombre de tâches d’un modèle de projet à celles qui sont nécessaires pour achever le travail.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Des modèles de projet trop compliqués sont une mauvaise expérience pour les utilisateurs et les utilisatrices (personnes chargées de la gestion de projet et de la gestion de ressources, personnes membres de l’équipe, etc). Un trop grand nombre de tâches rend la chronologie du projet difficile à gérer, avec des échéances qui se chevauchent et des tâches multiples attribuées aux mêmes fonctions ou aux mêmes personnes.
 
@@ -153,7 +165,7 @@ Des modèles de projet trop compliqués sont une mauvaise expérience pour les u
 
 Utilisez la description de la tâche pour capturer les petites étapes de la tâche, plutôt que de la ventiler en plusieurs tâches.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Si plusieurs tâches d’une même ligne sont attribuées à la même fonction/personne, cela indique que ces tâches pourraient être combinées. Un trop grand nombre de tâches assignées à une personne peut lui donner l’impression d’avoir plus de travail à accomplir, ce qui peut affecter l’adoption de Workfront.
 
@@ -164,7 +176,7 @@ Si plusieurs tâches d’une même ligne sont attribuées à la même fonction/p
 
 Assurez-vous que les tâches de modèle incluent les durées de tâche, les heures planifiées et les personnes ayant travaillé dessus par le passé.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Ces trois éléments (les durées, le nombre d’heures prévues et les personnes ayant travaillé sur la tâche par le passé) sont les éléments constitutifs de la chronologie du projet. Ces éléments sont essentiels pour savoir combien de temps durera le travail et quand il devra être effectué. Les outils de gestion des ressources de Workfront utilisent les durées et le nombre d’heures prévues, ainsi que les attributions de fonctions, afin de calculer la capacité des ressources, leur disponibilité et bien plus encore.
 
@@ -178,7 +190,7 @@ Si vous ne savez pas comment estimer les durées ou le nombre d’heures prévue
 
 Préconfigurez les détails du projet et joignez des formulaires personnalisés au modèle.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Veillez à ce que les informations standard pour tous les projets soient remplies sur le modèle de projet. Cela permet non seulement d’accélérer la création du projet, mais aussi de s’assurer que les informations nécessaires sont disponibles et qu’elles sont cohérentes entre les projets.
 
@@ -193,7 +205,7 @@ Pour obtenir des instructions sur la manière de joindre un formulaire personnal
 
 Examinez et mettez régulièrement à jour les modèles de projet.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Au fur et à mesure que les processus et les équipes évoluent, les modèles de projet doivent être mis à jour. Établissez un rythme régulier, par exemple trimestriel, pour vérifier quels sont les modèles qui ne sont pas activement utilisés. Vous pouvez les désactiver afin qu’ils soient toujours dans Workfront, mais qu’ils n’apparaissent pas dans les listes de sélection de modèles.
 
@@ -207,7 +219,7 @@ Pour obtenir des instructions sur la désactivation d’un modèle de projet, vo
 Vérifiez les modèles pour vous assurer qu’ils contiennent toutes les informations nécessaires avant de les partager et de les faire utiliser par d’autres.
 
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Étant donné que les modèles seront utilisés à plusieurs reprises pour réaliser des projets, vous devez vous assurer que tout est configuré correctement et complètement. Cela permet d’assurer la cohérence de tous les projets et d’obtenir des données précises pour l’établissement des rapports.
 
@@ -235,7 +247,7 @@ Outre les paramètres de la tâche tels que la durée et les heures planifiées,
 
 Lorsque vous ajustez l’option Mode planning sur un modèle, passez en revue et mettez à jour les contraintes de tâche.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Le mélange de différentes contraintes de tâches sur un projet peut entraîner des calculs de dates planifiées inattendus et déroutants. Par exemple, lorsque la date de début est sélectionnée pour l’option Mode planning, toutes les tâches créées dans ce projet se voient attribuer par défaut la contrainte de tâche Dès que possible. Si vous remplacez ensuite l’option Mode planning par Date d’achèvement, toutes les tâches créées sont assorties par défaut d’une contrainte de tâche Le plus tard possible. Le mélange involontaire de tâches soumises à chacune de ces contraintes peut entraîner une confusion au niveau des dates prévues dans la chronologie du projet.
 
@@ -248,7 +260,7 @@ Pour mieux comprendre les contraintes de tâche et leur utilisation, voir [Compr
 
 Vérifiez l’équipe du projet sur le modèle et supprimez les utilisateurs et utilisatrices qui ne travailleront pas sur le projet.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Lorsque vous créez un modèle à partir d’un projet existant, à moins que vous ne choisissiez l’option Effacer les affectations lors de la création, Workfront met en relation les personnes auxquelles des tâches/problèmes ont été affectés sur le projet dans la section Personnes. Et lorsque vous travaillez avec votre modèle, vous pouvez supprimer les personnes auxquelles vous aviez auparavant affecté un travail ou modifier une affectation que vous avez effectuée vous-même sur le modèle.
 
