@@ -40,7 +40,7 @@ Modifiez le nom du projet, la date de début planifiée et la priorité de la «
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416460/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## À vous

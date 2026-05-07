@@ -40,7 +40,7 @@ Dans cette vidéo, vous apprendrez à :
 * Définir une échéance pour le processus de révision et d’approbation
 * Partager le modèle de workflow automatisé avec d’autres personnes
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454253/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Options d’activation d’étape supplémentaires
 

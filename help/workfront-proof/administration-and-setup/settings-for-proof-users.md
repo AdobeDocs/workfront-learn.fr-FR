@@ -41,7 +41,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ajuster les paramètres d’utilisation du BAT dans [!DNL  Workfront]
 * Ajuster les paramètres d’utilisation d’épreuve dans les configurations principales de relecture
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432923/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!--
 Lean More URLs

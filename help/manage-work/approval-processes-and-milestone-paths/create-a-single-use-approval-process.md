@@ -38,7 +38,7 @@ La vidéo explique comment créer et gérer des processus d’approbation pour l
 La vidéo présente la création de processus d’approbation, la définition des approbateurs, la configuration des statuts et l’utilisation d’étapes pour les approbations à plusieurs niveaux.
 &#x200B;Il souligne la flexibilité des processus globaux et à usage unique pour gérer efficacement les approbations de tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434689/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

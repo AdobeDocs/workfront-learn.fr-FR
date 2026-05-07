@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez :
 * Les trois directives de gestionnaire d’erreurs qui permettent à l’exécution de continuer
 * Les deux directives de gestionnaire d’erreurs qui arrêtent l’exécution
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418136/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Directives - Le scénario continue
 

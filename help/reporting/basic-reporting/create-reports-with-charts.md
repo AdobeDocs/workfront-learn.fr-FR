@@ -49,7 +49,7 @@ La vidéo explique comment utiliser des graphiques pour visualiser efficacement 
 
 La vidéo montre comment des graphiques tels que les secteurs et les graphiques à colonnes empilés peuvent fournir des informations sur la distribution des tâches et les performances des projets, ce qui permet aux utilisateurs de comparer les projets et de comprendre visuellement la progression des tâches. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450016/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points essentiels à retenir
 

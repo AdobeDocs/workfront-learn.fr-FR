@@ -36,4 +36,4 @@ Dans cette vidéo, vous apprendrez :
 * Installation et utilisation de l’outil de développement de Workfront Fusion
 * Examen des différents outils de conception de scénario avancés
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418118/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

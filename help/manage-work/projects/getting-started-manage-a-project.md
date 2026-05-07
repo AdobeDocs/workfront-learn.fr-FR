@@ -35,7 +35,7 @@ ht-degree: 75%
 
 La vidéo présente un aperçu de la gestion d’un projet après le changement de son statut en « Actuel ». &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445169/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

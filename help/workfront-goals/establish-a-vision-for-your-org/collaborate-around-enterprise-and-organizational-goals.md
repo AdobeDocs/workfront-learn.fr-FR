@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez à :
 * Définir ce que vous et votre équipe devez faire pour atteindre l’objectif de niveau supérieur
 * Affiner la hiérarchie d’objectifs de la section 2 : établir une vision et une stratégie
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416015/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!--
 Pro-tips graphic

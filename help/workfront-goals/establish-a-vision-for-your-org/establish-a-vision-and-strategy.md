@@ -36,7 +36,7 @@ Dans cette vidéo, vous découvrirez :
 * Des exemples d’objectifs
 * Le champ d’influence
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415997/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Planifier la cadence de contrôles et d’une maintenance réguliers
 

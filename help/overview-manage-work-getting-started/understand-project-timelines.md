@@ -38,7 +38,7 @@ Dans cette vidéo, vous découvrirez :
 * Planifier des projets à partir de la date de début ou d’achèvement
 * Contraintes de tâche
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435837/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

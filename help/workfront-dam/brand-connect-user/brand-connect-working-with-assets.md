@@ -35,4 +35,4 @@ Dans cette vidéo, vous apprendrez à :
 * Afficher les ressources dans Brand Connect
 * Afficher les données relatives à une ressource, y compris les métadonnées et les mots-clés
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418738/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

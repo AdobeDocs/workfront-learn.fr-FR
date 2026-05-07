@@ -39,7 +39,7 @@ Utilisez le module Définir la variable pour envoyer un nombre à travers plusie
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417261/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :

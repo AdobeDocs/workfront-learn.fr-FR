@@ -37,7 +37,7 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter un workflow lors de la génération du BAT
 * Ajouter ou modifier un workflow une fois le BAT créé
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443465/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Qui peut charger des documents ?

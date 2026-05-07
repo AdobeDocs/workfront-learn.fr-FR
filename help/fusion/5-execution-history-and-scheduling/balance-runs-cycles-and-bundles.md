@@ -35,4 +35,4 @@ Dans cette vidéo, vous apprendrez :
 
 * Présentation de l’équilibrage des exécutions, des cycles et des bundles dans Workfront Fusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417425/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

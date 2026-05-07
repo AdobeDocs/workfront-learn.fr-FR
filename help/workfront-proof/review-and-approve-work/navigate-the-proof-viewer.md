@@ -38,7 +38,7 @@ Dans cette vidéo, vous apprendrez à :
 * Filtrer la colonne de commentaires
 * Fermer le BAT
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449840/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!-- 
 ## Learn more

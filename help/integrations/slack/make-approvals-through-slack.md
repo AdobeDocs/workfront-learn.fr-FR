@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Effectuez les approbations via [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436357/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

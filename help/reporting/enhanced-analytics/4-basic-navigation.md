@@ -40,4 +40,4 @@ Dans cette vidéo, vous découvrirez :
 * Vue d’ensemble des graphiques de travail
 * Vue d’ensemble des graphiques de personnes
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436389/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

@@ -45,5 +45,5 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des tâches au groupe de calendriers
 * Créer un calendrier de congés
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452395/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 

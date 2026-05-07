@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez à :
 * Visualiser et mettre à jour les tâches Workfront à partir de [!DNL Gmail]
 * Approuver les tâches Workfront à partir de [!DNL Gmail]
 
->[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3450159/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Installer Adobe Workfront pour G Suite
 

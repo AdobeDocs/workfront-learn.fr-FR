@@ -34,4 +34,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Activer un objectif en ajoutant un résultat
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415979/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

@@ -36,7 +36,7 @@ La vidéo explique comment utiliser l’outil d’optimisation du Portfolio dans
 
 La vidéo souligne l’importance de remplir des dossiers commerciaux pour des comparaisons précises et fournit des instructions étape par étape pour optimiser et gérer efficacement les priorités du projet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446277/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

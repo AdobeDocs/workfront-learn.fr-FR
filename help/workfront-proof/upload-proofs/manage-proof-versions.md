@@ -37,7 +37,7 @@ Dans cette vidéo, vous apprendrez à :
 * Télécharger toutes les versions d’une épreuve
 * Supprimer une version de BAT
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438644/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

@@ -39,7 +39,7 @@ Dans cette vidéo, vous apprendrez :
 * Comment utiliser la vue [!UICONTROL Panorama]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423277/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

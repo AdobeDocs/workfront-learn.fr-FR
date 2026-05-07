@@ -35,7 +35,7 @@ ht-degree: 21%
 La vidéo souligne l&#39;importance de la communication dans la gestion de projet et souligne le rôle des questions en tant qu&#39;outil clé pour faciliter la communication. &#x200B; Il explique la différence entre les mises à jour et les problèmes, en notant que les problèmes sont mieux adaptés au travail qui doit être affecté, suivi et résolu avant qu’un projet puisse être terminé. &#x200B; La vidéo fournit un guide détaillé sur la manière de consigner les problèmes. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446568/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

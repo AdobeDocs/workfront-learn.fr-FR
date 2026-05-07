@@ -38,4 +38,4 @@ Dans cette vidéo, vous apprendrez à :
 * Ajouter des fichiers associés à une ressource
 * Télécharger des ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/335255/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454809/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

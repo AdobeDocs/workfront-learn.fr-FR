@@ -35,7 +35,7 @@ ht-degree: 28%
 La vidéo explique la gestion de portefeuille, en se concentrant sur la manière dont les responsables peuvent optimiser la sélection de projets pour s’aligner sur les objectifs de l’entreprise. &#x200B; Il introduit le concept de portefeuilles comme des ensembles de projets qui se font concurrence pour des ressources, des budgets et des calendriers partagés. &#x200B; responsables peuvent utiliser des outils tels que Portfolio Optimizer pour comparer des projets en fonction de critères tels que la main-d’œuvre, les dépenses, le risque, le retour sur investissement et l’alignement sur les objectifs du portefeuille. &#x200B; La préparation de projets à des fins de comparaison implique la création d’un business case pour chacun. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442830/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

@@ -56,4 +56,4 @@ Dans cette vidéo, vous apprendrez :
 * En quoi consistent les déclencheurs, les actions et les recherches et en quoi ils diffèrent
 * Types de modules trouvés dans différents connecteurs d’applications et leur fonctionnement
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417437/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

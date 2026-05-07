@@ -43,7 +43,7 @@ Dans cette vidéo, vous apprendrez :
 * Effets de la définition d’une date de début de tâche sur la contrainte de tâche
 * Saisie des tâches antérieures
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447322/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls

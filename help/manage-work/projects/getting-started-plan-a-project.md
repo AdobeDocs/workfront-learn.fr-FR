@@ -36,7 +36,7 @@ La vidéo fournit des conseils sur la planification efficace d’un projet dans 
 
 La vidéo souligne l’importance de calendriers réalistes, de la disponibilité de l’équipe et d’une planification précise pour créer une base solide pour la réussite du projet. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448569/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez à :
 * Importer une nouvelle version d’une épreuve
 * Appliquer un workflow de relecture à la version
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441853/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Charger une version à partir de la visionneuse de relecture
 

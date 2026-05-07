@@ -38,4 +38,4 @@ Dans cette vidéo, vous apprendrez :
 * Comment modifier la période
 * Comment comparer des KPI avec deux filtres différents côte à côte
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440249/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

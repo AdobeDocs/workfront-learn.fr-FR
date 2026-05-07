@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez à :
 * Charger un site Web en tant que BAT statique
 * Charger un site Web en tant que BAT interactif
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445069/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Remarques relatives au contenu interactif

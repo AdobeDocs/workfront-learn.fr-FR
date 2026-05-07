@@ -38,4 +38,4 @@ Dans cette vidéo, vous apprendrez :
 * Les avantages d’une taxonomie des mots-clés
 * Rechercher des ressources à l’aide de métadonnées et de mots-clés
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419524/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

@@ -35,7 +35,7 @@ ht-degree: 40%
 La vidéo explique comment utiliser la fonctionnalité Effort de travail dans Workfront pour estimer le nombre d’heures prévues des tâches lorsqu’il est difficile de fournir des estimations précises.
 Elle montre comment créer un affichage personnalisé de l’effort de travail pour rationaliser la gestion des tâches en ajoutant des colonnes pertinentes telles que l’effort de travail, le nombre d’heures prévues et le type de durée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447401/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

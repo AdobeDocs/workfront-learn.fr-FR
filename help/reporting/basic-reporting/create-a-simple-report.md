@@ -36,7 +36,7 @@ Cette vidéo explique comment créer et personnaliser des rapports de projet pou
 
 La vidéo souligne que les rapports personnalisés conservent leurs paramètres par défaut, mais que des modifications temporaires peuvent être apportées lors de leur affichage. &#x200B; rapports sont stockés dans la section « Mes rapports », tandis que les rapports partagés apparaissent dans « Partagés avec moi ». &#x200B; rapports fréquemment utilisés peuvent être épinglés ou marqués comme favoris pour un accès facile. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3413120/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points essentiels à retenir
 

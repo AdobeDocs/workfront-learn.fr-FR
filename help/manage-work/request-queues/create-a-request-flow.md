@@ -43,7 +43,7 @@ Cette vidéo fournit un guide détaillé sur la création d’un flux de requêt
 La vidéo montre ensuite comment créer des rubriques de file d’attente qui sont liées aux règles de routage, aux groupes de rubriques, aux formulaires personnalisés, aux processus d’approbation et aux durées par défaut.
 Enfin, la vidéo montre comment tester la configuration en envoyant une requête pour vérifier qu’elle est correctement acheminée. &#x200B; En cas de problème, des ajustements peuvent être apportés à la file d’attente. &#x200B; La vidéo souligne l’importance de vérifier la structure et la fonctionnalité du flux de requêtes pour assurer un routage et une organisation corrects.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3433824/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points essentiels à retenir
 

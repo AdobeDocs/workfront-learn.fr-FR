@@ -47,4 +47,4 @@ Dans cette vidéo, vous allez :
 * Rechercher et afficher des ressources
 * Découvrir comment la structure des dossiers affecte l’organisation des ressources et leur accès
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420102/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

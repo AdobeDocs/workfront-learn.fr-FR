@@ -31,7 +31,7 @@ ht-degree: 62%
 
 Dans cette vidéo, vous découvrirez les statuts des problèmes et les bonnes pratiques pour les utiliser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3472967/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
