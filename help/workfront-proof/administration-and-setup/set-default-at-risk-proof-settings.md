@@ -10,9 +10,15 @@ level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png
 jira: KT-10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:04:44.869Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: 291
 ht-degree: 100%
 
 ---
@@ -25,7 +31,7 @@ La notification À risque est activée par défaut. Un BAT est considéré comme
 
 ![Paramètres de BAT pour les notifications À risque](assets/proof-system-setups-at-risk-default-1.png)
 
-1. Sélectionnez **[!UICONTROL Épreuvage]** dans le [!UICONTROL Menu principal] de [!DNL Workfront’s].
+1. Sélectionnez **[!UICONTROL Relecture]** dans le [!UICONTROL Menu principal] de [!DNL Workfront’s].
 1. Sélectionnez **[!UICONTROL Paramètres du compte]** dans la barre de navigation supérieure.
 1. Sélectionnez l’onglet **[!UICONTROL Paramètres]**.
 1. Accédez à la section [!UICONTROL Valeurs par défaut des BAT].
@@ -36,7 +42,7 @@ La notification À risque est activée par défaut. Un BAT est considéré comme
 ## À vous
 
 1. Connectez-vous à Workfront et accédez à la zone de configuration. Dans la section Révision et approbation, sélectionnez les paramètres pour les destinataires et non-destinataires désignés du BAT.
-1. Utilisez ensuite le menu principal de Workfront pour accéder aux paramètres des BAT (sélectionnez Épreuvage). Définissez le pays, la langue et le fuseau horaire par défaut pour tous les BAT et utilisateurs et utilisatrices des BAT.
+1. Utilisez ensuite le menu principal de Workfront pour accéder aux paramètres des BAT (sélectionnez Relecture). Définissez le pays, la langue et le fuseau horaire par défaut pour tous les BAT et utilisateurs et utilisatrices des BAT.
 1. Si nécessaire, ajustez le délai de notification À risque dans l’onglet Paramètres de la zone de configuration des BAT. Communiquez avec les équipes qui utilisent des BAT pour décider ce qui leur convient le mieux.
 
 <!--

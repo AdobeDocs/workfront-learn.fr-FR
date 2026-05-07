@@ -10,41 +10,47 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: '2025-04-23T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '421'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:49:39.708Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 419
+ht-degree: 41%
 
 ---
 
 # Comprendre les mesures de performance
 
-La vidéo présente les mesures et les paramètres des performances financières pour la gestion de projets. Les points clés sont les suivants :
+La vidéo présente les mesures et paramètres de performance financière pour la gestion de projet. &#x200B; points clés sont les suivants :
 
-**Vue d’ensemble des mesures de performances :** les mesures telles que l’indice Coûts Performances, l’indice Horaire Performances, l’indice Coûts Horaire Performances et l’achèvement estimé sont disponibles dans l’onglet Détails du projet et dans la section Finances. La documentation relative aux calculs est accessible via les liens de la bulle d’informations.
+**Présentation des mesures de performance :** des mesures telles que l’indice de performance des coûts, l’indice de performance des prévisions, l’indice de performance des prévisions de coûts et l’achèvement estimé sont disponibles dans l’onglet Détails du projet et dans la section Finances. La documentation &#x200B; pour les calculs est accessible via les liens de la bulle d’informations.
 
-**Méthode d’indice de performances (PIM) :** la personne chargée de la gestion de projet peut sélectionner la méthode de calcul de l’indice Coûts Performances (ICP) et de l’estimation à l’achèvement (EAC) en fonction des heures (achèvement en heures) ou des coûts (achèvement en devises). L’administration système peut définir la méthode par défaut de manière globale, mais les responsables de projet peuvent l’ajuster en fonction de chaque projet.
+**Méthode d&#39;indice de performance (PIM) :** le gestionnaire de projet peut sélectionner la méthode de calcul de l&#39;indice de performance des coûts (ICP) et de l&#39;estimation à l&#39;achèvement (CRE), basée sur les heures (achèvement en heures) ou basée sur les coûts (achèvement en argent). &#x200B; Les administrateurs et administratrices système peuvent définir la méthode par défaut de manière globale, mais les chefs de projet peuvent l’ajuster pour des projets individuels. &#x200B;
 
 **Calcul de l’estimation à l’achèvement (EAC) :** les administrateurs et administratrices système peuvent définir globalement la méthode de calcul par défaut, avec deux options :
-* **Cumul à partir des tâches/sous-tâches :** ajoute les valeurs d’estimation à l’achèvement des tâches enfant, mais exclut les heures ajoutées directement aux tâches parent ou au niveau du projet.
-* **Calculé au niveau du projet :** inclut les valeurs d’estimation à l’achèvement des tâches enfant et les heures ajoutées directement aux tâches parent ou au niveau du projet. Il s’agit de l’option par défaut recommandée.
+* **Cumul à partir des tâches/sous-tâches :** ajoute les valeurs d’estimation à l’achèvement des tâches enfants, mais exclut les heures ajoutées directement aux tâches parents ou au niveau du projet. &#x200B;
+* **Calculé au niveau du projet :** inclut les valeurs d’estimation à l’achèvement des tâches enfant et les heures ajoutées directement aux tâches parent ou au niveau du projet. Il s’agit de la valeur par défaut recommandée. &#x200B;
 
-La vidéo souligne la flexibilité et le contrôle mis à la disposition de l’administration système et de la gestion de projet dans la gestion des mesures et des calculs de performances.
+La vidéo souligne la flexibilité et le contrôle mis à la disposition des administrateurs système et des chefs de projet dans la gestion des mesures et des calculs de performance. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
 
-* **Accès aux mesures de performance :** les mesures clés telles que l’indice Coûts Performances (CPI), l’indice Horaire Performances (SPI) et l’estimation à l’achèvement (EAC) se trouvent sous l’onglet Détails du projet dans la section Finances. La documentation est disponible via les liens de la bulle d’informations.
+* **Accès aux mesures de performance :** les mesures clés telles que l’indice de performance des coûts (ICP), l’indice de performance des calendriers (IHP) et l’estimation à l’achèvement (EAC) se trouvent sous l’onglet Détails du projet dans la section Finances. La documentation est disponible via les liens de la bulle d’informations. &#x200B;
 * **Méthode d’indice de performance :** les gestionnaires de projet peuvent choisir entre des méthodes de calcul des mesures en fonction des heures ou en fonction des coûts, tandis que les administrateurs et administratrices système peuvent définir une valeur par défaut globale.
 * **Options de calcul de l’estimation à l’achèvement :** deux méthodes sont disponibles :
-   * Cumul à partir de tâches/sous-tâches (exclut les heures ajoutées directement aux tâches parent ou au niveau du projet).
-   * Calculé au niveau du projet (inclut les heures ajoutées directement aux tâches parent ou au niveau du projet). Cette dernière option est recommandée.
-* **Paramètres globaux ou paramètres au niveau du projet :** les administrateurs et administratrices système peuvent définir des valeurs par défaut globales pour la méthode d’indice de performances et les calculs d’estimation à l’achèvement, mais les responsables de projet peuvent remplacer le paramètre de méthode d’indice de performances pour chaque projet.
+   * Cumul à partir de tâches/sous-tâches (exclut les heures ajoutées directement aux tâches parents ou au niveau du projet). &#x200B;
+   * Calculé au niveau du projet (inclut les heures ajoutées directement aux tâches parent ou au niveau du projet). Cette dernière est recommandée. &#x200B;
+* **Paramètres globaux ou paramètres au niveau du projet :** les administrateurs système peuvent définir des valeurs par défaut globales pour la méthode d’indice de performance et les calculs d’estimation à l’achèvement, mais les chefs de projet peuvent remplacer le paramètre de méthode d’indice de performance pour des projets individuels. &#x200B;
 * **Flexibilité dans la gestion des mesures :** le système fournit des outils permettant aux administrateurs, aux administratrices et aux responsables de projet de personnaliser et de gérer efficacement les mesures de performances, tout en s’adaptant aux besoins spécifiques du projet.
 
 ## Tutoriels recommandés sur cette rubrique

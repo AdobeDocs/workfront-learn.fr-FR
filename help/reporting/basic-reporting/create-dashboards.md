@@ -9,30 +9,36 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: 2025-05-28T00:00:00Z
+last-substantial-update: '2025-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:51.376Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 98%
+source-wordcount: 689
+ht-degree: 73%
 
 ---
 
 # Création de tableaux de bord dans Workfront
 
 La vidéo fournit un guide complet sur la compréhension et l’utilisation des tableaux de bord dans Workfront.
-Elle explique qu’un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées en un seul endroit.
+&#x200B;Il explique qu’un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées au même endroit.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449124/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Tableaux de bord dans Workfront :** un tableau de bord est un ensemble de rapports qui permet aux utilisateurs et aux utilisatrices d’organiser et d’afficher les données associées, telles que les projets, les tâches et les problèmes, dans une vue centralisée.
-* **Création de tableaux de bord :** les tableaux de bord peuvent être personnalisés en sélectionnant une disposition, en ajoutant des rapports, des calendriers personnalisés ou des pages externes et en les organisant pour un affichage optimal. Les utilisateurs et utilisatrices peuvent également personnaliser les colonnes qui apparaissent dans les rapports côte à côte dans le tableau de bord.
-* **Accès aux tableaux de bord :** les tableaux de bord se trouvent sous « Mes tableaux de bord », « Tableaux de bord partagés » ou « Tous les tableaux de bord » dans la zone Tableaux de bord. Les tableaux de bord fréquemment utilisés peuvent être épinglés ou ajoutés aux favoris pour un accès rapide.
-* **Partage de tableaux de bord :** les tableaux de bord peuvent être partagés avec d’autres utilisateurs et utilisatrices de Workfront, y compris tous les rapports figurant dans le tableau de bord, via le menu « Actions du tableau de bord ».
-* **Impression des tableaux de bord :** les tableaux de bord peuvent être imprimés directement à partir du menu « Actions du tableau de bord », ce qui facilite le partage de copies physiques des données.
+* **Tableaux de bord dans Workfront :** un tableau de bord est un ensemble de rapports qui permet aux utilisateurs d’organiser et d’afficher les données associées, telles que les projets, les tâches et les événements, dans une vue centralisée. &#x200B;
+* **Création de tableaux de bord :** les tableaux de bord peuvent être personnalisés en sélectionnant une disposition, en ajoutant des rapports, des calendriers personnalisés ou des pages externes et en les organisant pour un affichage optimal. &#x200B; utilisateurs peuvent également personnaliser les colonnes qui apparaissent dans les rapports côte à côte dans le tableau de bord. &#x200B;
+* **Accès aux tableaux de bord :** tableaux de bord se trouvent sous « Mes tableaux de bord », « Tableaux de bord partagés » ou « Tous les tableaux de bord » dans la zone Tableaux de bord. &#x200B; tableaux de bord fréquemment utilisés peuvent être épinglés ou ajoutés aux favoris pour un accès rapide. &#x200B;
+* **Partage de tableaux de bord :** les tableaux de bord peuvent être partagés avec d’autres utilisateurs de Workfront, y compris tous les rapports figurant dans le tableau de bord, via le menu « Actions du tableau de bord ». &#x200B;
+* **Impression des tableaux de bord :** les tableaux de bord peuvent être imprimés directement à partir du menu « Actions du tableau de bord », ce qui facilite le partage de copies physiques des données. &#x200B;
 
 
 ## Activités Créer un tableau de bord

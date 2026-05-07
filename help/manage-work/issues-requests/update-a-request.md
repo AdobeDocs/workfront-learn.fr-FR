@@ -7,32 +7,38 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-07-10T00:00:00Z
+last-substantial-update: '2024-07-10T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:54:27.839Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 96%
+source-wordcount: 242
+ht-degree: 16%
 
 ---
 
 # Mise à jour d’une requête dans Workfront
 
-Cette vidéo explique comment localiser et mettre à jour des demandes dans Workfront. Après l’envoi d’une demande, vous pouvez ajouter des informations ou poser des questions pour vous assurer que les derniers détails sont disponibles pour les personnes qui travaillent dessus.
+La vidéo explique comment localiser et mettre à jour des requêtes dans Adobe Workfront. &#x200B; Après l’envoi d’une demande, vous pouvez ajouter des informations ou poser des questions pour vous assurer que les derniers détails sont disponibles pour ceux qui travaillent dessus. &#x200B; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3422298/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Localiser facilement les demandes :** utilisez des filtres tels que « Mes demandes ouvertes » ou « Mes demandes » dans la section « Demandes » pour rechercher les demandes envoyées. Ajustez les filtres pour afficher les demandes créées par d’autres personnes ou les demandes terminées.
-* **Vérifier le statut avant la mise à jour :** vérifiez les colonnes « Statut » et « Converti en » pour déterminer si la demande est résolue ou convertie en une tâche/un projet. Il se peut que des mises à jour doivent être effectuées sur l’élément converti à la place.
-* **Mettre à jour les demandes efficacement :** ouvrez le panneau de résumé en sélectionnant la demande et en cliquant sur l’icône Ouvrir le résumé. Ajoutez des mises à jour dans le champ « Démarrer une nouvelle mise à jour », mentionnez les utilisateurs et utilisatrices avec @nomutilisateur/utilisatrice, puis cliquez sur « Mettre à jour ».
-* **Accéder aux détails complets de la demande :** ouvrez la demande en cliquant sur son nom pour afficher des informations détaillées, notamment la progression, la personne affectée, la date d’achèvement prévue et le statut. Utilisez le panneau de gauche pour accéder aux mises à jour, aux documents et aux détails de la demande.
-* **Collaboration centralisée :** Adobe Workfront conserve toutes les informations des demandes au même endroit, ce qui permet aux utilisateurs et aux utilisatrices de les examiner, de les mettre à jour et de collaborer efficacement avec les informations les plus récentes.
+* **Localisez facilement les requêtes :** utilisez des filtres tels que « Mes requêtes ouvertes » ou « Mes requêtes » dans la section « Requêtes » pour rechercher les requêtes envoyées. &#x200B; Ajustez les filtres pour afficher les demandes créées par d’autres utilisateurs ou les demandes terminées.
+* **Vérifier le statut avant la mise à jour :** vérifiez les colonnes « statut » et « converti en » pour déterminer si la demande est résolue ou convertie en une tâche/un projet. &#x200B; Il se peut que des mises à jour doivent être apportées à l’élément converti à la place. &#x200B;
+* **Mettre à jour les demandes efficacement :** ouvrez le panneau de résumé en sélectionnant la demande et en cliquant sur l’icône Ouvrir le résumé . &#x200B; Ajouter des mises à jour dans le champ « démarrer une nouvelle mise à jour », marquez les utilisateurs avec @username, puis cliquez sur « mettre à jour ». &#x200B;
+* **Accéder aux détails complets de la demande :** ouvrez la demande en cliquant sur son nom pour afficher des informations détaillées, notamment la progression, l’utilisateur affecté, la date d’achèvement prévue et le statut. &#x200B; Utilisez le panneau de gauche pour accéder aux mises à jour, aux documents et aux détails de la demande.
+* Collaboration centralisée :**Adobe Workfront conserve toutes les informations de demande au même endroit, ce qui permet aux utilisateurs et utilisatrices de les examiner, de les mettre à jour et de collaborer efficacement à l’aide des informations les plus récentes.**&#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique

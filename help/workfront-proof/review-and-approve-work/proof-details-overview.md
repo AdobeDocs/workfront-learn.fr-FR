@@ -10,10 +10,16 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: cb72c429f0ef4cd9945282876aa49189dab1bd96
-workflow-type: ht
-source-wordcount: '1038'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:56:45.995Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 1038
+ht-degree: 97%
 
 ---
 
@@ -65,14 +71,14 @@ Regardons de plus près deux des sections : [!UICONTROL Paramètres de la visio
 
 Ces paramètres vous aident à contrôler l’accès au BAT lui-même.
 
-![Une image des [!UICONTROL Paramètres de la visionneuse de BAT] tirée de la page du BAT avec l’option [!UICONTROL Paramètres de la visionneuse de BAT] en surbrillance dans le menu du panneau de gauche.](assets/proofing-settings-on-details-page.png)
+![Une image des [!UICONTROL Paramètres de la visionneuse de relecture] tirée de la page de l’épreuve avec l’option [!UICONTROL Paramètres de la visionneuse de relecture] en surbrillance dans le menu du panneau de gauche.](assets/proofing-settings-on-details-page.png)
 
 * **[!UICONTROL Exiger une connexion. Ce BAT ne peut pas être partagé avec des personnes invitées] -** Le BAT ne peut être partagé qu’avec les personnes disposant d’une licence de relecture [!DNL Workfront].
-* **[!UICONTROL Exiger que les décisions soient signées électroniquement] :** lors du partage d’une épreuve, le ou la destinataire doit disposer des autorisations de relecture dans [!DNL Workfront] et « signer électroniquement » le BAT en saisissant son mot de passe de relecture lorsqu’il ou elle prend une décision à propos de l’épreuve. (Note : le mot de passe de relecture est différent de votre mot de passe [!DNL Workfront]. Le mot de passe de relecture n’est pas facilement accessible, de sorte que la plupart des destinataires ne le connaîtront pas.) Adobe recommande de demander à votre consultant ou à votre consultante [!DNL Workfront] avant d’utiliser cette fonctionnalité.
+* **[!UICONTROL Exiger que les décisions soient signées électroniquement] :** lors du partage d’une épreuve, le ou la destinataire doit disposer des autorisations de relecture dans [!DNL Workfront] et « signer électroniquement » le BAT en saisissant son mot de passe de relecture lorsqu’il ou elle prend une décision à propos de l’épreuve. (Note : le mot de passe de relecture est différent de votre mot de passe [!DNL Workfront]. Le mot de passe de relecture n&#39;est pas facilement accessible, de sorte que la plupart des destinataires ne le connaîtront pas.) Adobe recommande de consulter votre consultant [!DNL Workfront] avant d’utiliser cette fonctionnalité.
 * **[!UICONTROL Verrouiller le BAT lorsque toutes les décisions requises ont été prises] -** Ceci verrouille le BAT contre tout autre commentaire, réponse, décision, etc., une fois que toutes les décisions relatives au BAT ont été prises. Cela verrouille toute la version du BAT, et pas seulement une étape spécifique du workflow de relecture.
-* **[!UICONTROL Autoriser le téléchargement du fichier d’origine] :** les destinataires de l’épreuve peuvent télécharger le fichier source d’origine de l’épreuve depuis la visionneuse d’épreuve (l’option se trouve dans le menu du panneau de droite).
-* **[!UICONTROL Autoriser le partage du BAT via une URL publique ou un code incorporé] -** Les destinataires du BAT peuvent partager avec n’importe qui un lien accessible au public.
-* **[!UICONTROL Autoriser l’abonnement à un BAT via une URL publique ou un code incorporé] -** Toute personne qui reçoit l’URL publique peut s’ajouter au BAT avec son adresse e-mail et son nom (si elle n’est pas utilisatrice du BAT) ou son adresse e-mail et son mot de passe de relecture (si elle est utilisatrice du BAT). (Note : le mot de passe de relecture n’est pas le même qu’un mot de passe [!DNL Workfront].)
+* **[!UICONTROL Autoriser le téléchargement du fichier d’origine] :** les destinataires de l’épreuve peuvent télécharger le fichier source d’origine de l’épreuve depuis la visionneuse d’épreuve.
+* **[!UICONTROL Autoriser le partage du BAT via une URL publique ou un code intégré] -** Les destinataires du BAT peuvent partager avec n’importe qui un lien accessible au public.
+* **[!UICONTROL Autoriser l’abonnement à un BAT via une URL publique ou un code intégré ]-** Toute personne qui reçoit l’URL publique peut s’ajouter au BAT avec son adresse e-mail et son nom (si elle n’est pas utilisatrice du BAT) ou son adresse e-mail et son mot de passe de relecture (si elle est utilisatrice du BAT). (Note : le mot de passe de relecture n’est pas le même qu’un mot de passe [!DNL Workfront].)
 
 
 ### [!UICONTROL Activité de relecture]

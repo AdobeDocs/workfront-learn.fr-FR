@@ -8,31 +8,37 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
-last-substantial-update: 2025-06-11T00:00:00Z
+last-substantial-update: '2025-06-11T00:00:00.000Z'
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:19.850Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '1121'
-ht-degree: 98%
+source-wordcount: 1158
+ht-degree: 84%
 
 ---
 
 # Créer un rapport de tâche pour les affectations tardives
 
-La vidéo propose un guide détaillé sur la création d’un rapport personnalisé pour effectuer le suivi des tâches en retard affectées à l’utilisateur ou l’utilisatrice connecté. Elle commence par expliquer la nécessité de produire des rapports personnalisés lorsque les filtres, les vues ou les rapports intégrés existants ne répondent pas à des exigences spécifiques. Le rapport est nommé « Tâches en retard qui me sont affectées », et contient une description explicative.
+La vidéo propose un guide détaillé sur la création d’un rapport personnalisé pour effectuer le suivi des tâches en retard affectées à l’utilisateur ou l’utilisatrice connecté. Elle commence par expliquer la nécessité de rapports personnalisés lorsque les filtres, les vues ou les rapports intégrés existants ne répondent pas à des exigences spécifiques. &#x200B; Le rapport est nommé « Tâches qui me sont affectées en retard », avec une description ajoutée pour plus de clarté. &#x200B;
 
-Le rapport qui en résulte permet aux utilisateurs et utilisatrices de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes.
+Le rapport qui en résulte permet aux utilisateurs de se concentrer sur les tâches en retard, fournit des informations sur les dépendances et simplifie la navigation vers les projets hôtes. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448344/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Création d’un rapport personnalisé :** lorsque les filtres existants et les rapports intégrés ne répondent pas à vos besoins, vous pouvez créer un rapport personnalisé en intégralité pour vous concentrer sur des données spécifiques, telles que les tâches en retard qui vous ont été affectées.
-* **Configuration des filtres :** utilisez les filtres pour définir des critères de rapport, notamment les tâches en retard, les tâches incomplètes, les projets en cours et les tâches affectées à l’utilisateur ou l’utilisatrice connecté.
-* **Colonnes pour le contexte :** ajoutez des colonnes telles que « Peut démarrer » pour identifier les problèmes de dépendance et « Nom du projet » avec des liens hypertexte pour accéder facilement aux projets associés.
-* **Tri par priorité :** triez les tâches à partir de la colonne « Échéance » par ordre croissant pour placer en priorité les tâches les plus en retard en haut du rapport.
+* **Création d’un rapport personnalisé :** lorsque les filtres existants et les rapports intégrés ne répondent pas à vos besoins, vous pouvez créer un rapport personnalisé à partir de zéro pour vous concentrer sur des données spécifiques, telles que les tâches en retard qui vous ont été affectées. &#x200B;
+* **Configuration des filtres :** utilisez les filtres pour définir des critères de rapport, notamment les tâches en retard, les tâches incomplètes, les projets en cours et les tâches affectées à l’utilisateur connecté. &#x200B;
+* **Colonnes pour le contexte :** ajoutez des colonnes telles que « Peut démarrer » pour identifier les problèmes de dépendance et « Nom du projet » avec des liens hypertexte pour accéder facilement aux projets associés. &#x200B;
+* **Tri par priorité :** les tâches selon la colonne « Dû le » par ordre croissant pour classer par priorité les tâches les plus en retard en haut du rapport. &#x200B;
 * **Accessibilité :** enregistrez le rapport, épinglez-le ou marquez-le comme favori pour un accès rapide, afin d’assurer un suivi et une gestion efficaces des tâches en retard.
 
 

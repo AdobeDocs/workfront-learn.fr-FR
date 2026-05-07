@@ -10,16 +10,22 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:01.017Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: 454
 ht-degree: 100%
 
 ---
 
 # Rapport sur les BAT
 
-Les fonctions d’épreuvage numérique de [!DNL Workfront] vous permettent de gérer les projets et les workflows de révision connexes en un seul endroit, [!DNL Workfront]. Obtenez des informations précieuses sur le travail d’épreuvage effectué avec les types de rapports, les sources de champ et les noms de champ qui affichent les informations de révision et d’approbation.
+Les fonctions de relecture numérique de [!DNL Workfront] vous permettent de gérer les projets et les workflows de révision connexes en un seul endroit, [!DNL Workfront]. Obtenez des informations précieuses sur le travail de relecture effectué avec les types de rapports, les sources de champ et les noms de champ qui affichent les informations de révision et d’approbation.
 
 Nous vous recommandons de travailler avec votre consultant ou consultante [!DNL Workfront] pour créer des rapports qui répondent aux besoins de votre organisation. Certains rapports requièrent une connaissance approfondie de la fonction de création de rapports en mode texte de [!DNL Workfront].
 
@@ -53,7 +59,7 @@ Les regroupements peuvent être effectués en fonction des valeurs [!UICONTROL v
 
 Les filtres incluent : [!UICONTROL version du document], [!UICONTROL niveau d’accès], [!UICONTROL document], [!UICONTROL saisi par], [!UICONTROL statut d’approbation des BAT], [!UICONTROL créateur de BAT] et des informations sur la personne qui fournit les documents.
 
-Vous pouvez afficher, dans une vue, le nom de la phase de BAT actuellement active pour chaque document du rapport, avec cette colonne :
+Vous pouvez afficher, dans une vue, le nom de la phase de relecture actuellement active pour chaque document du rapport, avec cette colonne :
 
 **[!UICONTROL Versions de document] >> [!UICONTROL Étapes de BAT actives]**
 

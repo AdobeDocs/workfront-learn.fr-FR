@@ -1,6 +1,6 @@
 ---
 title: Modifier un modèle de workflow automatisé
-description: Découvrez comment apporter des modifications à un modèle de workflow de vérification automatisé existant dans  [!DNL  Workfront].
+description: Découvrez comment apporter des modifications à un modèle de workflow de relecture automatisé existant dans  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,13 +8,19 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-last-substantial-update: 2024-08-08T00:00:00Z
+last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '572'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:38.512Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 578
 ht-degree: 100%
 
 ---
@@ -25,7 +31,7 @@ Au fur et à mesure que les processus de révision et d&#39;approbation de BAT s
 
 La mise à jour des modèles permet de garantir la cohérence de vos processus de révision et d’approbation et permet aux personnes qui importent les épreuves de gagner du temps, car elles n’ont pas à ajuster constamment leur workflow.
 
-1. Sélectionnez **[!UICONTROL Vérification]** dans le **[!UICONTROL Menu principal]** dans [!DNL Workfront].
+1. Sélectionnez **[!UICONTROL Relecture]** dans le **[!UICONTROL Menu principal]** dans [!DNL Workfront].
 1. À partir de là, sélectionnez **[!UICONTROL Workflows]** dans le menu du panneau de gauche.
 1. Cliquez sur le menu à 3 points situé à droite du nom du modèle et sélectionnez **[!UICONTROL Afficher les détails du modèle]**.
 
@@ -44,7 +50,7 @@ Chaque étape d’un workflow automatisé comporte sa propre section, qui permet
 
 Cette vidéo présente brièvement certaines des modifications que vous pouvez apporter dans la zone [!UICONTROL Workflow]. Reportez-vous à la liste à puces figurant sous cette vidéo, qui passe en revue ces paramètres.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432622/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 Pour rappel, voici les modifications que vous pouvez apporter au modèle de BAT dans la section [!UICONTROL Workflow] :
 

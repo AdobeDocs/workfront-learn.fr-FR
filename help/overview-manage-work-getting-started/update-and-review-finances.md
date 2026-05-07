@@ -1,6 +1,6 @@
 ---
 title: Mettre à jour et réviser les finances
-description: Apprenez à examiner les informations financières associées à un projet dans  [!DNL &#x200B; Workfront].
+description: Apprenez à examiner les informations financières associées à un projet dans  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,9 +11,15 @@ level: Intermediate
 jira: KT-10137
 hide: true
 exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T19:25:38.036Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: 258
 ht-degree: 92%
 
 ---
@@ -31,7 +37,7 @@ Si votre entreprise utilise [!DNL Workfront] pour suivre les informations financ
 
 Les dépenses peuvent être enregistrées pour des tâches individuelles ou pour le projet lui-même. Quel que soit l’élément sur lequel la dépense est enregistrée, vous pouvez visualiser toutes les dépenses dans la section [!UICONTROL Dépenses] du projet lui-même.
 
-Section ![[!UICONTROL Dépenses] d’un projet &#x200B;](assets/expense-section.png)
+Section ![[!UICONTROL Dépenses] d’un projet ](assets/expense-section.png)
 
 ## Enregistrements de facturation
 
@@ -43,7 +49,7 @@ Vous devez avoir accès aux données financières dans [!DNL Workfront] pour pou
 
 Un coup d’œil sur les informations relatives aux [!UICONTROL Finances] dans [!UICONTROL Détails du projet] vous permet de voir les chiffres réels concernant les bénéfices, les revenus et les coûts.
 
-![Section Finances de la fenêtre [!UICONTROL Détails du projet] d’un projet &#x200B;](assets/finance-section-project-details.png)
+![Section Finances de la fenêtre [!UICONTROL Détails du projet] d’un projet ](assets/finance-section-project-details.png)
 
 La plupart des informations financières contenues dans les [!UICONTROL Détails du projet] sont définies lors de la création du projet, et les chiffres que vous voyez ici sont basés sur ces informations. Ainsi, lorsque vous fermez un projet, il n&#39;y a vraiment rien que vous devez mettre à jour ou ajouter dans les détails financiers.
 

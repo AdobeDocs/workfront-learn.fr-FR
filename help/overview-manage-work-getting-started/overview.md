@@ -7,15 +7,21 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: '2024-08-23T00:00:00.000Z'
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:34:02.499Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: 954
 ht-degree: 6%
 
 ---
@@ -26,7 +32,7 @@ La première étape de votre apprentissage de Workfront consiste à créer et pl
 
 Dans ce tutoriel, vous apprendrez à créer, planifier et gérer un projet, ainsi qu’à le fermer.
 
-Après avoir terminé ce tutoriel, nous vous recommandons d’[Gérer le travail - intermédiaire](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=fr) pour affiner davantage vos compétences en matière de gestion de projet.
+Après avoir terminé ce tutoriel, nous vous recommandons d’[Gérer le travail - intermédiaire](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) pour affiner davantage vos compétences en matière de gestion de projet.
 
 >[!PREREQUISITES]
 >
@@ -49,7 +55,7 @@ Découvrez comment configurer la chronologie d’un projet, identifier le travai
 
 * [Commencez à planifier un projet](getting-started-plan-a-project.md) - Découvrez les cinq principaux composants d’un projet, ce que son statut signifie, comment une [!UICONTROL Vue] peut vous aider à consulter des informations pertinentes et comment définir la date de début ou d’échéance.
 * [Créer des tâches](how-to-create-tasks.md) - Découvrez plusieurs méthodes de création de tâches dans un projet.
-* [Comprendre les tâches parent-enfant &#x200B;](understand-parent-child-tasks.md) - Découvrez comment les tâches sont structurées à l’aide d’une relation parent-enfant dans un projet.
+* [Comprendre les tâches parent-enfant ](understand-parent-child-tasks.md) - Découvrez comment les tâches sont structurées à l’aide d’une relation parent-enfant dans un projet.
 * [Utiliser des tâches](work-with-tasks.md) - Découvrez comment modifier des tâches existantes, ajouter et supprimer des tâches, et modifier l’ordre des tâches dans un projet.
 * [Affecter des tâches à partir du plan de projet](assign-tasks-from-the-project-plan.md) - Découvrez comment affecter un utilisateur à une tâche à l’aide de la modification sur la ligne dans un projet.
 * [Comprendre la durée des tâches](understand-task-durations.md) - Découvrez comment les durées affectent les dates de début et d&#39;achèvement des tâches, comment les durées sont prises en compte dans les chronologies de projet et quelques bonnes pratiques d&#39;utilisation de la durée des tâches.
@@ -64,10 +70,10 @@ Découvrez comment configurer la chronologie d’un projet, identifier le travai
 
 Découvrez comment effectuer le suivi du travail du projet et communiquer avec les parties prenantes.
 
-* [Prise en main de la gestion d’un projet &#x200B;](getting-started-manage-a-project.md) - Découvrez votre rôle en tant que chef de projet et ce que vous devez prendre en compte lors de la surveillance du travail du projet.
+* [Prise en main de la gestion d’un projet ](getting-started-manage-a-project.md) - Découvrez votre rôle en tant que chef de projet et ce que vous devez prendre en compte lors de la surveillance du travail du projet.
 * [Rechercher des projets](find-projects.md) - Découvrez comment trouver vos projets à l’aide d’épingles, de favoris, de tableaux de bord et de la page [!UICONTROL Projets].
 * [Partager un projet](share-a-project.md) - Découvrez comment partager un projet afin que les parties prenantes et les autres personnes intéressées par le projet puissent avoir une visibilité sur le travail en cours.
-* [Comprendre l’équipe de projet &#x200B;](understand-the-project-team.md) - Découvrez à quoi l’équipe de projet peut servir et comment la gérer.
+* [Comprendre l’équipe de projet ](understand-the-project-team.md) - Découvrez à quoi l’équipe de projet peut servir et comment la gérer.
 * [Comprendre la communication du projet](understand-project-communication.md) - Découvrez comment communiquer sur le travail du projet à l’aide des mises à jour sur les projets, les tâches, les problèmes et les documents.
 * [Afficher des informations sur le projet](view-project-information.md) - Découvrez comment les [!UICONTROL Filtres], [!UICONTROL Vues] et [!UICONTROL Regroupements] peuvent rendre les informations du projet facilement visibles pour vous aider à gérer les projets.
 * [Suivre la progression globale du projet](track-overall-project-progress.md) - Découvrez comment les informations affichées dans l’en-tête du projet peuvent vous aider à suivre la progression globale et l’intégrité du projet.
@@ -80,7 +86,7 @@ Découvrez comment effectuer le suivi du travail du projet et communiquer avec l
 
 Découvrez comment clore des tâches et des événements, terminer des approbations, enregistrer les enseignements tirés et clore le projet.
 
-* [Changer le statut du projet en Terminé &#x200B;](change-the-project-status.md) - Découvrez comment changer le statut du projet en Terminé, pourquoi le modifier et que faire si vous ne pouvez pas le changer en Terminé.
+* [Changer le statut du projet en Terminé ](change-the-project-status.md) - Découvrez comment changer le statut du projet en Terminé, pourquoi le modifier et que faire si vous ne pouvez pas le changer en Terminé.
 * [Approbations complètes](complete-approvals.md) - Découvrez comment identifier les approbations incomplètes et les résoudre afin de pouvoir clore votre projet.
 * [Charger des ressources](upload-assets.md) - Chargez des documents, des épreuves et d’autres ressources dans le projet avant de le fermer pour vous assurer que toutes les données pertinentes sont associées au projet.
 * [Enregistrer les leçons apprises](lessons-learned-from-closing-a-project.md) - Découvrez comment inclure une tâche « leçons apprises » pour identifier ce qui s’est bien passé et ce qui peut être amélioré la prochaine fois.

@@ -7,16 +7,22 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-26T00:00:00Z
+last-substantial-update: '2024-08-26T00:00:00.000Z'
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:33:40.172Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 0%
+source-wordcount: 777
+ht-degree: 1%
 
 ---
 
@@ -38,7 +44,7 @@ Explorez Workfront en profondeur pour en savoir plus sur la manière de tirer le
 >
 >* Bonne compréhension de l’utilisation de Workfront
 >* Type de licence standard avec droits de création de projets activés
->* [Gérer le travail - Prise en main](https://experienceleague.adobe.com/?lang=fr&recommended=Workfront-U-1-2022.1.planners)
+>* [Gérer le travail - Prise en main](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Modèles de projet
@@ -74,7 +80,7 @@ Découvrez comment créer des chemins jalonnés, appliquer les jalons aux tâche
 Découvrez comment gérer le travail non planifié avec les problèmes, convertir les problèmes en autres éléments de travail, gérer les affectations de problèmes et générer des rapports sur les problèmes.
 
 * [Gérer le travail non planifié](handle-unplanned-work.md) - Découvrez comment gérer le travail non planifié dans votre organisation.
-* [Créer une requête &#x200B;](make-a-request.md) - Découvrez comment accéder à la zone de requête, créer une requête, afficher les requêtes envoyées, copier une requête, rechercher un brouillon de requête et afficher les trois derniers chemins de requête.
+* [Créer une requête ](make-a-request.md) - Découvrez comment accéder à la zone de requête, créer une requête, afficher les requêtes envoyées, copier une requête, rechercher un brouillon de requête et afficher les trois derniers chemins de requête.
 * [Rechercher et gérer les requêtes](find-requests.md) - Découvrez comment trouver les requêtes qui vous sont affectées, les requêtes que vous avez créées et les requêtes que vous gérez.
 * [Gérer les affectations d’événement](manage-issue-assignments.md) - Découvrez comment affecter un événement à un utilisateur individuel, à plusieurs utilisateurs ou à une équipe afin que le problème soit résolu.
 * [Mettre à jour une demande](update-a-request.md) - Découvrez comment rechercher les demandes que vous avez envoyées et effectuer une mise à jour.

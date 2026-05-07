@@ -10,10 +10,16 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '373'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T02:02:56.632Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 384
+ht-degree: 97%
 
 ---
 
@@ -24,7 +30,7 @@ Dans cette vidéo, vous apprendrez à :
 * Personnaliser la barre de navigation et le pied de page
 * Personnaliser la page d’accueil et la page de connexion
 
->[!VIDEO](https://video.tv.adobe.com/v/3418776/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
 
 ## Paramètre d’[!UICONTROL Apparence] supplémentaire
 
@@ -52,7 +58,7 @@ Ces widgets sont disponibles :
 
 **F. Description renseignée** - Crée un bloc de copie de texte avec un arrière-plan gris.
 
-**G. HTML** - Permet d’utiliser de l’HTML et du CSS pour créer du contenu personnalisé. Par exemple, vous pouvez incorporer un lien vers une vidéo. Quelques [balises HTML sont à éviter](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML** : utilisez HTML et CSS pour créer du contenu personnalisé. Par exemple, vous pouvez incorporer un lien vers une vidéo. Quelques [balises HTML sont à éviter](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
 
 ## Ajouter une barre de recherche
 
