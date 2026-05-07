@@ -6,9 +6,15 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
+TQID: https://experienceleague.adobe.com/hTZWn-fzcprOD-b7CU9k6JWfUh0VBCok2g8tG1c6fYE
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: 846
 ht-degree: 100%
 
 ---
@@ -34,9 +40,9 @@ La question « Pourquoi s’agit-il de bonnes pratiques » ? qui se trouve ap
 
 * Réduisez le nombre de rapports personnalisés que vous créez en utilisant les filtres, les vues et les regroupements sur une liste d’objets pour obtenir les données dont vous avez besoin.
 
-* Utilisez les contrôles de liste dans les modèles de disposition pour masquer les filtres, les vues et les regroupements inutiles pour les objets couramment utilisés (projets, tâches, programmes, etc.).
+* Utilisez les contrôles de liste dans les modèles de mise en page pour masquer les filtres, les vues et les regroupements inutiles pour les objets couramment utilisés (projets, tâches, programmes, etc.).
 
-* Partagez des filtres, des vues et des regroupements personnalisés correspondant aux workflows et aux processus de votre organisation grâce aux contrôles de listes des modèles de disposition.
+* Partagez des filtres, des vues et des regroupements personnalisés correspondant aux workflows et aux processus de votre organisation grâce aux contrôles de listes des modèles de mise en page.
 
 * Lors de la création de filtres pour le statut d’un projet, le statut d’une tâche ou le statut d’un problème, utiliser (objet)>>Statut Est égal à Source du champ/nom du champ avec le modificateur Égal, plutôt que Projet>>Statut Source du champ/Nom du champ.
 
@@ -62,28 +68,28 @@ Pour plus d’informations sur la création de rapports avec des invites personn
 
 **Bonne pratique**
 
-Utilisez les contrôles de liste dans les modèles de disposition pour masquer les filtres, les vues et les regroupements inutiles pour les objets couramment utilisés (projets, tâches, programmes, etc.).
+Utilisez les contrôles de liste dans les modèles de mise en page pour masquer les filtres, les vues et les regroupements inutiles pour les objets couramment utilisés (projets, tâches, programmes, etc.).
 
 **Voici pourquoi : **
 
 Simplicité rime avec efficacité. En masquant les options de filtrage, de vues et de regroupements qui ne sont pas pertinentes pour les workflows quotidiens de vos utilisateurs et utilisatrices, vous réduisez la taille des listes, ce qui permet aux utilisateurs et aux utilisatrices de trouver plus rapidement ce dont ils ont besoin.
 
-Pour plus d’informations sur le masquage des filtres, des vues ou des groupes avec des modèles de disposition, voir [Personnaliser les listes de rapports avec des modèles de disposition](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=fr).
+Pour plus d’informations sur le masquage des filtres, des vues ou des groupes avec des modèles de mise en page, voir [Personnaliser les listes de rapports avec des modèles de mise en page](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=fr).
 
 </br>
 </br>
 
 **Bonnes pratiques**
 
-Partagez des filtres, des vues et des regroupements personnalisés correspondant aux workflows et aux processus de votre organisation grâce aux contrôles de listes des modèles de disposition.
+Partagez des filtres, des vues et des regroupements personnalisés correspondant aux workflows et aux processus de votre organisation grâce aux contrôles de listes des modèles de mise en page.
 
 **Voici pourquoi : **
 
-Si vous avez créé des filtres, des vues et des regroupements qui affichent des informations spécifiques aux processus quotidiens des utilisateurs et des utilisatrices, il est facile de les partager grâce aux modèles de disposition. Cela permet de s’assurer que toutes les personnes affectées à ce modèle de disposition disposent des options de filtrage, de vues et de regroupements correspondant à leurs workflows.
+Si vous avez créé des filtres, des vues et des regroupements qui affichent des informations spécifiques aux processus quotidiens des utilisateurs et des utilisatrices, il est facile de les partager grâce aux modèles de mise en page. Cela permet de s’assurer que toutes les personnes affectées à ce modèle de mise en page disposent des options de filtrage, de vues et de regroupements correspondant à leurs workflows.
 
-La personnalisation des informations que vous souhaitez rendre visibles à vos utilisateurs et utilisatrices via les modèles de disposition permet également aux administrateurs et administratrices système et de groupes de gagner du temps, car ceux-ci n’auront pas à partager individuellement chaque filtre, vue ou option de regroupement.
+La personnalisation des informations que vous souhaitez rendre visibles à vos utilisateurs et utilisatrices via les modèles de mise en page permet également aux administrateurs et administratrices système et de groupes de gagner du temps, car ceux-ci n’auront pas à partager individuellement chaque filtre, vue ou option de regroupement.
 
-Pour plus d’informations sur le partage de filtres, de vues ou de groupes avec des modèles de disposition, voir [Personnaliser les listes de rapports avec des modèles de disposition](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=fr).
+Pour plus d’informations sur le partage de filtres, de vues ou de groupes avec des modèles de mise en page, voir [Personnaliser les listes de rapports avec des modèles de mise en page](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=fr).
 
 </br>
 </br>

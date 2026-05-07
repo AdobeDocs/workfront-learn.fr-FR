@@ -7,16 +7,20 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
-workflow-type: ht
-source-wordcount: '774'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 777
+ht-degree: 91%
 
 ---
 
 # En quoi consiste la méthodologie Scrum et comment fonctionne-t-elle ?
 
-La méthodologie Scrum englobe le modèle de flexibilité mais diffère des autres méthodologies en ce sens qu’elle définit les rôles des personnes membres de l’équipe, comme la personne propriétaire du produit, la personne désignée comme maîtresse Scrum, etc. , et des pratiques définies pour définir et terminer le travail.
+La méthode Scrum englobe le modèle de flexibilité, mais se distingue des autres méthodes en ce qu’elle définit des rôles pour les membres de l’équipe (comme le propriétaire du produit, le Principal Scrum, etc.) et des méthodes pour définir et terminer le travail.
 
 ## Vue d’ensemble de l’équipe Scrum
 
@@ -64,7 +68,7 @@ Une fois qu’ils ont créé leurs principales stories, ils doivent préparer le
 
 ### Planification de l’itération
 
-Une fois que la file d’attente a été établie et classée par ordre de priorité, il est temps de planifier l’itération. (De nombreuses organisations utilisent les mots « sprint » et « itération » de manière interchangeable.) L’équipe décide des stories à compléter en fonction des stories qui sont considérées comme prêtes à démarrer. L’équipe effectue des affectations et décide de la durée de l’itération.
+Une fois que la file d’attente a été établie et classée par ordre de priorité, il est temps de planifier l’itération. (De nombreuses organisations utilisent les mots « sprint » et « itération » de manière interchangeable.) L’équipe décide des articles à compléter en fonction des articles considérés comme prêts à l’emploi. L’équipe effectue des affectations et décide de la durée de l’itération.
 
 
 

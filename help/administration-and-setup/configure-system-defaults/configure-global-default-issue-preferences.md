@@ -9,9 +9,15 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '885'
+TQID: https://experienceleague.adobe.com/yTBd9pAA4m4fbXniB-givgEjA5Ble6N6Xv5c1JgM4bc
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 887
 ht-degree: 100%
 
 ---
@@ -33,7 +39,7 @@ Ces paramètres contrôlent ce qui se passe lorsqu’un problème est converti e
 Fenêtre des préférences ![[!UICONTROL Tâches et problèmes] avec la section [!UICONTROL Problèmes] mise en surbrillance](assets/admin-fund-issue-prefs-converting.png).
 
 1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
-1. Développez la section **[!UICONTROL Préférences projet]** dans le panneau de menu gauche.
+1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau de menu gauche.
 1. Sélectionnez **[!UICONTROL Tâches et problèmes]**.
 1. Faites défiler jusqu’à la section **[!UICONTROL Problèmes]**.
 1. Cliquez sur les options de votre choix.
@@ -85,7 +91,7 @@ Il est important de noter que cette préférence contrôle les paramètres de da
 La fenêtre de préférences ![[!UICONTROL Tâches et problèmes] avec la section [!UICONTROL Dates réelles] mise en surbrillance](assets/admin-fund-issue-prefs-actual-dates.png)
 
 1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
-1. Développez la section **[!UICONTROL Préférences projet]** dans le panneau de menu gauche.
+1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau de menu gauche.
 1. Sélectionnez **[!UICONTROL Tâches et problèmes]**.
 1. Faites défiler jusqu’à la section **[!UICONTROL Dates réelles]**.
 1. Sélectionnez l’option de votre choix pour la **[!UICONTROL Date de début effectif]** - [!UICONTROL Maintenant] (date et heure actuelles) ou [!UICONTROL Date de début planifiée] (la [!UICONTROL Date de début effectif] correspond à la date de début définie dans les détails du problème).
@@ -108,7 +114,7 @@ Avant de modifier ces paramètres, discutez de vos éventuels besoins de process
 Fenêtre des préférences des ![[!UICONTROL Tâches et problèmes] avec la section [!UICONTROL Lorsqu’une personne est affectée à un PROBLÈME] mise en surbrillance](assets/admin-fund-issue-prefs-access-1.png)
 
 1. Cliquez sur **[!UICONTROL Configuration]** dans le **[!UICONTROL menu principal]**.
-1. Développez la section **[!UICONTROL Préférences projet]** dans le panneau de menu gauche.
+1. Développez la section **[!UICONTROL Préférences du projet]** dans le panneau de menu gauche.
 1. Sélectionnez **[!UICONTROL Tâches et problèmes]**.
 1. Faites défiler l’écran jusqu’à la section **[!UICONTROL Accès]** et recherchez l’option « [!UICONTROL Lorsqu’une personne est affectée à un PROBLÈME] ».
 1. Définissez le type d’accès pour le problème lui-même : [!UICONTROL Voir], [!UICONTROL Contribuer], ou [!UICONTROL Gérer]. [!DNL Workfront] recommande de laisser les options avancées telles quelles.

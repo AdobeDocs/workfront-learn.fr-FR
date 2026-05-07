@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10929
 exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/dHR6MHjya-MlhyDeL6MJvMPzaIkPpp91zfYe6ebcbL0
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1110'
-ht-degree: 100%
+source-wordcount: 1117
+ht-degree: 96%
 
 ---
 
@@ -25,7 +31,7 @@ En examinant ces recommandations, gardez à l’esprit que certaines des bonnes 
 
 En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
+La zone « Pourquoi ces bonnes pratiques ? », qui se trouve après la liste de haut niveau, fournit plus de détails sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., que vous devez envisager d’implémenter avec votre instance Workfront.
 
 </br>
 </br>
@@ -74,7 +80,7 @@ Lors de la copie d’un projet, définissez le statut du nouveau projet sur Plan
 
 **Voici pourquoi**
 
-Le statut Planification (ou un statut équivalent) empêche les notifications Workfront concernant les affectations, les changements de calendrier, etc. d’être envoyées avant que le projet ne soit prêt. Lors de la copie d’un projet, une boîte de dialogue avec les options du projet s’affiche. Modifiez le statut ici, tout en réglant d’autres options afin que les données ne soient pas copiées du projet d’origine vers la version copiée.
+Le statut Planification (ou un statut équivalent) empêche les notifications Workfront concernant les affectations, les changements de chronologie, etc. d’être envoyées avant que le projet ne soit prêt. Lors de la copie d’un projet, une boîte de dialogue avec les options du projet s’affiche. Modifiez le statut ici, tout en réglant d’autres options afin que les données ne soient pas copiées du projet d’origine vers la version copiée.
 
 </br>
 </br>
@@ -97,7 +103,7 @@ Lorsque cela est possible, utilisez les durées de tâche et les prédécesseurs
 
 **Voici pourquoi**
 
-L’utilisation des durées et des prédécesseurs en conjonction avec des contraintes de tâches flexibles (le plus tôt possible et le plus tard possible) permet de modifier automatiquement les dates du calendrier en « cascade » dans le plan du projet. Par exemple, lorsqu’une durée de tâche augmente d’un jour, cela modifie la date d’achèvement prévue de la tâche, qui à son tour modifie la date d’achèvement des tâches suivantes.
+L’utilisation des durées et des prédécesseurs en conjonction avec des contraintes de tâches flexibles (le plus tôt possible et le plus tard possible) permet de modifier automatiquement les dates de la chronologie en « cascade » dans le plan du projet. Par exemple, lorsqu’une durée de tâche augmente d’un jour, cela modifie la date d’achèvement prévue de la tâche, qui à son tour modifie la date d’achèvement des tâches suivantes.
 
 Si vous sélectionnez des dates de début et d’achèvement spécifiques pour les tâches, la contrainte de tâche devient une contrainte qui verrouille la date (Doit commencer le, Doit se terminer le, Dates fixes), ce qui signifie que vous devez mettre manuellement à jour certaines dates de la chronologie.
 
@@ -153,4 +159,4 @@ Placez les mesures du projet dans la partie supérieure du menu du panneau de ga
 
 **Voici pourquoi**
 
-La plupart des personnes dirigeantes ou cadres et des autres utilisateurs et utilisatrices qui ne gèrent pas de projets ou ne remplissent pas d’affectations de tâches apprécieraient de voir ce niveau de mesures de projet lorsqu’ils ouvrent un projet pour la première fois. Utilisez un modèle de disposition pour déplacer les mesures du projet dans la partie supérieure du menu du panneau de gauche sur une page de projet afin que les personnes puissent les voir et y accéder plus facilement.
+La plupart des personnes dirigeantes ou cadres et des autres utilisateurs et utilisatrices qui ne gèrent pas de projets ou ne remplissent pas d’affectations de tâches apprécieraient de voir ce niveau de mesures de projet lorsqu’ils ouvrent un projet pour la première fois. Utilisez un modèle de mise en page pour déplacer les mesures du projet dans la partie supérieure du menu du panneau de gauche sur une page de projet afin que les personnes puissent les voir et y accéder plus facilement.

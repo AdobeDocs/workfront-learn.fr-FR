@@ -4,13 +4,19 @@ description: Découvrez les bonnes pratiques recommandées par les spécialistes
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
-last-substantial-update: 2024-11-06T00:00:00Z
+last-substantial-update: 2024-11-06T00:00:00.000Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: ht
-source-wordcount: '1182'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/GB0kExlH19phGvui4KUhtsrOk-U2mPGnSrXf-5PerpQ
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 1198
+ht-degree: 96%
 
 ---
 
@@ -220,6 +226,6 @@ Le rôle d’approbation ne permet pas à l’utilisateur ou à l’utilisatrice
 
 **Voici pourquoi : **
 
-Cette option permet d’envoyer une notification par e-mail à chaque fois qu’il se passe quelque chose avec une épreuve : un commentaire est fait, une réponse est publiée, une décision est prise, etc. Le ou la destinataire voit l’activité du BAT au fur et à mesure qu’elle se produit.
+Cette option envoie une notification d’épreuve par e-mail chaque fois qu’un événement se produit avec une épreuve (qu’un commentaire soit posté, qu’une réponse soit publiée, qu’une décision soit prise, etc.). Le destinataire voit essentiellement l’activité de l’épreuve lorsqu’elle se produit.
 
 Pour les propriétaires et créateurs et créatrices de BAT, l’alerte par e-mail Décisions est la plus adaptée aux workflows de BAT en plusieurs étapes et la Décision finale est la plus adaptée aux workflows en une seule étape. En règle générale, tous les autres peuvent être désactivés, à moins qu’ils ne souhaitent être informés des commentaires ou décisions des autres personnes (dans ce cas, l’une des options d’envoi d’un résumé par e-mail peut se révéler plus efficace).

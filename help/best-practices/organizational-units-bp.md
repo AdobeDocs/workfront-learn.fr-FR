@@ -6,10 +6,17 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/r-JHnUp9uBXJskFfm-bTt-2DnaKRoA-6vpiAOEFSBjw
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40cid: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 100%
+source-wordcount: 1446
+ht-degree: 94%
 
 ---
 
@@ -25,7 +32,7 @@ En examinant ces recommandations, gardez à l’esprit que certaines des bonnes 
 
 En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
+La zone « Pourquoi ces bonnes pratiques ? », qui se trouve après la liste de haut niveau, fournit plus de détails sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., que vous devez envisager d’implémenter avec votre instance Workfront.
 
 </br>
 </br>
@@ -51,7 +58,7 @@ La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après 
 
 * Autorisez les équipes d’administration de groupe à créer leurs propres sous-groupes.
 
-* Affectez des modèles de disposition aux équipes d’accueil.
+* Affectez des modèles de mise en page aux équipes d’accueil.
 
 * L’équipe d’accueil d’un utilisateur ou d’une utilisatrice doit être l’équipe avec laquelle il ou elle travaille le plus souvent.
 
@@ -123,7 +130,7 @@ Sélectionnez les personnes ayant une bonne compréhension d’Adobe Workfront 
 
 
 
-Les équipes d’administration de groupes peuvent définir les statuts, modifier les préférences de projet ou créer des profils de feuilles de temps pour les groupes et sous-groupes qu’elles gèrent. Elles peuvent également gérer les utilisateurs et utilisatrices de leurs groupes, ajuster les niveaux d’accès et affecter des modèles de disposition.
+Les équipes d’administration de groupes peuvent définir les statuts, modifier les préférences de projet ou créer des profils de feuilles de temps pour les groupes et sous-groupes qu’elles gèrent. Elles peuvent également gérer les utilisateurs et utilisatrices de leurs groupes, ajuster les niveaux d’accès et affecter des modèles de mise en page.
 
 
 
@@ -227,13 +234,13 @@ Les équipes d’administration de groupe peuvent créer et gérer leurs propres
 
 **Bonne pratique**
 
-Affectez des modèles de disposition aux équipes d’accueil.
+Affectez des modèles de mise en page aux équipes d’accueil.
 
 
 
 **Voici pourquoi**
 
-Il est important de s’assurer que vos équipes sont sur la même longueur d’onde en ce qui concerne le travail. Cela leur permet d’accéder plus facilement aux mêmes rapports et aux mêmes outils. Les modèles de disposition vous permettent de créer cet environnement et d’améliorer, voire d’optimiser, les processus déjà en place pour votre équipe.
+Il est important de s’assurer que vos équipes sont sur la même longueur d’onde en ce qui concerne le travail. Cela leur permet d’accéder plus facilement aux mêmes rapports et aux mêmes outils. Les modèles de mise en page vous permettent de créer cet environnement et d’améliorer, voire d’optimiser, les processus déjà en place pour votre équipe.
 
 </br>
 </br>
@@ -246,7 +253,7 @@ Utilisez des unités organisationnelles plus importantes pour partager des élé
 
 **Voici pourquoi**
 
-Utiliser une entité organisationnelle plus grande, telle que des groupes et des équipes, lors du partage d’éléments dans Workfront : projets, rapports, etc.- permet de partager rapidement et facilement l’objet avec un groupe de personnes sélectionnées en même temps. L’ajout de noms d’utilisateurs ou d’utilisatrices individuels à la fenêtre de partage peut être fastidieux et chronophage.
+L’utilisation d’une entité organisationnelle plus grande, telle que des groupes et des équipes lors du partage d’éléments dans Workfront (projets, rapports, etc.), signifie que vous pouvez partager rapidement et facilement l’objet avec un ensemble sélectionné de personnes en même temps. L’ajout de noms d’utilisateurs ou d’utilisatrices individuels à la fenêtre de partage peut être fastidieux et chronophage.
 
 
 

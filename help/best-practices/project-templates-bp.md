@@ -6,10 +6,17 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: d39151288d8b749940c5183063392ee471769445
+TQID: https://experienceleague.adobe.com/YgDpAAcQTEDQh-Q1iOV8lledME9-M3bfjV3A5Yu6A2s
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40cid: d968a1bc-9a90-4926-a531-bcf272c32aadid: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 100%
+source-wordcount: 1841
+ht-degree: 97%
 
 ---
 
@@ -69,7 +76,7 @@ Utilisez des modèles lors de la création de projets.
 
 **Voici pourquoi : **
 
-Les modèles de projet permettent aux personnes chargées de la gestion de projet (et aux autres personnes qui créent des projets) de ne plus avoir à se poser de questions sur les tâches que doit contenir un projet, sur la manière de structurer le calendrier, etc. Les modèles constituent le moyen le plus efficace d’accélérer la création de projet.
+Les modèles de projet éliminent les conjectures des chefs de projet (et des autres personnes créant des projets) sur les tâches qu’un projet doit contenir, comment structurer la chronologie, etc. Les modèles sont le moyen le plus efficace d’accélérer la création de projets.
 
 Il est important de noter que les modèles assurent la cohérence entre les projets de même type, de sorte que les personnes, les processus et les points de données sont détaillés de la même manière à chaque fois. Même les projets dont les délais d’exécution sont rapides (un ou deux jours) et les tâches minimes peuvent être créés à l’aide de modèles de projet.
 
@@ -136,7 +143,7 @@ En outre, les fonctions sont utilisées par les outils de planification des ress
 
 **Voici pourquoi : **
 
-Des modèles de projet trop compliqués sont une mauvaise expérience pour les utilisateurs et les utilisatrices (personnes chargées de la gestion de projet et de la gestion de ressources, personnes membres de l’équipe, etc). Un trop grand nombre de tâches rend le calendrier du projet difficile à gérer, avec des échéances qui se chevauchent et des tâches multiples attribuées aux mêmes fonctions ou aux mêmes personnes.
+Des modèles de projet trop compliqués sont une mauvaise expérience pour les utilisateurs et les utilisatrices (personnes chargées de la gestion de projet et de la gestion de ressources, personnes membres de l’équipe, etc). Un trop grand nombre de tâches rend la chronologie du projet difficile à gérer, avec des échéances qui se chevauchent et des tâches multiples attribuées aux mêmes fonctions ou aux mêmes personnes.
 
 
 </br>
@@ -159,7 +166,7 @@ Assurez-vous que les tâches de modèle incluent les durées de tâche, les heur
 
 **Voici pourquoi : **
 
-Ces trois éléments (les durées, le nombre d’heures prévues et les personnes ayant travaillé sur la tâche par le passé) sont les éléments constitutifs du calendrier du projet. Ces éléments sont essentiels pour savoir combien de temps durera le travail et quand il devra être effectué. Les outils de gestion des ressources de Workfront utilisent les durées et le nombre d’heures prévues, ainsi que les attributions de fonctions, afin de calculer la capacité des ressources, leur disponibilité et bien plus encore.
+Ces trois éléments (les durées, le nombre d’heures prévues et les personnes ayant travaillé sur la tâche par le passé) sont les éléments constitutifs de la chronologie du projet. Ces éléments sont essentiels pour savoir combien de temps durera le travail et quand il devra être effectué. Les outils de gestion des ressources de Workfront utilisent les durées et le nombre d’heures prévues, ainsi que les attributions de fonctions, afin de calculer la capacité des ressources, leur disponibilité et bien plus encore.
 
 Si vous ne savez pas comment estimer les durées ou le nombre d’heures prévues pour la première fois, travaillez avec l’équipe du projet pour définir des estimations initiales. Une fois le modèle utilisé, rencontrez à nouveau l’équipe de projet pour déterminer les modifications à apporter afin de rendre le modèle plus précis. Si les personnes enregistrent leur temps dans Workfront, vous pouvez comparer le nombre d’heures prévues d’un projet avec les heures effectives pour voir où des ajustements sont nécessaires.
 
@@ -230,7 +237,7 @@ Lorsque vous ajustez l’option Mode planning sur un modèle, passez en revue et
 
 **Voici pourquoi : **
 
-Le mélange de différentes contraintes de tâches sur un projet peut entraîner des calculs de dates planifiées inattendus et déroutants. Par exemple, lorsque la date de début est sélectionnée pour l’option Mode planning, toutes les tâches créées dans ce projet se voient attribuer par défaut la contrainte de tâche Dès que possible. Si vous remplacez ensuite l’option Mode planning par Date d’achèvement, toutes les tâches créées sont assorties par défaut d’une contrainte de tâche Le plus tard possible. Le mélange involontaire de tâches soumises à chacune de ces contraintes peut entraîner une confusion au niveau des dates prévues dans le calendrier du projet.
+Le mélange de différentes contraintes de tâches sur un projet peut entraîner des calculs de dates planifiées inattendus et déroutants. Par exemple, lorsque la date de début est sélectionnée pour l’option Mode planning, toutes les tâches créées dans ce projet se voient attribuer par défaut la contrainte de tâche Dès que possible. Si vous remplacez ensuite l’option Mode planning par Date d’achèvement, toutes les tâches créées sont assorties par défaut d’une contrainte de tâche Le plus tard possible. Le mélange involontaire de tâches soumises à chacune de ces contraintes peut entraîner une confusion au niveau des dates prévues dans la chronologie du projet.
 
 Pour mieux comprendre les contraintes de tâche et leur utilisation, voir [Comprendre et gérer les types de durée et les contraintes de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=fr).
 

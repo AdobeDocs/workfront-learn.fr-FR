@@ -6,10 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10917
 exl-id: 5e172ad5-7e75-41cd-bce0-858095d13c6c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/kU9gZR9UZ4q2XwgiWeB-Wql7rCp8Pbv1XKeKsldi7HU
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 100%
+source-wordcount: 433
+ht-degree: 90%
 
 ---
 
@@ -25,7 +29,7 @@ En examinant ces recommandations, gardez à l’esprit que certaines des bonnes 
 
 En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
+La zone « Pourquoi ces bonnes pratiques ? », qui se trouve après la liste de haut niveau, fournit plus de détails sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., que vous devez envisager d’implémenter avec votre instance Workfront.
 
 </br>
 </br>
@@ -50,4 +54,4 @@ L’environnement de prévisualisation des sandbox sert de réplique à votre en
 La réalisation de tests d’acceptation par les utilisateurs (UAT) et l’implication d’utilisateurs sélectionnés pendant la phase de test d’une modification peuvent vous aider à mieux comprendre les workflows et les besoins de vos utilisateurs et utilisatrices. Il s’agit d’un excellent moyen d’améliorer les workflows et l’adoption de Workfront au sein de votre organisation.
 
 
-**Note** : chaque modification que vous souhaitez apporter dans Workfront ne doit pas nécessairement être créée dans l’environnement de prévisualisation des sandbox au préalable. De nombreuses modifications de Workfront, comme la création d’une nouvelle file d’attente des demandes ou d’un nouveau modèle de projet, peuvent être effectuées dans l’environnement de production. Une bonne règle à suivre lors des tests dans l’instance de production est de contrôler la visibilité de vos objets jusqu’à ce que vous soyez au point pour les publier auprès d’un plus grand nombre de personnes. Veillez à supprimer tout ce que vous n’avez pas l’intention d’utiliser afin que le système reste propre et gérable.
+**Note** : chaque modification que vous souhaitez apporter dans Workfront ne doit pas nécessairement être créée dans l’environnement de prévisualisation des sandbox au préalable. De nombreuses modifications de Workfront, comme la création d’une nouvelle file d’attente des demandes ou d’un nouveau modèle de projet, peuvent être effectuées dans l’environnement de production. Une bonne règle à suivre lors des tests dans l’instance de production est de contrôler la visibilité de vos objets jusqu’à ce que vous soyez au point pour les publier auprès d’une audience plus large. Veillez à supprimer tout ce que vous n’avez pas l’intention d’utiliser afin que le système reste propre et gérable.

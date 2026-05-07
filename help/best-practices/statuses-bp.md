@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10926
 exl-id: c3a4fe42-339c-4063-ad67-045868bbc6b1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/Kn7jpCG-G7sEt6kKykK0MBlFTHkiXUqVC6mrodKm-rA
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 100%
+source-wordcount: 591
+ht-degree: 87%
 
 ---
 
@@ -25,7 +31,7 @@ En examinant ces recommandations, gardez à l’esprit que certaines des bonnes 
 
 En parcourant cette page, vous trouverez d’abord une liste détaillée de toutes les bonnes pratiques pour ce sujet. Cela vous permet d’examiner les recommandations sans entrer dans les détails du « pourquoi ».
 
-La zone « Pourquoi s’agit-il de bonnes pratiques ? » qui se trouve après la liste détaillée, fournit plus de détails sur certaines des bonnes pratiques et sur les raisons pour lesquelles elles sont considérées comme un processus, un outil, etc. que vous devriez envisager de mettre en place avec votre instance Workfront.
+La zone « Pourquoi ces bonnes pratiques ? », qui se trouve après la liste de haut niveau, fournit plus de détails sur certaines des bonnes pratiques et pourquoi elles sont considérées comme un processus, un outil, etc., que vous devez envisager d’implémenter avec votre instance Workfront.
 
 </br>
 </br>
@@ -103,4 +109,4 @@ N’utilisez pas les statuts du projet à la place des tâches pour indiquer la 
 
 **Voici pourquoi**
 
-Les statuts des projets doivent être simples et indiquer des phases de progression importantes, comme Planification, En cours, Terminé, etc. Les tâches, leur statut et leur pourcentage terminé vous indiquent le statut d’avancement général du projet. Ces indicateurs au niveau des tâches sont repris dans le pourcentage terminé du projet, le statut du projet et le statut de la progression du projet, qui sont tous de meilleurs indicateurs plus précis dans la progression du projet que le statut d’avancement du projet. En outre, ces informations au niveau de la tâche fournissent de meilleurs rapports sur les projets.
+Simplifiez les statuts de projet pour indiquer les phases de progression de haut niveau, telles que Planification, Actuel, Terminé, etc. Laissez les tâches, les statuts des tâches et le pourcentage d&#39;achèvement de la tâche vous informer de la progression globale du projet. Ces indicateurs au niveau des tâches sont repris dans le pourcentage terminé du projet, le statut du projet et le statut de la progression du projet, qui sont tous de meilleurs indicateurs plus précis dans la progression du projet que le statut d’avancement du projet. En outre, ces informations au niveau de la tâche fournissent de meilleurs rapports sur les projets.

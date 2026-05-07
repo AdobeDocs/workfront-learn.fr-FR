@@ -9,9 +9,15 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
-workflow-type: ht
-source-wordcount: '321'
+TQID: https://experienceleague.adobe.com/twVXujg-A2HhqTJAPyGB4E7ER59CcV7Prubge9OV2Cs
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 323
 ht-degree: 100%
 
 ---
@@ -55,8 +61,8 @@ Customize default issue types
 
 ## Modifier le terme « problème » dans Workfront
 
-Certaines organisations utilisent un terme autre que celui de « problème » pour désigner des éléments de travail non planifiés. « Problème » est le terme par défaut et apparaît dans tout le logiciel - menus, rapports, noms de champs, etc.
-Les équipes d’administration de Workfront peuvent utiliser la fonctionnalité de modèle de disposition pour renommer l’élément Problème afin qu’il corresponde à la terminologie de leur organisation. Le nouveau terme apparaît ensuite partout sur [!DNL Workfront] pour les personnes affectées au modèle de disposition.
+Certaines organisations utilisent un terme autre que celui de « problème » pour désigner des éléments de travail non planifiés. « Problème » est le terme par défaut et apparaît dans tout le logiciel - menus, rapports, noms de champ, etc.
+Les équipes d’administration de Workfront peuvent utiliser la fonctionnalité de modèle de mise en page pour renommer l’élément Problème afin qu’il corresponde à la terminologie de leur organisation. Le nouveau terme apparaît ensuite partout sur [!DNL Workfront] pour les personnes affectées au modèle de mise en page.
 
 Fenêtre ![[!UICONTROL Terminologie] avec [!UICONTROL Problème] en surbrillance](assets/admin-fund-issue-custom-terminology.png)
 
@@ -64,7 +70,7 @@ Fenêtre ![[!UICONTROL Terminologie] avec [!UICONTROL Problème] en surbrillance
 paragraph below needs a hyperlink
 -->
 
-Découvrez comment les équipes d’administration de système et de groupe peuvent créer des modèles de disposition dans le parcours de formation, Principes fondamentaux de l’administrateur ou l’administratrice dans la nouvelle expérience [!DNL Workfront] : Expérience du contrôle et de l’interface - partie 3.
+Découvrez comment les équipes d’administration de système et de groupe peuvent créer des modèles de mise en page dans le parcours de formation, Principes fondamentaux de l’administrateur ou l’administratrice dans la nouvelle expérience [!DNL Workfront] : Expérience du contrôle et de l’interface - partie 3.
 
 <!--
 learn more URLs
