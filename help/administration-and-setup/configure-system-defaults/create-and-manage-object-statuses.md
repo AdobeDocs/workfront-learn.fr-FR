@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Découvrez comment créer et gérer des statuts de système et de groupe pour les objets et les workflows Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451851/?captions=fre_fr&learn=on)

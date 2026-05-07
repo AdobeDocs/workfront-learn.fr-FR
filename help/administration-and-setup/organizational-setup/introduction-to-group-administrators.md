@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Découvrez comment les équipes d’administration système peuvent tirer parti des administrateurs et administratrices de groupes afin de gérer efficacement les paramètres et de permettre aux groupes de mieux contrôler leurs processus de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439325/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 

@@ -41,7 +41,7 @@ ht-degree: 38%
 
 Découvrez où le type de revenus et les types de coûts sont utilisés et comment configurer les valeurs par défaut du système.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484182/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

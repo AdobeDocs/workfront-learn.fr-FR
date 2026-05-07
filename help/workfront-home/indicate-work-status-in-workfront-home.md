@@ -34,7 +34,7 @@ Dans cette vidéo, vous apprendrez :
 * L’objectif du statut dans [!DNL  Workfront]
 * Modification du statut des affectations de travail
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443432/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Démarrer et travailler
 

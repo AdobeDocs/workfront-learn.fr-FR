@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez à créer une itération et à cocher/décocher des stories pour une itération.
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412191/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

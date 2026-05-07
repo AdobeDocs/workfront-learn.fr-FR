@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez à :
 * Approuver ou refuser le travail
 * Vérifier une épreuve
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447909/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLs

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Découvrez comment réorganiser, copier, archiver, supprimer et déconnecter des cartes dans un panorama.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422919/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

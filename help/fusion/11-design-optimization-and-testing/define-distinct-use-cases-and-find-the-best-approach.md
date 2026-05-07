@@ -44,7 +44,7 @@ Dans cette vidéo, vous apprendrez à :
 * Déterminer la conception adaptée aux performances élevées
 * Remettre en question les hypothèses et donner les meilleurs conseils aux parties prenantes
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418197/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Vous voulez en savoir plus ? Nous recommandons ce qui suit :
 

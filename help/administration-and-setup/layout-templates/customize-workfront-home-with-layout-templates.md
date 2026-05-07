@@ -33,7 +33,7 @@ ht-degree: 100%
 
 Découvrez comment personnaliser la zone [!UICONTROL Accueil] de vos utilisateurs et utilisatrices pour accéder au travail de façon simple et rapide, le suivre, l’approuver et le mettre à jour.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432789/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -48,4 +48,4 @@ Dans cette vidéo, vous apprendrez à :
 * Supprimer des éléments de l’[!UICONTROL Accueil]
 * Ajouter des éléments à l’[!UICONTROL Accueil]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432320/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

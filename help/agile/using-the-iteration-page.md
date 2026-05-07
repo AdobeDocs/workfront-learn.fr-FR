@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Découvrez comment lire la barre d’état d’itération, rechercher et lire le graphique d’avancement, mais aussi afficher et déplacer des articles dans le storyboard d’itération.
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412178/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

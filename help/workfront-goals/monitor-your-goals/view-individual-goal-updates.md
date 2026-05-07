@@ -31,7 +31,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Consultez vos objectifs individuels dans le flux de mise à jour [!UICONTROL Impression].
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415928/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Filtrer les informations dans votre flux Impression
 

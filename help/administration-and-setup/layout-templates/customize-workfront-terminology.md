@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez à définir la terminologie à l’aide d’un modèle de mise en page.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445476/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

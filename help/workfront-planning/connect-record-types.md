@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Découvrez comment connecter des types d’enregistrements dans la planification Workfront pour simplifier les workflows, améliorer la clarté et renforcer la responsabilité et l’efficacité des équipes. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463800/?captions=fre_fr&learn=on&enablevpops=1)

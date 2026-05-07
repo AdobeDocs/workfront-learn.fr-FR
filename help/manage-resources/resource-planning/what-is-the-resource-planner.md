@@ -37,4 +37,4 @@ Pour véritablement responsabiliser les personnes, les responsables doivent plan
 Toutefois, cette tâche peut être un peu plus facile avec le planificateur de ressources de Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437256/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

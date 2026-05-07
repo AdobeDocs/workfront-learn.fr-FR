@@ -39,7 +39,7 @@ Dans cette vidéo, vous apprendrez à :
 * Associer un groupe
 * Créer et associer des sous-groupes
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432866/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Administrateurs et administratrices de groupe
 
