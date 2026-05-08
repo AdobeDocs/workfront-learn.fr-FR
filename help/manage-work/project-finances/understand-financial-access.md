@@ -39,7 +39,7 @@ ht-degree: 76%
 La vidéo explique le rôle d’un administrateur système dans la gestion de l’accès aux informations financières au sein de Workfront. &#x200B; L’administrateur contrôle l’accès par le biais des niveaux d’accès&#x200B;
 La vidéo souligne que les personnes peuvent uniquement utiliser leur accès financier pour des projets qu’elles créent ou pour des projets qu’un tiers ayant un accès financier a partagés avec elles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484930/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
