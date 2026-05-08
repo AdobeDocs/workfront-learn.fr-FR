@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriels Workfront
 user-guide-description: Une bibliothèque de vidéos de formation et d’articles conçus pour vous aider à mieux comprendre les fonctionnalités et les paramètres de Workfront.
-source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: '2508'
+source-wordcount: '2680'
 ht-degree: 78%
 
 ---
@@ -78,6 +78,7 @@ ht-degree: 78%
       + [Configurer les valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Configurer les taux de change](/help/manage-work/project-finances/set-up-exchange-rates.md)
       + [Configurer les types de dépenses](/help/manage-work/project-finances/set-up-expense-types.md)
+      + [Créer des fonctions et des cartes tarifaires](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
       + [Comprendre l’accès financier](/help/manage-work/project-finances/understand-financial-access.md)
 
 
@@ -161,7 +162,7 @@ ht-degree: 78%
       + [Optimisation des priorités de projet avec l’outil Portfolio Optimization](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processus d’approbation et chemins de jalon {#approval-processes-and-milestone-paths}
-      + [Créer et gérer des processus d’approbation](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Créer et gérer des processus de validation](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Appliquer un processus d’approbation des problèmes dans une file d’attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Examiner et approuver les travaux numériques](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Déléguer efficacement les tâches, événements et approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
@@ -340,10 +341,10 @@ ht-degree: 78%
       + [Utiliser les plug-in d’Adobe Workfront pour l’intégration à Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configurer l’intégration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr)
-      + [Mapper les métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=fr)
+      + [Configuration de l&#39;intégration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr)
+      + [Mappage des métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=fr)
       + [Envoi de documents et liaison de ressources](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=fr)
-      + [Maintenir l’historique des versions](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=fr)
+      + [Gestion de l’historique des versions](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=fr)
 
    + G Suite {#g-suite-integrations}
       + [Améliorer votre workflow avec l’intégration G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -355,13 +356,13 @@ ht-degree: 78%
       + [Installer le module complémentaire Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Vue d’ensemble d’Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=fr)
-      + [Installation d’Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=fr)
-      + [Accès à Adobe Workfront à partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=fr)
-      + [Recherche et partage d’éléments Adobe Workfront dans Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=fr)
-      + [Création de tâches Adobe Workfront à partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=fr)
-      + [Envoi de demandes Adobe Workfront à partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=fr)
-      + [Gestion des notifications Adobe Workfront dans Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=fr)
+      + [Vue d’ensemble d’Adobe Workfront pour Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=fr)
+      + [Installer Adobe Workfront pour Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=fr)
+      + [Accéder à Adobe Workfront à partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=fr)
+      + [Rechercher et partager des éléments Adobe Workfront dans Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=fr)
+      + [Créer des tâches Adobe Workfront à partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=fr)
+      + [Soumettre des requêtes Adobe Workfront à partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=fr)
+      + [Gérer des notifications Adobe Workfront dans Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=fr)
 
    + Slack {#slack}
       + [Comprendre Workfront pour [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)

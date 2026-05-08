@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:17.520Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 172
-ht-degree: 100%
+source-wordcount: 178
+ht-degree: 96%
 
 ---
 
@@ -52,3 +52,4 @@ La vidéo explique comment gérer les types de dépenses dans Workfront, en se c
 * [Configurer les valeurs par défaut des revenus et des coûts d’une tâche](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [Configurer les taux de change](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Comprendre l’accès financier](/help/manage-work/project-finances/understand-financial-access.md)
+* [Créer des fonctions et des cartes tarifaires](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
