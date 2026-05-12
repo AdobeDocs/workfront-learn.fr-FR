@@ -10,24 +10,19 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2026-05-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 36eba67de4075935d1162cab84d8dc4c984eba48
 workflow-type: tm+mt
-source-wordcount: 170
-ht-degree: 12%
+source-wordcount: 217
+ht-degree: 10%
 
 ---
 
@@ -44,7 +39,8 @@ La vidéo explique comment gérer et personnaliser les taux de facturation des f
 * **Taux de facturation par défaut :** l’administrateur système définit un taux de facturation par défaut pour chaque fonction, mais il peut être personnalisé pour des projets individuels. &#x200B;
 * **Flexibilité des taux de facturation :** vous pouvez créer plusieurs taux de facturation pour la même fonction au sein d’un projet, ce qui permet des ajustements personnalisés. &#x200B;
 * **Taux spécifiques à la période :** les taux de facturation peuvent être définis pour des périodes spécifiques en ajoutant des dates de début et de fin, afin de garantir une application précise des taux pendant les différentes phases du projet. &#x200B;
-* **Personnalisation facile :** les modifications apportées aux taux de facturation sont simples : sélectionnez la fonction, saisissez le nouveau taux et enregistrez les mises à jour directement depuis l’onglet « Taux de facturation ». &#x200B;
+* **Personnalisation facile :** les modifications apportées aux taux de facturation sont simples : sélectionnez la fonction, saisissez le nouveau taux et enregistrez les mises à jour directement depuis l’onglet « Taux ». &#x200B;
+* **Joindre une carte tarifaire :** il est facile de joindre une carte tarifaire si quelqu’un en a préparé une pour le groupe et l’entreprise dans lesquels se trouve votre projet. Une fois joints, vous ne pouvez modifier aucun des taux de facturation dans la carte tarifaire, mais vous pouvez toujours les remplacer dans votre projet.
 
 ## Tutoriels recommandés sur cette rubrique
 
