@@ -35,7 +35,7 @@ ht-degree: 13%
 La vidéo explique comment créer une fonction et une carte tarifaire, ainsi que comment joindre et supprimer une carte tarifaire d’un projet.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486520/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
