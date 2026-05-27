@@ -25,4 +25,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Convertir une activité en objectif aligné
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416523/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
