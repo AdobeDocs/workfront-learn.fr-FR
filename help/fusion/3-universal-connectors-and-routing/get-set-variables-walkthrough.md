@@ -39,7 +39,7 @@ Recherchez des informations sur un projet dans Workfront et envoyez un e-mail co
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417273/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## À vous

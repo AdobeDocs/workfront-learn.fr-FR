@@ -22,7 +22,7 @@ ht-degree: 0%
 Cette vidéo souligne l’importance d’utiliser des lignes de base, des instantanés et des rapports envoyés pour assurer un suivi de projet efficace, une analyse historique et une communication avec les parties prenantes.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483619/?captions=fre_fr&quality=12&learn=on&enablevpops)
 
 ## Points essentiels à retenir
 

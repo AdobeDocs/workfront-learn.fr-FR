@@ -38,7 +38,7 @@ Pour les approbations, les utilisateurs peuvent les déléguer via le widget « 
 Les approbations déléguées sont marquées dans le système, indiquant qui les a déléguées et à qui. &#x200B; Les mises à jour liées aux validations apparaissent dans l&#39;onglet Mise à jour et l&#39;activité du système est visualisable dans l&#39;onglet Activité du système . &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446378/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
