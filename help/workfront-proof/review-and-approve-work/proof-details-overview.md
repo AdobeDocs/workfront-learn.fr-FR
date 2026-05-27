@@ -1,6 +1,6 @@
 ---
 title: Comprendre les détails du BAT
-description: Découvrez plus en détail les spécificités d’un BAT dans [!DNL &#x200B; Workfront] par le biais du panneau de résumé et de la page [!UICONTROL Détails du document].
+description: Découvrez plus en détail les spécificités d’un BAT dans [!DNL  Workfront] par le biais du panneau de résumé et de la page [!UICONTROL Détails du document].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,16 +10,11 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2:
-  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:56:45.995Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -58,7 +53,7 @@ Pour plus d’informations sur l’épreuve, cliquez sur [!UICONTROL Détails du
 
 Vous accédez ainsi à la page [!UICONTROL Détails du document] et à diverses options supplémentaires dans le panneau de gauche.
 
-![Une image de la page du BAT dans [!DNL &#x200B; Workfront].](assets/document-details.png)
+![Une image de la page du BAT dans [!DNL  Workfront].](assets/document-details.png)
 
 Notez que la possibilité d’afficher les informations relatives au processus de relecture dépend de vos autorisations de relecture dans [!DNL Workfront].
 
@@ -83,7 +78,7 @@ Ces paramètres vous aident à contrôler l’accès au BAT lui-même.
 * **[!UICONTROL Verrouiller le BAT lorsque toutes les décisions requises ont été prises] -** Ceci verrouille le BAT contre tout autre commentaire, réponse, décision, etc., une fois que toutes les décisions relatives au BAT ont été prises. Cela verrouille toute la version du BAT, et pas seulement une étape spécifique du workflow de relecture.
 * **[!UICONTROL Autoriser le téléchargement du fichier d’origine] :** les destinataires de l’épreuve peuvent télécharger le fichier source d’origine de l’épreuve depuis la visionneuse d’épreuve.
 * **[!UICONTROL Autoriser le partage du BAT via une URL publique ou un code intégré] -** Les destinataires du BAT peuvent partager avec n’importe qui un lien accessible au public.
-* **[!UICONTROL Autoriser l’abonnement à un BAT via une URL publique ou un code intégré &#x200B;]-** Toute personne qui reçoit l’URL publique peut s’ajouter au BAT avec son adresse e-mail et son nom (si elle n’est pas utilisatrice du BAT) ou son adresse e-mail et son mot de passe de relecture (si elle est utilisatrice du BAT). (Note : le mot de passe de relecture n’est pas le même qu’un mot de passe [!DNL Workfront].)
+* **[!UICONTROL Autoriser l’abonnement à un BAT via une URL publique ou un code intégré ]-** Toute personne qui reçoit l’URL publique peut s’ajouter au BAT avec son adresse e-mail et son nom (si elle n’est pas utilisatrice du BAT) ou son adresse e-mail et son mot de passe de relecture (si elle est utilisatrice du BAT). (Note : le mot de passe de relecture n’est pas le même qu’un mot de passe [!DNL Workfront].)
 
 
 ### [!UICONTROL Activité de relecture]
