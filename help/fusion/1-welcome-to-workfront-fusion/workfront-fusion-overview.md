@@ -12,16 +12,11 @@ jira: KT-11035
 last-substantial-update: '2026-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:48:52.918Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -48,7 +43,7 @@ Dans certains tutoriels, vous créerez un scénario à partir de zéro. Dans d�
 
 Pour suivre les exercices des tutoriels de formation Workfront Fusion, vous aurez besoin d’un environnement d’activation de Workfront, également appelé « **Workfront Test Drive »** tout au long de cette formation. Si vous disposez déjà d’un lecteur de test, nous vous en recommandons un nouveau pour cette formation.
 
-Demandez un test en remplissant [ce formulaire](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). Lorsque vous remplissez le formulaire, il vous sera demandé de fournir votre e-mail de profil de certification **&#x200B;**. Si vous n’en avez pas déjà un, accédez au site Certification [&#128279;](https://certification.adobe.com/#) puis créez un profil utilisateur.
+Demandez un test en remplissant [ce formulaire](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). Lorsque vous remplissez le formulaire, il vous sera demandé de fournir votre e-mail de profil de certification ****. Si vous n’en avez pas déjà un, accédez au site Certification [](https://certification.adobe.com/#) puis créez un profil utilisateur.
 
 ### Accéder à Workfront Fusion pour l’entraînement
 
@@ -74,4 +69,4 @@ Les instructions pas à pas sont fournies pour vous aider à accomplir les exerc
 
 [Documentation de Workfront Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Il existe également une [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=fr) où vous pouvez poser des questions.
+Il existe également une [Communauté Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) où vous pouvez poser des questions.
