@@ -40,7 +40,7 @@ Dans cette vidéo, vous apprendrez :
 * Des méthodes d’ajout et de suppression de tâches
 * Comment modifier l’ordre des tâches
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448558/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriels recommandés sur cette rubrique
 

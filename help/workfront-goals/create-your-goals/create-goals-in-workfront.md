@@ -47,7 +47,7 @@ Dans cette vidéo, vous apprendrez à :
 
 * Accédez à la section [!UICONTROL Liste des objectifs] pour ajouter un objectif.
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412618/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Copier un objectif existant
 
@@ -104,5 +104,5 @@ Dans cette vidéo, vous apprendrez à :
 
 * Ajouter une activité et la convertir en objectif aligné
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416523/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
