@@ -12,11 +12,16 @@ jira: KT-8862
 last-substantial-update: '2026-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:51.376Z'
 source-git-commit: f6c4afc6e1984ef0af8f80e052766f90de7a8655
 workflow-type: tm+mt
@@ -130,7 +135,7 @@ Utilisez un rapport « tâche ouverte » existant, filtré par une équipe, si v
 
 1. En affichant le rapport que vous venez de créer, cliquez sur **[!UICONTROL Actions du rapport] > [!UICONTROL Copier]**.
 1. Le nouveau rapport s’affiche avec le nom **»(Copier) »** ajouté dans le titre.
-1. Cliquez sur **[!UICONTROL Actions du rapport ] > [!UICONTROL Modifier]**. Ensuite, modifiez le filtre et le titre du rapport pour vous concentrer sur l’équipe Orion (ou toute autre équipe).
+1. Cliquez sur **[!UICONTROL Actions du rapport &#x200B;] > [!UICONTROL Modifier]**. Ensuite, modifiez le filtre et le titre du rapport pour vous concentrer sur l’équipe Orion (ou toute autre équipe).
 1. Cliquez sur l’onglet [!UICONTROL Filtres], puis modifiez la règle de filtrage
    **[!UICONTROL Tâche] > [!UICONTROL Identifiant de l’équipe] > [!UICONTROL Égal] > « Creative »** à
    **[!UICONTROL Tâche] > [!UICONTROL ID d’équipe] > [!UICONTROL Égal] > « Orion »**
