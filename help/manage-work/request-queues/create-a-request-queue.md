@@ -13,22 +13,16 @@ jira: KT-8958
 last-substantial-update: '2024-08-05T00:00:00.000Z'
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:42.290Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 19%
+source-wordcount: 192
+ht-degree: 38%
 
 ---
 
@@ -38,17 +32,17 @@ La vidéo fournit un guide détaillé sur la création d’une file d’attente 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
-## Points essentiels à retenir
+## Points clés à retenir
 
 * **Création d’une file d’attente des demandes :** commencez par créer un projet et par le nommer, qui servira ultérieurement de file d’attente des demandes. &#x200B; Veillez à cocher la case « Publier en tant que file d’attente des demandes d’aide » pour la désigner officiellement comme une file d’attente. &#x200B;
-* **Autorisations d’accès :** permet de définir qui peut envoyer des demandes à la file d’attente en choisissant parmi quatre options : tout le monde, les observateurs de projet, les membres de la société ou les membres du groupe. &#x200B;
+* **Autorisations d’accès :** définissez qui peut envoyer des demandes à la file d’attente en choisissant parmi quatre options : tout le monde, les observateurs et observatrices du projet, les membres de l’entreprise ou les membres du groupe.
 * **Types de requête :** personnalisez la file d’attente pour inclure des types de requête spécifiques, tels que les problèmes, les rapports de bogue, les ordres de modification ou les requêtes générales. &#x200B; L’option par défaut est « événements ». &#x200B;
-* **Champs personnalisables :** définissez des détails supplémentaires tels que le temps de réponse par défaut, les autorisations et d’autres caractéristiques de file d’attente pour adapter ses fonctionnalités. &#x200B;
+* **Champs personnalisables :** définissez des détails supplémentaires tels que le temps de réponse par défaut, les autorisations et d’autres caractéristiques de file d’attente pour adapter ses fonctionnalités.
 * **Activation de la file d’attente :** enregistrez les paramètres et définissez le statut du projet sur « actuel » pour activer la file d’attente. &#x200B; Testez sa fonctionnalité en soumettant une demande et en la vérifiant dans l’onglet « demandes soumises ».
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Comprendre les files d’attente de demandes](/help/manage-work/request-queues/understand-request-queues.md)
-* [Comprendre les paramètres d’un flux de demandes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [Créer un flux de demandes](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Explorer les files d’attente de demandes dans Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Organiser les paramètres de flux de demandes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Création d’un flux de demandes dans Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 

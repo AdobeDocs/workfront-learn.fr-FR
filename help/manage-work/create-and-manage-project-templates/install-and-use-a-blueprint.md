@@ -11,10 +11,11 @@ last-substantial-update: 2026-2-12
 recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 24%
+ht-degree: 45%
 
 ---
 
@@ -23,7 +24,7 @@ ht-degree: 24%
 Découvrez comment un administrateur installe un plan directeur et comment un utilisateur le met en œuvre. Dans cet exemple, nous allons installer le plan directeur « Formation Workfront pour les nouveaux utilisateurs » et utiliser les modèles et les vues qu’il crée comme liste de contrôle de formation pour aider les utilisateurs à utiliser Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479836/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
 
 ## Points clés à retenir
 
@@ -34,9 +35,9 @@ Découvrez comment un administrateur installe un plan directeur et comment un ut
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Créer un modèle de projet et explorer les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Créer un projet directement à partir d’un modèle](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Partager un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copier un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Partager efficacement un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copier efficacement un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Modifier l&#39;équipe du projet dans un modèle](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

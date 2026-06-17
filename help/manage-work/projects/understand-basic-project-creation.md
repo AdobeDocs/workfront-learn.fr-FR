@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: 169
-ht-degree: 74%
+ht-degree: 67%
 
 ---
 
@@ -36,7 +31,7 @@ ht-degree: 74%
 Cette vidéo explique comment créer et gérer un projet à partir de zéro. &#x200B; Il commence par la création d’un projet, son changement de nom et la définition d’un objectif avec une description, une date de début et une date d’achèvement cible. Les projets peuvent être divisés en tâches, qui sont des travaux planifiés avec des durées et des affectations estimées. &#x200B; tâches peuvent être séquencées à l&#39;aide de prédécesseurs et le statut du projet peut être défini sur « En cours » pour informer l&#39;équipe et l&#39;inclure dans les rapports. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435898/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
@@ -50,6 +45,6 @@ Cette vidéo explique comment créer et gérer un projet à partir de zéro. &#x
 ## Tutoriels recommandés sur cette rubrique
 
 * [Parcourir la page du projet](/help/manage-work/projects/navigate-the-project-page.md)
-* [Découvrir quatre façons de créer un projet](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Renseigner les détails du projet](/help/manage-work/projects/fill-in-the-project-details.md)
+* [Explorer quatre méthodes pour créer un projet](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Renseigner les détails essentiels du projet](/help/manage-work/projects/fill-in-the-project-details.md)
 

@@ -12,27 +12,22 @@ last-substantial-update: '2023-05-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 393
-ht-degree: 61%
+source-wordcount: 370
+ht-degree: 86%
 
 ---
 
 # Explorer la vue [!UICONTROL Gantt] pour la gestion de projet
 
-La vidéo explique comment utiliser le graphique Gantt du projet et le graphique Gantt des tâches pour visualiser et gérer efficacement les tâches et les projets. &#x200B; graphiques Gantt offrent une vue d&#39;ensemble des tâches, des modèles et des projets et sont généralement utilisés dans les portfolios pour comprendre les relations entre les projets, en particulier ceux qui partagent des ressources. &#x200B;
+La vidéo explique comment utiliser le graphique Gantt du projet et le graphique Gantt des tâches pour visualiser et gérer efficacement les tâches et les projets. Les graphiques &#x200B; Gantt offrent une vue d&#39;ensemble des tâches, des modèles et des projets et sont généralement utilisés dans les portfolios pour comprendre les relations entre les projets, en particulier ceux qui partagent des ressources. &#x200B;
 
 **Les principales fonctionnalités du graphique de Gantt des projets sont les suivantes :**
 
@@ -51,22 +46,22 @@ La vidéo explique comment utiliser le graphique Gantt du projet et le graphique
 
 La vidéo souligne la flexibilité des graphiques de Gantt, permettant aux utilisateurs et aux utilisatrices de personnaliser les vues et d’afficher plusieurs éléments simultanément pour une meilleure gestion de projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448008/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Vous pouvez en savoir plus en ligne avec l’article [Commencer avec le graphique de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=fr).
 
 ## Points clés à retenir
 
-* **Vue d’ensemble :** les graphiques Gantt offrent une vue d’ensemble complète des tâches, des projets et des portefeuilles, ce qui facilite la compréhension des relations et du partage des ressources entre les projets. &#x200B;
-* **Suivi de la progression :** les indicateurs de statut de progression (vert, jaune, rouge et bleu clair) permettent de surveiller les délais des projets et des tâches, en indiquant les statuts ponctuel, à risque, en retard ou en retard. &#x200B;
-* **Gestion des jalons :** les losanges et les lignes des jalons indiquent visuellement les dates d’achèvement clés, ce qui permet de suivre la progression des jalons dans les projets. &#x200B;
-* **Informations sur les tâches antérieures :** les tâches antérieures spécifiques à un projet et interprojets peuvent être facilement vérifiées, afin de garantir la clarté et la gestion des dépendances. &#x200B;
+* **Vue d’ensemble :** les graphiques de Gantt offrent une vue d’ensemble complète des tâches, des projets et des portfolios, ce qui facilite la compréhension des relations et du partage des ressources entre les projets.
+* **Suivi de la progression :** les indicateurs de statut de progression (vert, jaune, rouge et bleu clair) permettent de surveiller la chronologie des projets et des tâches, en indiquant les statuts Dans les temps, À risque et En retard (jaune ou rouge).
+* **Gestion des jalons :** les losanges et les lignes des jalons indiquent visuellement les dates d’achèvement clés, ce qui permet de suivre la progression des jalons dans les projets.
+* **Informations sur les prédécesseurs :** les prédécesseurs interprojets et spécifiques à des tâches peuvent être facilement vérifiés, afin de garantir la clarté et la gestion des dépendances.
 * **Options de personnalisation :** les utilisateurs et utilisatrices peuvent afficher les dates réelles, les dates prévisionnelles, les niveaux de référence, les affectations, etc., en adaptant la vue du graphique de Gantt à leurs besoins spécifiques.
 
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Commencer à gérer un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Gérer un projet avec le statut actuel](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Suivre la progression globale du projet](/help/manage-work/projects/track-overall-project-progress.md)
 * [Suivre la progression du travail avec les mesures de projet](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendre la vue [!UICONTROL Panorama]](/help/manage-work/projects/understand-the-board-view.md)
+* [Explorer la vue Tableau pour la gestion des tâches](/help/manage-work/projects/understand-the-board-view.md)

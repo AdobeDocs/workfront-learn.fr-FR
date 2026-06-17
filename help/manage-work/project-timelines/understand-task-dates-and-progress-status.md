@@ -13,21 +13,16 @@ last-substantial-update: '2024-11-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:49:07.603Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 121
-ht-degree: 100%
+source-wordcount: 123
+ht-degree: 84%
 
 ---
 
@@ -38,7 +33,7 @@ Dans cette vidéo, vous découvrirez :
 * les dates prévues, projetées et réelles, et
 * leur utilisation pour calculer le statut de progression
 
->[!VIDEO](https://video.tv.adobe.com/v/3436609/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
@@ -47,7 +42,7 @@ Dans cette vidéo, vous découvrirez :
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Comprendre la chronologie du projet](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Suivre la progression à partir de la chronologie du projet](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-* [Comprendre et gérer les types de durée et les contraintes de tâche](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [Explorer la chronologie des projets dans Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Suivre la progression à l’aide du pourcentage achevé et du statut de progression](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Types de durée de Principal et contraintes de tâche](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
