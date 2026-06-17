@@ -49,4 +49,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * [Afficher les jalons dans vos projets](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Appliquer des chemins jalonnés aux projets et tâches](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Activité de vue jalonnée dans Créer une vue de base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [Activité de vue jalonnée dans Créer une vue de base](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
