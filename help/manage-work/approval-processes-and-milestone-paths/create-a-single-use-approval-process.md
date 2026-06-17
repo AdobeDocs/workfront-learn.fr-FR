@@ -25,16 +25,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:05:30.420Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 297
-ht-degree: 67%
+source-wordcount: 267
+ht-degree: 60%
 
 ---
 
 # Créer et gérer des processus de validation
 
-La vidéo explique comment créer et gérer des processus d’approbation pour les projets, les tâches ou les problèmes, en faisant la distinction entre les processus d’approbation globaux et à usage unique.
+La vidéo explique comment créer et gérer des processus d’approbation pour les projets, les tâches ou les événements, en faisant la distinction entre les processus d’approbation globaux et à usage unique.
 La vidéo présente la création de processus d’approbation, la définition des approbateurs, la configuration des statuts et l’utilisation d’étapes pour les approbations à plusieurs niveaux.
 &#x200B;Il souligne la flexibilité des processus globaux et à usage unique pour gérer efficacement les approbations de tâches.
 
@@ -61,8 +61,8 @@ La vidéo présente la création de processus d’approbation, la définition de
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Déléguer des tâches, des problèmes et des approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Comprendre les processus d’approbation propres à chaque groupe](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Créer un flux de demandes](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Déléguer efficacement les tâches, événements et approbations](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Créer et gérer des processus de validation](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Création d’un flux de demandes dans Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Appliquer un processus d’approbation des problèmes dans une file d’attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

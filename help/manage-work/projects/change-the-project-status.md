@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:52.285Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 77
-ht-degree: 100%
+source-wordcount: 87
+ht-degree: 75%
 
 ---
 
@@ -43,7 +43,7 @@ Dans cette vidéo, vous apprendrez :
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
-* [Charger les ressources](/help/manage-work/close-a-project/upload-assets.md)
-* [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Consigner et réviser les heures](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Approbation de la résolution de tâches et de problèmes](/help/manage-work/close-a-project/complete-approvals.md)
+* [Chargement et gestion des ressources du projet](/help/manage-work/close-a-project/upload-assets.md)
+* [Enregistrer les leçons apprises pour les projets futurs](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Enregistrer et réviser les heures du projet](/help/manage-work/close-a-project/log-and-review-hours.md)

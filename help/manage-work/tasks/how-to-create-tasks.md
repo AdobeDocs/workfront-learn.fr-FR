@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 75%
+source-wordcount: 204
+ht-degree: 90%
 
 ---
 
@@ -35,17 +35,17 @@ La vidéo présente un tutoriel sur la création de tâches dans un projet Workf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423156/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points essentiels à retenir
+## Points clés à retenir
 
 * **Méthodes de création de tâches** : utilisez le bouton « Nouvelle tâche » pour une création de tâche détaillée ou le bouton « Ajouter d’autres tâches » pour une modification en ligne rapide.
-* **Champs obligatoires :** &#x200B;seul le nom de la tâche est obligatoire ; d’autres champs tels que la description, la durée et les affectations sont facultatifs et peuvent être ajoutés ultérieurement. &#x200B;
+* **Champs obligatoires** : seul le nom de la tâche est obligatoire. Les autres champs tels que la description, la durée et les affectations sont facultatifs et peuvent être ajoutés ultérieurement.
 * **Repositionnement des tâches** : les tâches sont ajoutées en bas de la liste, mais peuvent être repositionnées en les faisant glisser ou en utilisant l’option « Supprimer le retrait » pour ajuster la hiérarchie.
-* **Vues personnalisées :** différentes vues peuvent être sélectionnées pour inclure des champs supplémentaires, tels que des descriptions, lors de l’ajout de tâches. &#x200B;
+* **Vues personnalisées** : différentes vues peuvent être sélectionnées pour inclure des champs supplémentaires, tels que des descriptions, lors de l’ajout de tâches.
 * **Insertion de tâches à des positions spécifiques** : cliquez avec le bouton droit de la souris entre des tâches existantes et sélectionnez « Insérer la tâche ci-dessous » pour placer une nouvelle tâche à un emplacement spécifique.
 
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Comprendre les tâches parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Utiliser des tâches](/help/manage-work/tasks/work-with-tasks.md)
+* [Comprendre les relations de tâche parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Gestion efficace des tâches dans Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

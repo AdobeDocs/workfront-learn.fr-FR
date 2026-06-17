@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:38.813Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
-ht-degree: 38%
+source-wordcount: 226
+ht-degree: 79%
 
 ---
 
@@ -34,22 +34,22 @@ ht-degree: 38%
 
 La vidéo explique comment effectuer le suivi de la progression globale du projet à l’aide de divers indicateurs dans Workfront, notamment le pourcentage terminé, les dates prévisionnelles, le statut de la condition et de la progression, les problèmes ouverts et la colonne Mise à jour des conditions.
 
-La vidéo souligne l’importance de mises à jour régulières par les membres de l’équipe et d’une gestion proactive des problèmes pour assurer un suivi précis et une réalisation du projet en temps voulu. &#x200B;
+La vidéo souligne l’importance de mises à jour régulières par les membres de l’équipe et d’une gestion proactive des problèmes pour assurer un suivi précis et une réalisation du projet en temps voulu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447412/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points essentiels à retenir
+## Points clés à retenir
 
-* **Calcul du pourcentage d&#39;achèvement :** l&#39;avancement global du projet est calculé en fonction des valeurs de pourcentage d&#39;achèvement de tâches individuelles, pondérées par leur durée ou les heures prévues. &#x200B;
+* **Calcul du pourcentage terminé :** la progression globale du projet est calculée en fonction des valeurs de pourcentage terminé des tâches individuelles, pondérées par leur durée ou le nombre d’heures prévues.
 * **Dates prévues ou prévues :** Workfront calcule les dates de début/d’achèvement prévues et projetées en fonction de la durée des tâches et des prédécesseurs. &#x200B; Les écarts entre ces dates indiquent des retards potentiels. &#x200B;
-* **Statut du projet :** le champ de statut (par exemple, Ciblé, À risque, À problème) reflète le statut du projet et peut être défini manuellement ou automatiquement à l’aide du mode Statut de progression. &#x200B;
-* **Gestion des problèmes ouverts :** les problèmes ouverts signalent les risques potentiels. &#x200B; Il est essentiel de les examiner et de les convertir rapidement en tâches pour tenir à jour les délais du projet. &#x200B;
-* **Colonne de mise à jour de la condition :** les mises à jour hebdomadaires du gestionnaire de projet dans la colonne Mise à jour de la condition fournissent un résumé clair de la progression et aident à suivre les derniers développements. &#x200B;
+* **Statut de la condition du projet :** le champ de la condition (par exemple, Dans les temps, À risque, En difficulté) reflète le statut du projet et peut être définie manuellement ou automatiquement à l’aide du mode Statut de la progression.
+* **Gestion des problèmes ouverts :** les problèmes ouverts signalent les risques potentiels. &#x200B; Il est essentiel de les examiner et de les convertir rapidement en tâches pour tenir à jour les calendriers des projets. &#x200B;
+* **Colonne Mise à jour des conditions :** les mises à jour hebdomadaires de la personne chargée de la gestion du projet dans la colonne Mise à jour des conditions fournissent un résumé clair de la progression et aident à suivre les derniers avancements.
 
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Commencer à gérer un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Gérer un projet avec le statut actuel](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Suivre la progression du travail avec les mesures de projet](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendre la vue [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Comprendre la vue [!UICONTROL Panorama]](/help/manage-work/projects/understand-the-board-view.md)
+* [Explorer la vue Gantt pour la gestion de projet](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Explorer la vue Tableau pour la gestion des tâches](/help/manage-work/projects/understand-the-board-view.md)

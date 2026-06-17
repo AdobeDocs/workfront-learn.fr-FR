@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:14.617Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 58
-ht-degree: 82%
+source-wordcount: 67
+ht-degree: 61%
 
 ---
 
@@ -43,6 +43,6 @@ Dans cette vidéo, vous apprendrez à :
 ## Tutoriels recommandés sur cette rubrique
 
 * [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
-* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
-* [Charger les ressources](/help/manage-work/close-a-project/upload-assets.md)
-* [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Approbation de la résolution de tâches et de problèmes](/help/manage-work/close-a-project/complete-approvals.md)
+* [Chargement et gestion des ressources du projet](/help/manage-work/close-a-project/upload-assets.md)
+* [Enregistrer les leçons apprises pour les projets futurs](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

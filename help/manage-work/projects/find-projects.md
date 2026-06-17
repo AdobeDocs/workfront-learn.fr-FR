@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 35%
+source-wordcount: 162
+ht-degree: 69%
 
 ---
 
@@ -37,18 +37,18 @@ Dans cette vidéo, vous découvrirez comment trouver rapidement et facilement de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439550/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points essentiels à retenir
+## Points clés à retenir
 
-* **Filtres et options de recherche :** utilisez les filtres et les outils de recherche, y compris la recherche avancée, pour localiser rapidement des projets spécifiques en fonction de noms, de descriptions ou de champs de données personnalisés. &#x200B;
-* **Liste Récents :** les projets récemment consultés apparaissent automatiquement dans la liste Récents, qui peut afficher jusqu’à 20 projets pour un accès rapide. &#x200B;
-* **Favoris :** marquez les projets comme favoris en cliquant sur l’icône en forme d’étoile. &#x200B; favoris restent accessibles jusqu’à leur suppression manuelle, ce qui les rend idéaux pour les projets fréquemment consultés. &#x200B;
+* **Filtres et options de recherche** :utilisez les filtres et les outils de recherche, y compris la recherche avancée, pour localiser rapidement des projets spécifiques en fonction de noms, de descriptions ou de champs de données personnalisés.
+* **Liste de projets récents** : les projets récemment consultés apparaissent automatiquement dans la liste Récents, qui peut afficher jusqu’à 20 projets pour un accès rapide.
+* **Favoris :** marquez les projets comme favoris en cliquant sur l’icône en forme d’étoile. &#x200B; favoris restent accessibles jusqu&#39;à ce qu&#39;ils soient supprimés manuellement, ce qui les rend idéaux pour les projets fréquemment consultés. &#x200B;
 * **Épingler des projets :** épingler des projets pour les garder facilement accessibles. &#x200B; projets épinglés restent visibles jusqu’à ce que vous les désépingliez.
-* **Rapports et tableaux de bord personnalisés :** créez des rapports et des tableaux de bord personnalisés pour organiser tous les projets pertinents et y accéder efficacement. &#x200B;
+* **Rapports et tableaux de bord personnalisés** : créez des rapports et des tableaux de bord personnalisés pour organiser tous les projets pertinents et y accéder efficacement.
 
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Commencer à gérer un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Partager un projet](/help/manage-work/projects/share-a-project.md)
+* [Gérer un projet avec le statut actuel](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Partage efficace de projets dans Workfront](/help/manage-work/projects/share-a-project.md)
 * [Comprendre l’équipe de projet](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprendre la communication autour d’un projet](/help/manage-work/projects/understand-project-communication.md)
+* [Améliorer la réussite du projet grâce à une communication efficace](/help/manage-work/projects/understand-project-communication.md)

@@ -24,32 +24,32 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:01.284Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 177
-ht-degree: 75%
+source-wordcount: 183
+ht-degree: 85%
 
 ---
 
 # Gérer un projet avec le statut actuel
 
-La vidéo présente un aperçu de la gestion d’un projet après le changement de son statut en « Actuel ». &#x200B;
+La vidéo présente la gestion d’un projet après le passage de son statut à « Actuel ».
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445169/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points essentiels à retenir
+## Points clés à retenir
 
 * **Surveillance de la progression :** les projets dont le statut est «Actuel » apparaissent dans les rapports, ce qui permet aux responsables de suivre la progression (dans les délais ou en retard).
 * **Dépendances interprojets :** les dépendances peuvent être gérées et affichées dans la vue Gantt du projet, avec des options pour obtenir des informations détaillées.
 * **Gestion des tâches et des approbations :** utilisez les onglets Statut et Approbations pour suivre la réalisation des tâches, les approbations en attente et communiquer via des commentaires.
 * **Communication d’équipe :** envoyez facilement des mises à jour à toutes les personnes membres de l’équipe à l’aide de la fonctionnalité « Tout mettre à jour » et conservez un enregistrement des discussions dans le projet.
-* **Mises à jour fréquentes :** les intervenants doivent mettre à jour quotidiennement l’état des tâches pour garantir une gestion de projet fluide et un suivi précis. &#x200B;
+* **Mises à jour fréquentes :** le personnel doit mettre à jour quotidiennement le statut des tâches pour garantir une gestion de projet fluide et un suivi précis.
 
 
 ## Tutoriels recommandés sur cette rubrique
 
 * [Activer un projet](/help/manage-work/projects/take-a-project-live.md)
-* [Rechercher des projets](/help/manage-work/projects/find-projects.md)
-* [Partager un projet](/help/manage-work/projects/share-a-project.md)
+* [Recherche efficace de projets](/help/manage-work/projects/find-projects.md)
+* [Partage efficace de projets dans Workfront](/help/manage-work/projects/share-a-project.md)
 * [Comprendre l’équipe de projet](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprendre la communication autour d’un projet](/help/manage-work/projects/understand-project-communication.md)
+* [Améliorer la réussite du projet grâce à une communication efficace](/help/manage-work/projects/understand-project-communication.md)

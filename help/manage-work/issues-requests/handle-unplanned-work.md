@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 260
-ht-degree: 21%
+source-wordcount: 223
+ht-degree: 60%
 
 ---
 
@@ -37,18 +37,18 @@ La vidéo souligne l&#39;importance de la communication dans la gestion de proje
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446568/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points essentiels à retenir
+## Points clés à retenir
 
-* **Problèmes par rapport aux mises à jour :** utilisez les problèmes pour les tâches qui doivent être affectées, suivies et résolues avant l’achèvement du projet, car ils sont plus faciles à surveiller et à organiser que les mises à jour. &#x200B;
+* **Problèmes par rapport aux mises à jour :** utilisez les problèmes pour les tâches qui doivent être affectées, suivies et résolues avant l’achèvement du projet, car ils sont plus faciles à surveiller et à organiser que les mises à jour.
 * **Problèmes de journalisation :** les problèmes peuvent être consignés au niveau de la tâche ou du projet via l’onglet PROBLÈMES. &#x200B; Priorités peuvent être définies et des notifications par e-mail peuvent être configurées pour les affectations et les mises à jour.
-* **Bonnes pratiques de gestion des problèmes :** surveillez fréquemment les problèmes, créez des rapports personnalisés et donnez des explications claires pour les problèmes non résolus afin d’éviter de répéter les questions et de créer un enregistrement historique. &#x200B;
-* **Encourager la communication :** exprimez votre gratitude dans vos réponses pour encourager les membres de l’équipe à signaler les problèmes et à communiquer efficacement, assurant ainsi une gestion de projet plus fluide. &#x200B;
-* **Convertir les événements en tâches :** les événements peuvent être convertis en tâches et intégrés dans la chronologie du projet pour une meilleure planification et une meilleure exécution. &#x200B;
+* **Bonnes pratiques de gestion des problèmes :** surveillez fréquemment les problèmes, créez des rapports personnalisés pour plus d’efficacité et donnez des explications claires pour les problèmes non résolus afin d’éviter les questions répétitives et de créer un enregistrement historique.
+* **Encourager la communication :** exprimez votre gratitude dans vos réponses pour encourager les membres de l’équipe à signaler les problèmes et à communiquer efficacement, assurant ainsi une gestion de projets plus fluide.
+* **Convertir les problèmes en tâches :** les problèmes peuvent être convertis en tâches et intégrés dans la chronologie du projet pour une meilleure planification et exécution.
 
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Commencer à gérer un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Comprendre la communication autour d’un projet](/help/manage-work/projects/understand-project-communication.md)
-* [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Gérer un projet avec le statut actuel](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Améliorer la réussite du projet grâce à une communication efficace](/help/manage-work/projects/understand-project-communication.md)
+* [Convertir un événement ou une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Convertir un événement ou une demande en tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

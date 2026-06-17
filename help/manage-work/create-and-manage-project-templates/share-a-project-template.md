@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:58:34.198Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 87%
+source-wordcount: 78
+ht-degree: 62%
 
 ---
 
@@ -41,8 +41,8 @@ Vous apprendrez à :
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Créer un modèle de projet et explorer les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Créer un projet directement à partir d’un modèle](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Copier un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Copier efficacement un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Modifier l&#39;équipe du projet dans un modèle](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

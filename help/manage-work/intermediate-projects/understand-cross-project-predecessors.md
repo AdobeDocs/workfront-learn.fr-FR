@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:33.461Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 254
-ht-degree: 95%
+source-wordcount: 257
+ht-degree: 74%
 
 ---
 
@@ -36,7 +36,7 @@ Les projets transversaux antérieurs représentent un moyen facile d’établir 
 
 >[!PREREQUISITES]
 >
->* [Découvrez comment séquencer des tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=fr)
+>* [Séquencer les tâches efficacement dans Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=fr)
 >* Ou vous êtes déjà à l’aise avec les prédécesseurs dans vos projets.
 
 
@@ -48,4 +48,4 @@ Dans cette vidéo, vous apprendrez :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422834/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-Pour savoir comment créer l&#39;affichage des **Prédécesseurs et successeurs multi-projets** et le rapport utilisé dans la vidéo des **Prédécesseurs et successeurs multi-projets**, consultez le tutoriel [Présentation du mode Texte de base pour les affichages](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr) et assurez-vous de suivre les tutoriels préalables répertoriés ici, si nécessaire.
+Pour savoir comment créer l’affichage **Prédécesseurs et successeurs de projets transversaux** et le rapport **Prédécesseurs et successeurs de projets transversaux** utilisés dans la vidéo, consultez le tutoriel [Explorer le mode texte de base pour les affichages dans Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr) et assurez-vous de consulter les tutoriels préalables répertoriés ici, si nécessaire.

@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: 169
-ht-degree: 74%
+ht-degree: 67%
 
 ---
 
@@ -50,6 +50,6 @@ Cette vidéo explique comment créer et gérer un projet à partir de zéro. &#x
 ## Tutoriels recommandés sur cette rubrique
 
 * [Parcourir la page du projet](/help/manage-work/projects/navigate-the-project-page.md)
-* [Découvrir quatre façons de créer un projet](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Renseigner les détails du projet](/help/manage-work/projects/fill-in-the-project-details.md)
+* [Explorer quatre méthodes pour créer un projet](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Renseigner les détails essentiels du projet](/help/manage-work/projects/fill-in-the-project-details.md)
 

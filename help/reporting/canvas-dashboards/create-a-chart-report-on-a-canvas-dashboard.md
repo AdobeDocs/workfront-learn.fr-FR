@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:15:03.293Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 10%
+source-wordcount: 163
+ht-degree: 5%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 10%
 
 >[!PREREQUISITES]
 >
->* [Présentation des tableaux de bord Zone de travail](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [Explorer les tableaux de bord de la zone de travail dans Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vous devez d’abord effectuer les opérations suivantes :
 
 * Inscrivez-vous à la version Beta du tableau de bord de la zone de travail, et
 * Créer un tableau de bord de la zone de travail
 
-[&#x200B; Présentation des tableaux de bord de la zone de travail &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) vous explique pas à pas comment effectuer ces deux opérations.
+[Explorer les tableaux de bord de la zone de travail dans Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) vous montre étape par étape comment effectuer ces deux opérations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475816/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
@@ -51,8 +51,8 @@ Avant de pouvoir créer un tableau de bord de la zone de travail **rapport**, vo
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Présentation des tableaux de bord Zone de travail](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Explorer les tableaux de bord de la zone de travail dans Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Création d’un rapport sur les indicateurs de performance clés dans un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Créer un rapport tabulaire sur un tableau de bord Zone de travail](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Ajout d’une mise en forme conditionnelle à un rapport de tableau de bord de zone de travail](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-* [Utilisation d’un filtre OU dans un rapport Tableau de bord de la zone de travail](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+* [Application d’un filtre OU dans un rapport Tableau de bord de zone de travail](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

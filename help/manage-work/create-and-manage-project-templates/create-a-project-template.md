@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 629
-ht-degree: 59%
+source-wordcount: 519
+ht-degree: 84%
 
 ---
 
@@ -38,19 +38,19 @@ Apprenez à créer un modèle de projet de zéro et à partir d’un projet exis
 
 ## Créer un modèle de projet
 
-* La vidéo fournit un guide détaillé sur la création et l’utilisation de modèles pour la production de vidéos marketing. Il commence par expliquer comment créer un nouveau modèle à partir de zéro, lui donner un nom et l’enregistrer. &#x200B; Le processus comprend trois étapes principales : créer des tâches, configurer la chronologie à l’aide de durées et de prédécesseurs, et effectuer des affectations à des fonctions plutôt qu’à des utilisateurs individuels. &#x200B; La vidéo met l’accent sur l’organisation des tâches à l’aide des relations parent-enfant pour une meilleure synthèse et efficacité. &#x200B;
-* Une fois le modèle créé, il peut être utilisé pour générer de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. &#x200B; Il montre également comment affecter des fonctions à des tâches à l&#39;aide des fonctionnalités de planification et de planification des ressources. &#x200B;
+* La vidéo fournit un guide détaillé sur la création et l’utilisation de modèles pour la production vidéo marketing. Il commence par expliquer comment créer un nouveau modèle à partir de zéro, lui donner un nom et l’enregistrer. &#x200B; Le processus comprend trois étapes principales : créer des tâches, configurer la chronologie à l’aide de durées et de prédécesseurs, et effectuer des affectations à des fonctions plutôt qu’à des utilisateurs individuels. &#x200B; La vidéo met l’accent sur l’organisation des tâches à l’aide des relations parent-enfant pour une meilleure synthèse et efficacité. &#x200B;
+* Une fois le modèle créé, il peut être utilisé pour produire de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. &#x200B; Il montre également comment affecter des fonctions à des tâches à l&#39;aide des fonctionnalités de planification et de planification des ressources. &#x200B;
 * La vidéo explique comment enregistrer un projet existant en tant que nouveau modèle, ce qui permet de mettre à jour et d’améliorer le workflow. &#x200B; Il souligne l’importance de la gestion des modèles pour éviter toute confusion et garantir une exécution de projet rationalisée. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415444/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
-## Points essentiels à retenir
+## Points clés à retenir
 
-* **Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions. &#x200B;
-* **Organisation des tâches :** utilisez les relations parent-enfant pour organiser les tâches de manière efficace, en fournissant un résumé et une structure clairs pour le projet. &#x200B;
-* **Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches. &#x200B;
-* **Affectations basées sur les rôles :** affectez des tâches à des fonctions plutôt qu’à des utilisateurs individuels pour utiliser efficacement les fonctionnalités de planification et de planification des ressources. &#x200B;
-* **Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour incorporer des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace. &#x200B;
+* **Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions.
+* **Organisation des tâches :** utilisez les relations parent-enfant pour organiser efficacement les tâches, en fournissant un résumé et une structure clairs pour le projet.
+* **Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches.
+* **Affectations basées sur les fonctions :** affectez des tâches à des fonctions plutôt qu’à des personnes pour utiliser efficacement les fonctionnalités de planification et de planification des ressources.
+* **Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour apporter des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace.
 
 
 ## Modèles créés avec les [!UICONTROL Blueprints]
@@ -78,7 +78,7 @@ Si le blueprint n’a pas encore été installé, vous pouvez le demander à vot
 ## Tutoriels recommandés sur cette rubrique
 
 * [Créer un projet directement à partir d’un modèle](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Partager un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copier un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Partager efficacement un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copier efficacement un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Modifier l&#39;équipe du projet dans un modèle](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

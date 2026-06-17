@@ -1,6 +1,6 @@
 ---
 title: Réponses aux questions courantes sur les files d’attente de demandes
-description: Obtenez des réponses aux questions courantes sur les files d’attente des demandes dans  [!DNL  Workfront].
+description: Obtenez des réponses aux questions courantes sur les files d’attente des demandes dans  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:40:23.244Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 709
-ht-degree: 100%
+source-wordcount: 714
+ht-degree: 96%
 
 ---
 
@@ -95,8 +95,8 @@ Cependant, si vous utilisez déjà le statut File d’attente des demandes dans 
 
 ## Tutoriels recommandés sur cette rubrique
 
-* [Comprendre les files d’attente de demandes](/help/manage-work/request-queues/understand-request-queues.md)
-* [Créer une file d’attente des demandes](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Comprendre les paramètres d’un flux de demandes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [Créer un flux de demandes](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Explorer les files d’attente de demandes dans Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Création d’une file d’attente de demandes dans Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Organiser les paramètres de flux de demandes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Création d’un flux de demandes dans Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Créer une file d’attente des demandes pour les commentaires de l’équipe d’administration système](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
