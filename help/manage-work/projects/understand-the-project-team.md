@@ -35,7 +35,7 @@ ht-degree: 81%
 
 Dans cette vidéo, découvrez à quoi l’équipe de projet peut servir et comment la gérer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444591/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

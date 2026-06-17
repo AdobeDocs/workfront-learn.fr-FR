@@ -34,7 +34,7 @@ ht-degree: 49%
 
 La vidéo explique la fonctionnalité d’affichage du tableau dans Workfront, qui offre une autre manière d’afficher et de gérer les tâches du projet. &#x200B; Dans la vue Tableau, les tâches s’affichent sous forme de cartes sur un tableau de style Kanban, ce qui permet aux utilisateurs de trier, de regrouper et de déplacer des tâches dans ou entre des colonnes. &#x200B; déplacement d’une tâche met automatiquement à jour son statut, qui est reflété dans la vue Liste des tâches. &#x200B; Les utilisateurs peuvent créer de nouvelles cartes, qui génèrent de nouvelles tâches dans le projet, et les modifier ou les affecter directement dans la vue du tableau. &#x200B; colonnes et les cartes peuvent être configurées et les tâches peuvent être séquencées à l’aide de prédécesseurs dans la vue Liste des tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423277/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

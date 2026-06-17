@@ -38,7 +38,7 @@ Les heures planifiées sont essentielles pour la gestion des ressources dans Wor
 Ils aident également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec les travailleurs.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445335/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Points clés à retenir

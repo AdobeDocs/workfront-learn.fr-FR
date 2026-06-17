@@ -58,7 +58,7 @@ Workfront effectue le suivi des éléments facturables, mais ne gère pas la fac
 
 Cette vidéo souligne l’importance d’une configuration et d’un suivi appropriés pour rationaliser les processus de facturation de la clientèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486190/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 
