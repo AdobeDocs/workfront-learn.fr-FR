@@ -12,16 +12,11 @@ last-substantial-update: '2025-09-09T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:13:59.890Z'
 source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
@@ -34,9 +29,9 @@ ht-degree: 16%
 
 La fonctionnalité Tableaux de bord de la zone de travail est une autre façon de créer des tableaux de bord dans Workfront. Il est actuellement en version Beta générale, ce qui signifie que tous les clients Workfront peuvent utiliser la fonctionnalité, s’ils sont inscrits à la version bêta. Un administrateur système doit procéder à l’inscription. Cette vidéo leur montrera comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474022/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Pour plus d’informations, consultez l’article [&#x200B; Présentation des tableaux de bord de la zone de travail &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) .
+Pour plus d’informations, consultez l’article [ Présentation des tableaux de bord de la zone de travail ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) .
 
 ## Tutoriels recommandés sur cette rubrique
 

@@ -14,16 +14,11 @@ jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
 TQID: https://experienceleague.adobe.com/wRwzeRNQN5ub6hmHX7fjeqsfckB3oilTdUsMRBbT-pU
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: 167
@@ -35,7 +30,7 @@ ht-degree: 79%
 
 La vidéo explique comment créer un projet à partir d’un modèle. &#x200B; Si vous disposez des droits d’ouverture d’un modèle, vous pouvez l’utiliser comme raccourci pour créer un projet. &#x200B; Pour ce faire, ouvrez le modèle, accédez au menu à trois points et sélectionnez « Créer un projet ». Vous accédez &#x200B; un écran qui vous permet de modifier les détails du projet. &#x200B; Une fois prêt, cliquez sur « Créer un projet » pour finaliser. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456015/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

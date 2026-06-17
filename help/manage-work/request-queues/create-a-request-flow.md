@@ -13,17 +13,11 @@ last-substantial-update: '2024-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:59.860Z'
 source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
@@ -43,7 +37,7 @@ Cette vidéo fournit un guide détaillé sur la création d’un flux de requêt
 La vidéo montre ensuite comment créer des rubriques de file d’attente, qui sont liées aux règles de routage, aux groupes de rubriques, aux formulaires personnalisés, aux processus d’approbation et aux durées par défaut.
 Enfin, la vidéo montre comment tester la configuration en envoyant une requête pour vérifier qu’elle est correctement acheminée. &#x200B; En cas de problème, des ajustements peuvent être apportés à la file d’attente. &#x200B; La vidéo souligne l’importance de vérifier la structure et la fonctionnalité du flux de requêtes pour assurer un routage et une organisation corrects.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433824/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Points essentiels à retenir
 
