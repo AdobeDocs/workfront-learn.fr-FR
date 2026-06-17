@@ -35,7 +35,7 @@ ht-degree: 79%
 
 La vidéo explique comment créer un projet à partir d’un modèle. &#x200B; Si vous disposez des droits d’ouverture d’un modèle, vous pouvez l’utiliser comme raccourci pour créer un projet. &#x200B; Pour ce faire, ouvrez le modèle, accédez au menu à trois points et sélectionnez « Créer un projet ». Vous accédez &#x200B; un écran qui vous permet de modifier les détails du projet. &#x200B; Une fois prêt, cliquez sur « Créer un projet » pour finaliser. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456015/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 

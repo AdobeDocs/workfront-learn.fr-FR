@@ -35,7 +35,7 @@ ht-degree: 28%
 
 La vidéo explique comment localiser et mettre à jour des requêtes dans Adobe Workfront. &#x200B; Après l’envoi d’une demande, vous pouvez ajouter des informations ou poser des questions pour vous assurer que les derniers détails sont disponibles pour ceux qui travaillent dessus. &#x200B; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422298/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

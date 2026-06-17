@@ -45,7 +45,7 @@ La vidéo souligne l’importance de la participation des utilisateurs et de la 
 &#x200B;Des liens vers des tutoriels relatifs à la création de rapports et de formulaires personnalisés sont fournis pour obtenir des conseils supplémentaires.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450499/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points essentiels à retenir
 

@@ -36,7 +36,7 @@ ht-degree: 44%
 La vidéo explique comment gérer et personnaliser les taux de facturation des fonctions au sein d’un projet. &#x200B;Il met l’accent sur la flexibilité dans la définition de plusieurs taux de facturation pour la même fonction et en assurant des ajustements précis basés sur l’heure. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489637/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 
