@@ -35,7 +35,7 @@ ht-degree: 81%
 
 La vidéo explique les dernières étapes pour mettre un projet en ligne en modifiant son statut sur « en cours ». &#x200B; Avant de procéder, elle insiste sur la révision des éléments clés du projet, y compris les noms des tâches, les durées, les heures prévues, les prédécesseurs, les dates de début et d&#39;achèvement, ainsi que les affectations pour s&#39;assurer que tout est précis et correctement défini. &#x200B; Une fois le projet actif, le gestionnaire de projet recevra des notifications en fonction des paramètres globaux et personnels, et le projet apparaîtra dans les rapports et les filtres pour les projets actifs. &#x200B; C&#39;est le début officiel des travaux. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438985/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 
