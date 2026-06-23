@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 251
 ht-degree: 98%
@@ -50,3 +50,4 @@ Dans cette vidéo, vous apprendrez :
 >[!VIDEO](https://video.tv.adobe.com/v/3422834/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 Pour savoir comment créer l&#39;affichage des **Prédécesseurs et successeurs multi-projets** et le rapport utilisé dans la vidéo des **Prédécesseurs et successeurs multi-projets**, consultez le tutoriel [Présentation du mode Texte de base pour les affichages](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=fr) et assurez-vous de suivre les tutoriels préalables répertoriés ici, si nécessaire.
+

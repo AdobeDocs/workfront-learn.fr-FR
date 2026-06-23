@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 159
 ht-degree: 96%
@@ -55,3 +55,4 @@ Pour plus d’informations sur l’utilisation des prédécesseurs, voir [Utilis
 Pour plus d’informations sur les contraintes de tâches, voir [Comprendre et gérer les types de durée et les contraintes de tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=fr).
 
 Pour plus d’informations sur les prédécesseurs inter-projets, voir [Comprendre les prédécesseurs inter-projets](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=fr).
+

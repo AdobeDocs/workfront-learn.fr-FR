@@ -25,7 +25,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:05:30.420Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 267
 ht-degree: 60%
@@ -65,4 +65,5 @@ La vidéo présente la création de processus d’approbation, la définition de
 * [Créer et gérer des processus de validation](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Création d’un flux de demandes dans Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Appliquer un processus d’approbation des problèmes dans une file d’attente des demandes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
+
 
