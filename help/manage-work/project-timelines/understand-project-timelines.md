@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 643
-ht-degree: 80%
+source-wordcount: 700
+ht-degree: 74%
 
 ---
 
@@ -39,7 +34,7 @@ Ce que vous apprendrez :
 * Différentes vues dans Workfront, telles que la vue standard pour la planification et la vue de statut pour la surveillance de la progression, qui inclut des indicateurs de progression, des commentaires, des documents, des problèmes, des approbations, le chemin critique et les jalons. L’activité récente peut être suivie pour afficher les mises à jour et les notes.
 * La planification peut être effectuée à partir d’une date de début ou d’achèvement, Workfront calculant les dates correspondantes en fonction de la durée des tâches et des prédécesseurs. La vidéo recommande d’effectuer la planification à partir d’une date de début pour les dates d’achèvement critiques afin de laisser une certaine marge. Les contraintes de tâche, telles que « le plus tôt possible » et « le plus tard possible », sont également abordées, en montrant comment elles affectent la planification des tâches. Vous pouvez créer des vues personnalisées pour afficher les contraintes de tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435837/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
@@ -47,11 +42,11 @@ Ce que vous apprendrez :
 
 ## Points clés à retenir
 
-* **Gestion et affectation des tâches :** les tâches parents regroupent plusieurs sous-tâches, qui sont affectées à des fonctions et ultérieurement à des utilisateurs possédant les compétences nécessaires. &#x200B; prédécesseurs indiquent les relations séquentielles, tandis que les tâches sans prédécesseurs peuvent être effectuées en parallèle. &#x200B;
-* **Graphique de Gantt et chemin critique :** le graphique de Gantt fournit une chronologie visuelle du projet. La fonctionnalité de chemin critique met en évidence les tâches qui peuvent retarder le projet si elles prennent du retard.
-* **Vues et surveillance :** différentes vues dans Workfront, telles que la vue standard pour la planification et la vue de statut pour la surveillance, incluent des indicateurs de progression, des commentaires, des documents, des problèmes, des approbations, un chemin critique et des jalons. Les activités récentes peuvent également être suivies. &#x200B;
-* **Options de planification :** les projets peuvent être planifiés à partir d’une date de début ou d’achèvement, Workfront calculant les dates correspondantes en fonction de la durée des tâches et des prédécesseurs. &#x200B; Planification à partir d&#39;une date de début est recommandée pour les dates d&#39;achèvement critiques afin de permettre une certaine marge. &#x200B;
-* **Contraintes de tâche :** les contraintes de tâche telles que « le plus tôt possible » et « le plus tard possible » affectent la planification des tâches. &#x200B; La modification du mode de planification après la création du projet peut avoir un impact sur les contraintes de tâche et les dates prévues. &#x200B; vues personnalisées peuvent être créées pour afficher les contraintes de tâche. &#x200B;
+* **Gestion et affectation des tâches :** les tâches parents regroupent plusieurs sous-tâches, qui sont affectées à des fonctions et ultérieurement à des utilisateurs possédant les compétences nécessaires. &#x200B; prédécesseurs indiquent les relations séquentielles, tandis que les tâches sans prédécesseurs peuvent être effectuées en parallèle. 
+* **Graphique Gantt et chemin critique :** le graphique Gantt fournit une chronologie visuelle du projet, et la fonction Chemin critique met en évidence les tâches qui peuvent retarder le projet en cas de glissement. &#x200B;
+* **Vues et surveillance :** différentes vues dans Workfront, telles que la vue standard pour la planification et la vue de statut pour la surveillance, incluent des indicateurs de progression, des commentaires, des documents, des problèmes, des approbations, un chemin critique et des jalons. L’activité récente peut également être suivie. 
+* **Options de planification :** les projets peuvent être planifiés à partir d’une date de début ou d’achèvement, Workfront calculant les dates correspondantes en fonction de la durée des tâches et des prédécesseurs. &#x200B; Planification à partir d’une date de début est recommandée pour les dates d’achèvement critiques afin de permettre une certaine marge. 
+* **Contraintes de tâche :** les contraintes de tâche telles que « le plus tôt possible » et « le plus tard possible » affectent la planification des tâches. &#x200B; La modification du mode de planification après la création du projet peut avoir un impact sur les contraintes de tâche et les dates prévues. &#x200B; vues personnalisées peuvent être créées pour afficher les contraintes de tâche. 
 
 
 ## Modifier ou ne pas modifier les dates dans les chronologies de votre projet...
@@ -66,4 +61,5 @@ Ce que vous apprendrez :
 * [Suivre la progression à l’aide du pourcentage achevé et du statut de progression](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Comprendre les types de dates et le statut de la progression](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 * [Types de durée de Principal et contraintes de tâche](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
 
