@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:21.983Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 362
-ht-degree: 83%
+ht-degree: 45%
 
 ---
 
@@ -47,8 +47,8 @@ La vidéo explique comment partager efficacement des projets dans Workfront pour
 
 **Partage en masse et de modèles :**
 
-* La modification en masse permet de partager des ajustements pour plusieurs projets.
-* Les paramètres de partage peuvent être préconfigurés dans les modèles de projet pour gagner du temps.
+* La modification en bloc permet de partager des ajustements pour plusieurs projets. &#x200B;
+* Les paramètres de partage peuvent être préconfigurés dans les modèles de projet pour gagner du temps. &#x200B;
 
 **Paramètres par défaut du système :**
 
@@ -58,13 +58,13 @@ La vidéo souligne l’utilisation d’équipes et de modèles pour une gestion 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423147/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Droits d’accès automatiques :** Workfront attribue automatiquement les droits d’accès appropriés en fonction des rôles (par exemple, créateurs ou créatrices de projet, personnes intervenantes, sponsors et gestionnaires de ressources) pour simplifier le partage.
-* **Options de partage flexibles :** les projets peuvent être partagés avec des personnes, des équipes, des fonctions, des groupes ou des entreprises, et les autorisations peuvent être héritées par le biais de portfolios ou de programmes.
-* **Gestion efficace des équipes :** l’ajout ou la suppression de membres d’équipes met automatiquement à jour leurs droits d’accès sur les objets partagés, ce qui facilite le partage au sein d’une équipe.
-* **Partage de modèles :** la préconfiguration des paramètres de partage dans les modèles de projet garantit des droits d’accès cohérents pour tous les projets créés à l’aide du modèle, ce qui vous permet de gagner du temps.
-* **Valeurs système par défaut personnalisables :** les administrateurs et administratrices système peuvent modifier les paramètres de partage par défaut, tels que l’octroi de droits de contribution aux personnes membres de l’équipe affectées à des tâches, afin de s’aligner sur les préférences de l’entreprise.
+* **Droits d’accès automatiques :** Workfront attribue automatiquement les droits d’accès appropriés en fonction des rôles (par exemple, créateurs de projet, intervenants, sponsors et gestionnaires de ressources) pour simplifier le partage. &#x200B;
+* **Options de partage flexibles :** les projets peuvent être partagés avec des individus, des équipes, des fonctions, des groupes ou des entreprises, et les autorisations peuvent être héritées par le biais de portefeuilles ou de programmes. &#x200B;
+* **Gestion efficace des équipes :** l’ajout ou la suppression de membres d’équipes met automatiquement à jour leurs droits d’accès sur les objets partagés, ce qui facilite le partage au sein d’une équipe. &#x200B;
+* **Partage de modèles :** la préconfiguration des paramètres de partage dans les modèles de projet garantit des droits d’accès cohérents pour tous les projets créés à l’aide du modèle, ce qui vous permet de gagner du temps. &#x200B;
+* **Valeurs système par défaut personnalisables :** les administrateurs système peuvent modifier les paramètres de partage par défaut, tels que l’octroi de droits de contributeur aux membres de l’équipe affectés à des tâches, afin de s’aligner sur les préférences de l’entreprise. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique
@@ -73,4 +73,5 @@ La vidéo souligne l’utilisation d’équipes et de modèles pour une gestion 
 * [Recherche efficace de projets](/help/manage-work/projects/find-projects.md)
 * [Comprendre l’équipe de projet](/help/manage-work/projects/understand-the-project-team.md)
 * [Améliorer la réussite du projet grâce à une communication efficace](/help/manage-work/projects/understand-project-communication.md)
+
 

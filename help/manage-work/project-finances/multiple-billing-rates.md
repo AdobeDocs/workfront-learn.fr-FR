@@ -24,32 +24,33 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 207
-ht-degree: 44%
+source-wordcount: 226
+ht-degree: 8%
 
 ---
 
 # Personnaliser les taux de facturation des fonctions
 
-La vidéo explique comment gérer et personnaliser les taux de facturation des fonctions au sein d’un projet. &#x200B;Il met l’accent sur la flexibilité dans la définition de plusieurs taux de facturation pour la même fonction et en assurant des ajustements précis basés sur l’heure. &#x200B;
+La vidéo explique comment gérer et personnaliser les taux de facturation des fonctions au sein d’un projet. &#x200B;Il met l’accent sur la flexibilité dans la définition de plusieurs taux de facturation pour la même fonction et garantit des ajustements précis basés sur l’heure. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3489637/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
 
-* **Taux de facturation par défaut :** l’administration système définit un taux de facturation par défaut pour chaque fonction, mais il peut être personnalisé pour chaque projet.
-* **Flexibilité des taux de facturation :** vous pouvez créer plusieurs taux de facturation pour la même fonction au sein d’un projet, ce qui permet des ajustements personnalisés.
-* **Taux spécifiques à la période :** les taux de facturation peuvent être définis pour des périodes spécifiques en ajoutant des dates de début et de fin, afin de garantir une application précise des taux pendant les différentes phases du projet.
-* **Personnalisation facile :** les modifications apportées aux taux de facturation sont simples : sélectionnez la fonction, saisissez le nouveau taux et enregistrez les mises à jour directement à partir de l&#39;onglet « Taux ». &#x200B;
+* **Taux de facturation par défaut :** l’administrateur système définit un taux de facturation par défaut pour chaque fonction, mais il peut être personnalisé pour des projets individuels. &#x200B;
+* **Flexibilité des taux de facturation :** vous pouvez créer plusieurs taux de facturation pour la même fonction au sein d’un projet, ce qui permet des ajustements personnalisés. &#x200B;
+* **Taux spécifiques à la période :** les taux de facturation peuvent être définis pour des périodes spécifiques en ajoutant des dates de début et de fin, afin de garantir une application précise des taux pendant les différentes phases du projet. &#x200B;
+* **Personnalisation facile :** les modifications apportées aux taux de facturation sont simples : sélectionnez la fonction, saisissez le nouveau taux et enregistrez les mises à jour directement depuis l’onglet « Taux ». &#x200B;
 * **Joindre une carte tarifaire :** il est facile de joindre une carte tarifaire si quelqu’un en a préparé une pour le groupe et l’entreprise dans lesquels se trouve votre projet. Une fois joints, vous ne pouvez modifier aucun des taux de facturation dans la carte tarifaire, mais vous pouvez toujours les remplacer dans votre projet.
 
 ## Tutoriels recommandés sur cette rubrique
 
 * [Accéder aux informations financières des projets et tâches et les gérer](/help/manage-work/project-finances/find-financial-information.md)
-* [Mettre à jour les finances des projets clients](/help/manage-work/project-finances/update-and-review-finances.md)
+* &lbrack;Mettre à jour les finances des projets clients
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
+
 

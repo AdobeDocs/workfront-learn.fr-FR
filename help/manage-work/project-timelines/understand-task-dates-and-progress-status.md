@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:49:07.603Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 123
 ht-degree: 84%
@@ -50,4 +50,5 @@ Dans cette vidéo, vous découvrirez :
 * [Explorer la chronologie des projets dans Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
 * [Suivre la progression à l’aide du pourcentage achevé et du statut de progression](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Types de durée de Principal et contraintes de tâche](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
 

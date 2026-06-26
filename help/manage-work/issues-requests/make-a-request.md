@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 253
-ht-degree: 58%
+source-wordcount: 264
+ht-degree: 35%
 
 ---
 
@@ -37,12 +37,12 @@ La vidéo fournit un guide détaillé sur la manière d’effectuer et de gérer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413114/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Création de demandes rationalisée :** les utilisateurs et utilisatrices peuvent facilement créer des demandes en sélectionnant « Demandes » dans le menu principal, en choisissant un type de demande, en remplissant les champs obligatoires et en joignant des documents pertinents.
+* **Création de requête rationalisée :** les utilisateurs peuvent facilement créer des requêtes en sélectionnant « Requêtes » dans le menu principal, en choisissant un type de requête, en remplissant les champs requis et en joignant des documents pertinents. &#x200B;
 * **Workflows personnalisables :** les files d’attente des demandes et les formulaires sont adaptés aux workflows organisationnels, ce qui permet aux utilisateurs et aux utilisatrices de spécifier des détails (par exemple, en magasin, à l’extérieur, sur les médias sociaux) et la priorité.
-* **Fonction d’enregistrement automatique des brouillons :** les brouillons sont automatiquement enregistrés lorsque les utilisateurs remplissent le champ d’objet, ce qui permet de s’assurer qu’aucune donnée n’est perdue s’ils se mettent en pause ou quittent la page. &#x200B; brouillons peuvent être consultés ultérieurement pour être achevés ou ignorés si nécessaire. &#x200B;
-* **Suivi et filtrage des demandes :** les demandes envoyées peuvent être suivies sur la page « Envoyées ». Des filtres sont disponibles pour afficher les demandes ouvertes, non résolues ou toutes les demandes basées sur les autorisations utilisateur.
+* **Fonction d’enregistrement automatique des brouillons :** les brouillons sont automatiquement enregistrés lorsque les utilisateurs remplissent le champ d’objet, ce qui permet de s’assurer qu’aucune donnée n’est perdue s’ils se mettent en pause ou quittent la page. &#x200B; brouillons peuvent être consultés ultérieurement pour être terminés ou ignorés si nécessaire. 
+* **Demandes de suivi et de filtrage :** les demandes envoyées peuvent être suivies sur la page « Envoyées ». Des filtres sont disponibles pour afficher les demandes ouvertes, non résolues ou toutes les demandes basées sur les autorisations utilisateur. &#x200B;
 * **Copier et réutiliser les demandes :** les utilisateurs et utilisatrices peuvent copier des demandes existantes pour en créer de nouvelles, ce qui facilite l’envoi de demandes similaires sans devoir repartir de zéro.
 
 ## Tutoriels recommandés sur cette rubrique
@@ -52,3 +52,4 @@ La vidéo fournit un guide détaillé sur la manière d’effectuer et de gérer
 * [Mise à jour d’une requête dans Workfront](/help/manage-work/issues-requests/update-a-request.md)
 * [Convertir un événement ou une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Convertir un événement ou une demande en tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+

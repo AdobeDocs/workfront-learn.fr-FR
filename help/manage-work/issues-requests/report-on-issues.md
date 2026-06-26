@@ -24,31 +24,31 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:16.394Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 267
-ht-degree: 64%
+source-wordcount: 374
+ht-degree: 30%
 
 ---
 
 # Créer des rapports personnalisés pour la gestion des problèmes
 
-La vidéo fournit un guide détaillé sur la création de deux types de rapports pour gérer et suivre les problèmes et les projets.
+La vidéo fournit un guide détaillé sur la création de deux types de rapports pour gérer et suivre les problèmes et les projets. &#x200B;
 
-* **Rapport sur les événements :** ce rapport permet de déterminer si un événement a été affecté ou converti en tâche ou projet (objet de résolution). &#x200B; Il comprend des colonnes telles que l’objet de résolution et la date d’entrée, triées par les entrées les plus récentes. Les filtres sont appliqués pour afficher uniquement les problèmes de files d’attente de demandes spécifiques qui ne sont pas encore terminées. &#x200B;
-* **Rapport sur les projets :** ce rapport se concentre sur les projets qui proviennent de problèmes, en présentant des détails sur les problèmes d’origine et l’avancement des projets. &#x200B; Il comprend des colonnes telles que la date d&#39;entrée de l&#39;événement converti, le nom de l&#39;événement, le nom de l&#39;initiateur, le statut du projet et le statut de progression. Les filtres garantissent que seuls les projets convertis à partir d’événements et pas encore terminés s’affichent. &#x200B;
+* **Rapport sur les événements :** ce rapport permet de déterminer si un événement a été affecté ou converti en tâche ou projet (objet de résolution). &#x200B; Il comprend des colonnes telles que l’objet de résolution et la date d’entrée, triées par les entrées les plus récentes. Les filtres sont appliqués pour afficher uniquement les problèmes de files d’attente de demandes spécifiques qui ne sont pas encore terminées. 
+* **Rapport sur les projets :** ce rapport se concentre sur les projets qui proviennent de problèmes, en présentant des détails sur les problèmes d’origine et l’avancement des projets. &#x200B; Il comprend des colonnes telles que la date d&#39;entrée de l&#39;événement converti, le nom de l&#39;événement, le nom de l&#39;initiateur, le statut du projet et le statut de progression. Les filtres garantissent l’affichage uniquement des projets convertis à partir d’événements et qui ne sont pas encore terminés. 
 
-La vidéo met l’accent sur la personnalisation des colonnes et des filtres pour adapter les rapports à des besoins spécifiques, ce qui facilite la gestion et la résolution efficaces des problèmes.
+La vidéo met l’accent sur la personnalisation des colonnes et des filtres pour adapter les rapports à des besoins spécifiques, ce qui facilite la gestion et la résolution efficaces des problèmes. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Rapports personnalisés pour la gestion des problèmes :** la vidéo montre comment créer des rapports personnalisés pour centraliser et suivre les problèmes ouverts, ce qui facilite leur gestion et leur résolution.
-* **Détails du rapport sur les événements :** le rapport sur les événements comprend des colonnes telles que l’objet de résolution et la date d’entrée, triées par les entrées les plus récentes. &#x200B; Cela permet de déterminer si des événements ont été affectés ou convertis en tâches ou en projets. &#x200B;
+* **Rapports personnalisés pour la gestion des problèmes :** la vidéo montre comment créer des rapports personnalisés pour centraliser et suivre les problèmes ouverts, ce qui facilite leur gestion et leur résolution. &#x200B;
+* **Détails du rapport sur les événements :** le rapport sur les événements comprend des colonnes telles que l’objet de résolution et la date d’entrée, triées par les entrées les plus récentes. &#x200B; permet de déterminer si des événements ont été affectés ou convertis en tâches ou en projets. 
 * **Détails du rapport de projet :** le rapport de projet se concentre sur les projets issus de problèmes, affichant des détails tels que la date d’entrée du problème converti, le nom du problème, le nom de l’initiateur, le statut du projet et le statut de progression.
-* **Filtrage pour la pertinence :** les deux rapports utilisent des filtres pour afficher uniquement les données pertinentes. Pour le rapport de problèmes, les filtres affichent les problèmes de files d’attente de requêtes spécifiques qui ne sont pas terminées. &#x200B; Pour le rapport de projet, les filtres garantissent l’affichage uniquement des projets convertis à partir d’événements et qui ne sont pas encore terminés. &#x200B;
+* **Filtrage pour la pertinence :** les deux rapports utilisent des filtres pour afficher uniquement les données pertinentes. Pour le rapport de problèmes, les filtres affichent les problèmes de files d’attente de requêtes spécifiques qui ne sont pas terminées. &#x200B; Pour le rapport de projet, les filtres s’assurent que seuls les projets convertis à partir d’événements et pas encore terminés s’affichent. 
 * **Personnalisation et efficacité :** la vidéo souligne l’importance de personnaliser les colonnes et les filtres pour adapter les rapports aux besoins spécifiques, ce qui améliore l’efficacité de la gestion des problèmes et des projets.
 
 
@@ -57,4 +57,5 @@ La vidéo met l’accent sur la personnalisation des colonnes et des filtres pou
 * [Créer une vue de base](/help/reporting/basic-reporting/create-a-basic-view.md)
 * [Créer un rapport simple](/help/reporting/basic-reporting/create-a-simple-report.md)
 * [Recherche et gestion efficaces des requêtes](/help/manage-work/issues-requests/find-requests.md)
+
 

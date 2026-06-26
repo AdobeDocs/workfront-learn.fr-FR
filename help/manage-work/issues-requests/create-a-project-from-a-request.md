@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 autotag-review: '2026-05-06T14:56:14.583Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 176
-ht-degree: 42%
+source-wordcount: 230
+ht-degree: 20%
 
 ---
 
@@ -38,13 +38,13 @@ La vidéo explique comment convertir un problème ou une demande en projet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446624/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Processus de conversion :** pour convertir un problème ou une demande en projet, sélectionnez le problème, utilisez le menu à trois points et choisissez une option de conversion, de préférence à l’aide d’un modèle.
-* **Sélection de modèle :** l’utilisation d’un modèle est recommandée par souci de cohérence et de facilité. &#x200B; Vous pouvez vérifier et sélectionner le modèle approprié en fonction des exigences du projet. &#x200B;
-* **Détails du projet :** le nom et la description du projet sont copiés à partir du problème par défaut, mais peuvent être modifiés. &#x200B; formulaires personnalisés issus de l’événement sont également transférés au projet. &#x200B;
-* **Résolution du problème :** vous pouvez choisir de conserver le problème d’origine lié au projet, en l’empêchant d’être marqué comme résolu jusqu’à ce que le projet soit terminé. &#x200B; Sinon, le problème peut être supprimé lors de la conversion. &#x200B;
-* **Accès et visibilité :** vous pouvez accorder l’accès au projet au demandeur. &#x200B; Le projet converti est visible dans la colonne « converti en », indiquant s’il a été converti en tâche ou en projet. &#x200B;
+* **Processus de conversion :** pour convertir un événement ou une demande en projet, sélectionnez l’événement, utilisez le menu à trois points et choisissez une option de conversion, de préférence à l’aide d’un modèle. &#x200B;
+* **Sélection de modèle :** l’utilisation d’un modèle est recommandée par souci de cohérence et de facilité. &#x200B; Vous pouvez vérifier et sélectionner le modèle approprié en fonction des exigences du projet. 
+* **Détails du projet :** le nom et la description du projet sont copiés à partir du problème par défaut, mais peuvent être modifiés. &#x200B; formulaires personnalisés issus du problème sont également transférés au projet. 
+* **Résolution du problème :** vous pouvez choisir de conserver le problème d’origine lié au projet, en l’empêchant d’être marqué comme résolu jusqu’à ce que le projet soit terminé. &#x200B; Vous pouvez également supprimer le problème lors de la conversion. 
+* **Accès et visibilité :** vous pouvez accorder l’accès au projet au demandeur. &#x200B; Le projet converti est visible dans la colonne « converti en », indiquant s’il a été converti en tâche ou en projet. 
 
 
 ## Tutoriels recommandés sur cette rubrique
@@ -52,4 +52,5 @@ La vidéo explique comment convertir un problème ou une demande en projet.
 * [Recherche et gestion efficaces des requêtes](/help/manage-work/issues-requests/find-requests.md)
 * [Convertir un événement ou une demande en tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 * [Gérer efficacement le travail non planifié](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
 
