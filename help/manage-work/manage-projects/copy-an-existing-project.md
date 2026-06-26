@@ -38,7 +38,7 @@ Pour finaliser, cliquez sur Copier le projet.
 Les événements ne peuvent pas être copiés directement pendant ce processus car ils ne sont pas considérés comme du travail prévu. &#x200B; Pour copier des événements, accédez à l’onglet Événements, sélectionnez les événements souhaités, puis utilisez l’option « Copier dans » pour les transférer vers le nouveau projet. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456040/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

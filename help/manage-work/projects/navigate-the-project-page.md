@@ -44,7 +44,7 @@ Cette vidéo présente un aperçu de la navigation et de la gestion de la page d
 * **Section Documents :** permet de charger et de gérer des fichiers et des épreuves liés au projet. &#x200B; Les documents joints aux tâches sont cumulés au niveau du projet pour un accès plus facile. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449728/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
