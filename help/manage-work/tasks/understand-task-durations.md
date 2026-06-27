@@ -24,29 +24,27 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 188
-ht-degree: 81%
+source-wordcount: 230
+ht-degree: 27%
 
 ---
 
 # Comprendre la durée des tâches
 
-Cette vidéo explique la durée des tâches dans Workfront, leur impact sur les dates de début et d’achèvement des tâches, la chronologie du projet et les bonnes pratiques pour une utilisation efficace des durées.
-Workfront recommande d’utiliser des durées et des prédécesseurs pour établir la chronologie des tâches plutôt que de définir manuellement des contraintes, car les contraintes peuvent empêcher les ajustements automatiques.
-&#x200B;Des durées précises sont essentielles pour une planification de projet et une gestion des ressources efficaces.
+Cette vidéo explique la durée des tâches dans Workfront, leur impact sur les dates de début et d’achèvement, la chronologie du projet et les bonnes pratiques pour une utilisation efficace des durées.Workfront recommande d’utiliser des durées et des prédécesseurs pour établir la chronologie des tâches plutôt que de définir manuellement des contraintes, car les contraintes peuvent empêcher les ajustements automatiques.&#x200B;Des durées précises sont essentielles pour une planification de projet et une gestion des ressources efficaces.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449345/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Définition de la durée des tâches :** la durée des tâches correspond à la différence entre la date de début prévue et la date d’achèvement prévue d’une tâche. Il s’agit de l’intervalle de temps permettant de réaliser le travail.
-* **Impact sur la chronologie du projet** : les durées des tâches affectent directement la durée globale du projet et la date d’achèvement prévue. Elles sont donc essentielles pour une planification de projet précise.
-* **Utilisation des prédécesseurs** : les dates de début et d’achèvement prévues sont calculées à l’aide des durées de tâche et des prédécesseurs, ce qui garantit une chronologie dynamique et flexible.
-* **Éviter les contraintes manuelles** : la définition manuelle des dates de début ou d’achèvement crée des contraintes de tâche qui peuvent empêcher les ajustements automatiques lorsque des durées ou des prédécesseurs changent.
-* **Gestion des ressources** : les durées sont essentielles pour les outils de gestion des ressources et de planification de Workfront, ce qui permet d’estimer précisément les ressources et de planifier la disponibilité de l’équipe avec justesse.
+* **Définition de la durée de la tâche :** la durée de la tâche est la différence entre la date de début prévue et la date d’achèvement prévue d’une tâche, représentant l’intervalle de temps pour terminer le travail. &#x200B;
+* **Impact sur la chronologie du projet :** les durées des tâches affectent directement la durée globale du projet et la date d’achèvement prévue, ce qui les rend essentielles pour une planification de projet précise. &#x200B;
+* **Utilisation des prédécesseurs :** les dates de début et d’achèvement prévues sont calculées à l’aide des durées de tâche et des prédécesseurs, garantissant ainsi une chronologie dynamique et flexible. &#x200B;
+* **Éviter les contraintes manuelles :** la définition manuelle de dates de début ou d&#39;achèvement crée des contraintes de tâche qui peuvent empêcher les ajustements automatiques lorsque des durées ou des prédécesseurs changent. &#x200B;
+* **Gestion des ressources :** les durées sont essentielles pour les outils de gestion des ressources et de planification de Workfront, ce qui permet d’estimer précisément les ressources et de planifier la disponibilité de l’équipe. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique
@@ -54,4 +52,5 @@ Workfront recommande d’utiliser des durées et des prédécesseurs pour établ
 * [Séquencer les tâches efficacement dans Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
 * [Estimer les heures de tâche avec l&#39;effort de travail](/help/manage-work/tasks/understand-work-effort.md)
+
 

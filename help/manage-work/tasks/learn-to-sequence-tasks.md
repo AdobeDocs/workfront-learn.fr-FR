@@ -24,28 +24,26 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 179
-ht-degree: 81%
+source-wordcount: 213
+ht-degree: 35%
 
 ---
 
 # Séquencer les tâches efficacement dans Workfront
 
-La vidéo explique comment séquencer les tâches dans Workfront à l’aide des prédécesseurs et des durées pour gérer efficacement les chronologies de projet.
-La vidéo explique comment définir des prédécesseurs pour les nouvelles tâches, en assurant un ordre séquentiel et des dates de début précises.
-&#x200B;Il souligne l’importance de s’entraîner avec les prédécesseurs pour comprendre leur impact sur les calendriers des projets et recommande d’utiliser les durées et les prédécesseurs pour une planification de projet efficace.
+La vidéo explique comment séquencer les tâches dans Workfront à l’aide des prédécesseurs et des durées pour gérer efficacement les chronologies de projet.La vidéo explique comment définir des prédécesseurs pour les nouvelles tâches, en assurant un ordre séquentiel et des dates de début précises.&#x200B;Il souligne l’importance de s’entraîner avec les prédécesseurs pour comprendre leur impact sur les calendriers des projets et recommande d’utiliser les durées et les prédécesseurs pour une planification de projet efficace.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447322/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Les prédécesseurs définissent l’ordre des tâches** : ils établissent la séquence des tâches, en s’assurant que certaines tâches soient terminées avant que d’autres ne puissent commencer, ce qui est essentiel à la réussite d’un projet.
-* **Les durées ont un impact sur les chronologies** : les durées des tâches définissent la période du travail et ajustent les dates de début et d’achèvement, créant un effet en cascade sur les tâches dépendantes.
-* **Les modèles simplifient la configuration** : les prédécesseurs et les contraintes peuvent être prédéfinis dans les modèles de projet, ce qui simplifie le processus de gestion des séquences de tâches.
-* **Les ajustements manuels ont un effet sur les contraintes** : la définition manuelle de dates spécifiques remplace les mises à jour en cascade provoquées par les modifications apportées à des durées ou à des prédécesseurs.
+* **Les prédécesseurs définissent l’ordre des tâches :** les prédécesseurs définissent l’ordre des tâches en s’assurant que certaines tâches sont terminées avant que d’autres ne puissent commencer, ce qui est essentiel à la réussite du projet. &#x200B;
+* **Les durées ont un impact sur les chronologies :** les durées des tâches définissent la période du travail et ajustent les dates de début et d&#39;achèvement, créant un effet en cascade sur les tâches dépendantes. &#x200B;
+* **Les modèles simplifient la configuration :** les prédécesseurs et les contraintes peuvent être prédéfinis dans les modèles de projet, ce qui simplifie le processus de gestion des séquences de tâches. &#x200B;
+* **Les ajustements manuels affectent les contraintes :** la définition manuelle de dates spécifiques remplace les mises à jour en cascade provoquées par des modifications apportées à des durées ou à des prédécesseurs. &#x200B;
 * **L’entraînement améliore les compétences** : l’entraînement avec les prédécesseurs et les durées permet d’affiner les compétences de gestion de projets et assure un meilleur contrôle sur les chronologies.
 
 ## Tutoriels recommandés sur cette rubrique
@@ -53,3 +51,4 @@ La vidéo explique comment définir des prédécesseurs pour les nouvelles tâch
 * [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
 * [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
 * [Estimer les heures de tâche avec l&#39;effort de travail](/help/manage-work/tasks/understand-work-effort.md)
+

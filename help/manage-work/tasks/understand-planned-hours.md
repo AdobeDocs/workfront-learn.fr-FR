@@ -24,30 +24,28 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 74%
+source-wordcount: 243
+ht-degree: 50%
 
 ---
 
 # Comprendre le nombre d’heures prévues
 
-La vidéo explique le concept d’heures planifiées, qui sont des estimations du temps nécessaire pour accomplir les tâches.
-Les heures planifiées sont essentielles pour la gestion des ressources dans Workfront, car elles permettent d’identifier une sur-allocation ou une sous-allocation des ressources.
-Ils aident également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec les travailleurs.
+La vidéo explique le concept du nombre d’heures prévues, qui est une estimation du temps nécessaire pour accomplir les tâches.Le nombre d’heures prévues est essentiel à la gestion des ressources dans Workfront, car il permet d’identifier une sur-allocation ou une sous-allocation des ressources.Il aide également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec le personnel.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445335/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Importance du nombre d’heures prévues :** le nombre d’heures prévues permet d’estimer la durée des tâches, de gérer l’allocation des ressources et de suivre le temps passé, ce qui améliore la planification des projets futurs.
-* **Conseils pour une estimation précise :** divisez les tâches longues en sous-tâches plus petites, suivez efficacement le temps et documentez les modifications ou les problèmes afin d’affiner les estimations du nombre d’heures prévues.
-* **Gestion des ressources :** Workfront utilise le nombre d’heures prévues pour identifier la sur-allocation ou la sous-allocation des ressources, ce qui garantie l’efficacité des affectations de tâches.
-* **Référence historique :** les projets terminés doivent être conservés comme références pour la planification future, en particulier pour les tâches affectées au nouveau personnel.
-* **Facilité d’utilisation :** les heures planifiées peuvent être ajoutées ou modifiées à l’aide de la modification sur la ligne, et les heures de la tâche parent sont automatiquement calculées en additionnant les sous-tâches. &#x200B; Il est recommandé d’inclure les heures planifiées dans les modèles de projet. &#x200B;
+* **Importance des heures planifiées :** les heures planifiées aident à estimer la durée des tâches, à gérer l’allocation des ressources et à suivre le temps passé, ce qui améliore la planification des projets futurs. &#x200B;
+* **Conseils pour une estimation précise :** divisez les tâches longues en sous-tâches plus petites, suivez efficacement le temps et documentez les modifications ou les événements afin d’affiner les estimations d’heures planifiées. &#x200B;
+* **Gestion des ressources :** Workfront utilise les heures planifiées pour identifier la sur-allocation ou la sous-allocation des ressources, garantissant ainsi l’efficacité des affectations de tâches. &#x200B;
+* **Référence historique :** les projets terminés doivent être conservés comme références pour la planification future, en particulier pour les tâches affectées à de nouveaux intervenants. &#x200B;
+* **Facilité d’utilisation :** les heures planifiées peuvent être ajoutées ou modifiées à l’aide de la modification sur la ligne, et les heures de la tâche parent sont automatiquement calculées en additionnant les sous-tâches. &#x200B; Il est recommandé d’inclure les heures planifiées dans les modèles de projet. 
 
 
 ## Tutoriels et articles recommandés sur cette rubrique
@@ -57,3 +55,4 @@ Ils aident également à suivre le temps passé sur les tâches, à améliorer l
 * [Estimer les heures de tâche avec l&#39;effort de travail](/help/manage-work/tasks/understand-work-effort.md)
 * [Vue d’ensemble des feuilles de temps](https://experienceleague.adobe.com/fr/docs/workfront/using/timesheets/details/timesheets-overview)
 * [Enregistrer des heures](https://experienceleague.adobe.com/fr/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+
