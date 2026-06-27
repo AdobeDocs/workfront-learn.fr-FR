@@ -36,7 +36,7 @@ ht-degree: 27%
 Cette vidéo explique la durée des tâches dans Workfront, leur impact sur les dates de début et d’achèvement, la chronologie du projet et les bonnes pratiques pour une utilisation efficace des durées.Workfront recommande d’utiliser des durées et des prédécesseurs pour établir la chronologie des tâches plutôt que de définir manuellement des contraintes, car les contraintes peuvent empêcher les ajustements automatiques.&#x200B;Des durées précises sont essentielles pour une planification de projet et une gestion des ressources efficaces.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449345/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

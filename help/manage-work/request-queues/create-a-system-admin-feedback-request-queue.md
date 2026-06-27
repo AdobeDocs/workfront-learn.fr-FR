@@ -42,7 +42,7 @@ ht-degree: 73%
 La vidéo fournit un guide détaillé sur la création d’une file d’attente de demandes de commentaires pour les administrateurs système.&#x200B;L’objectif de la file d’attente est de recueillir les commentaires des utilisateurs sur les processus et les workflows créés par les administrateurs système, ce qui permet de les améliorer et de les optimiser.La vidéo souligne l’importance de la participation des utilisateurs et de la transparence dans l’amélioration des processus, encourageant les administrateurs à partager leurs rapports de retour d’informations avec les utilisateurs.&#x200B;Des liens vers des tutoriels relatifs à la création de rapports et de formulaires personnalisés sont fournis pour obtenir des conseils supplémentaires.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450499/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
 
 ## Points essentiels à retenir
 

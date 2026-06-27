@@ -44,7 +44,7 @@ La vidéo souligne l&#39;importance d&#39;une communication efficace pour la ré
 
 La vidéo montre comment Workfront simplifie la communication, la gestion des tâches et le reporting, en veillant à ce que toutes les informations liées au projet soient accessibles et organisées. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436148/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

@@ -36,7 +36,7 @@ ht-degree: 50%
 La vidéo explique le concept du nombre d’heures prévues, qui est une estimation du temps nécessaire pour accomplir les tâches.Le nombre d’heures prévues est essentiel à la gestion des ressources dans Workfront, car il permet d’identifier une sur-allocation ou une sous-allocation des ressources.Il aide également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec le personnel.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445335/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 
 ## Points essentiels à retenir

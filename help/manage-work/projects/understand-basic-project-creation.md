@@ -36,7 +36,7 @@ ht-degree: 23%
 Cette vidéo explique comment créer et gérer un projet à partir de zéro. &#x200B; Il commence par la création d’un projet, son changement de nom et la définition d’un objectif avec une description, une date de début et une date d’achèvement cible. Les projets peuvent être divisés en tâches, qui sont des travaux planifiés avec des durées et des affectations estimées. &#x200B; tâches peuvent être séquencées à l’aide de prédécesseurs et le statut du projet peut être défini sur « Actuel » pour informer l’équipe et l’inclure dans les rapports. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435898/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

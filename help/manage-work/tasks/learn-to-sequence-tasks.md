@@ -36,7 +36,7 @@ ht-degree: 35%
 La vidéo explique comment séquencer les tâches dans Workfront à l’aide des prédécesseurs et des durées pour gérer efficacement les chronologies de projet.La vidéo explique comment définir des prédécesseurs pour les nouvelles tâches, en assurant un ordre séquentiel et des dates de début précises.&#x200B;Il souligne l’importance de s’entraîner avec les prédécesseurs pour comprendre leur impact sur les calendriers des projets et recommande d’utiliser les durées et les prédécesseurs pour une planification de projet efficace.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447322/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

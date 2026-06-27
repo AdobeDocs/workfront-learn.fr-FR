@@ -66,7 +66,7 @@ La vidéo fournit un guide complet sur la création de projets dans Workfront à
 
 La vidéo souligne la flexibilité de Workfront en matière de création de projets par le biais de modèles, de grattages, de copies ou d’importations, en fonction des besoins de différents utilisateurs. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432175/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
