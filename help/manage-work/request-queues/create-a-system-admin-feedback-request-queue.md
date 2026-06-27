@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 84%
+source-wordcount: 431
+ht-degree: 73%
 
 ---
 
@@ -39,13 +34,10 @@ ht-degree: 84%
 >* [Création d’un flux de demandes dans Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=fr)
 >* Ou vous êtes déjà à l’aise avec la création d’une file d’attente des demandes qui utilise une règle de transmission et un formulaire personnalisé.
 
-La vidéo fournit un guide détaillé sur la création d’une file d’attente de demandes de commentaires pour les administrateurs système.
-&#x200B;L’objectif de la file d’attente est de recueillir les commentaires des utilisateurs sur les processus et les workflows créés par les administrateurs système, ce qui permet de les améliorer et de les optimiser.
-La vidéo souligne l’importance de la participation des utilisateurs et de la transparence dans l’amélioration des processus, encourageant les administrateurs à partager leurs rapports de retour d’informations avec les utilisateurs.
-&#x200B;Des liens vers des tutoriels relatifs à la création de rapports et de formulaires personnalisés sont fournis pour obtenir des conseils supplémentaires.
+La vidéo fournit un guide détaillé sur la création d’une file d’attente de demandes de commentaires pour les administrateurs système.&#x200B;L’objectif de la file d’attente est de recueillir les commentaires des utilisateurs sur les processus et les workflows créés par les administrateurs système, ce qui permet de les améliorer et de les optimiser.La vidéo souligne l’importance de la participation des utilisateurs et de la transparence dans l’amélioration des processus, encourageant les administrateurs à partager leurs rapports de retour d’informations avec les utilisateurs.&#x200B;Des liens vers des tutoriels relatifs à la création de rapports et de formulaires personnalisés sont fournis pour obtenir des conseils supplémentaires.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450499/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
 
 ## Points essentiels à retenir
 
@@ -63,3 +55,4 @@ Pour découvrir comment créer un formulaire personnalisé, reportez-vous au tut
 ## Tutoriels recommandés sur cette rubrique
 
 * [Réponses aux questions courantes sur les files d’attente de demandes](/help/manage-work/request-queues/request-queue-faq.md)
+

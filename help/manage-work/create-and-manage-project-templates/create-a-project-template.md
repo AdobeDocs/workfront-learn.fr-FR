@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 519
-ht-degree: 84%
+source-wordcount: 630
+ht-degree: 57%
 
 ---
 
@@ -38,19 +33,19 @@ Apprenez à créer un modèle de projet de zéro et à partir d’un projet exis
 
 ## Créer un modèle de projet
 
-* La vidéo fournit un guide détaillé sur la création et l’utilisation de modèles pour la production vidéo marketing. Il commence par expliquer comment créer un nouveau modèle à partir de zéro, lui donner un nom et l’enregistrer. &#x200B; Le processus comprend trois étapes principales : créer des tâches, configurer la chronologie à l’aide de durées et de prédécesseurs, et effectuer des affectations à des fonctions plutôt qu’à des utilisateurs individuels. &#x200B; La vidéo met l’accent sur l’organisation des tâches à l’aide des relations parent-enfant pour une meilleure synthèse et efficacité. &#x200B;
-* Une fois le modèle créé, il peut être utilisé pour produire de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. &#x200B; Il montre également comment affecter des fonctions à des tâches à l&#39;aide des fonctionnalités de planification et de planification des ressources. &#x200B;
-* La vidéo explique comment enregistrer un projet existant en tant que nouveau modèle, ce qui permet de mettre à jour et d’améliorer le workflow. &#x200B; Il souligne l’importance de la gestion des modèles pour éviter toute confusion et garantir une exécution de projet rationalisée. &#x200B;
+* La vidéo fournit un guide détaillé sur la création et l’utilisation de modèles pour la production de vidéos marketing. Il commence par expliquer comment créer un nouveau modèle à partir de zéro, lui donner un nom et l’enregistrer. &#x200B; Le processus comprend trois étapes principales : créer des tâches, configurer la chronologie à l’aide de durées et de prédécesseurs, et effectuer des affectations à des fonctions plutôt qu’à des utilisateurs individuels. &#x200B; La vidéo met l’accent sur l’organisation des tâches à l’aide des relations parent-enfant pour une meilleure synthèse et efficacité. 
+* Une fois le modèle créé, il peut être utilisé pour générer de nouveaux projets. La vidéo montre comment créer un projet à partir du modèle, effectuer les ajustements nécessaires et ajouter des tâches ou modifier les durées selon les besoins. &#x200B; Il montre également comment affecter des fonctions à des tâches à l&#39;aide des fonctionnalités de planification et de planification des ressources. 
+* La vidéo explique comment enregistrer un projet existant en tant que nouveau modèle, ce qui permet de mettre à jour et d’améliorer le workflow. &#x200B; Il souligne l’importance de la gestion des modèles pour éviter toute confusion et garantir une exécution de projet rationalisée. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3415444/?captions=fre_fr&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## Points clés à retenir
+## Points essentiels à retenir
 
-* **Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions.
-* **Organisation des tâches :** utilisez les relations parent-enfant pour organiser efficacement les tâches, en fournissant un résumé et une structure clairs pour le projet.
-* **Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches.
-* **Affectations basées sur les fonctions :** affectez des tâches à des fonctions plutôt qu’à des personnes pour utiliser efficacement les fonctionnalités de planification et de planification des ressources.
-* **Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour apporter des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace.
+* **Création d’un modèle :** découvrez comment créer un modèle à partir de zéro en lui attribuant un nom, en configurant des tâches et des chronologies et en attribuant des affectations à des fonctions. &#x200B;
+* **Organisation des tâches :** utilisez les relations parent-enfant pour organiser les tâches de manière efficace, en fournissant un résumé et une structure clairs pour le projet. &#x200B;
+* **Configuration de la chronologie :** définissez la chronologie des tâches à l’aide de durées et de prédécesseurs afin d’estimer avec précision la période et la séquence des tâches. &#x200B;
+* **Affectations basées sur les rôles :** affectez des tâches à des fonctions plutôt qu’à des utilisateurs individuels pour utiliser efficacement les fonctionnalités de planification et de planification des ressources. &#x200B;
+* **Gestion des modèles :** enregistrez les projets existants en tant que nouveaux modèles pour incorporer des améliorations et gérer les modèles afin d’éviter toute confusion et d’assurer une exécution de projet efficace. &#x200B;
 
 
 ## Modèles créés avec les [!UICONTROL Blueprints]
@@ -82,3 +77,4 @@ Si le blueprint n’a pas encore été installé, vous pouvez le demander à vot
 * [Copier efficacement un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Modifier l&#39;équipe du projet dans un modèle](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+
