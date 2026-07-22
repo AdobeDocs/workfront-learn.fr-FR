@@ -6,7 +6,7 @@ thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-15T00:00:00.000Z'
+last-substantial-update: '2026-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 8c436898c1fe507bafb41dfefba4727cf52e9f1a
 workflow-type: tm+mt
 source-wordcount: 204
-ht-degree: 71%
+ht-degree: 90%
 
 ---
 
@@ -38,9 +38,9 @@ La vidéo présente un tutoriel sur la création de tâches dans un projet Workf
 ## Points clés à retenir
 
 * **Méthodes de création de tâches** : utilisez le bouton « Nouvelle tâche » pour une création de tâche détaillée ou le bouton « Ajouter d’autres tâches » pour une modification en ligne rapide.
-* **Champs obligatoires :** &#x200B;seul le nom de la tâche est obligatoire ; d’autres champs tels que la description, la durée et les affectations sont facultatifs et peuvent être ajoutés ultérieurement. &#x200B;
+* **Champs obligatoires** : seul le nom de la tâche est obligatoire. Les autres champs tels que la description, la durée et les affectations sont facultatifs et peuvent être ajoutés ultérieurement.
 * **Repositionnement des tâches** : les tâches sont ajoutées en bas de la liste, mais peuvent être repositionnées en les faisant glisser ou en utilisant l’option « Supprimer le retrait » pour ajuster la hiérarchie.
-* **Vues personnalisées :** différentes vues peuvent être sélectionnées pour inclure des champs supplémentaires, tels que des descriptions, lors de l’ajout de tâches. &#x200B;
+* **Vues personnalisées** : différentes vues peuvent être sélectionnées pour inclure des champs supplémentaires, tels que des descriptions, lors de l’ajout de tâches.
 * **Insertion de tâches à des positions spécifiques** : cliquez avec le bouton droit de la souris entre des tâches existantes et sélectionnez « Insérer la tâche ci-dessous » pour placer une nouvelle tâche à un emplacement spécifique.
 
 
