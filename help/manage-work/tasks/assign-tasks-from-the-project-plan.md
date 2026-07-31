@@ -36,7 +36,7 @@ ht-degree: 82%
 La vidéo explique différentes méthodes d’affectation de tâches dans un plan de projet. Elle met l’accent sur l’utilisation d’outils tels que les filtres, les modèles et les fonctionnalités de gestion des ressources pour rationaliser les affectations de tâches et optimiser les workflows de projet.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445736/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points clés à retenir
 
