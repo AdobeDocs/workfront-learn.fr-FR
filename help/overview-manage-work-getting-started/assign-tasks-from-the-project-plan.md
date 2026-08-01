@@ -43,7 +43,7 @@ Dans cette vidéo, vous allez :
 * Comprendre la valeur des modèles de projet lors de l’affectation de tâches
 * Comprendre l’intérêt d’affecter des tâches aux équipes
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445736/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more urls:
