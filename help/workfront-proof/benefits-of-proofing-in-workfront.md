@@ -36,7 +36,7 @@ Dans cette vidéo, vous apprendrez :
 * Qu’est-ce que la relecture ?
 * Avantages de l’utilisation de la relecture numérique dans [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439091/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Terminologie de la relecture
 
