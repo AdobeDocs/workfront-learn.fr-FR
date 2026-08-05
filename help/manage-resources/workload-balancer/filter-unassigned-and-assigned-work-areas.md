@@ -36,4 +36,4 @@ Dans cette vidéo, vous apprendrez à :
 * Filtrer la liste des utilisateurs et utilisatrices dans la zone travail affectée
 * Filtrer la zone Travail non affecté
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413856/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

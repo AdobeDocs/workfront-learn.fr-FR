@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
-last-substantial-update: '2024-06-19T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 243
 ht-degree: 50%
@@ -33,7 +33,9 @@ ht-degree: 50%
 
 # Comprendre le nombre d’heures prévues
 
-La vidéo explique le concept du nombre d’heures prévues, qui est une estimation du temps nécessaire pour accomplir les tâches.Le nombre d’heures prévues est essentiel à la gestion des ressources dans Workfront, car il permet d’identifier une sur-allocation ou une sous-allocation des ressources.Il aide également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec le personnel.
+La vidéo explique le concept du nombre d’heures prévues, qui est une estimation du temps nécessaire pour accomplir les tâches.
+Le nombre d’heures prévues est essentiel à la gestion des ressources dans Workfront, car il permet d’identifier une sur-allocation ou une sous-allocation des ressources.
+Il aide également à suivre le temps passé sur les tâches, à améliorer les estimations futures et à clarifier les attentes avec le personnel.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445335/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
@@ -45,7 +47,7 @@ La vidéo explique le concept du nombre d’heures prévues, qui est une estimat
 * **Conseils pour une estimation précise :** divisez les tâches longues en sous-tâches plus petites, suivez efficacement le temps et documentez les modifications ou les événements afin d’affiner les estimations d’heures planifiées. &#x200B;
 * **Gestion des ressources :** Workfront utilise les heures planifiées pour identifier la sur-allocation ou la sous-allocation des ressources, garantissant ainsi l’efficacité des affectations de tâches. &#x200B;
 * **Référence historique :** les projets terminés doivent être conservés comme références pour la planification future, en particulier pour les tâches affectées à de nouveaux intervenants. &#x200B;
-* **Facilité d’utilisation :** les heures planifiées peuvent être ajoutées ou modifiées à l’aide de la modification sur la ligne, et les heures de la tâche parent sont automatiquement calculées en additionnant les sous-tâches. &#x200B; Il est recommandé d’inclure les heures planifiées dans les modèles de projet. 
+* **Facilité d’utilisation :** les heures planifiées peuvent être ajoutées ou modifiées à l’aide de la modification sur la ligne, et les heures de la tâche parent sont automatiquement calculées en additionnant les sous-tâches. &#x200B; Il est recommandé d’inclure les heures planifiées dans les modèles de projet. &#x200B;
 
 
 ## Tutoriels et articles recommandés sur cette rubrique

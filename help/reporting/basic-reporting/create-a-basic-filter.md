@@ -35,7 +35,7 @@ ht-degree: 15%
 Cette vidéo explique comment créer et utiliser des filtres dans Workfront pour personnaliser les rapports de liste en fonction de critères spécifiques. Les filtres &#x200B; permettent aux utilisateurs d’affiner les listes, telles que des tâches, des projets ou des documents, en définissant des conditions. &#x200B; Seuls les éléments correspondant aux conditions de filtrage et accessibles à l’utilisateur connecté s’affichent dans la liste. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431679/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
