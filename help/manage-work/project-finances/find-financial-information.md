@@ -1,18 +1,18 @@
 ---
-title: Accéder aux informations financières des projets et tâches et les gérer
-description: Découvrez comment trouver, analyser et gérer efficacement les données financières des projets et des tâches, couvrant les budgets, les revenus, les coûts et les mesures de performances au niveau des projets et des tâches.
+title: Accéder aux informations financières et les gérer pour les finances du projet
+description: Découvrez comment accéder aux données financières des projets et des tâches, les analyser et les gérer, y compris les budgets, le chiffre d’affaires, les coûts et les mesures de performances.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2025-04-16'
 recommendations: noDisplay,catalog
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
 feature_v2:
@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: ecdbfe97f711f985c41a40ff6d37cd748c765f8e
 workflow-type: tm+mt
-source-wordcount: 220
-ht-degree: 57%
+source-wordcount: 211
+ht-degree: 46%
 
 ---
 
-# Accéder aux informations financières des projets et tâches et les gérer
+# Accéder aux informations financières et les gérer pour les finances du projet
 
-La vidéo explique comment accéder aux informations financières des projets et tâches et les gérer. &#x200B;Il offre une vue d’ensemble complète de la navigation et de la compréhension des données financières au niveau des projets et des tâches. 
+La vidéo explique comment accéder aux informations financières des projets et tâches et les gérer. &#x200B;Il offre une vue d’ensemble complète de la navigation et de la compréhension des données financières au niveau des projets et des tâches. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415895/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
