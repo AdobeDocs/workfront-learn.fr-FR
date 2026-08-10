@@ -11,18 +11,13 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:45:52.312Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 493
 ht-degree: 94%
@@ -47,19 +42,19 @@ Appelez un service web pour renvoyer des informations sur plusieurs pays et iden
 
 1. Créez un scénario et nommez-le « Agrégation avancée ».
 1. Définissez le module de déclenchement sur un module HTTP - Effectuer une demande.
-1. Utilisez cette URL, `https://restcountries.com/v2/lang/es`, qui vous donne une liste de tous les pays où l’on parle espagnol.
+1. Utilisez cette URL, `https://countries.dev/lang/es`, qui vous donne une liste de tous les pays où l’on parle espagnol.
 1. Conservez la méthode Get.
 1. Cochez la case Analyser la réponse.
 1. Renommez ce module « Obtenir des pays ».
 1. Cliquez sur Enregistrer et Exécuter une fois.
 
-   **La sortie est un lot unique, mais elle se présente sous la forme d’un tableau de 24 collections, une pour chaque pays hispanophone.**
+   **La sortie est un bundle unique, mais elle se présente sous la forme d’un tableau de 24 collections, une pour chaque pays hispanophone.**
 
    ![Agrégation avancée Image 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
 
    **Vous devez collecter des informations sur les sous-régions pour chacun des pays. Vous devrez donc effectuer une requête HTTP supplémentaire.**
 
-1. Ajoutez une autre demande pour obtenir des informations sur les sous-régions. Elle ne renverra que le premier pays, mais ce n’est pas grave pour l’instant. Ajoutez un autre module HTTP Effectuer une demande et utilisez l’URL `https://restcountries.com/v2/name/{country name}`.
+1. Ajoutez une autre demande pour obtenir des informations sur les sous-régions. Elle ne renverra que le premier pays, mais ce n’est pas grave pour l’instant. Ajoutez un autre module HTTP Effectuer une demande et utilisez l’URL `https://countries.dev/name/{country name}`.
 1. Pour obtenir le nom du premier pays, allez dans le panneau de mappage et cliquez sur Données, puis sur Nom dans le tableau. Le [1] dans le champ de données signifie qu’il renverra le premier élément du tableau.
 
    + Cliquez sur le nombre et modifiez l’index si nécessaire, mais dans ce cas, seul le premier élément est important.
@@ -72,7 +67,7 @@ Appelez un service web pour renvoyer des informations sur plusieurs pays et iden
 
    + La sortie est une information pour un seul pays.
 
-1. Pour obtenir les autres pays, vous devez itérer le tableau. Ajoutez un itérateur qui prend une liste d’attributs et génère un lot pour chaque élément de la liste.
+1. Pour obtenir les autres pays, vous devez itérer le tableau. Ajoutez un itérateur qui prend une liste d’attributs et génère un bundle pour chaque élément de la liste.
 
    **Ajoutez l’itérateur et l’agrégateur.**
 
