@@ -35,7 +35,7 @@ ht-degree: 35%
 
 La vidéo fournit un guide détaillé sur la manière d’effectuer et de gérer des demandes dans Workfront. Il explique le processus de création d’une demande, en commençant par sélectionner « Demandes » dans le menu principal, puis en cliquant sur le bouton « Nouvelle demande ». &#x200B; Les utilisateurs et utilisatrices peuvent choisir un type de requête parmi des files d’attente personnalisées et adaptées aux workflows de leur entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413114/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
