@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 264
 ht-degree: 35%
@@ -41,7 +41,7 @@ La vidéo fournit un guide détaillé sur la manière d’effectuer et de gérer
 
 * **Création de requête rationalisée :** les utilisateurs peuvent facilement créer des requêtes en sélectionnant « Requêtes » dans le menu principal, en choisissant un type de requête, en remplissant les champs requis et en joignant des documents pertinents. &#x200B;
 * **Workflows personnalisables :** les files d’attente des demandes et les formulaires sont adaptés aux workflows organisationnels, ce qui permet aux utilisateurs et aux utilisatrices de spécifier des détails (par exemple, en magasin, à l’extérieur, sur les médias sociaux) et la priorité.
-* **Fonction d’enregistrement automatique des brouillons :** les brouillons sont automatiquement enregistrés lorsque les utilisateurs remplissent le champ d’objet, ce qui permet de s’assurer qu’aucune donnée n’est perdue s’ils se mettent en pause ou quittent la page. &#x200B; brouillons peuvent être consultés ultérieurement pour être terminés ou ignorés si nécessaire. 
+* **Fonction d’enregistrement automatique des brouillons :** les brouillons sont automatiquement enregistrés lorsque les utilisateurs remplissent le champ d’objet, ce qui permet de s’assurer qu’aucune donnée n’est perdue s’ils se mettent en pause ou quittent la page. &#x200B; brouillons peuvent être consultés ultérieurement pour être terminés ou ignorés si nécessaire. &#x200B;
 * **Demandes de suivi et de filtrage :** les demandes envoyées peuvent être suivies sur la page « Envoyées ». Des filtres sont disponibles pour afficher les demandes ouvertes, non résolues ou toutes les demandes basées sur les autorisations utilisateur. &#x200B;
 * **Copier et réutiliser les demandes :** les utilisateurs et utilisatrices peuvent copier des demandes existantes pour en créer de nouvelles, ce qui facilite l’envoi de demandes similaires sans devoir repartir de zéro.
 

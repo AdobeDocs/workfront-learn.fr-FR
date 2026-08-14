@@ -8,7 +8,7 @@ thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-06-26T00:00:00.000Z'
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 266
 ht-degree: 13%
@@ -32,7 +32,7 @@ ht-degree: 13%
 
 # Gérer efficacement le travail non planifié
 
-La vidéo souligne l&#39;importance de la communication dans la gestion de projet et souligne le rôle des questions en tant qu&#39;outil clé pour faciliter la communication. &#x200B; Il explique la différence entre les mises à jour et les problèmes, en notant que les problèmes sont mieux adaptés au travail qui doit être affecté, suivi et résolu avant qu’un projet puisse être terminé. &#x200B; La vidéo fournit un guide détaillé sur la manière de consigner les problèmes. 
+La vidéo souligne l&#39;importance de la communication dans la gestion de projet et souligne le rôle des questions en tant qu&#39;outil clé pour faciliter la communication. &#x200B; Il explique la différence entre les mises à jour et les problèmes, en notant que les problèmes sont mieux adaptés au travail qui doit être affecté, suivi et résolu avant qu’un projet puisse être terminé. &#x200B; La vidéo fournit un guide détaillé sur la manière de consigner les problèmes. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446568/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
