@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-02-26T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 232
 ht-degree: 25%
@@ -49,7 +49,7 @@ Cette vidéo explique comment rechercher et gérer des requêtes dans Workfront.
 * **Utilisation de filtres dans la zone de requête :** des filtres tels que « mes requêtes » et « mes requêtes ouvertes » permettent aux utilisateurs et aux utilisatrices de voir les requêtes qu’ils ou elles ont créées. &#x200B;
 * **Gestion des demandes sur la page Équipes :** les utilisateurs peuvent afficher les demandes d’équipe non affectées et les affecter à eux-mêmes ou à d’autres personnes à l’aide de l’équilibreur de charge de travail pour gérer les affectations des membres de l’équipe en fonction de leur charge de travail actuelle. &#x200B;
 * **Rapports et tableaux de bord personnalisés :** les utilisateurs et les utilisatrices peuvent créer des rapports personnalisés pour suivre les demandes. Cela permet d’personnaliser les noms, les filtres, les vues et les regroupements, ce qui permet de gérer et de classer les demandes de manière efficace. &#x200B;
-* **Comprendre « mon/ma/mes » dans les filtres :** le terme « mon/ma/mes » dans l’Accueil fait référence aux problèmes qui me sont affectés. Le terme « mon » dans la zone de demande fait référence aux problèmes que j’ai demandés. 
+* **Comprendre « mon/ma/mes » dans les filtres :** le terme « mon/ma/mes » dans l’Accueil fait référence aux problèmes qui me sont affectés. Le terme « mon » dans la zone de demande fait référence aux problèmes que j’ai demandés. &#x200B;
 
 
 ## Tutoriels recommandés sur cette rubrique
