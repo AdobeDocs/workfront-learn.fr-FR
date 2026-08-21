@@ -7,22 +7,17 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: '2024-02-28T00:00:00.000Z'
+last-substantial-update: '2026-08-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 243
 ht-degree: 30%
@@ -33,17 +28,17 @@ ht-degree: 30%
 
 La vidéo explique comment convertir un problème ou une demande en tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445432/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 
-* **Processus de conversion simple :** pour convertir un événement/une demande en tâche, ouvrez l’événement, cliquez sur le menu à trois points, puis sélectionnez « Convertir en tâche ». &#x200B; Le nom et la description de la tâche sont copiés par défaut, mais peuvent être modifiés. 
+* **Processus de conversion simple :** pour convertir un événement/une demande en tâche, ouvrez l’événement, cliquez sur le menu à trois points, puis sélectionnez « Convertir en tâche ». &#x200B; Le nom et la description de la tâche sont copiés par défaut, mais peuvent être modifiés. &#x200B;
 * **Sélection du projet de destination :** vous pouvez choisir le projet de destination de la tâche, soit le projet par défaut où réside le problème, soit un autre projet auquel vous avez accès. &#x200B;
 * **Pièce jointe automatique de formulaire :** les formulaires personnalisés liés au problème sont automatiquement ajoutés à la tâche, en veillant à ce que toutes les valeurs de champ soient transférées de manière transparente. &#x200B;
 * **Options de conversion :** les principales options sont les suivantes :
-   * Le problème d’origine reste actif pendant la tâche. &#x200B;
-   * Autoriser le demandeur à accéder à la tâche. &#x200B;
-   * Conserver la date d&#39;achèvement prévue de l&#39;événement pour la tâche. &#x200B;
+  * Le problème d’origine reste actif pendant la tâche. &#x200B;
+  * Autoriser le demandeur à accéder à la tâche. &#x200B;
+  * Conserver la date d&#39;achèvement prévue de l&#39;événement pour la tâche. &#x200B;
 * **Mises à jour de statut liées :** si l’événement d’origine est conservé, son statut sera automatiquement mis à jour en fonction de la progression de la tâche, assurant ainsi la synchronisation entre l’événement et la tâche. &#x200B;
 
 
