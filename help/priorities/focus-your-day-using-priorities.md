@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Workfront Priority fait office de centre de contrôle personnel pour la gestion des tâches et des événements qui vous sont assignés directement. Il regroupe le travail de plusieurs projets en une vue unique et ciblée, ce qui vous permet de hiérarchiser efficacement les tâches.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502459/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502462/?captions=fre_fr&learn=on&enablevpops)
 
 Lorsque vous utilisez Priorités, gardez à l’esprit les points suivants :
 

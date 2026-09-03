@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Les priorités Adobe rationalisent les mises à jour et la visibilité du travail. Utilisez-le pour mettre à jour les statuts, joindre des fichiers, consigner l’heure et garder la progression transparente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502460/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502471/?captions=fre_fr&learn=on&enablevpops)
 
 
 
