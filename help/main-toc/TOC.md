@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriels Workfront
 user-guide-description: Une bibliothèque de vidéos de formation et d’articles conçus pour vous aider à mieux comprendre les fonctionnalités et les paramètres de Workfront.
-source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
+source-git-commit: 71fb13f139ceffafa58845488f865c5287093273
 workflow-type: tm+mt
-source-wordcount: '2658'
-ht-degree: 78%
+source-wordcount: '2670'
+ht-degree: 77%
 
 ---
 
@@ -519,7 +519,7 @@ ht-degree: 78%
     + [Comprendre  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [Comprendre les paramètres système](/help/workfront-dam/system-setup/system-setup-system-settings.md)
     + [Comprendre [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-    + [Analyser et planifier une stratégie  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+    + [Analyser et planifier une stratégie  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [Configurer des groupes et des utilisateurs](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
     + [Configurer l’intégration dans Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
     + [Personnaliser [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
@@ -563,6 +563,10 @@ ht-degree: 78%
 
 + Page d’accueil {#home}
   + [Supprimer, ajouter et réorganiser des widgets dans Accueil](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+
++ Priorités {#priorities}
+  + [Concentrez-vous sur votre journée à l’aide des priorités](/help/priorities/focus-your-day-using-priorities.md)
+  + [Agir et montrer votre travail](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + Agile {#agile}
