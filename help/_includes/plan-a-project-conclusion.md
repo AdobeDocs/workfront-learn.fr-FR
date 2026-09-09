@@ -7,7 +7,7 @@ ht-degree: 94%
 ---
 # Planification d’un projet - Révision - PARTAGÉ
 
-L’utilisation d’un modèle de projet permet à vos projets [!DNL  Workfront] d’être rapidement opérationnels. Planifiez ensuite votre projet en vous concentrant d’abord sur ces cinq domaines :
+L’utilisation d’un modèle de projet permet à vos projets [!DNL &#x200B; Workfront] d’être rapidement opérationnels. Planifiez ensuite votre projet en vous concentrant d’abord sur ces cinq domaines :
 
 1. Tâches
 1. Durée
