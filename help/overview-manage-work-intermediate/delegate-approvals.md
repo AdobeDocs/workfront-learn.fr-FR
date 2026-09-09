@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:19:24.972Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Déléguer des tâches, des problèmes et des approbations
 
-Découvrez comment déléguer des affectations de tâche et de problème, ainsi que des approbations pour les projets, les tâches et les problèmes à un autre utilisateur ou une autre utilisatrice de Workfront.
-
-Dans cette vidéo, vous apprendrez à :
-
-* Activer la délégation dans la configuration
-* Déléguer des affectations de tâches et de problèmes
-* Déléguer les approbations des projets, tâches et problèmes
-* Identifier des approbations déléguées
-
->[!VIDEO](https://video.tv.adobe.com/v/3446378/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Configurer les notifications d’événement](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Créer un processus d’approbation global et à usage unique](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Comprendre les processus d’approbation propres à chaque groupe](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-
+{{$include /help/_includes/delegate-approvals.md}}

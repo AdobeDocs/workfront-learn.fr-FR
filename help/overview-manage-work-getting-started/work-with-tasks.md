@@ -25,25 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:23:39.556Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 70
+source-wordcount: 26
 ht-degree: 100%
 
 ---
 
 # Travailler avec des tâches
 
-Dans cette vidéo, vous apprendrez :
-
-* Comment modifier les tâches existantes dans un projet
-* Des méthodes d’ajout et de suppression de tâches
-* Comment modifier l’ordre des tâches
-
->[!VIDEO](https://video.tv.adobe.com/v/3448558/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Comprendre les tâches parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
+{{$include /help/_includes/work-with-tasks.md}}

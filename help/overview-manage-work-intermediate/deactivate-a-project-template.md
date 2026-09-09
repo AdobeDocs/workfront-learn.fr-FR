@@ -25,28 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:18:38.976Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Désactiver un modèle de projet
 
-Dans cette vidéo, vous apprendrez :
-
-* comment partager un modèle de projet en accordant des droits d’activation et de désactivation ;
-* comment activer et désactiver un modèle de projet.
-
->[!VIDEO](https://video.tv.adobe.com/v/3444992/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Découvrez comment créer une vue personnalisée pour afficher et modifier le statut actif des modèles de projet.
-
-Pour créer une vue de modèle de projet avec une colonne de statut actif, voir l’activité **Vue de statut actif du modèle de projet** activité dans [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr).
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Partager un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+{{$include /help/_includes/deactivate-a-project-template.md}}

@@ -25,27 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:47.354Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # Commencer avec la gestion d’un projet
 
-Dans cette vidéo, vous apprendrez :
-
-* Surveillance de la progression des projets
-* Analyse en profondeur des détails des tâches
-* Communication avec les parties prenantes
-
->[!VIDEO](https://video.tv.adobe.com/v/3445169/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Activer un projet](/help/manage-work/projects/take-a-project-live.md)
-* [Rechercher des projets](/help/manage-work/projects/find-projects.md)
-* [Partager un projet](/help/manage-work/projects/share-a-project.md)
-* [Comprendre l’équipe de projet](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprendre la communication autour d’un projet](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/getting-started-manage-a-project.md}}

@@ -23,27 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:58:34.198Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 78
-ht-degree: 62%
+source-wordcount: 26
+ht-degree: 61%
 
 ---
 
 # Partager efficacement un modèle de projet
 
-Vous apprendrez à :
-
-* Partager un modèle avec d’autres personnes
-* Partager des projets créés à l’aide d’un modèle
-
->[!VIDEO](https://video.tv.adobe.com/v/3415438/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Créer un modèle de projet et explorer les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Créer un projet directement à partir d’un modèle](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Copier efficacement un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modifier l&#39;équipe du projet dans un modèle](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
-
+{{$include /help/_includes/share-a-project-template.md}}

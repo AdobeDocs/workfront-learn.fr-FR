@@ -25,23 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:28:55.482Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 51
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # Comprendre les tâches parent-enfant
 
-Dans cette vidéo, vous apprendrez :
-
-* Structuration des tâches dans un projet [!DNL Workfront]
-
->[!VIDEO](https://video.tv.adobe.com/v/3445598/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Créer des tâches](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Utiliser des tâches](/help/manage-work/tasks/work-with-tasks.md)
-* [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/understand-parent-child-tasks.md}}

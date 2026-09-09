@@ -23,39 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:21:41.427Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 198
+source-wordcount: 27
 ht-degree: 100%
 
 ---
 
 # Créer un projet directement à partir d’un modèle
 
-Si vous travaillez sur un modèle et que vous devez créer un projet à partir de ce modèle, cliquez sur le menu des trois points situé à côté du nom du modèle. Sélectionnez ensuite Créer un projet.
-
-![Option Créer un projet dans le menu](assets/direct-template-01.png)
-
-La fenêtre des détails vous permet d’apporter des modifications aux paramètres du nouveau projet.
-
-![Page de création de projet](assets/direct-template-02.png)
-
->[!NOTE]
->
->Pour créer un projet à l’aide de cette méthode, vous devez avoir accès à la zone Modèles de Workfront. Si vous ne pouvez pas accéder aux modèles, vous pouvez toujours utiliser un modèle pour créer un projet à partir de la zone Projets ou lors de la conversion d’un problème/d’une tâche.
-
->[!TIP]
->
->S’il existe un modèle que vous utilisez souvent, faites-en un favori ! Le modèle apparaît dans le menu Nouveau projet, en plus de s’afficher sous le menu Favoris de la barre de navigation.
-
-
-![Modèles favoris de nouveau projet](assets/direct-template-03.png)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Créer un modèle de projet et découvrir les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Partager un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copier un projet existant](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modifier l’équipe de projet dans un modèle de projet](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
-
+{{$include /help/_includes/create-a-project-directly-from-a-template.md}}

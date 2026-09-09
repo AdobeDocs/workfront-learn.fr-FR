@@ -24,30 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:57:57.918Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 62%
+source-wordcount: 33
+ht-degree: 57%
 
 ---
 
 # Appliquer des chemins jalonnés aux projets et tâches
 
-Dans cette vidéo, vous apprendrez à :
-
-* Appliquer un chemin jalonné à un projet
-* Ajouter un jalon à une tâche
-* Bonnes pratiques relatives à l’application de jalons
-
->[!VIDEO](https://video.tv.adobe.com/v/3430290/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->Pour plus d’informations sur la création d’une vue Jalon, consultez l’activité Vue Jalon dans [Créer une vue de base](/help/reporting/basic-reporting/create-a-basic-view.md).
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Afficher les jalons dans vos projets](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Appliquer des chemins jalonnés aux projets et tâches](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Activité de vue jalonnée dans Créer une vue de base](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
-
+{{$include /help/_includes/apply-milestones.md}}

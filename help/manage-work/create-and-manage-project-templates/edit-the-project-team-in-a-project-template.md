@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:23.948Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 68%
+source-wordcount: 34
+ht-degree: 58%
 
 ---
 
 # Modifier l&#39;équipe du projet dans un modèle
 
-Dans cette vidéo, vous apprendrez :
-
-* comment éviter d’inclure involontairement des personnes membres de l’équipe qui ne font **pas** partie du projet dans une équipe de projet de modèle ;
-* comment modifier l’équipe de projet du modèle.
-
->[!VIDEO](https://video.tv.adobe.com/v/3441552/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Créer un modèle de projet et explorer les plans directeurs](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Partager efficacement un modèle de projet](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Désactiver un modèle de projet](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-
+{{$include /help/_includes/edit-the-project-team-in-a-project-template.md}}

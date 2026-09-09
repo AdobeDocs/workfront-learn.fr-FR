@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:24:06.686Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: 26
 ht-degree: 100%
 
 ---
 
 # Charger les ressources
 
-Dans cette vidéo, vous apprendrez à :
-
-* vérifier les validations sur les épreuves ;
-* vérifier les validations des documents ;
-* charger un document ;
-* rechercher une formation sur le chargement d’épreuve.
-
->[!VIDEO](https://video.tv.adobe.com/v/3440372/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Charger un BAT avec un workflow de base](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-* [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
-* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
-* [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Consigner et réviser les heures](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/upload-assets.md}}

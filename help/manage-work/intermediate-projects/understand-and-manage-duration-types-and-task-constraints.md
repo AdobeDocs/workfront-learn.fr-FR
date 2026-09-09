@@ -23,30 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:58:15.610Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 184
-ht-degree: 93%
+source-wordcount: 33
+ht-degree: 63%
 
 ---
 
 # Types de durée de Principal et contraintes de tâche
 
-Dans cette vidéo, vous découvrirez les éléments suivants concernant les types de durée et les contraintes de tâche :
-
-* En quoi ils consistent et comment ils fonctionnent
-* Les erreurs courantes des chefs de projet à ce sujet
-* Comment toutes les afficher dans votre projet
-* Comment savoir quand elles doivent être corrigées
-* Comment les corriger
-* Bonnes pratiques relatives à leur utilisation
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3422824/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-
-Pour plus d’informations sur la création d’une vue Types de durée et contraintes de tâche, voir l’activité **Types de durée et contraintes de tâche** dans [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr).
-
-Pour plus d’informations sur les types de durée, voir [Durée des tâches et Types de durée](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=fr).
-
-Pour plus d’informations sur les contraintes de tâche, voir [Contraintes de tâche](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=fr).
+{{$include /help/_includes/understand-and-manage-duration-types-and-task-constraints.md}}

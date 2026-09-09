@@ -26,37 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:33:39.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 90
+source-wordcount: 32
 ht-degree: 100%
 
 ---
 
 # Découvrez comment séquencer des tâches
 
-Dans cette vidéo, vous apprendrez :
-
-* Présentation des tâches antérieures dans Workfront
-* Utilisation des durées et des prédécesseurs pour créer une chronologie
-* Comment les prédécesseurs ordonnent les tâches dans un projet
-* Effets de la définition d’une date de début de tâche sur la contrainte de tâche
-* Saisie des tâches antérieures
-
->[!VIDEO](https://video.tv.adobe.com/v/3447322/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-<!--
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
--->
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
-* [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
-* [Comprendre l’[!UICONTROL effort de travail]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/learn-to-sequence-tasks.md}}

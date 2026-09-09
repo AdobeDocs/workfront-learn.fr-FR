@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:52.285Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 87
-ht-degree: 75%
+source-wordcount: 27
+ht-degree: 100%
 
 ---
 
 # Faire passer le statut du projet sur « terminé »
 
-Dans cette vidéo, vous apprendrez :
-
-* Comment faire passer le statut d’un projet sur [!UICONTROL Terminé]
-* Pourquoi faire passer le statut d’un projet sur [!UICONTROL Terminé]
-* Que faire si vous ne pouvez pas faire passer le statut du projet sur [!UICONTROL Terminé]
-
->[!VIDEO](https://video.tv.adobe.com/v/3439356/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Approbation de la résolution de tâches et de problèmes](/help/manage-work/close-a-project/complete-approvals.md)
-* [Chargement et gestion des ressources du projet](/help/manage-work/close-a-project/upload-assets.md)
-* [Enregistrer les leçons apprises pour les projets futurs](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Enregistrer et réviser les heures du projet](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/change-the-project-status.md}}

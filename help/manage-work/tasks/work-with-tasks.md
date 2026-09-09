@@ -23,30 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:36:54.897Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 220
-ht-degree: 93%
+source-wordcount: 39
+ht-degree: 74%
 
 ---
 
 # Gestion efficace des tâches dans Workfront
 
-Cette vidéo présente un guide détaillé sur la gestion des tâches dans Workfront. Elle souligne la gestion efficace des tâches, notamment la modification, la suppression, l’ajout, la duplication et la réorganisation des tâches dans un plan de projet.
-
->[!VIDEO](https://video.tv.adobe.com/v/3448558/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Points clés à retenir
-
-* **Modification en ligne pour des modifications rapides :** double-cliquez sur un champ pour modifier directement les informations de la tâche et utilisez la touche de tabulation pour naviguer entre les champs pour des mises à jour plus rapides.
-* **Suppression de tâches avec sauvegarde dans la corbeille :** les tâches supprimées sont déplacées vers la corbeille pendant 30 jours, et sont accessibles uniquement par les administrateurs et administratrices système, ce garantit leur récupération si nécessaire.
-* **Ajout de tâches avec la structure parent-enfant :** utilisez « Insérer au-dessus » ou « Insérer en dessous » pour ajouter des tâches à des emplacements spécifiques, en héritant de la structure parent-enfant de la tâche sélectionnée.
-* **Duplication de tâches pour plus d’efficacité :** dupliquez des tâches ou des ensembles de tâches pour gagner du temps, avec tous les détails de tâche copiés pour faciliter la modification et le repositionnement.
-* **Réorganisation des tâches avec les fonctions de retrait, de suppression de retrait et de glisser-déposer :** ajustez la hiérarchie des tâches ou déplacez-les dans le projet à l’aide d’outils intuitifs tels que la fonctionnalité de retrait, de suppression de retrait et de glisser-déposer.
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Comprendre les relations de tâche parent-enfant](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Affecter des tâches à partir du plan de projet](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
-
+{{$include /help/_includes/work-with-tasks.md}}

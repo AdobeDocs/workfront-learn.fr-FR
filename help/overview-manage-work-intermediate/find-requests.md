@@ -25,32 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:17:10.423Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Rechercher et gérer des demandes
 
-Dans cette vidéo, vous découvrirez comment trouver les demandes pour lesquelles vous avez une affectation, les demandes que vous avez créées et les demandes que vous gérez.
-
-Vous apprendrez à trouver ces demandes aux emplacements suivants :
-
-* [!UICONTROL Page d’accueil] Workfront
-* La zone [!UICONTROL Demandes]
-* La page [!UICONTROL Équipes]
-* Dans un tableau de bord personnalisé
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3441656/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Comprendre les files d’attente de demandes](/help/manage-work/request-queues/understand-request-queues.md)
-* [Effectuer une demande](/help/manage-work/issues-requests/make-a-request.md)
-* [Mettre à jour une demande](/help/manage-work/issues-requests/update-a-request.md)
-* [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/find-requests.md}}

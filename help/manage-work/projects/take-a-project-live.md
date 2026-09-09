@@ -24,31 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:46.743Z'
-source-git-commit: dca6f8510edc49351593fb73d0d5f2b0ac9be53e
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 168
-ht-degree: 81%
+source-wordcount: 33
+ht-degree: 100%
 
 ---
 
 # Activer un projet
 
-La vidéo explique les dernières étapes pour mettre un projet en ligne en modifiant son statut sur « en cours ». &#x200B; Avant de procéder, elle insiste sur la révision des éléments clés du projet, y compris les noms des tâches, les durées, les heures prévues, les prédécesseurs, les dates de début et d&#39;achèvement, ainsi que les affectations pour s&#39;assurer que tout est précis et correctement défini. &#x200B; Une fois le projet actif, le gestionnaire de projet recevra des notifications en fonction des paramètres globaux et personnels, et le projet apparaîtra dans les rapports et les filtres pour les projets actifs. &#x200B; C&#39;est le début officiel des travaux. &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3438985/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Points clés à retenir
-
-* **Consulter les détails du projet** : vérifiez que les noms des tâches, leurs durées, le nombre d’heures prévues, les prédécesseurs, les dates de début et d’achèvement, ainsi que les affectations sont exacts et correctement définis.
-* **Modifier le statut du projet** : faites passer le statut du projet sur « actuel » dans l’en-tête du projet ou dans ses détails pour l’activer.
-* **Recevoir des notifications** : en tant que personne gestionnaire du projet, vous commencerez à recevoir des notifications basées sur les paramètres globaux et personnels une fois que le projet sera activé.
-* **Suivre les projets actifs** : le projet apparaîtra dans les rapports et les filtres pour les projets actifs, actuels ou en cours, ce qui facilitera la surveillance.
-* **Commencer le travail** : l’activation du projet lance officiellement la phase de travail et d’exécution.
-
-
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Gérer un projet avec le statut actuel](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Recherche efficace de projets](/help/manage-work/projects/find-projects.md)
-* [Partage efficace de projets dans Workfront](/help/manage-work/projects/share-a-project.md)
+{{$include /help/_includes/take-a-project-live.md}}

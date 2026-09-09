@@ -24,26 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:14.617Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 67
-ht-degree: 61%
+source-wordcount: 21
+ht-degree: 52%
 
 ---
 
 # Enregistrer et réviser les heures du projet
 
-Dans cette vidéo, vous apprendrez à :
-
-* Vérifier les heures consignées dans un projet
-* Approuver les heures du projet si nécessaire
-
->[!VIDEO](https://video.tv.adobe.com/v/3441071/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
-* [Approbation de la résolution de tâches et de problèmes](/help/manage-work/close-a-project/complete-approvals.md)
-* [Chargement et gestion des ressources du projet](/help/manage-work/close-a-project/upload-assets.md)
-* [Enregistrer les leçons apprises pour les projets futurs](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-
+{{$include /help/_includes/log-and-review-hours.md}}

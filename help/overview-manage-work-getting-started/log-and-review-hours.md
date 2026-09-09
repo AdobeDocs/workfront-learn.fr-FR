@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 57
+source-wordcount: 20
 ht-degree: 100%
 
 ---
 
 # Consigner et réviser les heures
 
-Dans cette vidéo, vous apprendrez à :
-
-* Vérifier les heures consignées dans un projet
-* Approuver les heures du projet si nécessaire
-
->[!VIDEO](https://video.tv.adobe.com/v/3441071/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Faire passer le statut du projet sur « terminé »](/help/manage-work/projects/change-the-project-status.md)
-* [Terminer les approbations](/help/manage-work/close-a-project/complete-approvals.md)
-* [Charger les ressources](/help/manage-work/close-a-project/upload-assets.md)
-* [Enregistrer les leçons apprises](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+{{$include /help/_includes/log-and-review-hours.md}}

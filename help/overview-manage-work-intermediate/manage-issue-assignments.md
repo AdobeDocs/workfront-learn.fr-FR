@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:13:29.079Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # Gérer les affectations de problèmes
 
-La gestion des problèmes est une responsabilité importante du ou de la chef de projet et de ceux qui sont chargés de travailler sur les problèmes.
-
-Dans cette vidéo, vous apprendrez à :
-
-* Affecter un problème
-* Rechercher une affectation de problème
-* Mettre à jour les progrès sur les problèmes
-* Mettre à jour le statut du problème
-
->[!VIDEO](https://video.tv.adobe.com/v/3446957/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Gérer le travail non planifié](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Rechercher et gérer des demandes](/help/manage-work/issues-requests/find-requests.md)
-* [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/manage-issue-assignments.md}}

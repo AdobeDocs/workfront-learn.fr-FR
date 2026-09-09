@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:15:26.822Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 63
+source-wordcount: 15
 ht-degree: 100%
 
 ---
 
 # Gérer le travail non planifié
 
-Dans cette vidéo, vous apprendrez :
-
-* Quand consigner un problème
-* Consigner un problème
-* Bonnes pratiques relatives à la gestion des problèmes
-
->[!VIDEO](https://video.tv.adobe.com/v/3446568/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Commencer à gérer un projet](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Comprendre la communication autour d’un projet](/help/manage-work/projects/understand-project-communication.md)
-* [Convertir un problème/une demande en projet](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problème/une demande en une tâche](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/handle-unplanned-work.md}}

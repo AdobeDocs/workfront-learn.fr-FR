@@ -24,35 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 159
-ht-degree: 96%
+source-wordcount: 23
+ht-degree: 100%
 
 ---
 
 # Prédécesseurs avancés
 
-
->[!PREREQUISITES]
->
->* [Séquencer les tâches efficacement dans Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=fr)
->* Ou vous êtes déjà à l’aise avec les prédécesseurs dans vos projets.
-
-
-Dans cette vidéo, vous découvrirez :
-
-* Dépendances des tâches
-* Types de décalage
-* Prédécesseurs imposés
-* Erreurs de boucle de dépendance
-* Raccourcis et bonnes pratiques
-
->[!VIDEO](https://video.tv.adobe.com/v/3454528/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-Pour plus d’informations sur l’utilisation des prédécesseurs, voir [Utiliser les prédécesseurs de tâche](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=fr).
-
-Pour plus d’informations sur les contraintes de tâches, voir [Comprendre et gérer les types de durée et les contraintes de tâches](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=fr).
-
-Pour plus d’informations sur les prédécesseurs inter-projets, voir [Comprendre les prédécesseurs inter-projets](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=fr).
-
+{{$include /help/_includes/advanced-predecessors.md}}
