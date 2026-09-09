@@ -13,39 +13,19 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:39.713Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 72%
+source-wordcount: 35
+ht-degree: 54%
 
 ---
 
 # Suivre la progression à l’aide du pourcentage achevé et du statut de progression
 
-Assurez-vous que les tâches progressent comme il se doit pour respecter les délais du projet.
-
-Dans cette vidéo, vous découvrirez :
-
-* Pourcentage d’achèvement
-* Statut de la progression
-
->[!VIDEO](https://video.tv.adobe.com/v/3438210/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
-
-## Tutoriels recommandés sur cette rubrique
-
-* [Explorer la chronologie des projets dans Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Comprendre les types de dates et le statut de la progression](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-
-
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

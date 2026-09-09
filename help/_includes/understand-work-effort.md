@@ -1,0 +1,31 @@
+---
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+workflow-type: tm+mt
+source-wordcount: '264'
+ht-degree: 35%
+
+---
+# Estimer les heures de tâche avec un effort de travail - PARTAGÉ
+
+La vidéo explique comment utiliser la fonctionnalité Effort de travail dans Workfront pour estimer le nombre d’heures prévues des tâches lorsqu’il est difficile de fournir des estimations précises.
+Elle montre comment créer un affichage personnalisé de l’effort de travail pour rationaliser la gestion des tâches en ajoutant des colonnes pertinentes telles que l’effort de travail, le nombre d’heures prévues et le type de durée.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+
+## Points essentiels à retenir
+
+* **Fonction d’effort de travail pour l’estimation des heures planifiées :** la fonction d’effort de travail de Workfront permet d’estimer les heures planifiées pour les tâches en fonction de leur durée, ce qui facilite la création de plans de projet lorsque les heures planifiées sont difficiles à estimer. &#x200B;
+* **Pourcentages d’effort de travail personnalisables :** Workfront calcule les heures prévues à l’aide de pourcentages de durée de la tâche (par exemple, effort de travail Medium = 50 %, effort de travail important = 75 %) et ces pourcentages peuvent être ajustés selon les besoins. &#x200B;
+* **Exigence de type de durée simple :** l’effort de travail n’est disponible que pour les tâches avec un type de durée simple. &#x200B; tâches avec d&#39;autres types de durée doivent être changées en simple avant d&#39;utiliser l&#39;effort de travail. &#x200B;
+* **Options de modification en ligne et en bloc :** l’effort de travail peut être ajusté pour des tâches individuelles à l’aide de la modification en ligne ou pour plusieurs tâches simultanément à l’aide de la fonction de modification en bloc. &#x200B;
+* **Création d’une vue personnalisée de l’effort de travail :** les utilisateurs peuvent créer une vue personnalisée de l’effort de travail pour gérer et modifier facilement les paramètres de celui-ci. &#x200B; Cela implique l’ajout de colonnes pour l’effort de travail et d’autres champs pertinents, tels que les heures prévues ou le type de durée. &#x200B;
+
+
+Pour plus d’informations sur l’[!UICONTROL Effort de travail], voir l’article [Vue d’ensemble de l’Effort de travail](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=fr).
+
+
+## Tutoriels recommandés sur cette rubrique
+
+* [Comprendre la durée des tâches](/help/manage-work/tasks/understand-task-durations.md)
+* [Comprendre le nombre d’heures prévues](/help/manage-work/tasks/understand-planned-hours.md)
+* [Créer une vue de base](/help/reporting/basic-reporting/create-a-basic-view.md)

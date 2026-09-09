@@ -11,23 +11,13 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # Comprendre la chronologie du projet
 
-Dans cette vidéo, vous découvrirez :
-
-* Gestion du journal de projet de base
-* Planifier des projets à partir de la date de début ou d’achèvement
-* Contraintes de tâche
-
->[!VIDEO](https://video.tv.adobe.com/v/3435837/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->Pour obtenir une explication plus complète des types de durée et des contraintes de tâche, voir [Comprendre et gérer les types de durée et les contraintes de tâche](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=fr).
+{{$include /help/_includes/understand-project-timelines.md}}
