@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 26%
+source-wordcount: 154
+ht-degree: 24%
 
 ---
 
@@ -43,6 +43,6 @@ Adobe Workfront n’est pas destiné à remplacer les logiciels de suivi financi
 >* Type de licence standard avec droits de modification des données financières
 
 
-* [Mise à jour et vérification des finances](update-and-review-finances.md) - Découvrez comment vérifier les informations financières associées à un projet.
-* [Trouver des informations financières](find-financial-information.md) - Découvrez comment trouver des informations financières sur un projet et comprendre d’où elles viennent.
-* [Comprendre les taux de facturation multiples](multiple-billing-rates.md) - Découvrez comment remplacer les taux de facturation système dans un projet spécifique.
+* [Accéder aux informations financières et les gérer pour les finances du projet](find-financial-information.md) - Découvrez comment trouver des informations financières sur un projet et comprendre d’où elles viennent.
+* [Mettre à jour les finances des projets clients](update-and-review-finances.md) - Découvrez comment examiner les informations financières associées à un projet.
+* [Personnaliser les taux de facturation pour les fonctions](multiple-billing-rates.md) - Découvrez comment remplacer les taux de facturation du système dans un projet spécifique.
