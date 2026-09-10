@@ -13,11 +13,16 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:34:02.499Z'
 source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
@@ -73,7 +78,7 @@ Découvrez comment effectuer le suivi du travail du projet et communiquer avec l
 * [Gérer un projet avec le statut actuel](getting-started-manage-a-project.md) - Découvrez votre rôle en tant que chef de projet et les éléments à prendre en compte lors de la surveillance du travail du projet.
 * [Rechercher des projets efficacement](find-projects.md) - Découvrez comment trouver vos projets à l’aide d’épingles, de favoris, de tableaux de bord et de la page [!UICONTROL Projets].
 * [Partager les projets efficacement dans Workfront](share-a-project.md) - Découvrez comment partager un projet afin que les parties prenantes et les autres personnes intéressées par le projet puissent avoir une visibilité sur le travail en cours.
-* [Comprendre l’équipe de projet ](understand-the-project-team.md) - Découvrez à quoi l’équipe de projet peut servir et comment la gérer.
+* [Comprendre l’équipe de projet &#x200B;](understand-the-project-team.md) - Découvrez à quoi l’équipe de projet peut servir et comment la gérer.
 * [Améliorez la réussite du projet grâce à une communication efficace](understand-project-communication.md) - Découvrez comment communiquer sur le travail du projet à l’aide des mises à jour sur les projets, les tâches, les problèmes et les documents.
 * [Explorez les filtres, les vues et les regroupements pour la gestion de projets](view-project-information.md) - Découvrez comment les [!UICONTROL filtres], [!UICONTROL vues] et [!UICONTROL regroupements] peuvent rendre les informations du projet facilement visibles pour vous aider à gérer les projets.
 * [Suivre la progression globale du projet](track-overall-project-progress.md) - Découvrez comment les informations affichées dans l’en-tête du projet peuvent vous aider à suivre la progression globale et l’intégrité du projet.
@@ -88,7 +93,7 @@ Découvrez comment effectuer le suivi du travail du projet et communiquer avec l
 
 Découvrez comment clore des tâches et des événements, terminer des approbations, enregistrer les enseignements tirés et clore le projet.
 
-* [Changer le statut du projet en Terminé ](change-the-project-status.md) - Découvrez comment changer le statut du projet en Terminé, pourquoi le modifier et que faire si vous ne pouvez pas le changer en Terminé.
+* [Changer le statut du projet en Terminé &#x200B;](change-the-project-status.md) - Découvrez comment changer le statut du projet en Terminé, pourquoi le modifier et que faire si vous ne pouvez pas le changer en Terminé.
 * [Résoudre les approbations de tâches et de problèmes](complete-approvals.md) - Découvrez comment identifier les approbations incomplètes et les résoudre afin de pouvoir clore votre projet.
 * [Charger et gérer les ressources du projet](upload-assets.md) - Chargez les documents, les épreuves et les autres ressources dans le projet avant de le fermer pour vous assurer que toutes les données pertinentes sont associées au projet.
 * [Enregistrez les leçons apprises pour les projets futurs](lessons-learned-from-closing-a-project.md) - Découvrez comment inclure une tâche « leçons apprises » pour identifier ce qui s’est bien passé et ce qui peut être amélioré la prochaine fois.

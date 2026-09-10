@@ -13,11 +13,16 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:33:40.172Z'
 source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
@@ -81,7 +86,7 @@ Découvrez comment créer des chemins jalonnés, appliquer les jalons aux tâche
 
 Découvrez comment gérer le travail non planifié avec les problèmes, convertir les problèmes en autres éléments de travail, gérer les affectations de problèmes et générer des rapports sur les problèmes.
 
-* [Gérer efficacement le travail non planifié ](handle-unplanned-work.md) - Découvrez comment gérer le travail non planifié dans votre organisation.
+* [Gérer efficacement le travail non planifié &#x200B;](handle-unplanned-work.md) - Découvrez comment gérer le travail non planifié dans votre organisation.
 * [Création et gestion des demandes dans Workfront](make-a-request.md) - Découvrez comment accéder à la zone des demandes, créer une demande, afficher les demandes envoyées, copier une demande, rechercher un brouillon d’une demande et afficher les trois derniers chemins d’accès aux demandes.
 * [Rechercher et gérer efficacement les requêtes](find-requests.md) - Découvrez comment trouver les requêtes qui vous sont affectées, les requêtes que vous avez créées et les requêtes que vous gérez.
 * [Gérer efficacement les affectations de problèmes](manage-issue-assignments.md) - Découvrez comment affecter un problème à un utilisateur individuel, à plusieurs utilisateurs ou à une équipe afin que le problème soit résolu.
@@ -94,7 +99,7 @@ Découvrez comment gérer le travail non planifié avec les problèmes, converti
 
 Découvrez en détail les différents outils de gestion de projet de Workfront, ainsi que quelques conseils professionnels et bonnes pratiques.    
 
-* [Types de durée de Principal et contraintes de tâche ](understand-and-manage-duration-types-and-task-constraints.md) - Comprenez les types de durée et les contraintes de tâche et apprenez à les configurer correctement dans vos projets.
+* [Types de durée de Principal et contraintes de tâche &#x200B;](understand-and-manage-duration-types-and-task-constraints.md) - Comprenez les types de durée et les contraintes de tâche et apprenez à les configurer correctement dans vos projets.
 * [Principal du suivi de projet avec des lignes de base, des instantanés et des rapports automatisés](baselines-snapshots-and-automated-reports.md) - Découvrez comment effectuer le suivi des données historiques de tâche à l’aide de lignes de base, capturer des instantanés et configurer des e-mails automatisés de rapports de tâches.
 * [Établir des dépendances avec des prédécesseurs de projets transversaux](understand-cross-project-predecessors.md) - Découvrez comment utiliser les tâches antérieures et effectuer le suivi de ces tâches dans 2 projets ou plus.
 * [Principal des dépendances de tâches avancées](advanced-predecessors.md) - Découvrez les types de dépendances des prédécesseurs, les types de retard, les prédécesseurs imposés, les erreurs de boucle de dépendance, ainsi que quelques raccourcis et bonnes pratiques.
