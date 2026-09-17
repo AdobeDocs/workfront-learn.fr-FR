@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # Exercice sur les routeurs
 
 Découvrez l’importance des routeurs et comment s’en servir pour traiter différents modules de manière conditionnelle.
@@ -64,14 +68,14 @@ Utilisez un routeur pour faire passer les bundles Pokémon vs. super-héros par 
 
    **Ensuite, vous allez modifier les valeurs mappées dans les nouveaux modules clonés.**
 
-1. Accédez à <https://www.superheroapi.com/> et utilisez votre compte Facebook pour obtenir un jeton d’accès.
+1. Accédez à <https://superheroapi.com/> et cliquez sur **Se connecter avec GitHub** pour obtenir un jeton d’accès.
 
    >[!NOTE]
    >
    >Si vous avez des difficultés à accéder à votre propre jeton de super-héros, vous pouvez utiliser ce jeton partagé : 10110256647253588. Veuillez faire attention au nombre de fois où vous appelez l’API super-héros afin que ce jeton partagé continue de fonctionner pour tout le monde.
 
-1. Ouvrez les paramètres Obtenir l’apparence de super-héros et remplacez l’URL par `https://www.superheroapi.com/api/[access- token]/332/appearance`. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
-1. Ouvrez les paramètres Obtenir les pouvoirs de super-héros et remplacez l’URL par `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
+1. Ouvrez les paramètres Obtenir l’apparence de super-héros et remplacez l’URL par `https://superheroapi.com/api/[access- token]/332/appearance`. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
+1. Ouvrez les paramètres Obtenir les pouvoirs de super-héros et remplacez l’URL par `https://superheroapi.com/api/[access- token]/332/powerstats`. Veillez à inclure votre jeton d’accès dans l’URL. Cliquez sur OK.
 1. Cliquez avec le bouton droit de la souris sur chaque module super-héros et sélectionnez Exécuter ce module uniquement. Cela génère la structure de données que vous devez afficher pour le mappage.
 1. Après avoir exécuté les deux, remplacez le nombre « 332 » dans chaque champ URL par la Colonne 4 mappée à partir du module Analyse CSV.
 
@@ -79,7 +83,7 @@ Utilisez un routeur pour faire passer les bundles Pokémon vs. super-héros par 
 
    **Vous pouvez maintenant cliquer sur le module Définir plusieurs variables dans le chemin de super-héros et mettre à jour le nom, la hauteur, le poids et les fonctionnalités.**
 
-1. Mettez à jour les champs Nom et Pouvoirs du module Obtenir les pouvoirs de superhéros (module 8).
+1. Mettez à jour le champ Nom et les champs Capacités du module Obtenir les capacités de super-héros - Module 8.
 
    ![Routeurs Image 5](../12-exercises/assets/routers-walkthrough-5.png)
 
