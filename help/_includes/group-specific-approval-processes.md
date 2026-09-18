@@ -1,9 +1,8 @@
 ---
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 96%
-
 ---
 # Comprendre les processus d’approbation spécifiques à un groupe - SHARED
 
@@ -11,17 +10,17 @@ Les administrateurs et administratrices système et de groupes peuvent créer de
 
 Pour un processus d’approbation destiné à être utilisé par tout le monde dans [!DNL Workfront], assurez-vous que le champ [!UICONTROL « Ce processus d’approbation peut être utilisé par »] est défini sur [!UICONTROL Tous les groupes].
 
-Fenêtre ![[!UICONTROL Modifier un processus d’approbation] avec le champ du groupe en surbrillance](assets/admin-fund-approval-processes-1.png)
+Fenêtre ![[!UICONTROL Modifier un processus d’approbation] avec le champ du groupe en surbrillance](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-1.png)
 
 Les statuts disponibles dans le menu [!UICONTROL « Démarrer le processus d’approbation lorsque le statut est défini sur »] dépendent de la sélection dans le champ « utilisé par ». Si l’option [!UICONTROL Tous les groupes] est sélectionnée, seuls les statuts verrouillés à l’échelle du système sont disponibles.
 
 Pour limiter un processus d’approbation à un groupe spécifique, sélectionnez le nom de ce groupe dans la liste du champ [!UICONTROL « Ce processus d’approbation peut être utilisé par »].
 
-Fenêtre ![[!UICONTROL Modifier un processus d’approbation] avec le champ du groupe étendu](assets/admin-fund-approval-processes-2.png)
+Fenêtre ![[!UICONTROL Modifier un processus d’approbation] avec le champ du groupe étendu](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-2.png)
 
 L’option [!UICONTROL Tous les groupes] n’est pas disponible pour les administrateurs ett administratrices de groupes.
 
 Lorsqu’un groupe spécifique est sélectionné, seuls les statuts disponibles pour ce groupe apparaissent dans le menu [!UICONTROL « Démarrer le processus d’approbation lorsque le statut est défini sur »].
 
-Fenêtre ![[!UICONTROL Modifier un processus d’approbation] avec le champ de statut en surbrillance](assets/admin-fund-approval-processes-3.png)
+Fenêtre ![[!UICONTROL Modifier un processus d’approbation] avec le champ de statut en surbrillance](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-3.png)
 

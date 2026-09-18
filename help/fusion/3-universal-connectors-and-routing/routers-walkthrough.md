@@ -1,6 +1,6 @@
 ---
 title: Présentation des routeurs
-description: Découvrez comment utiliser un routeur pour faire passer les lots de Pokemon vs. super-héros par le bon chemin dans  [!DNL Adobe Workfront Fusion].
+description: Découvrez comment utiliser un routeur pour transmettre des lots Pokemon contre super-héros sur le bon chemin dans [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:35:48.709Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 873
-ht-degree: 100%
-
+source-wordcount: '873'
+ht-degree: 98%
 ---
-
 # Présentation des routeurs
 
 Utilisez un routeur pour faire passer les bundles Pokémon vs. super-héros par le bon chemin, puis créez une tâche pour chaque personnage.
@@ -43,9 +47,9 @@ Workfront recommande de regarder la vidéo de présentation de l’exercice avan
 
 ## URL d’exercice
 
-* Site web de l’API des super-héros : `https://www.superheroapi.com/`
-* Première URL pour l’exercice : `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* Deuxième URL pour l’exercice : `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* Site web de l’API des super-héros : `https://superheroapi.com/`
+* Première URL pour l’exercice : `https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Deuxième URL pour l’exercice : `https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Si vous avez des difficultés à accéder à votre propre jeton de super-héros, vous pouvez utiliser ce jeton partagé : 10110256647253588. Veuillez faire attention au nombre de fois où vous appelez l’API super-héros afin que ce jeton partagé continue de fonctionner pour tout le monde.
 
