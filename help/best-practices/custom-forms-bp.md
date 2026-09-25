@@ -166,7 +166,7 @@ Si un formulaire personnalisé comporte de nombreux champs, placez les champs ap
 
 Utilisez des options de champ personnalisé prédéfinies, telles que des boutons radio et des menus déroulants, pour limiter les options de réponse en demandant aux utilisateurs et utilisatrices de sélectionner des options spécifiques.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Avec un champ prédéfini, les utilisateurs et utilisatrices se contentent de cliquer dans une case ou de sélectionner un élément de menu, ce qui garantit que toutes les réponses à cette question sont identiques.
 
@@ -179,7 +179,7 @@ Des données cohérentes et exactes sont essentielles à l’établissement de r
 
 Assurez-vous que les libellés de champ sont clairement écrits et descriptifs.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Ainsi, la personne qui remplit le formulaire personnalisé comprend les informations demandées.
 
@@ -190,7 +190,7 @@ Ainsi, la personne qui remplit le formulaire personnalisé comprend les informat
 
 Ajoutez des informations dans le champ Instructions des champs personnalisés pour indiquer ce que doit saisir la personne qui remplit le champ.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Ces informations apparaissent dans une fenêtre contextuelle lorsque vous survolez l’icône « ? » à côté d’un champ dans un formulaire personnalisé. Incluez les données à saisir dans le champ, y compris toute mise en forme requise pour les champs de texte.
 
@@ -203,7 +203,7 @@ Le fait de fournir plus de détails à l’utilisateur ou l’utilisatrice perme
 
 Utilisez la logique d’affichage pour afficher les champs nécessaires lorsqu’un autre champ est rempli d’une manière spécifique. Utilisez la logique de saut dans les formulaires personnalisés pour masquer les champs qui ne sont pas liés au type de requête.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Le fait de n’afficher que les champs nécessaires ou de masquer ceux qui ne le sont pas permet de créer un formulaire personnalisé plus clair et de réduire la confusion des utilisateurs et utilisatrices lorsque ceux-ci remplissent des formulaires personnalisés. Cela contribue également à un formulaire globalement plus court, qui décourage moins les utilisateurs et utilisatrices et favorise un taux de réponse plus élevé.
 
@@ -216,7 +216,7 @@ L’utilisation de la logique d’affichage peut également vous aider à rédui
 
 Réduisez le nombre de calculs requis sur un formulaire personnalisé en extrayant les informations calculées d’un autre formulaire.
 
-**Voici pourquoi : **
+**Voici pourquoi : &#x200B;**
 
 Par exemple, un champ calculé appelé « Nombre de ressources » dans un formulaire de problème calcule le nombre de ressources liées à l&#39;élément. Celui-ci étant utilisé pour une file d’attente de demandes. Ces informations doivent être reportées dans le projet lorsque la demande est convertie. Faites une copie du formulaire de problème et enregistrez-le en tant que formulaire de projet. Ajoutez ensuite le nom du champ calculé du problème à la zone de calcul du formulaire de projet. Dans cet exemple, dans le champ calculé du formulaire de projet intitulé « Nombre de ressources », entrez littéralement « Nombre de ressources ». Cela empêche Workfront d’exécuter à nouveau ce calcul sur le projet et d’utiliser à la place la valeur du formulaire personnalisé de problème.
 

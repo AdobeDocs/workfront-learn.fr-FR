@@ -1,6 +1,6 @@
 ---
 title: Découvrez les avantages de la relecture
-description: Découvrez ce qu’est la relecture ainsi que les avantages de l’utilisation de la relecture numérique dans [!DNL  Workfront].
+description: Découvrez ce qu’est la relecture ainsi que les avantages de l’utilisation de la relecture numérique dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -45,7 +45,7 @@ Dans cette vidéo, vous apprendrez :
 
 ## Terminologie de la relecture
 
-Avant de vous plonger dans la mise en place de BAT sur [!DNL  Workfront], familiarisez-vous avec la terminologie spécifique aux BAT utilisée. Ces termes sont fréquemment utilisés tout au long de ce tutoriel.
+Avant de vous plonger dans la mise en place de BAT sur [!DNL &#x200B; Workfront], familiarisez-vous avec la terminologie spécifique aux BAT utilisée. Ces termes sont fréquemment utilisés tout au long de ce tutoriel.
 
 * **BAT -** Version numérique d’un fichier qui peut être révisée, annotée et approuvée par le biais de la visionneuse de BAT [!DNL Workfront's].
 * **Workflow de BAT -** Processus de création, de routage et de gestion d’un BAT dans [!DNL Workfront]. Étapes suivies pour effectuer ces actions.

@@ -1,6 +1,6 @@
 ---
 title: Comprendre les types de dates et le statut de la progression
-description: Découvrez comment afficher les différents types de dates dans [!DNL  Workfront] et comment utiliser le statut de progression pour vous aider à suivre la progression du travail.
+description: Découvrez comment afficher les différents types de dates dans [!DNL &#x200B; Workfront] et comment utiliser le statut de progression pour vous aider à suivre la progression du travail.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

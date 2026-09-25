@@ -1,6 +1,6 @@
 ---
 title: Vérifier et répondre aux commentaires du BAT
-description: Découvrez comment afficher les commentaires sur l’épreuve et y répondre à partir de la visionneuse d’épreuves et de la section [!UICONTROL Mises à jour] de la [!DNL  Workfront].
+description: Découvrez comment afficher les commentaires sur l’épreuve et y répondre à partir de la visionneuse d’épreuves et de la section [!UICONTROL Mises à jour] de la [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

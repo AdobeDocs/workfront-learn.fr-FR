@@ -1,6 +1,6 @@
 ---
 title: Des workflows de BAT dans le cadre de chronologies de projet
-description: Découvrez les recommandations relatives à la combinaison d’un processus de révision et d’approbation avec un calendrier de projet en [!DNL  Workfront].
+description: Découvrez les recommandations relatives à la combinaison d’un processus de révision et d’approbation avec un calendrier de projet en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

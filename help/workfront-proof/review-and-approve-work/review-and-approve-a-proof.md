@@ -50,7 +50,7 @@ Une fois que vous savez ce que l’on attend de vous, vous pouvez commencer à v
 
 Lorsqu’une ressource est prête à être vérifiée et approuvée, vous recevez une notification par e-mail.
 
-![Image d’un e-mail de nouveau BAT demandant la vérification et l’approbation de deux BAT dans [!DNL  Workfront].](assets/new-proof-emails.png)
+![Image d’un e-mail de nouveau BAT demandant la vérification et l’approbation de deux BAT dans [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
 
 Notez que ce lien vers le BAT est unique et vous est propre. Si vous partagez le lien avec quelqu’un, tous les commentaires et balises que cette personne ajoutera seront étiquetés avec votre nom.
 
@@ -81,7 +81,7 @@ Vous pouvez également trouver des BAT à vérifier sur un tableau de bord [!DNL
 
 Si vous travaillez habituellement avec des projets, des tâches ou des problèmes dans [!DNL Workfront], vous préférerez peut-être ouvrir le BAT directement à partir de la section [!DNL Documents] de cet élément.
 
-![Image de la section [!UICONTROL Documents] située dans une tâche [!DNL  Workfront] avec le lien [!UICONTROL Ouvrir un BAT]en surbrillance.](assets/open-proof-from-documents.png)
+![Image de la section [!UICONTROL Documents] située dans une tâche [!DNL &#x200B; Workfront] avec le lien [!UICONTROL Ouvrir un BAT]en surbrillance.](assets/open-proof-from-documents.png)
 
 1. Cliquez sur le nom du projet, de la tâche ou du problème.
 2. Cliquez sur [!UICONTROL Documents] dans le menu du panneau de gauche sur la page de l’élément.

@@ -1,6 +1,6 @@
 ---
 title: Gérer les commentaires des BAT
-description: Découvrez comment gérer les commentaires d’épreuve dans [!DNL  Workfront] en appliquant des actions de commentaire, en résolvant les commentaires et en filtrant la colonne des commentaires.
+description: Découvrez comment gérer les commentaires d’épreuve dans [!DNL &#x200B; Workfront] en appliquant des actions de commentaire, en résolvant les commentaires et en filtrant la colonne des commentaires.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

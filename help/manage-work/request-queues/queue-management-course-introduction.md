@@ -1,6 +1,6 @@
 ---
 title: Présentation du cours de gestion des files d’attente
-description: Découvrez comment les files d’attente de demandes de [!DNL  Workfront] peuvent centraliser la gestion de la demande.
+description: Découvrez comment les files d’attente de demandes de [!DNL &#x200B; Workfront] peuvent centraliser la gestion de la demande.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 70%
 ---
 # Présentation du cours de gestion des files d’attente
 
-Dans cette vidéo, découvrez comment les files d’attente des demandes [!DNL  Workfront] peuvent centraliser la gestion des demandes.
+Dans cette vidéo, découvrez comment les files d’attente des demandes [!DNL &#x200B; Workfront] peuvent centraliser la gestion des demandes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)

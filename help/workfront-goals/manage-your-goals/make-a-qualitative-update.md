@@ -1,6 +1,6 @@
 ---
 title: Effectuer une mise à jour qualitative dans [!DNL Workfront Goals]
-description: Découvrez comment effectuer une mise à jour qualitative ou écrite dans [!DNL   Goals].
+description: Découvrez comment effectuer une mise à jour qualitative ou écrite dans [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

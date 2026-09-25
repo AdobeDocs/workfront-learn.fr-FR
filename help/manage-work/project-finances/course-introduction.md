@@ -1,6 +1,6 @@
 ---
 title: Présentation du cours
-description: Découvrez comment utiliser le budget d’un projet, suivre les coûts et les revenus et gérer les dépenses dans [!DNL  Workfront].
+description: Découvrez comment utiliser le budget d’un projet, suivre les coûts et les revenus et gérer les dépenses dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

@@ -50,7 +50,7 @@ Dans certains tutoriels, vous créerez un scénario à partir de zéro. Dans d�
 
 Pour suivre les exercices des tutoriels de formation Workfront Fusion, vous aurez besoin d’un environnement d’activation de Workfront, également appelé « **Workfront Test Drive »** tout au long de cette formation. Si vous disposez déjà d’un lecteur de test, nous vous en recommandons un nouveau pour cette formation.
 
-Demandez un test en remplissant [ce formulaire](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). Lorsque vous remplissez le formulaire, il vous sera demandé de fournir votre e-mail de profil de certification ****. Si vous n’en avez pas déjà un, accédez au site Certification [](https://certification.adobe.com/#) puis créez un profil utilisateur.
+Demandez un test en remplissant [ce formulaire](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). Lorsque vous remplissez le formulaire, il vous sera demandé de fournir votre e-mail de profil de certification **&#x200B;**. Si vous n’en avez pas déjà un, accédez au site Certification [&#128279;](https://certification.adobe.com/#) puis créez un profil utilisateur.
 
 ### Accéder à Workfront Fusion pour l’entraînement
 

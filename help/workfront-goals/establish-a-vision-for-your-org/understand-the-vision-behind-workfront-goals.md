@@ -1,6 +1,6 @@
 ---
 title: Comprendre la vision derrière les [!UICONTROL Objectifs de Workfront]
-description: L’équipe produit vous [!DNL Workfront Goals] en savoir plus sur les [!DNL  Workfront] dans .
+description: L’équipe produit vous [!DNL Workfront Goals] en savoir plus sur les [!DNL &#x200B; Workfront] dans .
 activity: use
 feature: Workfront Goals
 type: Tutorial

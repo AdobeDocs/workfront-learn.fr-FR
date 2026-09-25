@@ -1,6 +1,6 @@
 ---
 title: Accéder à un plan dans le [!UICONTROL Planificateur de scénarios]
-description: Découvrez les autorisations [!DNL  Workfront] nécessaires pour que les utilisateurs puissent accéder aux plans dans le [!UICONTROL Planificateur de scénarios].
+description: Découvrez les autorisations [!DNL &#x200B; Workfront] nécessaires pour que les utilisateurs puissent accéder aux plans dans le [!UICONTROL Planificateur de scénarios].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

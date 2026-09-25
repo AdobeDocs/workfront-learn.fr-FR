@@ -1,6 +1,6 @@
 ---
 title: Présentation du cours sur les jalons
-description: Découvrez comment les jalons peuvent vous aider à faire avancer [!DNL  Workfront] projets.
+description: Découvrez comment les jalons peuvent vous aider à faire avancer [!DNL &#x200B; Workfront] projets.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 84%
 
 Ce cours est destiné aux personnes chargées de la gestion de projet et de la planification ainsi qu’aux autres personnes qui gèrent des projets sur [!DNL Workfront]. Nous vous recommandons de terminer le programme Principes de planification ou d’avoir une base solide pour la création de projets dans [!DNL Workfront] avant de commencer ce cours.
 
-Découvrez comment les jalons peuvent vous aider à faire avancer les projets [!DNL  Workfront].
+Découvrez comment les jalons peuvent vous aider à faire avancer les projets [!DNL &#x200B; Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)

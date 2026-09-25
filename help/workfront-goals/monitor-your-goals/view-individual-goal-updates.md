@@ -1,6 +1,6 @@
 ---
 title: Afficher les mises à jour des objectifs individuels dans [!DNL Workfront Goals]
-description: Découvrez comment afficher vos objectifs individuels dans le flux de mise à jour [!UICONTROL Pulse] de [!DNL   Goals].
+description: Découvrez comment afficher vos objectifs individuels dans le flux de mise à jour [!UICONTROL Pulse] de [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

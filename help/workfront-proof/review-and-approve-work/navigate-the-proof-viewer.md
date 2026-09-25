@@ -1,6 +1,6 @@
 ---
 title: Naviguer dans l’observateur de BAT
-description: Découvrez comment déplacer un BAT, effectuer un zoom avant/arrière sur le contenu, utiliser la colonne de miniature, filtrer les commentaires du BAT et bien plus encore dans la visionneuse de relecture [!DNL  Workfront].
+description: Découvrez comment déplacer un BAT, effectuer un zoom avant/arrière sur le contenu, utiliser la colonne de miniature, filtrer les commentaires du BAT et bien plus encore dans la visionneuse de relecture [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

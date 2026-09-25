@@ -1,6 +1,6 @@
 ---
 title: Mettre à jour et copier des plans dans [!DNL Scenario Planner]
-description: Découvrez comment mettre à jour un plan ou en copier un dans la [!DNL Scenario Planner] [!DNL  Workfront].
+description: Découvrez comment mettre à jour un plan ou en copier un dans la [!DNL Scenario Planner] [!DNL &#x200B; Workfront].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

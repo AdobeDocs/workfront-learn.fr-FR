@@ -1,6 +1,6 @@
 ---
 title: Présentation des chronologies de projets
-description: Découvrez les éléments, tels que les types de date et les contraintes de tâche, utilisés lors de la création et de la gestion de chronologies de projet dans [!DNL  Workfront].
+description: Découvrez les éléments, tels que les types de date et les contraintes de tâche, utilisés lors de la création et de la gestion de chronologies de projet dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -28,6 +28,6 @@ ht-degree: 62%
 ---
 # Chronologies des projets : présentation du cours
 
-Dans cette vidéo, vous apprendrez quels sont les éléments, tels que les types de dates et les contraintes de tâches, qui sont utilisés lors de la création et de la gestion des chronologies de projets dans [!DNL  Workfront].
+Dans cette vidéo, vous apprendrez quels sont les éléments, tels que les types de dates et les contraintes de tâches, qui sont utilisés lors de la création et de la gestion des chronologies de projets dans [!DNL &#x200B; Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

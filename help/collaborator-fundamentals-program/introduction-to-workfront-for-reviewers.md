@@ -1,6 +1,6 @@
 ---
 title: Introduction à [!DNL Workfront] pour les réviseurs et réviseuses
-description: Découvrez comment les utilisateurs disposant d’une licence de Révision peuvent utiliser [!DNL  Workfront].
+description: Découvrez comment les utilisateurs disposant d’une licence de Révision peuvent utiliser [!DNL &#x200B; Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -22,6 +22,6 @@ ht-degree: 70%
 ---
 # Introduction à [!DNL Workfront] pour les réviseurs et réviseuses
 
-Dans cette vidéo, vous découvrirez comment utiliser [!DNL  Workfront] avec une licence de révision.
+Dans cette vidéo, vous découvrirez comment utiliser [!DNL &#x200B; Workfront] avec une licence de révision.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)

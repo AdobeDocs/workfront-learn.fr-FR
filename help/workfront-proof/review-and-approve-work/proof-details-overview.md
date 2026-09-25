@@ -1,6 +1,6 @@
 ---
 title: Comprendre les détails du BAT
-description: Explorez plus en détail les raisons d’une épreuve dans [!DNL  Workfront] à travers le panneau de résumé et la page [!UICONTROL Détails du document].
+description: Explorez plus en détail les raisons d’une épreuve dans [!DNL &#x200B; Workfront] à travers le panneau de résumé et la page [!UICONTROL Détails du document].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -63,7 +63,7 @@ Pour plus d’informations sur l’épreuve, cliquez sur [!UICONTROL Détails du
 
 Vous accédez ainsi à la page [!UICONTROL Détails du document] et à diverses options supplémentaires dans le panneau de gauche.
 
-![Une image de la page du BAT dans [!DNL  Workfront].](assets/document-details.png)
+![Une image de la page du BAT dans [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 Notez que la possibilité d’afficher les informations relatives au processus de relecture dépend de vos autorisations de relecture dans [!DNL Workfront].
 
@@ -88,7 +88,7 @@ Ces paramètres vous aident à contrôler l’accès au BAT lui-même.
 * **[!UICONTROL Verrouiller le BAT lorsque toutes les décisions requises ont été prises] -** Ceci verrouille le BAT contre tout autre commentaire, réponse, décision, etc., une fois que toutes les décisions relatives au BAT ont été prises. Cela verrouille toute la version du BAT, et pas seulement une étape spécifique du workflow de relecture.
 * **[!UICONTROL Autoriser le téléchargement du fichier d’origine] :** les destinataires de l’épreuve peuvent télécharger le fichier source d’origine de l’épreuve depuis la visionneuse d’épreuve.
 * **[!UICONTROL Autoriser le partage du BAT via une URL publique ou un code intégré] -** Les destinataires du BAT peuvent partager avec n’importe qui un lien accessible au public.
-* **[!UICONTROL Autoriser l’abonnement à un BAT via une URL publique ou un code intégré ]-** Toute personne qui reçoit l’URL publique peut s’ajouter au BAT avec son adresse e-mail et son nom (si elle n’est pas utilisatrice du BAT) ou son adresse e-mail et son mot de passe de relecture (si elle est utilisatrice du BAT). (Note : le mot de passe de relecture n’est pas le même qu’un mot de passe [!DNL Workfront].)
+* **[!UICONTROL Autoriser l’abonnement à un BAT via une URL publique ou un code intégré &#x200B;]-** Toute personne qui reçoit l’URL publique peut s’ajouter au BAT avec son adresse e-mail et son nom (si elle n’est pas utilisatrice du BAT) ou son adresse e-mail et son mot de passe de relecture (si elle est utilisatrice du BAT). (Note : le mot de passe de relecture n’est pas le même qu’un mot de passe [!DNL Workfront].)
 
 
 ### [!UICONTROL Activité de relecture]

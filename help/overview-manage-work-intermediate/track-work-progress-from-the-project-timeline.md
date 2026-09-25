@@ -1,6 +1,6 @@
 ---
 title: Suivre la progression à partir de la chronologie du projet
-description: Découvrez comment suivre l’avancement du travail à partir de la chronologie du projet dans [!DNL  Workfront] à l’aide du pourcentage terminé, du statut, des affectations ou des contraintes.
+description: Découvrez comment suivre l’avancement du travail à partir de la chronologie du projet dans [!DNL &#x200B; Workfront] à l’aide du pourcentage terminé, du statut, des affectations ou des contraintes.
 activity: use
 team: Technical Marketing
 feature: Work Management

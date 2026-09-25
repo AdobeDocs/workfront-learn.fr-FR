@@ -1,6 +1,6 @@
 ---
 title: Comprendre les workflows de BAT dans la chronologie du projet
-description: Découvrez les informations à collecter pour créer un workflow d’épreuve et la différence entre les workflows d’épreuve de base et avancés dans [!DNL  Workfront].
+description: Découvrez les informations à collecter pour créer un workflow d’épreuve et la différence entre les workflows d’épreuve de base et avancés dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

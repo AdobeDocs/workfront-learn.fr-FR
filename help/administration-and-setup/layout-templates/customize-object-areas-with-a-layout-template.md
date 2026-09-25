@@ -1,6 +1,6 @@
 ---
 title: Personnaliser les zones d’objets avec un modèle de mise en page.
-description: Découvrez comment utiliser un modèle de mise en page pour ajouter, supprimer et réorganiser des éléments dans le menu du panneau de gauche dans [!DNL  Workfront].
+description: Découvrez comment utiliser un modèle de mise en page pour ajouter, supprimer et réorganiser des éléments dans le menu du panneau de gauche dans [!DNL &#x200B; Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

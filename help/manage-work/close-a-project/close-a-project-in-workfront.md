@@ -1,6 +1,6 @@
 ---
 title: Fermer un projet
-description: Découvrez les informations à vérifier dans un projet et pourquoi il est important de mettre à jour les données avant de le fermer dans [!DNL  Workfront].
+description: Découvrez les informations à vérifier dans un projet et pourquoi il est important de mettre à jour les données avant de le fermer dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg

@@ -1,6 +1,6 @@
 ---
 title: Joindre et modifier les processus d’approbation existants
-description: Découvrez comment utiliser et modifier les processus d’approbation existants pour les projets, les tâches ou les événements dans [!DNL  Workfront].
+description: Découvrez comment utiliser et modifier les processus d’approbation existants pour les projets, les tâches ou les événements dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

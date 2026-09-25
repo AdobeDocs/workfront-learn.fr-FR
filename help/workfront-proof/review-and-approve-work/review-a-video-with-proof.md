@@ -1,6 +1,6 @@
 ---
 title: Vérifier une vidéo avec un BAT
-description: Découvrez comment ajuster les paramètres de la visionneuse et ajouter des commentaires horodatés à une vidéo à l’aide de la relecture dans [!DNL  Workfront].
+description: Découvrez comment ajuster les paramètres de la visionneuse et ajouter des commentaires horodatés à une vidéo à l’aide de la relecture dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

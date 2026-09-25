@@ -1,6 +1,6 @@
 ---
 title: Commencer avec les workflows automatisés
-description: Découvrez ce qu’est un workflow d’épreuve automatisé dans [!DNL  Workfront] et en quoi il diffère d’un workflow de base.
+description: Découvrez ce qu’est un workflow d’épreuve automatisé dans [!DNL &#x200B; Workfront] et en quoi il diffère d’un workflow de base.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

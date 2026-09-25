@@ -1,6 +1,6 @@
 ---
 title: Vérifier un site Web avec un BAT
-description: Découvrez comment ouvrir une épreuve de site web statique ou interactive dans [!DNL  Workfront] et faire des commentaires.
+description: Découvrez comment ouvrir une épreuve de site web statique ou interactive dans [!DNL &#x200B; Workfront] et faire des commentaires.
 activity: use
 feature: Workfront Proof
 type: Tutorial
