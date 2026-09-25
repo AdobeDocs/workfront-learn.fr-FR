@@ -1,6 +1,6 @@
 ---
 title: Suivre et mettre à jour les objectifs à l’aide des vérifications
-description: Découvrez comment suivre, mettre à jour et calculer la progression des objectifs dans  [!DNL Workfront Goals].
+description: Découvrez comment suivre, mettre à jour et calculer la progression des objectifs dans [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '756'
-ht-degree: 100%
-
+ht-degree: 98%
 ---
-
 # Suivre et mettre à jour vos objectifs à l’aide des [!UICONTROL Vérifications]
 
 Une fois que vous avez activé vos objectifs, vous pouvez vous mettre au travail pour les atteindre. Mais comment suivre, mettre à jour et calculer la progression accomplie dans la réalisation de l’objectif ? Comment savez-vous où vous en êtes et comment votre travail contribue à la réalisation de l’objectif ? Commençons avec les [!UICONTROL Vérifications] pour mettre à jour la progression des objectifs, puis voyons comment afficher et comprendre le statut de vos objectifs.
@@ -39,9 +52,9 @@ Lorsque vous effectuez une [!UICONTROL Vérification] au niveau de l’objectif,
 * Cliquez sur l’icône [!UICONTROL **Menu principal**] dans [!DNL Workfront], puis cliquez sur [!UICONTROL **Objectifs**]. La zone [!DNL Workfront Goals] s’ouvre alors. La section [!UICONTROL Liste d’objectifs] s’affiche par défaut et présente tous les objectifs qui vous appartiennent ou qui appartiennent à vos équipes, groupes ou organisations.
 * Cliquez sur l’une des sections suivantes dans le panneau de gauche pour accéder à une liste d’objectifs :
 
-   * [!UICONTROL Alignement des objectifs]
-   * [!UICONTROL Pulsation]
-   * [!UICONTROL Enregistrer]
+  * [!UICONTROL Alignement des objectifs]
+  * [!UICONTROL Pulsation]
+  * [!UICONTROL Enregistrer]
 
 Une fois que vous avez accédé à une section contenant votre liste d’objectifs, cliquez sur le nom d’un objectif pour ouvrir le panneau [!UICONTROL Détails de l’objectif]. Mettez à jour votre objectif :
 

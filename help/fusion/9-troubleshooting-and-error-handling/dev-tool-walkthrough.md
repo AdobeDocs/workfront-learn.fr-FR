@@ -1,6 +1,6 @@
 ---
 title: Présentation de l’outil de développement
-description: Découvrez comment installer et utiliser les différentes zones de l’ [!DNL Adobe Workfront Fusion Dev Tool]  pour approfondir les astuces de conception de scénarios avancés.
+description: Découvrez comment installer et utiliser les différentes zones de la [!DNL Adobe Workfront Fusion Dev Tool] pour approfondir vos astuces en matière de conception de scénario avancé.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:11:26.798Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:11:26.798Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 148
-ht-degree: 100%
-
+source-wordcount: '149'
+ht-degree: 85%
 ---
-
 # Présentation de l’outil de développement
 
 Installez et utilisez les différentes zones de l’outil de développement Workfront pour examiner de plus près les requêtes/réponses effectuées et les astuces de conception de scénario avancées.
@@ -39,7 +41,7 @@ Installez et utilisez les différentes zones de l’outil de développement Work
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418124/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops=1)
 
 
 ## Téléchargement de l’outil de développement

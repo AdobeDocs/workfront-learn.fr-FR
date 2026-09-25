@@ -1,5 +1,5 @@
 ---
-title: Effectuer une mise à jour qualitative dans  [!DNL Workfront Goals]
+title: Effectuer une mise à jour qualitative dans [!DNL Workfront Goals]
 description: Découvrez comment effectuer une mise à jour qualitative ou écrite dans [!DNL   Goals].
 activity: use
 feature: Workfront Goals
@@ -10,13 +10,26 @@ team: Technical Marketing
 jira: KT-8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
-workflow-type: ht
-source-wordcount: '118'
-ht-degree: 100%
-
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 87%
 ---
-
 # Effectuer une mise à jour qualitative
 
 Des mises à jour qualitatives, ou écrites, peuvent être effectuées dans plusieurs domaines de [!DNL Workfront Goals]. Vous pouvez ajouter des commentaires aux objectifs dans le panneau [!UICONTROL Détails de l’objectif], dans la section [!UICONTROL Enregistrer] ou dans la section [!UICONTROL Impression]. Bien que le processus d’ajout de commentaires aux objectifs soit similaire dans ces domaines, il existe des différences dans la capacité à modifier, supprimer ou réagir à un commentaire lorsque l’on utilise un domaine par rapport à un autre. Lorsque vous saisissez un commentaire dans l’une de ces zones, celui-ci est visible dans toutes les zones où les commentaires d’objectif s’affichent.
@@ -25,4 +38,4 @@ Dans cette vidéo, vous apprendrez à :
 
 * Effectuer une mise à jour qualitative ou écrite
 
->[!VIDEO](https://video.tv.adobe.com/v/3415948/?quality=12&learn=on&enablevpops=1&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12&learn=on&enablevpops=1)

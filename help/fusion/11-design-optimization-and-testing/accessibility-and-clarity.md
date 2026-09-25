@@ -10,24 +10,26 @@ level: Beginner
 jira: KT-11037
 recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
+autotag-review: '2026-05-06T16:47:51.925Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:47:51.925Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 718
+source-wordcount: '718'
 ht-degree: 100%
-
 ---
-
 # Accessibilité et clarté
 
 Au début de la formation Workfront Fusion, vous avez appris quelques bonnes pratiques de base pour rendre les scénarios faciles à lire, à partager et à comprendre. Ces pratiques facilitent la tâche des futures utilisatrices et futurs utilisateurs de Workfront Fusion ou de toute personne chargée du dépannage ou de l’assistance de votre instance de Workfront Fusion. Affûtez vos connaissances en suivant les instructions ci-dessous lors de la conception de scénarios.
@@ -38,13 +40,13 @@ En règle générale, l’objectif principal de Workfront Fusion est toujours d
 
 * Veillez à nommer tous les modules. Cliquez avec le bouton droit de la souris sur un module et sélectionnez Renommer. Les libellés des modules doivent être courts, mais indiquer clairement l’objectif du module. Par exemple, « Créer un profil Mktg avec modèle Ch ».
   ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-1.png)
-* Ajoutez également un libellé aux chemins de routage. Même si un chemin n’utilise pas de filtre directement après un routeur, vous pouvez appliquer un libellé sans remplir la logique du filtre. Ainsi, les tiers peuvent comprendre quels lots passent par quels chemins et pourquoi. Pour créer un libellé pour un chemin de routeur sans filtre, cliquez avec le bouton droit sur le chemin, ajoutez un libellé et enregistrez.
+* Ajoutez également un libellé aux chemins de routage. Même si un chemin n’utilise pas de filtre directement après un routeur, vous pouvez appliquer un libellé sans remplir la logique du filtre. Ainsi, les tiers peuvent comprendre quels bundles passent par quels chemins et pourquoi. Pour créer un libellé pour un chemin de routeur sans filtre, cliquez avec le bouton droit sur le chemin, ajoutez un libellé et enregistrez.
   ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-2.png)
 * Le cas échéant, vous pouvez ajouter des notes dans un scénario, dans le cas où un libellé de module ou de chemin de routage est trop court pour apporter une description claire. Vous pouvez ajouter des notes lorsque vous le souhaitez tout au long du processus de conception et d’itération.
 
 Cependant, la lecture et la compréhensions seront facilitées si vous ajoutez des notes à la toute fin de la conception du scénario, lorsque ce dernier est prêt à être lancé. Partez de la fin de votre scénario (le coin inférieur droit) pour retourner vers l’arrière. Ainsi, les notes qui s’appliquent au début de votre scénario se trouvent en haut de la liste lorsque vous ouvrez le panneau Notes.
 
-Lorsque vous enregistrez ou fermez le panneau Notes, les notes se classent avec les plus récentes en haut de la page. Dans l’image ci-dessous, la première note créée apparaît en bas de la liste. Les notes ont été intentionnellement créées à partir de la partie inférieure droite vers le chemin supérieur et enfin vers le déclencheur - essentiellement dans l’ordre inverse de celui dans lequel un lot de données traverserait le scénario. Cela fait apparaître les notes dans l’ordre dans lequel le scénario s’exécute réellement sur le lot de données.
+Lorsque vous enregistrez ou fermez le panneau Notes, les notes se classent avec les plus récentes en haut de la page. Dans l’image ci-dessous, la première note créée apparaît en bas de la liste. Les notes ont été intentionnellement créées à partir de la partie inférieure droite vers le chemin supérieur et enfin vers le déclencheur ; essentiellement dans l’ordre inverse de celui dans lequel un bundle de données traverserait le scénario. Cela fait apparaître les notes dans l’ordre dans lequel le scénario s’exécute réellement sur le bundle de données.
 
 ![Une image d’un scénario avec gestion des erreurs](assets/design-optimization-and-testing-3.png)
 

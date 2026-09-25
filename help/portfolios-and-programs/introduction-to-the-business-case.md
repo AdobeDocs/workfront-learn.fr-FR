@@ -12,29 +12,34 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
+autotag-review: '2026-05-06T14:30:40.425Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:30:40.425Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 238
+source-wordcount: '238'
 ht-degree: 28%
-
 ---
-
 # Créer un business case complet
 
 La vidéo explique l’importance d’une analyse de rentabilité dans la gestion de projets. Il souligne que le fait de remplir l&#39;analyse de rentabilisation aide les gestionnaires à analyser et à prioriser les projets en concurrence pour les mêmes ressources. &#x200B; Une fois terminé, l’envoi de l’analyse de rentabilité modifie le statut du projet en « Demandé » et calcule son score global à des fins de comparaison dans l’outil d’optimisation de Portfolio. &#x200B; Bien qu&#39;aucun des champs ne soit obligatoire, des informations plus détaillées améliorent la prise de décision. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442846/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## Points essentiels à retenir
 

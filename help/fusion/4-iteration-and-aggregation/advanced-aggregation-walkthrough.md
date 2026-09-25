@@ -1,6 +1,6 @@
 ---
 title: Présentation des agrégations avancées
-description: Découvrez comment appeler un service web pour obtenir des informations sur plusieurs pays et identifier la population, regroupés par sous-région, le tout dans  [!DNL Adobe Workfront Fusion].
+description: Découvrez comment appeler un service web pour renvoyer des informations sur plusieurs pays et identifier la population, regroupée par sous-région, le tout en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:33:27.197Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:33:27.197Z'
-source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 258
-ht-degree: 100%
-
+source-wordcount: '258'
+ht-degree: 91%
 ---
-
 # Présentation des agrégations avancées
 
 Appelez un service web pour obtenir des informations sur plusieurs pays et identifiez la population totale de tous les pays, regroupés par sous-région.
@@ -39,7 +41,7 @@ Appelez un service web pour obtenir des informations sur plusieurs pays et ident
 
 Workfront recommande de regarder la vidéo de présentation de l’exercice avant d’essayer de recréer l’exercice dans votre propre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417303/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops=1)
 
 ## URL d’exercice
 

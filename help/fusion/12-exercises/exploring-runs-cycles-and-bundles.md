@@ -11,25 +11,27 @@ jira: KT-11050
 thumbnail: KT1101.png
 recommendations: noDisplay,catalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
+autotag-review: '2026-05-06T16:43:39.670Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:43:39.670Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 344
+source-wordcount: '344'
 ht-degree: 100%
-
 ---
-
-# Explorer les exécutions, les cycles et les lots
+# Explorer les exécutions, les cycles et les bundles
 
 Découvrez comment les exécutions, les cycles et les bundles se comportent en utilisant l’historique d’exécution d’un scénario.
 
@@ -60,11 +62,11 @@ Effectuez des exercices avec différentes configurations de scénario pour explo
 
 1. Cliquez sur l’icône de l’horloge en regard du module de déclenchement et définissez le champ Minutes sur 1 minute.
 
-   ![Découvrir les cycles d’exécution et les bundles Image 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
+   ![Explorer les cycles d’exécution et les bundles Image 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
 
 1. Ensuite, activez le bouton Planification situé sous le bouton Exécuter une fois. Enregistrez votre scénario.
 
-   ![Découvrir les cycles d’exécution et les bundles Image 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
+   ![Explorer les cycles d’exécution et les bundles Image 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 
 1. Accédez à l’historique d’exécution du scénario et observez l’apparition d’un nouvel enregistrement dans la minute qui suit. Vous devrez peut-être actualiser la page.
 
@@ -73,8 +75,8 @@ Effectuez des exercices avec différentes configurations de scénario pour explo
 1. Cliquez sur le bouton Détails d’une exécution. Cliquez sur le lien de connexion simple dans le panneau de droite, comme vous l’avez fait dans la partie Historique d’exécution de la formation Workfront Fusion.
 1. Les enregistrements des opérations traitées sont divisés en cycles.
 
-   ![Découvrir les cycles d’exécution et les bundles Image 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
+   ![Explorer les cycles d’exécution et les bundles Image 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
 
 1. Un menu déroulant en haut à droite de la fenêtre vous permet de sélectionner l’un des trois cycles que vous avez configurés pour qu’il s’exécute à chaque fois.
 
-   ![Découvrir les cycles d’exécution et les bundles Image 6](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
+   ![Explorer les cycles d’exécution et les bundles Image 6](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
