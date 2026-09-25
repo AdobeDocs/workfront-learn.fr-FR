@@ -28,7 +28,7 @@ Dans cette vidéo, vous apprendrez à :
 * Terminer la période de délégation
 * Trouver des approbations déléguées
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446378/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

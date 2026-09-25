@@ -32,4 +32,4 @@ ht-degree: 70%
 
 Dans cette vidéo, découvrez comment les files d’attente des demandes [!DNL &#x200B; Workfront] peuvent centraliser la gestion des demandes.
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437592/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
