@@ -1,6 +1,6 @@
 ---
 title: Fermer un projet
-description: Découvrez quelles informations examiner et pourquoi il est important de disposer de données mises à jour dans un projet avant de le clôturer dans  [!DNL  Workfront].
+description: Découvrez les informations à vérifier dans un projet et pourquoi il est important de mettre à jour les données avant de le fermer dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -11,13 +11,23 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 100%
-
+ht-degree: 23%
 ---
-
 # Fermer un projet
 
 {{$include /help/_includes/close-a-project-in-workfront.md}}

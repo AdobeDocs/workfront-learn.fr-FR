@@ -12,24 +12,29 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
+autotag-review: '2026-05-06T14:31:13.412Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:31:13.412Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 277
+source-wordcount: '277'
 ht-degree: 28%
-
 ---
-
 # Explorer la gestion et l’optimisation du portefeuille
 
 La vidéo explique la gestion de portefeuille, en se concentrant sur la manière dont les responsables peuvent optimiser la sélection de projets pour s’aligner sur les objectifs de l’entreprise. &#x200B; Il introduit le concept de portefeuilles comme des ensembles de projets qui se font concurrence pour des ressources, des budgets et des calendriers partagés. &#x200B; responsables peuvent utiliser des outils tels que Portfolio Optimizer pour comparer des projets en fonction de critères tels que la main-d’œuvre, les dépenses, le risque, le retour sur investissement et l’alignement sur les objectifs du portefeuille. &#x200B; La préparation de projets à des fins de comparaison implique la création d’un business case pour chacun. &#x200B;

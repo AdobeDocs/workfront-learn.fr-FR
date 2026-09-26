@@ -11,24 +11,26 @@ jira: KT-11054
 thumbnail: KT11054.png
 recommendations: noDisplay,catalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+autotag-review: '2026-05-06T16:44:39.897Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:44:39.897Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1080
+source-wordcount: '1080'
 ht-degree: 99%
-
 ---
-
 # Exercice sur les structures de données
 
 Transformez les données d’un fichier source en un fichier de destination.
@@ -47,7 +49,7 @@ Dans ce scénario, vous ouvrirez un fichier contenant une liste d’entrées de 
 Pour produire un fichier indiquant le temps total, en heures, travaillé chaque jour par chaque individu, vous devez suivre les étapes suivantes :
 
 1. Dans le module du déclencheur, récupérez un fichier dans le dossier Workfront. Téléchargez le fichier.
-1. Dans le premier module CSV, analysez les données relatives à la saisie des temps afin de produire une liasse pour chaque saisie des temps. Il s’agit d’un itérateur.
+1. Dans le premier module CSV, analysez les données relatives à la saisie des temps afin de produire un bundle pour chaque saisie des temps. Il s’agit d’un itérateur.
 1. Le premier module Outils est un agrégateur numérique. Cette opération permet de faire la SOMME de toutes les minutes et de regrouper les lignes par e-mail, puis par date. Le résultat est le nombre total de minutes travaillées chaque jour par adresse e-mail.
 1. Le deuxième module Outils est un module Définir la variable. Utilisez-le pour formater les minutes afin de les diviser par 60 et de les arrondir à 2 décimales.
 1. Dans le deuxième module CSV, configurez le fichier de sortie.
@@ -93,7 +95,7 @@ Pour produire un fichier indiquant le temps total, en heures, travaillé chaque 
 
 1. Cliquez sur Exécuter une fois pour vérifier la sortie de l’agrégation.
 
-   **Les offres de sortie devraient ressembler à ceci :**
+   **Les bundles en sortie devraient ressembler à ceci :**
 
    ![Image de structures de données 7](../12-exercises/assets/data-structures-walkthrough-7.png)
 

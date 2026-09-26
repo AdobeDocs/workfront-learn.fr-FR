@@ -1,6 +1,6 @@
 ---
 title: Présentation de l’exercice d’itérateurs
-description: Découvrez comment utiliser des applications de type itération et exécuter des actions sur chaque lot d’informations.
+description: Découvrez comment utiliser des applications de type itération et exécuter des actions sur chaque bundle d’informations.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,31 +11,33 @@ jira: KT-11046
 thumbnail: KT11046.png
 recommendations: noDisplay,catalog
 exl-id: 8d751885-372a-4716-9542-079cc3d36caf
+autotag-review: '2026-05-06T16:42:51.955Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:42:51.955Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 390
+source-wordcount: '390'
 ht-degree: 100%
-
 ---
-
 # Présentation de l’exercice d’itérateurs
 
-Découvrez comment utiliser des applications de type itération et exécuter des actions sur chaque lot d’informations.
+Découvrez comment utiliser des applications de type itération et exécuter des actions sur chaque bundle d’informations.
 
 ## Vue d’ensemble de l’exercice
 
-Examinez un projet spécifique dans Workfront, puis toutes les tâches de ce projet. Vous utiliserez le module d’outil d’incrémentation pour compter le nombre de tâches dans le projet. Enfin, vous utiliserez le module Définir la variable pour soustraire le Nombre d’enfants du Nombre de problèmes en cours afin de produire une valeur numérique pour chacun des lots de tâches.
+Examinez un projet spécifique dans Workfront, puis toutes les tâches de ce projet. Vous utiliserez le module d’outil d’incrémentation pour compter le nombre de tâches dans le projet. Enfin, vous utiliserez le module Définir la variable pour soustraire le Nombre d’enfants du Nombre de problèmes en cours afin de produire une valeur numérique pour chacun des bundles de tâches.
 
 ![Présentation des itérateurs image 1](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
 
@@ -57,9 +59,9 @@ Examinez un projet spécifique dans Workfront, puis toutes les tâches de ce pro
 1. Renommez ce module « Lire les tâches du projet ».
 1. Enregistrez le scénario puis cliquez sur Exécuter une fois pour afficher les sorties.
 
-   + Cliquez sur l’Inspecteur d’exécution : vous voyez un lot en entrée (le projet) et 28 lots en sortie (les tâches).
+   + Cliquez sur l’Inspecteur d’exécution : vous voyez un bundle en entrée (le projet) et 28 bundles en sortie (les tâches).
 
-   **Comptez et traitez les lots itérés.**
+   **Comptez et traitez les bundles itérés.**
 
 1. Ajoutez un autre module après Lire les enregistrements associés. Choisissez un module d’outils de fonction Incrémenter.
 
@@ -76,4 +78,4 @@ Examinez un projet spécifique dans Workfront, puis toutes les tâches de ce pro
 1. Renommez ce module « Math aléatoire ».
 1. Enregistrez le scénario et cliquez sur Exécuter une fois.
 
-Pour chacune des tâches produites par le module itérateur Lire les enregistrements associés, Workfront Fusion a effectué 28 exécutions. Ces 28 lots continueront à être traités tout au long du scénario, sauf si un agrégateur est ajouté pour fermer la boucle.
+Pour chacune des tâches produites par le module itérateur Lire les enregistrements associés, Workfront Fusion a effectué 28 exécutions. Ces 28 bundles continueront à être traités tout au long du scénario, sauf si un agrégateur est ajouté pour fermer la boucle.

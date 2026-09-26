@@ -13,28 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
+autotag-review: '2026-05-06T14:40:08.316Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+    internal-label: Requests
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:40:08.316Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 220
+source-wordcount: '220'
 ht-degree: 28%
-
 ---
-
 # Explorer les files d’attente de demandes dans Workfront
 
-Cette vidéo explique le concept des files d’attente de demandes dans Workfront, leur objectif et comment envoyer et gérer des demandes. &#x200B; files d’attente de demandes servent d’emplacement centralisé pour l’envoi de divers types de demandes. 
+Cette vidéo explique le concept des files d’attente de demandes dans Workfront, leur objectif et comment envoyer et gérer des demandes. &#x200B; files d’attente de demandes servent d’emplacement centralisé pour l’envoi de divers types de demandes. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447012/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
 
@@ -42,7 +48,7 @@ Cette vidéo explique le concept des files d’attente de demandes dans Workfron
 
 * **Objectif des files d’attente de demandes** : les files d’attente de demandes dans Workfront fournissent un emplacement centralisé pour l’envoi de divers types de demandes, tels que les PTO, les mises à niveau logicielles, les suggestions de clientes et clients et les besoins en formation.
 * **Envoi d’une demande :** les utilisateurs peuvent envoyer des demandes en accédant à la zone de demande, en sélectionnant le type de demande, en remplissant des champs tels que l’Objet, la Description, des champs facultatifs (par exemple, Document) et en remplissant un formulaire personnalisé. &#x200B;
-* **Demandes comme événements :** dans Workfront, chaque demande est traitée comme un événement et doit être associée à un projet. &#x200B; Les projets dédiés uniquement aux requêtes sont appelés files d’attente des requêtes. 
+* **Demandes comme événements :** dans Workfront, chaque demande est traitée comme un événement et doit être associée à un projet. &#x200B; Les projets dédiés uniquement aux requêtes sont appelés files d’attente des requêtes. &#x200B;
 * **Gestion des files d’attente :** une gestion efficace des files d’attente implique l’organisation des demandes par type, ce qui personnalise les informations et affectations requises, améliorant ainsi l’efficacité. &#x200B;
 * **Recherche des demandes envoyées :** demandes envoyées se trouvent dans l’onglet Événement de la file d’attente des demandes associée en accédant à la zone Projets et en sélectionnant le projet approprié. &#x200B;
 
