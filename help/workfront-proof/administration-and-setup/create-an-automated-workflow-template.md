@@ -39,7 +39,7 @@ ht-degree: 91%
 
 Dans cette vidéo, vous apprendrez à :
 
-* Créer un modèle de workflow automatisé pour les épreuves de [!DNL  Workfront]
+* Créer un modèle de workflow automatisé pour les épreuves de [!DNL &#x200B; Workfront]
 * Affecter des destinataires de BAT
 * Définir une échéance pour le processus de révision et d’approbation
 * Partager le modèle de workflow automatisé avec d’autres personnes

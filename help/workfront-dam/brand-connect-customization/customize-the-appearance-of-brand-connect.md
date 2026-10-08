@@ -50,7 +50,7 @@ L’option [!UICONTROL Police de caractères] dans le menu [!UICONTROL Apparence
 
 Personnalisez l’aspect de votre page d&#39;accueil [!UICONTROL Brand Connect] pour qu’il corresponde à votre organisation. Les widgets permettent d’ajouter des éléments tels que des dossiers et des diaporamas d’images. Si votre organisation comporte plusieurs [!UICONTROL Brand Connects], chacun possède sa propre page d’accueil, dont vous pouvez modifier l’aspect.
 
-![Capture d’écran des widgets disponibles pour votre page d’accueil [!UICONTROL Brand Connect] ](assets/03-brand-connect-home-page-widgets.png)
+![Capture d’écran des widgets disponibles pour votre page d’accueil [!UICONTROL Brand Connect] &#x200B;](assets/03-brand-connect-home-page-widgets.png)
 
 Ces widgets sont disponibles :
 

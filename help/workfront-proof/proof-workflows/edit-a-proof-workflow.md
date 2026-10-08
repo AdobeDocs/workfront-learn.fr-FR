@@ -1,6 +1,6 @@
 ---
 title: Modifier le workflow d’un BAT
-description: Découvrez comment mettre à jour une échéance de BAT, ajouter des utilisateurs à un workflow existant et transformer un workflow existant en workflow automatisé dans [!DNL  Workfront].
+description: Découvrez comment mettre à jour une échéance de BAT, ajouter des utilisateurs à un workflow existant et transformer un workflow existant en workflow automatisé dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

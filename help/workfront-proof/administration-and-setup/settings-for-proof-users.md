@@ -1,6 +1,6 @@
 ---
 title: Paramètres pour les utilisateurs et les utilisatrices de BAT
-description: Découvrez comment déterminer les utilisateurs [!DNL  Workfront] qui obtiennent une licence de relecture, puis ajuster les paramètres utilisateur dans les paramètres [!DNL Workfront] et back-end.
+description: Découvrez comment déterminer les utilisateurs [!DNL &#x200B; Workfront] qui obtiennent une licence de relecture, puis ajuster les paramètres utilisateur dans les paramètres [!DNL Workfront] et back-end.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -36,13 +36,13 @@ ht-degree: 81%
 ---
 # Paramètres pour les utilisateurs et les utilisatrices de BAT
 
-Avant de commencer à créer des utilisateurs et des utilisatrices dans [!DNL  Workfront], il est préférable d’avoir défini les paramètres globaux de [!DNL Workfront] et du système de BAT. Certains de ces paramètres s’appliquent aux profils d’utilisation au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définis avant la création de certains utilisateurs et utilisatrices. Vous pouvez modifier ces paramètres sur chaque profil individuel.
+Avant de commencer à créer des utilisateurs et des utilisatrices dans [!DNL &#x200B; Workfront], il est préférable d’avoir défini les paramètres globaux de [!DNL Workfront] et du système de BAT. Certains de ces paramètres s’appliquent aux profils d’utilisation au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définis avant la création de certains utilisateurs et utilisatrices. Vous pouvez modifier ces paramètres sur chaque profil individuel.
 
 
 Dans cette vidéo, vous apprendrez à :
 
 * Déterminer quels utilisateurs et utilisatrices reçoivent une licence de BAT
-* Ajuster les paramètres d’utilisation du BAT dans [!DNL  Workfront]
+* Ajuster les paramètres d’utilisation du BAT dans [!DNL &#x200B; Workfront]
 * Ajuster les paramètres d’utilisation d’épreuve dans les configurations principales de relecture
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)

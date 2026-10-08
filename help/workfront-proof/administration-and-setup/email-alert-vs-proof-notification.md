@@ -1,6 +1,6 @@
 ---
 title: Comprendre les alertes par e-mail et les notifications de BAT
-description: Comprenez la différence entre les alertes par e-mail et les notifications de BAT dans [!DNL  Workfront].
+description: Comprenez la différence entre les alertes par e-mail et les notifications de BAT dans [!DNL &#x200B; Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User

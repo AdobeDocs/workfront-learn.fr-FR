@@ -1,6 +1,6 @@
 ---
 title: Charger une version de BAT
-description: Découvrez comment charger une nouvelle version d’une épreuve et appliquer un workflow de relecture à la version dans [!DNL  Workfront].
+description: Découvrez comment charger une nouvelle version d’une épreuve et appliquer un workflow de relecture à la version dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

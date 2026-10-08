@@ -1,6 +1,6 @@
 ---
 title: Modifier un modèle de workflow automatisé
-description: Découvrez comment apporter des modifications à un modèle de workflow de relecture automatisée existant dans [!DNL  Workfront].
+description: Découvrez comment apporter des modifications à un modèle de workflow de relecture automatisée existant dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

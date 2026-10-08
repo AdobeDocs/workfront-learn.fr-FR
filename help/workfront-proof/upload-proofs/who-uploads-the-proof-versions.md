@@ -1,6 +1,6 @@
 ---
 title: Qui charge les versions de BAT ?
-description: Le responsable du chargement des versions de BAT dans [!DNL  Workfront] peut varier. Tirez les leçons des cas d’utilisation courants pour identifier la configuration idéale au sein de votre organisation.
+description: Le responsable du chargement des versions de BAT dans [!DNL &#x200B; Workfront] peut varier. Tirez les leçons des cas d’utilisation courants pour identifier la configuration idéale au sein de votre organisation.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

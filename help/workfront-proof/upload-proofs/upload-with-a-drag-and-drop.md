@@ -1,6 +1,6 @@
 ---
 title: Charger par glisser-déposer
-description: Découvrez les avantages et les limites du chargement de fichiers dans [!DNL  Workfront] par glisser-déposer.
+description: Découvrez les avantages et les limites du chargement de fichiers dans [!DNL &#x200B; Workfront] par glisser-déposer.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -35,10 +35,10 @@ ht-degree: 92%
 
 Vous pouvez charger un fichier dans [!DNL Workfront] en faisant un glisser-déposer directement sur la section [!UICONTROL Documents]. Il s’agit d’un moyen rapide de charger une épreuve, mais il ne vous permet pas d’affecter un workflow d’épreuve en même temps.
 
-![Image de la zone [!UICONTROL Documents] dans un projet [!DNL  Workfront] avec le curseur sur la liste des documents et le message [!UICONTROL Faites glisser des documents ici] visible.](assets/drag-and-drop-1.png)
+![Image de la zone [!UICONTROL Documents] dans un projet [!DNL &#x200B; Workfront] avec le curseur sur la liste des documents et le message [!UICONTROL Faites glisser des documents ici] visible.](assets/drag-and-drop-1.png)
 
 Pour certaines clientes et certains clients de [!DNL Workfront], il s&#39;agit d’un workflow normal. Une personne chargée de la conception du contenu créatif ou une personne de l’équipe charge le fichier, mais c’est à un ou une gestionnaire d’épreuve ou à un ou une responsable de projet qu’il incombe d’affecter le workflow d’épreuve afin que les destinataires appropriés puissent réviser le travail.
 
 Il est possible, selon les paramètres de votre système [!DNL Workfront], qu’une épreuve ne soit pas générée lors d’un chargement par glisser-déposer. Si c’est le cas, vous devez générer l’épreuve et affecter un workflow en utilisant l’option [!UICONTROL Générer une épreuve] et en sélectionnant [!UICONTROL Avancé]. Vous pouvez ensuite configurer votre workflow d’épreuve.
 
-![Image de la zone [!UICONTROL Documents] dans un projet [!DNL  Workfront] avec l’option [!UICONTROL Générer une épreuve] en surbrillance.](assets/drag-and-drop-2.png)
+![Image de la zone [!UICONTROL Documents] dans un projet [!DNL &#x200B; Workfront] avec l’option [!UICONTROL Générer une épreuve] en surbrillance.](assets/drag-and-drop-2.png)

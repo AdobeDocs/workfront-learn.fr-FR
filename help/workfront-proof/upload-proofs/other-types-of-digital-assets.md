@@ -1,6 +1,6 @@
 ---
 title: Charger le BAT d’une vidéo
-description: Découvrez comment charger une vidéo pour la relecture dans [!DNL  Workfront].
+description: Découvrez comment charger une vidéo pour la relecture dans [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

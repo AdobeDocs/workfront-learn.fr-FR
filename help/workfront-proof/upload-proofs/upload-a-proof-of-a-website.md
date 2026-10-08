@@ -1,6 +1,6 @@
 ---
 title: Charger un BAT d’un site Web
-description: Découvrez comment charger un site web en tant qu’épreuve statique et épreuve interactive dans [!DNL  Workfront].
+description: Découvrez comment charger un site web en tant qu’épreuve statique et épreuve interactive dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

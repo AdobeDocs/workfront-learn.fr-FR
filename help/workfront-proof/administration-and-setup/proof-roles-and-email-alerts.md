@@ -1,6 +1,6 @@
 ---
 title: Rôles des BAT et alertes par e-mail
-description: Découvrez comment activer les rôles de BAT et les alertes par e-mail appropriées pour que les destinataires du BAT aient accès aux BAT et à la visibilité sur le travail effectué dans [!DNL  Workfront].
+description: Découvrez comment activer les rôles de BAT et les alertes par e-mail appropriées pour que les destinataires du BAT aient accès aux BAT et à la visibilité sur le travail effectué dans [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

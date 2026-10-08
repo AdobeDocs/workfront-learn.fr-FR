@@ -1,6 +1,6 @@
 ---
 title: Afficher et comparer des versions de BAT
-description: Découvrez comment ouvrir, identifier, baliser, commenter et comparer des versions d’épreuve dans [!DNL  Workfront].
+description: Découvrez comment ouvrir, identifier, baliser, commenter et comparer des versions d’épreuve dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

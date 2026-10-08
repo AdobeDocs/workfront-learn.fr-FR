@@ -1,6 +1,6 @@
 ---
 title: Comprendre la différence entre un document et un BAT
-description: Découvrez la différence entre un document et une épreuve dans [!DNL  Workfront].
+description: Découvrez la différence entre un document et une épreuve dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

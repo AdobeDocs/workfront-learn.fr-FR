@@ -1,6 +1,6 @@
 ---
 title: Convertir un document en BAT
-description: Découvrez comment générer une épreuve d’un document qui existe déjà dans [!DNL  Workfront], ajouter un workflow à une épreuve et ajouter ou modifier un workflow après la création de l’épreuve.
+description: Découvrez comment générer une épreuve d’un document qui existe déjà dans [!DNL &#x200B; Workfront], ajouter un workflow à une épreuve et ajouter ou modifier un workflow après la création de l’épreuve.
 activity: use
 feature: Workfront Proof
 type: Tutorial

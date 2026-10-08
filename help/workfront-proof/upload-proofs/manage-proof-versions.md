@@ -1,6 +1,6 @@
 ---
 title: Gérer les versions des BAT
-description: Découvrez comment trouver les détails du moment où une épreuve a été chargée, télécharger toutes les versions d’une épreuve et supprimer une version d’épreuve dans [!DNL  Workfront].
+description: Découvrez comment trouver les détails du moment où une épreuve a été chargée, télécharger toutes les versions d’une épreuve et supprimer une version d’épreuve dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Combiner plusieurs fichiers en un seul BAT
-description: Découvrez comment rationaliser le processus de relecture en combinant plusieurs fichiers en une seule épreuve dans [!DNL  Workfront].
+description: Découvrez comment rationaliser le processus de relecture en combinant plusieurs fichiers en une seule épreuve dans [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

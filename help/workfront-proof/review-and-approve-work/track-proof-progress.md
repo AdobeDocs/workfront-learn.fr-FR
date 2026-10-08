@@ -1,6 +1,6 @@
 ---
 title: Suivre la progression du BAT
-description: Découvrez comment utiliser les indicateurs [!UICONTROL SOCD], la progression d’une épreuve et les rapports pour suivre la progression d’une épreuve dans [!DNL  Workfront].
+description: Découvrez comment utiliser les indicateurs [!UICONTROL SOCD], la progression d’une épreuve et les rapports pour suivre la progression d’une épreuve dans [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -41,7 +41,7 @@ Pour afficher la progression de la relecture sur [!DNL Workfront], vous devez di
 
 Obtenez une vue de haut niveau de la progression du BAT dans le processus de révision et d’approbation en utilisant les icônes [!UICONTROL SOCD] dans la liste [!UICONTROL Documents]. Ces icônes indiquent les actions spécifiques effectuées sur le BAT.
 
-![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL  Workfront] avec les icônes [!UICONTROL SOCD] en surbrillance.](assets/manage-proofs-socd.png)
+![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL &#x200B; Workfront] avec les icônes [!UICONTROL SOCD] en surbrillance.](assets/manage-proofs-socd.png)
 
 Les icônes indiquent le travail effectué sur un BAT entre le moment où vous envoyez le BAT aux destinataires et le moment où ils ou elles prennent une décision sur le BAT.
 
@@ -73,7 +73,7 @@ Si vous souhaitez connaître l’état d’avancement de chaque destinataire du�
 
 Le statut de l’épreuve est basé sur le statut des personnes destinataires de l’épreuve de l’étape. Le statut général du BAT est visible sur la page [!UICONTROL Documents], à droite des indicateurs [!UICONTROL SOCD], ce qui vous permet de savoir facilement si une décision a été prise à propos du BAT.
 
-![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL  Workfront] avec le statut général du BAT en surbrillance.](assets/manage-proofs-overall-status.png)
+![Une image de la liste [!UICONTROL Documents] dans un projet [!DNL &#x200B; Workfront] avec le statut général du BAT en surbrillance.](assets/manage-proofs-overall-status.png)
 
 Le statut du BAT indique le statut général du BAT. Par exemple, si deux destinataires ont approuvé le BAT, leur statut individuel indique [!UICONTROL Approuvé]. Cependant, la troisième personne destinataire n’a pas encore pris de décision et son statut est [!UICONTROL En attente]. Par conséquent, le statut général est [!UICONTROL En attente].
 
@@ -93,11 +93,11 @@ Vous pouvez également exploiter les fonctionnalités de reporting de [!DNL Work
 
 Un rapport d’approbation de BAT vous aide à suivre les approbations en suspens afin de vous assurer que les délais sont respectés.
 
-![Une image d’un rapport d’approbation de BAT dans [!DNL  Workfront].](assets/proof-approval-report.png)
+![Une image d’un rapport d’approbation de BAT dans [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Un rapport de version de document vous permet de gérer et de suivre les versions de BAT.
 
-![Une image d’un rapport de version de document dans [!DNL  Workfront].](assets/document-version-report.png)
+![Une image d’un rapport de version de document dans [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Nous vous recommandons de travailler avec votre consultant ou consultante [!DNL Workfront] pour créer des rapports qui répondent aux besoins de votre organisation. Certains de ces rapports requièrent une certaine connaissance des rapports en mode texte de [!DNL Workfront's].
 
