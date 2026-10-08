@@ -1,6 +1,6 @@
 ---
 title: Charger le BAT d’une vidéo
-description: Découvrez comment charger une vidéo à des fins de relecture dans  [!DNL  Workfront].
+description: Découvrez comment charger une vidéo pour la relecture dans [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,27 @@ level: Beginner
 thumbnail: upload-a-proof-video.png
 jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
+autotag-review: '2026-05-05T19:52:09.356Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:52:09.356Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 285
-ht-degree: 100%
-
+source-wordcount: '285'
+ht-degree: 96%
 ---
-
 # Charger le BAT d’une vidéo
 
 Les fonctions de relecture de [!DNL Workfront’s] ne sont pas réservées aux fichiers statiques tels que les PDF, les feuilles de calcul ou les images. [!DNL Workfront] prend en charge plus de 150 types de fichiers, y compris des captures vidéo et web d’une taille allant jusqu’à 4 Go.
