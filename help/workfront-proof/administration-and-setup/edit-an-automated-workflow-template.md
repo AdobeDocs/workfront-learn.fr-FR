@@ -1,6 +1,6 @@
 ---
 title: Modifier un modèle de workflow automatisé
-description: Découvrez comment apporter des modifications à un modèle de workflow de relecture automatisé existant dans  [!DNL  Workfront].
+description: Découvrez comment apporter des modifications à un modèle de workflow de relecture automatisée existant dans [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,25 +12,29 @@ last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
+autotag-review: '2026-05-05T20:06:38.512Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:06:38.512Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 578
-ht-degree: 100%
-
+source-wordcount: '578'
+ht-degree: 97%
 ---
-
 # Modifier un modèle de workflow automatisé
 
 Au fur et à mesure que les processus de révision et d&#39;approbation de BAT sont affinés ou que des changements organisationnels sont apportés, les modèles de workflow automatisés doivent être mis à jour pour refléter les opérations actuelles de vos équipes utilisant Workfront.
@@ -65,8 +69,8 @@ Pour rappel, voici les modifications que vous pouvez apporter au modèle de BAT 
 * Dans la liste des destinataires, cliquez sur les champs [!UICONTROL Rôle] ou [!UICONTROL Alertes e-mail] pour sélectionner une autre option.
 * Le menu à trois points situé complètement à droite du nom des destinataires permet de les supprimer de la liste, d’en faire les principaux responsables de la prise de décision pour cette étape du workflow, ou de modifier le rôle de l’épreuve et les informations relatives à l’alerte par e-mail.
 * Vous avez deux possibilités pour ajouter des destinataires à la liste.
-   1. Dans le coin supérieur droit de chaque section d’étape, accédez au menu [!UICONTROL Plus] et sélectionnez [!UICONTROL Ajouter des personnes à l’étape]. Une fois que vous avez ouvert la fenêtre [!UICONTROL Ajouter des personnes à l’étape], cliquez sur l’étape à laquelle vous souhaitez les ajouter. Saisissez ensuite leur nom ou leur adresse e-mail dans la liste des destinataires et attribuez un rôle de BAT et une alerte par e-mail. Cliquez sur le bouton [!UICONTROL Ajouter des personnes] lorsque vous avez terminé.
-   1. En haut de la zone [!UICONTROL Workflow], sélectionnez [!UICONTROL Ajouter des personnes à l’étape].
+  1. Dans le coin supérieur droit de chaque section d’étape, accédez au menu [!UICONTROL Plus] et sélectionnez [!UICONTROL Ajouter des personnes à l’étape]. Une fois que vous avez ouvert la fenêtre [!UICONTROL Ajouter des personnes à l’étape], cliquez sur l’étape à laquelle vous souhaitez les ajouter. Saisissez ensuite leur nom ou leur adresse e-mail dans la liste des destinataires et attribuez un rôle de BAT et une alerte par e-mail. Cliquez sur le bouton [!UICONTROL Ajouter des personnes] lorsque vous avez terminé.
+  1. En haut de la zone [!UICONTROL Workflow], sélectionnez [!UICONTROL Ajouter des personnes à l’étape].
 
 ## Partage de modèles
 

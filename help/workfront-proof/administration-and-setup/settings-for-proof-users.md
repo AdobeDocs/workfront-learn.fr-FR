@@ -1,6 +1,6 @@
 ---
 title: Paramètres pour les utilisateurs et les utilisatrices de BAT
-description: Découvrez comment déterminer qui parmi les utilisateurs et les utilisatrices de  [!DNL  Workfront]  doit obtenir une licence de relecture, puis ajustez les paramètres d’utilisation à la fois dans  [!DNL Workfront]  et dans les paramètres principaux.
+description: Découvrez comment déterminer les utilisateurs [!DNL &#x200B; Workfront] qui obtiennent une licence de relecture, puis ajuster les paramètres utilisateur dans les paramètres [!DNL Workfront] et back-end.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -11,34 +11,38 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
+autotag-review: '2026-05-05T20:02:56.707Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:02:56.707Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 112
-ht-degree: 100%
-
+source-wordcount: '114'
+ht-degree: 81%
 ---
-
 # Paramètres pour les utilisateurs et les utilisatrices de BAT
 
-Avant de commencer à créer des utilisateurs et des utilisatrices dans [!DNL  Workfront], il est préférable d’avoir défini les paramètres globaux de [!DNL Workfront] et du système de BAT. Certains de ces paramètres s’appliquent aux profils d’utilisation au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définis avant la création de certains utilisateurs et utilisatrices. Vous pouvez modifier ces paramètres sur chaque profil individuel.
+Avant de commencer à créer des utilisateurs et des utilisatrices dans [!DNL &#x200B; Workfront], il est préférable d’avoir défini les paramètres globaux de [!DNL Workfront] et du système de BAT. Certains de ces paramètres s’appliquent aux profils d’utilisation au fur et à mesure de leur création. Mais ne vous inquiétez pas si vous ne les avez pas définis avant la création de certains utilisateurs et utilisatrices. Vous pouvez modifier ces paramètres sur chaque profil individuel.
 
 
 Dans cette vidéo, vous apprendrez à :
 
 * Déterminer quels utilisateurs et utilisatrices reçoivent une licence de BAT
-* Ajuster les paramètres d’utilisation du BAT dans [!DNL  Workfront]
+* Ajuster les paramètres d’utilisation du BAT dans [!DNL &#x200B; Workfront]
 * Ajuster les paramètres d’utilisation d’épreuve dans les configurations principales de relecture
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432923/?captions=fre_fr&quality=12&learn=on&enablevpops=1)

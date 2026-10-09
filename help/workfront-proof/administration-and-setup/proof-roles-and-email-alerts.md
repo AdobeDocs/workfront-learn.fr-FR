@@ -1,6 +1,6 @@
 ---
 title: Rôles des BAT et alertes par e-mail
-description: Découvrez comment activer les rôles d’épreuve et les alertes par e-mail appropriés pour que les destinataires de l’épreuve aient accès aux épreuves et aient une bonne visibilité sur le travail en cours dans  [!DNL  Workfront].
+description: Découvrez comment activer les rôles de BAT et les alertes par e-mail appropriées pour que les destinataires du BAT aient accès aux BAT et à la visibilité sur le travail effectué dans [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,25 +10,29 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 jira: KT-10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
+autotag-review: '2026-05-05T20:05:31.746Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:05:31.746Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 552
-ht-degree: 100%
-
+source-wordcount: '552'
+ht-degree: 95%
 ---
-
 # Rôles des BAT et alertes par e-mail
 
 Les rôles des épreuves et les alertes par e-mail permettent de piloter le workflow d’épreuves, en s’assurant que les destinataires ont le droit d’accéder aux épreuves et ont une bonne visibilité sur le travail en cours.

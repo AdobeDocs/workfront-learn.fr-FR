@@ -9,24 +9,27 @@ role: Admin
 level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
+autotag-review: '2026-05-05T20:32:27.177Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:32:27.177Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 411
+source-wordcount: '411'
 ht-degree: 100%
-
 ---
-
 # Analyser et planifier une stratégie de [!UICONTROL gestion des actifs numériques Workfront]
 
 Avant de commencer la configuration de [!UICONTROL Workfront DAM] pour votre entreprise, il est essentiel que vous établissiez une stratégie organisationnelle et une stratégie de métadonnées/mot-clé.
@@ -41,13 +44,13 @@ Analysez soigneusement vos workflows afin d’atteindre vos objectifs [!UICONTRO
 * **Taxonomie des mots-clés** : les mots-clés sont des mots descriptifs d’une ressource. Une taxonomie est une liste prédéfinie de termes que les utilisateurs et les utilisatrices peuvent sélectionner pour ajouter des mots-clés aux ressources. Une taxonomie est essentielle pour maintenir le contrôle et la cohérence de vos efforts en matière de mots-clés.
 * **Processus de workflow** : une autre étape clé dans l’utilisation réussie de [!UICONTROL Workfront DAM] est l’établissement de processus de workflow pour votre organisation. Il ne s’agit pas seulement de savoir qui charge les ressources. Quelques points à prendre en compte (cette liste n’est pas exhaustive) :
 
-   * Dans quels dossiers les ressources doivent-elles être chargées ?
-   * Quels champs de métadonnées sont requis pour chaque ressource ?
-   * Les métadonnées sont-elles ajoutées avant ou après le chargement ?
-   * Qui peut charger des ressources ?
-   * Qui peut ajouter des métadonnées ?
-   * Est-il nécessaire d’utiliser une taxonomie de mots-clés ? Les utilisateurs et les utilisatrices peuvent-ils ajouter d’autres mots-clés ?
-   * Quelles sont les bonnes pratiques pour ajouter des métadonnées ? Quel est le format des dates ? Indiquez-vous le nom de la société, du client ou de la cliente ?
-   * Comment les nouveaux utilisateurs et les nouvelles utilisatrices peuvent-ils obtenir un nom d’utilisateur pour [!UICONTROL Workfront DAM] ?
+  * Dans quels dossiers les ressources doivent-elles être chargées ?
+  * Quels champs de métadonnées sont requis pour chaque ressource ?
+  * Les métadonnées sont-elles ajoutées avant ou après le chargement ?
+  * Qui peut charger des ressources ?
+  * Qui peut ajouter des métadonnées ?
+  * Est-il nécessaire d’utiliser une taxonomie de mots-clés ? Les utilisateurs et les utilisatrices peuvent-ils ajouter d’autres mots-clés ?
+  * Quelles sont les bonnes pratiques pour ajouter des métadonnées ? Quel est le format des dates ? Indiquez-vous le nom de la société, du client ou de la cliente ?
+  * Comment les nouveaux utilisateurs et les nouvelles utilisatrices peuvent-ils obtenir un nom d’utilisateur pour [!UICONTROL Workfront DAM] ?
 
 Pour une réussite à long terme, il est essentiel de planifier la structure du système avant de commencer les configurations, de planifier le schéma de métadonnées, de planifier la formation de l’utilisateur ou de l’utilisatrice finale et de planifier la maintenance en cours.
