@@ -1,9 +1,8 @@
 ---
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 3977adb637ac16af359b37925efe8db10b3e6d35
 workflow-type: tm+mt
-source-wordcount: '670'
-ht-degree: 74%
-
+source-wordcount: '668'
+ht-degree: 69%
 ---
 # Explorer la chronologie des projets dans Workfront - SHARED
 
@@ -13,11 +12,11 @@ Ce que vous apprendrez :
 * Différentes vues dans Workfront, telles que la vue standard pour la planification et la vue de statut pour la surveillance de la progression, qui inclut des indicateurs de progression, des commentaires, des documents, des problèmes, des approbations, le chemin critique et les jalons. L’activité récente peut être suivie pour afficher les mises à jour et les notes.
 * La planification peut être effectuée à partir d’une date de début ou d’achèvement, Workfront calculant les dates correspondantes en fonction de la durée des tâches et des prédécesseurs. La vidéo recommande d’effectuer la planification à partir d’une date de début pour les dates d’achèvement critiques afin de laisser une certaine marge. Les contraintes de tâche, telles que « le plus tôt possible » et « le plus tard possible », sont également abordées, en montrant comment elles affectent la planification des tâches. Vous pouvez créer des vues personnalisées pour afficher les contraintes de tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435837/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
->Pour obtenir une explication plus complète des types de durée et des contraintes de tâche, voir [Comprendre et gérer les types de durée et les contraintes de tâche](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
+>Pour une explication plus complète des types de durée et des contraintes de tâche, voir [types de durée de Principal et contraintes de tâche](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
 
 ## Points clés à retenir
 
@@ -32,7 +31,7 @@ Ce que vous apprendrez :
 
 | Avantages de modifier des dates | Inconvénients de modifier des dates | Avantages de ne pas modifier des dates | Inconvénients de ne pas modifier des dates |
 |---------------------------|---------------------------|---------------------------|---------------------------|
-| <ul><li>Réduction du stress/communication d’attentes actualisées aux utilisateurs et utilisatrices._L’équipe créative a besoin de repères clairs pour savoir où elle en est._</li><li>Allocation précise des ressources, en particulier dans l’équilibreur de charge de travail</li><li>Utilisation des rapports d’entrée de journal (ou de la durée du projet) pour indiquer les modifications de dates</li><li>Utilisation de la condition pour indiquer si le projet est hors de portée</li><li>Possibilité d’ajouter un formulaire personnalisé (ou utiliser des problèmes) pour suivre les modifications : pourquoi elles ont été reportées, par qui, pendant combien de temps</li></ul> | <ul></li><li>Données trompeuses car les rapports ne reflètent pas le véritable état</li><li>Fausse perception de la progression : illusion que tout est sur la bonne voie</li><li>Promotion d’une culture qui consiste à toujours modifier la chronologie au lieu de s’attaquer aux causes profondes</li><li>Perte de confiance des parties prenantes/perception de l’équipe quant au respect des délais </li></ul> | <ul></li><li>Représentation précise de la chronologie du projet : les données peuvent être utilisées pour l’analyse et pour raconter une histoire claire de ce qui s’est passé.</li><li>Option permettant de modifier la durée ou d’ajouter un décalage au prédécesseur à la place</li><li>Identification facile des améliorations de processus pour la planification future des projets/gestion des risques</li><li>Option permettant d’exploiter les niveaux de référence pour capturer le plan de projet d’origine et l’utiliser comme comparaison</li><li>Si les ressources nécessaires pour effectuer ce travail ne sont pas disponibles, ou si cela ne peut pas être appliqué à l’ensemble du projet, il est préférable de ne pas modifier les dates.</li></ul> | <ul></li><li>Confusion et/ou frustration du personnel : abondance de tâches « en retard » malgré le fait qu’il vient tout juste d’être averti.</li><li>Les ressources ont été efficacement allouées pour correspondre au plan initial, mais elles sont maintenant surchargées de travail en retard.</li><li>La chronologie du projet ne peut pas être utilisée pour communiquer clairement les mises à jour aux parties prenantes.</li></ul> |
+| <ul><li>Réduire le stress/fournir des attentes à jour pour les utilisateurs - _« Les créatifs ne sauraient pas ce qui est réel »_</li><li>Allocation précise des ressources, en particulier dans l’équilibreur de charge de travail</li><li>Utilisation des rapports d’entrée de journal (ou de la durée du projet) pour indiquer les modifications de dates</li><li>Utilisation de la condition pour indiquer si le projet est hors de portée</li><li>Possibilité d’ajouter un formulaire personnalisé (ou utiliser des problèmes) pour suivre les modifications : pourquoi elles ont été reportées, par qui, pendant combien de temps</li></ul> | <ul></li><li>Données trompeuses car les rapports ne reflètent pas le véritable état</li><li>Fausse perception de la progression : illusion que tout est sur la bonne voie</li><li>Promotion d’une culture qui consiste à toujours modifier la chronologie au lieu de s’attaquer aux causes profondes</li><li>Perte de confiance des parties prenantes/perception de l’équipe quant au respect des délais </li></ul> | <ul></li><li>Représentation précise de la chronologie du projet : les données peuvent être utilisées pour l’analyse et pour raconter une histoire claire de ce qui s’est passé.</li><li>Option permettant de modifier la durée ou d’ajouter un décalage au prédécesseur à la place</li><li>Identification facile des améliorations de processus pour la planification future des projets/gestion des risques</li><li>Option permettant d’exploiter les niveaux de référence pour capturer le plan de projet d’origine et l’utiliser comme comparaison</li><li>Si les ressources nécessaires pour effectuer ce travail ne sont pas disponibles, ou si cela ne peut pas être appliqué à l’ensemble du projet, il est préférable de ne pas modifier les dates.</li></ul> | <ul></li><li>Confusion et/ou frustration du personnel : abondance de tâches « en retard » malgré le fait qu’il vient tout juste d’être averti.</li><li>Les ressources ont été efficacement allouées pour correspondre au plan initial, mais elles sont maintenant surchargées de travail en retard.</li><li>La chronologie du projet ne peut pas être utilisée pour communiquer clairement les mises à jour aux parties prenantes.</li></ul> |
 
 
 ## Tutoriels recommandés sur cette rubrique
