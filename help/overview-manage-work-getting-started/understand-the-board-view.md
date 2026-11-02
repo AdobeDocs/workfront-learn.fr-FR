@@ -1,6 +1,6 @@
 ---
-title: Comprendre la vue [!UICONTROL Panorama]
-description: Apprenez à utiliser la vue [!UICONTROL Panorama] sur la page de destination du projet.
+title: Explorer la vue Tableau pour la gestion des tâches
+description: Simplifiez la gestion des tâches dans Workfront grâce à l’interface [!DNL Kanban] de la vue [!UICONTROL Tableau], qui permet le tri, la création, la personnalisation des tâches et une intégration transparente à la vue Liste des tâches pour une organisation de projet efficace.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:25:56.436Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 0%
 ---
-
-# Comprendre la vue [!UICONTROL Panorama]
+# Explorer la vue Tableau pour la gestion des tâches
 
 {{$include /help/_includes/understand-the-board-view.md}}

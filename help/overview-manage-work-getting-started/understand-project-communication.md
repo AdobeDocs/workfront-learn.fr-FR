@@ -1,6 +1,6 @@
 ---
-title: Comprendre la communication d’un projet
-description: Découvrez comment communiquer à propos du projet en faisant appel à une bonne planification du projet, des mises à jour, le statut de la tâche, le pourcentage d’achèvement, les problèmes et les rapports.
+title: Améliorer la réussite du projet grâce à une communication efficace
+description: Améliorez la réussite du projet grâce à une communication efficace avec les parties prenantes, des tâches claires, des discussions centralisées, des rapports de statut précis et une résolution proactive des problèmes pour maintenir l’alignement et l’efficacité.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-05T00:00:00.000Z'
+last-substantial-update: '2026-07-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
@@ -29,13 +29,12 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:27:31.448Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 25
-ht-degree: 100%
-
+source-wordcount: '35'
+ht-degree: 65%
 ---
-
-# Comprendre la communication autour d’un projet
+# Améliorer la réussite du projet grâce à une communication efficace
 
 {{$include /help/_includes/understand-project-communication.md}}
+
