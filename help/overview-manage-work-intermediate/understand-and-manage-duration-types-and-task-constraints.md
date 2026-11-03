@@ -1,5 +1,5 @@
 ---
-title: Comprendre et gérer les types de durée et les contraintes de tâche
+title: Types de durée de Principal et contraintes de tâche
 description: Comprenez les types de durée et les contraintes de tâche et découvrez comment bien les configurer dans vos projets.
 feature: Work Management
 thumbnail: 3420986.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:11:30.971Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 37
-ht-degree: 100%
-
+source-wordcount: '33'
+ht-degree: 63%
 ---
-
-# Comprendre et gérer les types de durée et les contraintes de tâche
+# Types de durée de Principal et contraintes de tâche
 
 {{$include /help/_includes/understand-and-manage-duration-types-and-task-constraints.md}}

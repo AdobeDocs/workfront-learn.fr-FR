@@ -1,13 +1,13 @@
 ---
-title: Mettre à jour une demande
-description: Découvrez comment trouver les requêtes que vous avez envoyées et comment les mettre à jour dans [!DNL  Workfront].
+title: Mise à jour d’une requête dans Workfront
+description: Simplifiez la gestion des demandes dans Workfront en utilisant des filtres pour localiser les demandes, en mettant à jour efficacement les statuts et les détails, en accédant à des informations complètes et en favorisant une collaboration centralisée pour des workflows rationalisés.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-07-10T00:00:00.000Z'
+last-substantial-update: '2026-08-18T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 72%
 ---
-# Mettre à jour une requête
+# Mise à jour d’une requête dans Workfront
 
 {{$include /help/_includes/update-a-request.md}}

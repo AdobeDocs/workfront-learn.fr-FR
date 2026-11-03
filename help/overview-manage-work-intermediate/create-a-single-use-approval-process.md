@@ -1,6 +1,6 @@
 ---
-title: Créer un processus d’approbation global et à usage unique
-description: Découvrez comment créer un processus d’approbation global et à usage unique pour un projet, une tâche ou un problème.
+title: Créer et gérer des processus de validation
+description: Améliorez les workflows d’approbation en utilisant des processus d’approbation globaux et à usage unique pour les tâches, les projets ou les problèmes, en mettant en œuvre des approbations à plusieurs niveaux et par étapes et en promouvant l’efficacité par la réutilisation dans les modèles de projet.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,6 +9,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
+last-substantial-update: '2025-03-26T00:00:00.000Z'
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
@@ -34,11 +36,11 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 100%
+source-wordcount: '40'
+ht-degree: 75%
 ---
-# Créer un processus d’approbation global et à usage unique
+# Créer et gérer des processus de validation
 
 {{$include /help/_includes/create-a-single-use-approval-process.md}}
