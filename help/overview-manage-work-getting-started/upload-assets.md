@@ -1,6 +1,6 @@
 ---
-title: Charger les ressources
-description: Chargez des documents, des bons à tirer et d’autres ressources dans le projet avant de le fermer pour vous assurer que toutes les données pertinentes sont associées au projet.
+title: Chargement et gestion des ressources du projet
+description: Chargez des documents et des épreuves dans le projet avant de le fermer pour vous assurer que toutes les données pertinentes lui sont associées.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,10 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-10-27T00:00:00.000Z'
 jira: KT-10138
 hide: true
-recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
 product_v2:
@@ -29,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:06.686Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 26
-ht-degree: 100%
-
+source-wordcount: '30'
+ht-degree: 66%
 ---
-
-# Charger les ressources
+# Chargement et gestion des ressources du projet
 
 {{$include /help/_includes/upload-assets.md}}

@@ -1,6 +1,6 @@
 ---
-title: Afficher les informations sur le projet
-description: Découvrez comment les filtres, les vues et les regroupements peuvent rendre les informations du projet facilement visibles pour vous aider à gérer les projets.
+title: Explorer les filtres, les vues et les regroupements pour la gestion de projet
+description: Rationalisez les workflows de projet avec des filtres personnalisables, des vues détaillées, des regroupements efficaces, des outils de gestion des tâches et des fonctionnalités de suivi des problèmes pour une organisation et une précision améliorées.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -31,11 +31,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 100%
+source-wordcount: '38'
+ht-degree: 57%
 ---
-# Afficher les informations sur le projet
+# Explorer les filtres, les vues et les regroupements pour la gestion de projet
 
 {{$include /help/_includes/view-project-information.md}}
