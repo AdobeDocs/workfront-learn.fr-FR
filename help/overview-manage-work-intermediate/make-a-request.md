@@ -1,6 +1,6 @@
 ---
-title: Effectuer une demande
-description: Découvrez où se situe la zone [!UICONTROL Demandes] et comment effectuer une demande. Découvrez ensuite comment afficher les demandes envoyées et les brouillons.
+title: Création et gestion de requêtes dans Workfront
+description: Améliorez l’efficacité de Workfront grâce à la création de demandes rationalisée, aux workflows personnalisables, aux outils d’enregistrement automatique des brouillons, de suivi et de filtrage, ainsi qu’à la possibilité de copier et de réutiliser des demandes.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 hide: true
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 66%
 ---
-# Effectuer une demande
+# Création et gestion de requêtes dans Workfront
 
 {{$include /help/_includes/make-a-request.md}}
