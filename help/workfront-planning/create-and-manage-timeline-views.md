@@ -56,4 +56,4 @@ ht-degree: 71%
 
 Découvrez comment gérer et personnaliser les vues chronologiques dans la planification Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506101/?captions=fre_fr&learn=on&enablevpops=1)
