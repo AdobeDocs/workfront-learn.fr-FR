@@ -32,4 +32,4 @@ Ce cours est destiné aux personnes chargées de la gestion de projet et de la p
 
 Découvrez comment les jalons peuvent vous aider à faire avancer les projets [!DNL &#x200B; Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508017/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
