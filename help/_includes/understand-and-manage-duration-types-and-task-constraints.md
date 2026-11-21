@@ -1,9 +1,8 @@
 ---
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: bd651d786270bc9ef2a4ae08efbd84be90916fe6
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 95%
-
+source-wordcount: '167'
+ht-degree: 80%
 ---
 # Types de durée du Principal et contraintes de tâche - SHARED
 
@@ -17,10 +16,10 @@ Dans cette vidéo, vous découvrirez les éléments suivants concernant les type
 * Bonnes pratiques relatives à leur utilisation
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422824/?captions=fre_fr&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
-Pour plus d’informations sur la création d’une vue Types de durée et contraintes de tâche, voir l’activité **Types de durée et contraintes de tâche** dans [Créer une vue de base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=fr).
+Pour plus d’informations sur la création d’une vue Types de durée et contraintes de tâche, voir l’activité **Types de durée et contraintes de tâche** dans [Créer une vue de base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view).
 
 Pour plus d’informations sur les types de durée, voir [Durée des tâches et Types de durée](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=fr).
 
