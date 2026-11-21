@@ -19,7 +19,7 @@ Dans cette vidéo, vous découvrirez les éléments suivants concernant les type
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
-Pour plus d’informations sur la création d’une vue Types de durée et contraintes de tâche, voir l’activité **Types de durée et contraintes de tâche** dans [Créer une vue de base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view).
+Pour plus d’informations sur la création d’une vue Types de durée et contraintes de tâche, voir l’activité **Types de durée et contraintes de tâche** dans [Créer une vue de base](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view).
 
 Pour plus d’informations sur les types de durée, voir [Durée des tâches et Types de durée](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=fr).
 
